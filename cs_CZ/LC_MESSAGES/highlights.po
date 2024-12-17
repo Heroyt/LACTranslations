@@ -120,4 +120,3 @@ msgstr "%s získalo %.1fx tolik bonusů co ostatní."
 msgctxt "evo5"
 msgid "%s získal %.1fx tolik bonusů co ostatní."
 msgstr "%s získal %.1fx tolik bonusů co ostatní."
-

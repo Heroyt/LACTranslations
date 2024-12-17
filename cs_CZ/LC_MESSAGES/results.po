@@ -793,24 +793,6 @@ msgctxt "mode.zakladny"
 msgid "Horní základna"
 msgstr "Horní základna"
 
-msgid "Skóre"
-msgstr "Skóre"
-
-msgid "Výstřely"
-msgstr "Výstřely"
-
-msgid "Zásahy"
-msgstr "Zásahy"
-
-msgid "Smrti"
-msgstr "Smrti"
-
-msgid "Ztráty základny"
-msgstr "Ztráty základny"
-
-msgid "Sniper"
-msgstr "Sniper"
-
 msgctxt "style"
 msgid "Výchozí"
 msgstr "Výchozí"
@@ -818,4 +800,3 @@ msgstr "Výchozí"
 msgctxt "style"
 msgid "Tabulkové"
 msgstr "Tabulkové"
-

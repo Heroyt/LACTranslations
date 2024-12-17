@@ -52,9 +52,6 @@ msgctxt "pageTitles"
 msgid "Dashboard"
 msgstr "Dashboard"
 
-msgid "New game"
-msgstr "New game"
-
 msgid "Toggle navigation"
 msgstr "Toggle navigation"
 
@@ -66,9 +63,6 @@ msgctxt "pageTitles"
 msgid "Games list"
 msgstr "Games list"
 
-msgid "Datum"
-msgstr "Date"
-
 msgid "Hra neexistuje!"
 msgstr "Game does not exist!"
 
@@ -78,12 +72,6 @@ msgstr "Plural"
 
 msgid "Games"
 msgstr "Games"
-
-msgid "Date"
-msgstr "Date"
-
-msgid "Games list"
-msgstr "Games list"
 
 msgid "No games had been played on this date."
 msgstr "No games had been played on this date."
@@ -108,9 +96,6 @@ msgstr "Actions"
 
 msgid "Print"
 msgstr "Print"
-
-msgid "Základny"
-msgstr "Base defence"
 
 msgctxt "results.info"
 msgid "Datum"
@@ -362,9 +347,6 @@ msgctxt "gameModes"
 msgid "Deathmach"
 msgstr "Deathmach"
 
-msgid "Language"
-msgstr "Language"
-
 msgctxt "print"
 msgid "In color:"
 msgstr "In color:"
@@ -379,9 +361,6 @@ msgstr "Black & white"
 
 msgid "Game"
 msgstr "Game"
-
-msgid "Style"
-msgstr "Style"
 
 msgctxt "results.style"
 msgid "Style"
@@ -567,9 +546,6 @@ msgctxt "tips"
 msgid "Nezapomeň každý květen a listopad registrovat svůj tým na turnaj!"
 msgstr "Don’t forget to sign-up for a tournament every May and November!"
 
-msgid "Settings"
-msgstr "Settings"
-
 msgid "Game modes"
 msgstr "Game modes"
 
@@ -599,9 +575,6 @@ msgstr "Light color"
 msgctxt "results.style.settings"
 msgid "Background"
 msgstr "Background"
-
-msgid "Print styles"
-msgstr "Print styles"
 
 msgctxt "results.style.settings"
 msgid "Print styles"
@@ -1806,14 +1779,8 @@ msgid_plural "%d calls"
 msgstr[0] "%d call"
 msgstr[1] "%d calls"
 
-msgid "Skupina"
-msgstr "Group"
-
 msgid "Filtry"
 msgstr "Filters"
-
-msgid "Herní mód"
-msgstr "Game mode"
 
 msgctxt "actions"
 msgid "Filtrovat"
@@ -1823,17 +1790,11 @@ msgctxt "actions"
 msgid "Smazat"
 msgstr "Delete"
 
-msgid "Hráči"
-msgstr "Players"
-
 msgid "Průměrné ohodnocení hráče"
 msgstr "Average player rating"
 
 msgid "Oblíbená vesta"
 msgstr "Favourite vest"
-
-msgid "Odehráno her"
-msgstr "Games played"
 
 msgid "Průměrné skóre"
 msgstr "Average score"
@@ -1858,9 +1819,6 @@ msgstr "Average deaths"
 
 msgid "Celkem smrtí"
 msgstr "Total deaths"
-
-msgid "K:D"
-msgstr "K:D"
 
 msgid "Výsledky"
 msgstr "Results"
@@ -2452,9 +2410,6 @@ msgctxt "game.modes"
 msgid "Popis"
 msgstr "Description"
 
-msgid "Popis"
-msgstr "Description"
-
 msgctxt "gameModes"
 msgid "Klasická týmová hra."
 msgstr "Classic team game."
@@ -2656,23 +2611,14 @@ msgctxt "help"
 msgid "Přepne na předchozího hráče."
 msgstr "Switches to the previous player."
 
-msgid "Veřejný"
-msgstr "Public"
-
 msgid "Začátek ukázky"
 msgstr "The beginning of the sample"
-
-msgid "Skupiny"
-msgstr "Groups"
 
 msgid "Zobrazit hráče skupiny"
 msgstr "Show group players"
 
 msgid "Nahrát na vesty"
 msgstr "Load on vests"
-
-msgid "Deaktivovat"
-msgstr "Disable"
 
 msgid "Bez skupiny"
 msgstr "No group"
@@ -2688,9 +2634,6 @@ msgstr "Choose a group"
 
 msgid "Název skupiny"
 msgstr "Group name"
-
-msgid "Cache"
-msgstr "Cache"
 
 msgctxt "settings"
 msgid "Cache"
@@ -2712,15 +2655,9 @@ msgctxt "actions"
 msgid "Smazat cache šablon"
 msgstr "Clear template cache"
 
-msgid "Tables"
-msgstr "Tables"
-
 msgctxt "settings"
 msgid "Tables"
 msgstr "Tables"
-
-msgid "Name"
-msgstr "Name"
 
 msgid "Pozice"
 msgstr "Position"
@@ -2866,14 +2803,8 @@ msgstr "Rank history"
 msgid "Herní módy"
 msgstr "Game modes"
 
-msgid "Poslední hry"
-msgstr "Last games"
-
 msgid "Aréna"
 msgstr "Arena"
-
-msgid "Herní úroveň"
-msgstr "Rank"
 
 msgid "Všechny hry hráče"
 msgstr "All player's games"
@@ -2884,35 +2815,14 @@ msgstr "Code is invalid"
 msgid "Uživatel neexistuje"
 msgstr "User does not exist"
 
-msgid "Jméno"
-msgstr "Name"
-
 msgid "Kód"
 msgstr "Code"
-
-msgid "Přesnost"
-msgstr "Accuracy"
-
-msgid "Počet výstřelů"
-msgstr "Shots"
 
 msgid "Výstřelů za minutu"
 msgstr "Shots per minute"
 
-msgid "Skóre"
-msgstr "Score"
-
 msgid "Čas ve hře"
 msgstr "Time in game"
-
-msgid "Výstřelů"
-msgstr "Shots"
-
-msgid "Zásahy"
-msgstr "Hits"
-
-msgid "Smrti"
-msgstr "Deaths"
 
 msgid "Průměry"
 msgstr "Averages"
@@ -2950,9 +2860,6 @@ msgid_plural "%d minut"
 msgstr[0] "%d minute"
 msgstr[1] "%d minutes"
 
-msgid "Žebříček"
-msgstr "Leaderboard"
-
 msgid "Moje hry"
 msgstr "My games"
 
@@ -2961,9 +2868,6 @@ msgstr "Player profile"
 
 msgid "Historie her hráče %s"
 msgstr "%s's game history"
-
-msgid "Filtrovat"
-msgstr "Filter"
 
 msgid "Zobrazeno %s z %d her"
 msgstr "%s of %d games shown"
@@ -2985,9 +2889,6 @@ msgstr "Shots fired"
 
 msgid "Zasaženo hráčů"
 msgstr "Players hit"
-
-msgid "Smrtí"
-msgstr "Deaths"
 
 msgid "Průměrná pozice"
 msgstr "Average position"
@@ -3109,18 +3010,6 @@ msgstr "You've been shot the same amount of times in the last 30 days as the pre
 msgid "Počet smrtí"
 msgstr "Death amount"
 
-msgid "Team deathmach"
-msgstr "Team deathmach"
-
-msgid "Barvičky"
-msgstr "Color conquest"
-
-msgid "Deathmach"
-msgstr "Deathmach"
-
-msgid "T.M.A - solo"
-msgstr "SHADOW - solo"
-
 msgid "Prihlásit"
 msgstr "Log-in"
 
@@ -3151,18 +3040,6 @@ msgstr "Wednesday"
 
 msgid "Thursday"
 msgstr "Thursday"
-
-msgid "CSGO"
-msgstr "CSGO"
-
-msgid "Survival"
-msgstr "Survival"
-
-msgid "100 nábojů"
-msgstr "100 shots"
-
-msgid "T.M.A"
-msgstr "SHADOW"
 
 msgid "March"
 msgstr "March"
@@ -3234,9 +3111,6 @@ msgstr "Laser game results at %s from the %s arena in the %s game mode."
 msgid "Close navigation"
 msgstr "Close navigation"
 
-msgid "Plánované akce"
-msgstr "Planned events"
-
 msgid "Výsledky laser game"
 msgstr "Laser game results"
 
@@ -3266,9 +3140,6 @@ msgstr "more"
 msgid "méně"
 msgstr "less"
 
-msgid "Zobrazit"
-msgstr "Show"
-
 msgid "Výsledky ze hry - %s %s"
 msgstr "Game results - %s %s"
 
@@ -3283,20 +3154,8 @@ msgctxt "results.group"
 msgid "Následující hra hráče %s"
 msgstr "Next game of player %s"
 
-msgid "Týmy"
-msgstr "Teams"
-
-msgid "Výsledky týmů"
-msgstr "Team results"
-
-msgid "Výsledky hráčů"
-msgstr "Player results"
-
 msgid "Trofej"
 msgstr "Trophy"
-
-msgid "Výstřely nenalezeny"
-msgstr "Shots not found"
 
 msgid "Nekompromisní vraždící stroj"
 msgstr "Unstoppable killing machine"
@@ -3309,9 +3168,6 @@ msgstr "Gold"
 
 msgid "Nezastavitelný klikač"
 msgstr "Unstoppable clicker"
-
-msgid "Nula"
-msgstr "Zero"
 
 msgctxt "results.hits"
 msgid "Zasáhlo si hráče"
@@ -3356,9 +3212,6 @@ msgstr "Count"
 msgid "Kontakt"
 msgstr "Contact"
 
-msgid "Turnaje"
-msgstr "Tournaments"
-
 msgid "Formát a bodování"
 msgstr "Format and points"
 
@@ -3375,9 +3228,6 @@ msgid "%d bod"
 msgid_plural "%d body"
 msgstr[0] "%d point"
 msgstr[1] "%d points"
-
-msgid "Remíza"
-msgstr "Draw"
 
 msgid "Prohra"
 msgstr "Loss"
@@ -3399,9 +3249,6 @@ msgstr "Player's respawn"
 
 msgid "5 sekund"
 msgstr "5 seconds"
-
-msgid "Miny"
-msgstr "Pods"
 
 msgid "Vypnuto"
 msgstr "Off"
@@ -3432,9 +3279,6 @@ msgstr "Enemy hit"
 
 msgid "Zásah od soupeže (smrt)"
 msgstr "Hit from enemy (death)"
-
-msgid "Zásah spoluhráče"
-msgstr "Teammate hit"
 
 msgid "Zásah od spoluhráče (smrt)"
 msgstr "Hit from teammate (death)"
@@ -3567,9 +3411,6 @@ msgstr "Back to arena"
 msgid "Informace o turnaji laser game, který se bude odehrávat %s v %s."
 msgstr "Information about the laser game tournament that will take place on %s in %s."
 
-msgid "Registrace"
-msgstr "Registration"
-
 msgid "Laser game turnaj: %s"
 msgstr "Laser game tournament: %s"
 
@@ -3667,9 +3508,6 @@ msgstr "Games played today"
 msgid "Dnes odehráno hráčů"
 msgstr "Players played today"
 
-msgid "Hudební módy"
-msgstr "Music modes"
-
 msgid "Všechny hry"
 msgstr "All games"
 
@@ -3715,9 +3553,6 @@ msgstr "%s arena's game history"
 
 msgid "Všechny výsledky laser game z arény."
 msgstr "All laser game results from this arena."
-
-msgid "Výstřely"
-msgstr "Shots"
 
 msgid "Upravit zobrazené sloupce"
 msgstr "Changed the displayed columns"
@@ -3854,9 +3689,6 @@ msgstr "Terror of the arena"
 msgid "Laserový maratonista"
 msgstr "Laser marathonist"
 
-msgid "Ďábel"
-msgstr "The devil"
-
 msgid "Smrtonosný nadřazenec"
 msgstr "Deadly superior"
 
@@ -3909,9 +3741,6 @@ msgctxt "results.hits"
 msgid "Zasáhla si hráče"
 msgstr "You shot player"
 
-msgid "Ligy laser game"
-msgstr "Laser game Leagues"
-
 msgctxt "pageTitles"
 msgid "Ligy laser game"
 msgstr "Laser game Leagues"
@@ -3922,9 +3751,6 @@ msgstr "Organized laser game leagues - multiple joined tournaments."
 
 msgid "Organizované ligy laser game"
 msgstr "Organized laser game leagues"
-
-msgid "Liga laser game je dlouhodobá soutěž skládající se z několika turnajů. Výsledky jsou vyhodnocovány z každého turnaje zvlášť, ale zároveň mezi turnaji. Na konci ligového období jsou vyhlášeny celkové výsledky."
-msgstr "A laser game league is a long-term competition consisting of several tournaments. The results are evaluated from each tournament separately, but also as a whole. At the end of the league season, the overall results are announced."
 
 msgctxt "pageTitles"
 msgid "Liga %s"
@@ -3980,9 +3806,6 @@ msgstr "List of other events organized as a part of the league."
 
 msgid "Celkové výsledky ze všech turnajů v kategorii."
 msgstr "Results from all tournaments in this category."
-
-msgid "Tým"
-msgstr "Team"
 
 msgid "Výhry"
 msgstr "Wins"
@@ -4131,9 +3954,6 @@ msgstr "Event information"
 msgid "Automatické přihlášení na propojenou akci."
 msgstr "Automatic registration to a connected event."
 
-msgid "Hráč"
-msgstr "Player"
-
 msgid "Náhradníci"
 msgstr "Substitutes"
 
@@ -4142,9 +3962,6 @@ msgstr "optional"
 
 msgid "Souhlasím se <a href=\"%s\" target=\"_blank\">zpracováním osobních údajů</a>"
 msgstr "I agree with the <a href=\"%s\" target=\"_blank\">processing of personal data</a>"
-
-msgid "Odeslat"
-msgstr "Send"
 
 msgid "Nemáš tým, ale rád by sis zahrál? Nech nám na sebe kontakt a pokud pro tebe budeme mít tým, tak se ti ozveme."
 msgstr "Don't have a team but you would like to participate? Leave us your contact information and if we find you a team, we'll let you know."
@@ -4189,9 +4006,6 @@ msgstr "The game level increases and decreases with each classic game played. Th
 
 msgid "Zobrazit statistiky domovské arény"
 msgstr "Show home arena's stats"
-
-msgid "Trofeje"
-msgstr "Trophies"
 
 msgid "Ocenění"
 msgstr "Achievements"
@@ -4328,14 +4142,8 @@ msgstr "Breakdown of score and game ranking"
 msgid "Smrti od min"
 msgstr "Deaths from pods"
 
-msgid "Bonusy"
-msgstr "Powers"
-
 msgid "%s k herní úrovni hráče"
 msgstr "%s to the player's ranking"
-
-msgid "Umístění"
-msgstr "Placement"
 
 msgid "Zohlednění vašich protihráčů. Pokud hrajete proti slabším, vaše herní úroveň se sníží. Naopak, pokud hrajete proti silným hráčům, vaše herní úroveň se zvýší."
 msgstr "Considering your opponents. If you play against weaker players, your game ranking will decrease. On the contrary, if you play against strong players, your game ranking will increase."
@@ -4354,18 +4162,6 @@ msgstr "Deaths by opponents"
 
 msgid "Smrti od spoluhráčů"
 msgstr "Deaths by teammates"
-
-msgid "Agent"
-msgstr "Spy"
-
-msgid "Neviditelnost"
-msgstr "Invisibility"
-
-msgid "Samopal"
-msgstr "Machine gun"
-
-msgid "Štít"
-msgstr "Shield"
 
 msgid "Umístění v žebříčku"
 msgstr "Leaderboard ranking"
@@ -4516,9 +4312,6 @@ msgctxt "rarity"
 msgid "Vzácný"
 msgstr "Rare"
 
-msgid "Drtič min"
-msgstr "Pod crusher"
-
 msgctxt "rarity"
 msgid "Legendární"
 msgstr "Legendary"
@@ -4546,9 +4339,6 @@ msgctxt "rarity"
 msgid "Běžný"
 msgstr "Common"
 
-msgid "Nejúspornější střelec"
-msgstr "Most economical"
-
 msgctxt "rarity"
 msgid "Neobvyklý"
 msgstr "Uncommon"
@@ -4565,29 +4355,8 @@ msgstr "Heroic endurance"
 msgid "Střelec z dálky"
 msgstr "Long distance shooter"
 
-msgid "Největší vlastňák"
-msgstr "Hated by allies"
-
-msgid "Hráč s nejlepší muškou"
-msgstr "The best sniper"
-
-msgid "Zabiják vlastního týmu"
-msgstr "Teamkiller"
-
 msgid "Spray and Pray"
 msgstr "Spray and Pray"
-
-msgid "Nedotknutelný"
-msgstr "Untouchable"
-
-msgid "Absolutní vítěz"
-msgstr "Absolute winner"
-
-msgid "Největší terminátor"
-msgstr "Terminator"
-
-msgid "Vyrovnaný"
-msgstr "Balanced"
 
 msgid "Zkušený střelec"
 msgstr "Experienced shooter"
@@ -4607,9 +4376,6 @@ msgstr "Game marathon"
 msgid "Maximální obrana"
 msgstr "Maximum defence"
 
-msgid "Tahoun týmu"
-msgstr "Team carry"
-
 msgid "Neporazitelný"
 msgstr "Unbeatable"
 
@@ -4625,9 +4391,6 @@ msgstr "Machinegunnist"
 msgid "Vládce zásahů"
 msgstr "The ruler of hits"
 
-msgid "Férový hráč"
-msgstr "Fair player"
-
 msgid "Stínový střelec"
 msgstr "Shooter from the shadows"
 
@@ -4640,29 +4403,17 @@ msgstr "Executioner"
 msgid "Neporazitelný střelec"
 msgstr "Unbeatable shooter"
 
-msgid "Vítěz"
-msgstr "Winner"
-
 msgid "Stínový mistr"
 msgstr "Shadow master"
 
 msgid "Energický hráč"
 msgstr "Energetic player"
 
-msgid "Zasedlý"
-msgstr "Obsessed"
-
 msgid "Drtič nepřátel"
 msgstr "Enemy crusher"
 
-msgid "Pronásledovaný"
-msgstr "Followed"
-
 msgid "Přeživší"
 msgstr "Survivor"
-
-msgid "Zabiják"
-msgstr "Slayer"
 
 msgid "Střelec"
 msgstr "Marksman"
@@ -4831,9 +4582,6 @@ msgstr "Logo"
 msgid "Pozadí"
 msgstr "Background"
 
-msgid "Nahrát"
-msgstr "Upload"
-
 msgid "Vyhledat hráče"
 msgstr "Find player"
 
@@ -4936,9 +4684,6 @@ msgstr "None"
 msgid "Další hra"
 msgstr "Next game"
 
-msgid "Předchozí hra"
-msgstr "Previous game"
-
 msgid "Hrát"
 msgstr "Play"
 
@@ -5003,12 +4748,6 @@ msgctxt "newGame.preparedGames.actions"
 msgid "Nahrát"
 msgstr "Load"
 
-msgid "Smazat vše"
-msgstr "Remove all"
-
-msgid "Nebyla nalezena žádná hra"
-msgstr "No game was found"
-
 msgctxt "tournament.presets"
 msgid "Každý s každým na poloviny - 10 týmů"
 msgstr "Free for all halves - 10 teams"
@@ -5034,12 +4773,6 @@ msgstr "Tournament name"
 msgid "Turnaj XYZ"
 msgstr "Tournament XYZ"
 
-msgid "Týmový"
-msgstr "Team"
-
-msgid "Sólo"
-msgstr "Solo"
-
 msgid "Začátek turnaje"
 msgstr "Tournament's beginning"
 
@@ -5057,9 +4790,6 @@ msgstr "Add team"
 
 msgid "Uloženo"
 msgstr "Saved"
-
-msgid "Uložit"
-msgstr "Save"
 
 msgid "Tým 1"
 msgstr "1st team"
@@ -5301,9 +5031,6 @@ msgctxt "pageTitles"
 msgid "Turnaje hráče - %s"
 msgstr ""
 
-msgid "Turnaje hráče - %s"
-msgstr ""
-
 msgctxt "musicModes"
 msgid "Doom"
 msgstr ""
@@ -5314,9 +5041,6 @@ msgstr ""
 
 msgctxt "musicModes"
 msgid "CSR ROCK"
-msgstr ""
-
-msgid "Přihlášení"
 msgstr ""
 
 msgctxt "pageTitles"
@@ -5459,9 +5183,6 @@ msgctxt "pageDescription"
 msgid "Statistiky týmu %s hrající v lize %s."
 msgstr ""
 
-msgid "Statistiky týmu - %s"
-msgstr ""
-
 msgid "Tým %s se účastnil celkem %d turnaje"
 msgid_plural "Tým %s se účastnil celkem %d turnajů"
 msgstr[0] ""
@@ -5503,9 +5224,6 @@ msgid "Hráč nemá zatím žádné hry"
 msgstr ""
 
 msgid "Informace o turnaji laser game, který se odehrál %s v %s."
-msgstr ""
-
-msgid "Výsledky turnaje"
 msgstr ""
 
 msgid "Průměr"
@@ -5650,9 +5368,6 @@ msgstr ""
 msgid "Přivlastnit"
 msgstr ""
 
-msgid "Marco polo"
-msgstr ""
-
 msgid "Další Laser game účty"
 msgstr ""
 
@@ -5727,4 +5442,42 @@ msgstr ""
 
 msgctxt "errors"
 msgid "Požadavek vypršel, zkuste znovu načíst stránku."
+msgstr ""
+
+msgctxt "musicModes"
+msgid "Matrix"
+msgstr ""
+
+msgid "Mimoň"
+msgstr ""
+
+msgid "Tým byl úspěšně registrován."
+msgstr ""
+
+msgid "Registrace týmu na turnaj - %s %s"
+msgstr ""
+
+msgid "Nová registrace týmu na turnaj - %s %s"
+msgstr ""
+
+msgid "Vaše registrace na turnaj"
+msgstr ""
+
+msgid "Zákonný zástupce:"
+msgstr ""
+
+msgid "Platba"
+msgstr ""
+
+msgid "Upravit registraci"
+msgstr ""
+
+msgid "Na turnaj:"
+msgstr ""
+
+msgid "Úprava registrace"
+msgstr ""
+
+msgctxt "pageTitles"
+msgid "%s - Úprava registrace na turnaj"
 msgstr ""
