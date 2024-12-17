@@ -1,0 +1,211 @@
+msgid ""
+msgstr ""
+"Language: es_ES\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Domain: privacy\n"
+"X-Crowdin-Project: laserarenacontrol\n"
+"X-Crowdin-Project-ID: 515800\n"
+"X-Crowdin-Language: es-ES\n"
+"X-Crowdin-File: /master/privacy.pot\n"
+"X-Crowdin-File-ID: 88\n"
+"Project-Id-Version: laserarenacontrol\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Spanish\n"
+"PO-Revision-Date: 2024-12-17 16:05\n"
+
+msgctxt "metadata"
+msgid "Zásady zpracování osobních údajů na webu %s."
+msgstr ""
+
+msgctxt "title"
+msgid "Zásady zpracování osobních údajů"
+msgstr ""
+
+msgctxt "intro"
+msgid "Tyto zásady popisují zpracování osobních údajů na webu %s v souladu s nařízením Evropského parlamentu a Rady (EU) 2016/679 o ochraně osobních údajů (GDPR)."
+msgstr ""
+
+msgctxt "section_title"
+msgid "Úvodní ustanovení"
+msgstr ""
+
+msgctxt "controller_info"
+msgid "Správcem osobních údajů je %s (IČ: %s) se sídlem %s."
+msgstr ""
+
+msgctxt "contact_info"
+msgid "Pro dotazy kontaktujte naši podporu na e-mailu %s."
+msgstr ""
+
+msgctxt "section_title"
+msgid "Jaké osobní údaje zpracováváme?"
+msgstr ""
+
+msgctxt "table_header"
+msgid "Údaj"
+msgstr ""
+
+msgctxt "table_header"
+msgid "Účel zpracování"
+msgstr ""
+
+msgctxt "data_processing_email"
+msgid "E-mailová adresa"
+msgstr ""
+
+msgctxt "data_processing_email"
+msgid "Registrace, komunikace a marketing."
+msgstr ""
+
+msgctxt "data_processing_birthdate"
+msgid "Datum narození (volitelné)"
+msgstr ""
+
+msgctxt "data_processing_birthdate"
+msgid "Marketing (např. narozeninové slevy), narozeninové ocenění"
+msgstr ""
+
+msgctxt "section_title"
+msgid "Účely a právní základ zpracování osobních údajů"
+msgstr ""
+
+msgctxt "table_header"
+msgid "Právní základ"
+msgstr ""
+
+msgctxt "purpose"
+msgid "Registrace a správa uživatelského účtu"
+msgstr ""
+
+msgctxt "legal_basis"
+msgid "Souhlas"
+msgstr ""
+
+msgctxt "purpose"
+msgid "Marketingové akce (narozeninová sleva, achievementy)"
+msgstr ""
+
+msgctxt "legal_basis"
+msgid "Souhlas / oprávněný zájem"
+msgstr ""
+
+msgctxt "purpose"
+msgid "Analytika webu"
+msgstr ""
+
+msgctxt "legal_basis"
+msgid "Oprávněný zájem"
+msgstr ""
+
+msgctxt "section_title"
+msgid "Marketingová komunikace a volby uživatelů"
+msgstr ""
+
+msgctxt "marketing_options"
+msgid "Uživatelé mohou nastavit, zda chtějí svůj e-mail poskytovat pro marketingové účely:"
+msgstr ""
+
+msgctxt "marketing_choice"
+msgid "Všem zapojeným arénám a Laser Lize."
+msgstr ""
+
+msgctxt "marketing_choice"
+msgid "Jen své domovské aréně a Laser Lize."
+msgstr ""
+
+msgctxt "marketing_choice"
+msgid "Pouze Laser Lize."
+msgstr ""
+
+msgctxt "marketing_choice"
+msgid "Nikomu."
+msgstr ""
+
+msgctxt "section_title"
+msgid "Uchovávání osobních údajů"
+msgstr ""
+
+msgctxt "data_retention"
+msgid "Osobní údaje uchováváme po dobu aktivního účtu uživatele nebo do odvolání souhlasu."
+msgstr ""
+
+msgctxt "section_title"
+msgid "Kdo má přístup k osobním údajům"
+msgstr ""
+
+msgctxt "access"
+msgid "<strong>Provozovatel webu</strong>"
+msgstr ""
+
+msgctxt "access"
+msgid "<strong>Zapojené arény</strong>: Mají přístup pouze k e-mailovým adrésám hráčů, kteří si je vybrali jako domovskou arénu nebo v nich hráli. Tyto arény mohou adresy využívat k zasílání marketingových sdělení."
+msgstr ""
+
+msgctxt "access"
+msgid "<strong>Osobní údaje nejsou poskytovány třetím stranám</strong> ani předávány mimo EU."
+msgstr ""
+
+msgctxt "section_title"
+msgid "Analytika a cookies"
+msgstr ""
+
+msgctxt "analytics"
+msgid "Používáme open-source analytickou službu, která nesdílí data se třetími stranami a je plně v naší správě."
+msgstr ""
+
+msgctxt "section_title"
+msgid "Práva uživatelů"
+msgstr ""
+
+msgctxt "user_rights"
+msgid "Podle GDPR máte právo:"
+msgstr ""
+
+msgctxt "user_right"
+msgid "Právo na přístup ke svým údajům."
+msgstr ""
+
+msgctxt "user_right"
+msgid "Právo na opravu nepřesných údajů."
+msgstr ""
+
+msgctxt "user_right"
+msgid "Právo na výmaz údajů („právo být zapomenut“)."
+msgstr ""
+
+msgctxt "user_right"
+msgid "Právo odvolat souhlas se zpracováním údajů."
+msgstr ""
+
+msgctxt "section_title"
+msgid "Ochrana osobních údajů"
+msgstr ""
+
+msgctxt "contact_dpa"
+msgid "Web %s implementuje vhodná technická a organizační opatření k ochraně osobních údajů proti neoprávněnému přístupu, změně, ztrátě či zničení."
+msgstr ""
+
+msgctxt "section_title"
+msgid "Kontakt na dozorový úřad"
+msgstr ""
+
+msgctxt "contact_dpa"
+msgid "Pokud nejste spokojeni se zpracováním, máte právo se obrátit na dozorový úřad."
+msgstr ""
+
+msgctxt "dpa_link"
+msgid "Úřad pro ochranu osobních údajů"
+msgstr ""
+
+msgctxt "section_title"
+msgid "Změny zásad"
+msgstr ""
+
+msgctxt "updates"
+msgid "Tyto zásady mohou být aktualizovány. O změnách budete informováni."
+msgstr ""
+
+msgctxt "last_updated"
+msgid "Poslední aktualizace: %s"
+msgstr ""
+
