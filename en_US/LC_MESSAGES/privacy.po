@@ -6,196 +6,196 @@ msgstr ""
 
 msgctxt "metadata"
 msgid "Zásady zpracování osobních údajů na webu %s."
-msgstr ""
+msgstr "Privacy Policy on the website %s."
 
 msgctxt "title"
 msgid "Zásady zpracování osobních údajů"
-msgstr ""
+msgstr "Privacy Policy"
 
 msgctxt "intro"
 msgid "Tyto zásady popisují zpracování osobních údajů na webu %s v souladu s nařízením Evropského parlamentu a Rady (EU) 2016/679 o ochraně osobních údajů (GDPR)."
-msgstr ""
+msgstr "This policy describes the processing of personal data on the website %s in accordance with the Regulation (EU) 2016/679 of the European Parliament and Council on the protection of personal data (GDPR)."
 
 msgctxt "section_title"
 msgid "Úvodní ustanovení"
-msgstr ""
+msgstr "Introduction"
 
 msgctxt "controller_info"
 msgid "Správcem osobních údajů je %s (IČ: %s) se sídlem %s."
-msgstr ""
+msgstr "The data controller is %s (Company ID: %s) based at %s."
 
 msgctxt "contact_info"
 msgid "Pro dotazy kontaktujte naši podporu na e-mailu %s."
-msgstr ""
+msgstr "For inquiries, please contact our support at %s."
 
 msgctxt "section_title"
 msgid "Jaké osobní údaje zpracováváme?"
-msgstr ""
+msgstr "What personal data do we process?"
 
 msgctxt "table_header"
 msgid "Údaj"
-msgstr ""
+msgstr "Data"
 
 msgctxt "table_header"
 msgid "Účel zpracování"
-msgstr ""
+msgstr "Purpose of processing"
 
 msgctxt "data_processing_email"
 msgid "E-mailová adresa"
-msgstr ""
+msgstr "Email address"
 
 msgctxt "data_processing_email"
 msgid "Registrace, komunikace a marketing."
-msgstr ""
+msgstr "Registration, communication, and marketing."
 
 msgctxt "data_processing_birthdate"
 msgid "Datum narození (volitelné)"
-msgstr ""
+msgstr "Date of birth (optional)"
 
 msgctxt "data_processing_birthdate"
 msgid "Marketing (např. narozeninové slevy), narozeninové ocenění"
-msgstr ""
+msgstr "Marketing (e.g., birthday discounts), birthday achievements"
 
 msgctxt "section_title"
 msgid "Účely a právní základ zpracování osobních údajů"
-msgstr ""
+msgstr "Purposes and legal basis for processing personal data"
 
 msgctxt "table_header"
 msgid "Právní základ"
-msgstr ""
+msgstr "Legal basis"
 
 msgctxt "purpose"
 msgid "Registrace a správa uživatelského účtu"
-msgstr ""
+msgstr "Registration and management of user accounts"
 
 msgctxt "legal_basis"
 msgid "Souhlas"
-msgstr ""
+msgstr "Consent"
 
 msgctxt "purpose"
 msgid "Marketingové akce (narozeninová sleva, achievementy)"
-msgstr ""
+msgstr "Marketing actions (birthday discount, achievements)"
 
 msgctxt "legal_basis"
 msgid "Souhlas / oprávněný zájem"
-msgstr ""
+msgstr "Consent / Legitimate interest"
 
 msgctxt "purpose"
 msgid "Analytika webu"
-msgstr ""
+msgstr "Website analytics"
 
 msgctxt "legal_basis"
 msgid "Oprávněný zájem"
-msgstr ""
+msgstr " Legitimate interest"
 
 msgctxt "section_title"
 msgid "Marketingová komunikace a volby uživatelů"
-msgstr ""
+msgstr "Marketing communication and user preferences"
 
 msgctxt "marketing_options"
 msgid "Uživatelé mohou nastavit, zda chtějí svůj e-mail poskytovat pro marketingové účely:"
-msgstr ""
+msgstr "Users can configure whether they want their email to be used for marketing purposes:"
 
 msgctxt "marketing_choice"
 msgid "Všem zapojeným arénám a Laser Lize."
-msgstr ""
+msgstr "To all participating arenas and the Laser League."
 
 msgctxt "marketing_choice"
 msgid "Jen své domovské aréně a Laser Lize."
-msgstr ""
+msgstr "Only to their home arena and Laser League."
 
 msgctxt "marketing_choice"
 msgid "Pouze Laser Lize."
-msgstr ""
+msgstr "Only to the Laser League."
 
 msgctxt "marketing_choice"
 msgid "Nikomu."
-msgstr ""
+msgstr "Nobody"
 
 msgctxt "section_title"
 msgid "Uchovávání osobních údajů"
-msgstr ""
+msgstr "Retention of personal data"
 
 msgctxt "data_retention"
 msgid "Osobní údaje uchováváme po dobu aktivního účtu uživatele nebo do odvolání souhlasu."
-msgstr ""
+msgstr "We retain personal data for the duration of the active user account or until consent is revoked."
 
 msgctxt "section_title"
 msgid "Kdo má přístup k osobním údajům"
-msgstr ""
+msgstr "Who has access to personal data"
 
 msgctxt "access"
 msgid "<strong>Provozovatel webu</strong>"
-msgstr ""
+msgstr "<strong>Website operator</strong>"
 
 msgctxt "access"
 msgid "<strong>Zapojené arény</strong>: Mají přístup pouze k e-mailovým adrésám hráčů, kteří si je vybrali jako domovskou arénu nebo v nich hráli. Tyto arény mohou adresy využívat k zasílání marketingových sdělení."
-msgstr ""
+msgstr "<strong>Participating arenas</strong>: They have access only to the email addresses of players who have selected them as their home arena or played there. These arenas may use the addresses to send marketing communications."
 
 msgctxt "access"
 msgid "<strong>Osobní údaje nejsou poskytovány třetím stranám</strong> ani předávány mimo EU."
-msgstr ""
+msgstr "<strong>Personal data is not shared with third parties</strong> or transferred outside the EU."
 
 msgctxt "section_title"
 msgid "Analytika a cookies"
-msgstr ""
+msgstr "Analytics and cookies"
 
 msgctxt "analytics"
 msgid "Používáme open-source analytickou službu, která nesdílí data se třetími stranami a je plně v naší správě."
-msgstr ""
+msgstr "We use an open-source analytics service, which does not share data with third parties and is fully under our management."
 
 msgctxt "section_title"
 msgid "Práva uživatelů"
-msgstr ""
+msgstr "User rights"
 
 msgctxt "user_rights"
 msgid "Podle GDPR máte právo:"
-msgstr ""
+msgstr "Under the GDPR, you have the right to:"
 
 msgctxt "user_right"
 msgid "Právo na přístup ke svým údajům."
-msgstr ""
+msgstr "The right to access your data."
 
 msgctxt "user_right"
 msgid "Právo na opravu nepřesných údajů."
-msgstr ""
+msgstr "The right to rectify inaccurate data."
 
 msgctxt "user_right"
 msgid "Právo na výmaz údajů („právo být zapomenut“)."
-msgstr ""
+msgstr "The right to erase data (\"right to be forgotten\")."
 
 msgctxt "user_right"
 msgid "Právo odvolat souhlas se zpracováním údajů."
-msgstr ""
+msgstr "The right to withdraw consent for data processing."
 
 msgctxt "section_title"
 msgid "Ochrana osobních údajů"
-msgstr ""
+msgstr "Data Protection"
 
 msgctxt "contact_dpa"
 msgid "Web %s implementuje vhodná technická a organizační opatření k ochraně osobních údajů proti neoprávněnému přístupu, změně, ztrátě či zničení."
-msgstr ""
+msgstr "The website %s implements appropriate technical and organizational measures to protect personal data against unauthorized access, alteration, loss, or destruction."
 
 msgctxt "section_title"
 msgid "Kontakt na dozorový úřad"
-msgstr ""
+msgstr "Contact with the supervisory authority"
 
 msgctxt "contact_dpa"
 msgid "Pokud nejste spokojeni se zpracováním, máte právo se obrátit na dozorový úřad."
-msgstr ""
+msgstr "If you are not satisfied with the data processing, you have the right to contact the supervisory authority."
 
 msgctxt "dpa_link"
 msgid "Úřad pro ochranu osobních údajů"
-msgstr ""
+msgstr "Office for Personal Data Protection"
 
 msgctxt "section_title"
 msgid "Změny zásad"
-msgstr ""
+msgstr "Policy changes"
 
 msgctxt "updates"
 msgid "Tyto zásady mohou být aktualizovány. O změnách budete informováni."
-msgstr ""
+msgstr "This policy may be updated. You will be notified of any changes."
 
 msgctxt "last_updated"
 msgid "Poslední aktualizace: %s"
-msgstr ""
+msgstr "Last updated: %s"
