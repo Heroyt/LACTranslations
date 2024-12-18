@@ -6,7 +6,7 @@ msgstr ""
 "Language-Team: English\n"
 "Last-Translator: Tomáš Vojík <vojik@wboy.cz>\n"
 "MIME-Version: 1.0\n"
-"PO-Revision-Date: 2024-12-18 13:42\n"
+"PO-Revision-Date: 2024-12-18 14:12\n"
 "POT-Creation-Date: \n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Project-Id-Version: laserarenacontrol\n"
@@ -3113,10 +3113,6 @@ msgctxt "results.info"
 msgid "Hudební mód"
 msgstr "Music mode"
 
-msgctxt "musicModes"
-msgid "Requiem"
-msgstr "Requiem"
-
 msgid "Analýza hry - zajímavosti"
 msgstr "Game analysis - points of interest"
 
@@ -3623,14 +3619,6 @@ msgid_plural "Celkem hrálo %d hráčů."
 msgstr[0] "%d player played in total."
 msgstr[1] "%d players played in total."
 
-msgctxt "musicModes"
-msgid "Albatroz"
-msgstr "Albatroz"
-
-msgctxt "musicModes"
-msgid "Undertale"
-msgstr "Undertale"
-
 msgctxt "pageTitles"
 msgid "Žebříček - %s"
 msgstr "Leaderboard - %s"
@@ -3722,10 +3710,6 @@ msgstr "Laser game tournaments"
 msgid "%d. se umístila %s s celkovým skóre %s."
 msgstr "%d. place took %s with the score of %s."
 
-msgctxt "musicModes"
-msgid "StarWars"
-msgstr "StarWars"
-
 msgctxt "results.hits"
 msgid "Zasáhla si hráče"
 msgstr "You shot player"
@@ -3816,10 +3800,6 @@ msgstr "%s team stats"
 
 msgid "Individuální výsledky"
 msgstr "Individual results"
-
-msgctxt "musicModes"
-msgid "Marvel"
-msgstr "Marvel"
 
 msgid "Legendární válečník"
 msgstr "Legendary warrior"
@@ -4106,10 +4086,6 @@ msgstr "You can have your results scanned via the QR code on the printed results
 
 msgid "Pokud otevřu výsledky ve kterých je hráč s mým jménem, zobrazí se vedle jména hráče tlačítko přiřadit. Po kliknutí na tlačítko se mi hra přiřadí do profilu."
 msgstr "If I open the results with a player with my name in them, the assign button appears next to the player's name. When I click on the button, the game is assigned to my profile."
-
-msgctxt "musicModes"
-msgid "Narozeniny"
-msgstr "Birthday"
 
 msgid "Don't give up"
 msgstr "Don't give up"
@@ -4914,18 +4890,6 @@ msgstr "Group music modes"
 msgid "Výsledky hry"
 msgstr "Game results"
 
-msgctxt "musicModes"
-msgid "DRUM AND BASE"
-msgstr "DRUM AND BASE"
-
-msgctxt "musicModes"
-msgid "Mortal kombat"
-msgstr "Mortal kombat"
-
-msgctxt "musicModes"
-msgid "K-POP"
-msgstr "K-POP"
-
 msgctxt "pageTitles"
 msgid "Portál pro hráče laser game"
 msgstr "Portal for laser game players"
@@ -5009,28 +4973,12 @@ msgstr "Collect stats"
 msgid "Hned po hře vidíš výsledky na svém profilu! Z her sbíráš body, které tě posouvají v žebříčku všech hráčů laser game."
 msgstr "The results show up on your profile right after the game! Collect points from games that move you up the leaderboard of all laser game players."
 
-msgctxt "musicModes"
-msgid "Dubstep"
-msgstr "Dubstep"
-
 msgid "Turnaje hráče"
 msgstr "Player's tournaments"
 
 msgctxt "pageTitles"
 msgid "Turnaje hráče - %s"
 msgstr "Tournaments of the player - %s"
-
-msgctxt "musicModes"
-msgid "Doom"
-msgstr "Doom"
-
-msgctxt "musicModes"
-msgid "S3RL"
-msgstr "S3RL"
-
-msgctxt "musicModes"
-msgid "CSR ROCK"
-msgstr "CSR ROCK"
 
 msgctxt "pageTitles"
 msgid "Přihlášení"
@@ -5042,14 +4990,6 @@ msgstr "Login to the Laser Liga system."
 
 msgid "Zatím odehrál %d her."
 msgstr "Has played %d games so far."
-
-msgctxt "musicModes"
-msgid "Trpasličí metal"
-msgstr "Dwarven metal"
-
-msgctxt "musicModes"
-msgid "DnB by Pogánek"
-msgstr "DnB by Pogánek"
 
 msgid "Bronz"
 msgstr "Bronze"
@@ -5093,60 +5033,12 @@ msgstr "Are you sure you want to delete the game from your account?"
 msgid "To nejsem já"
 msgstr "That's not me"
 
-msgctxt "results.highlights"
-msgid "Hráči %s a %s se oba navzájem zasáhli %dx."
-msgstr "Players %s and %s both hit each other %dx."
-
 msgid "%s zasáhli nejvíce spoluhráčů (%d)."
 msgstr "%s hit the most teammates (%d)."
 
 msgctxt "spojka"
 msgid "a"
 msgstr "and"
-
-msgctxt "results.highlights"
-msgid "%s bylo zasaženo nejvíce spoluhráči (%d)."
-msgstr "%s was hit the most by teammates (%d)."
-
-msgctxt "results.highlights"
-msgid "%s si zasedlo na %s"
-msgstr "%s stalked %s"
-
-msgctxt "results.highlights"
-msgid "%s získává trofej: %s"
-msgstr "%s acquired the trophy: %s"
-
-msgctxt "results.highlights"
-msgid "%s bylo pronásledováno od %s"
-msgstr "%s was stalked by %s"
-
-msgctxt "musicModes"
-msgid "CRAZY MIX"
-msgstr "CRAZY MIX"
-
-msgctxt "musicModes"
-msgid "FILM 2"
-msgstr "FILM 2"
-
-msgctxt "results.highlights"
-msgid "%s zasáhlo nejvíce spoluhráčů (%d)."
-msgstr ""
-
-msgctxt "results.highlights"
-msgid "%s byli zasaženi nejvíce spoluhráči (%d)."
-msgstr ""
-
-msgctxt "results.highlights"
-msgid "%s si zasedla na %s"
-msgstr ""
-
-msgctxt "results.highlights"
-msgid "%s byla pronásledovaná od %s"
-msgstr ""
-
-msgctxt "results.highlights"
-msgid "%s byl pronásledovaný od %s"
-msgstr ""
 
 msgid "%s začalo svou cestu laser game hráče svou první hrou %s."
 msgstr "%s started their laser game journey with their first game on %s."
@@ -5159,10 +5051,6 @@ msgstr "Trophies that %s got during their games. Trophies are special rewards th
 
 msgid "Předchozí stránka"
 msgstr "Previous page"
-
-msgctxt "musicModes"
-msgid "ELECTRO"
-msgstr "ELECTRO"
 
 msgctxt "pageTitles"
 msgid "Statistiky týmu - %s"
@@ -5189,10 +5077,6 @@ msgstr[1] ""
 
 msgid "Celkem skóre"
 msgstr "Total score"
-
-msgctxt "musicModes"
-msgid "Turnajový mix"
-msgstr "Tournament mix"
 
 msgid "%s začala svou cestu laser game hráčky svou první hrou %s."
 msgstr "%s started her laser game journey with their her game on %s."
@@ -5227,52 +5111,12 @@ msgstr "Sum"
 msgid "Hry turnaje"
 msgstr ""
 
-msgctxt "musicModes"
-msgid "ROCK"
-msgstr "ROCK"
-
-msgctxt "musicModes"
-msgid "HOROR"
-msgstr "HOROR"
-
-msgctxt "musicModes"
-msgid "Anime Heroyt"
-msgstr "Anime Heroyt"
-
-msgctxt "musicModes"
-msgid "Vlčí klan"
-msgstr ""
-
-msgctxt "musicModes"
-msgid "Lasermaxx"
-msgstr "LaserMaxx"
-
 msgctxt "pageDescription"
 msgid "Page not found"
 msgstr "Page not found"
 
 msgid "Žádné hry neodpovídají filtrům"
 msgstr "No games match the filters"
-
-msgctxt "results.highlights"
-msgid "%s má %0.2fx lepší přesnost, než obvykle"
-msgstr "%s has %0.2fx better accuracy than usual"
-
-msgctxt "results.highlights"
-msgid "%s proti %s většinou prohrává, ale teď ho porazil."
-msgstr "Typically, %s loses to %s, but this time he has managed to defeat him."
-
-msgctxt "results.highlights"
-msgid "%s proti %s většinou prohrává, ale teď jí porazil."
-msgstr "Typically, %s loses to %s, but this time he has managed to defeat her."
-
-msgctxt "results.highlights"
-msgid "%s proti %s většinou prohrává, ale teď jí porazila."
-msgstr "Typically, %s loses to %s, but this time she has managed to defeat her."
-
-msgctxt "results.highlights"
-msgid "%s proti %s většinou prohrává, ale teď ho porazila."
-msgstr "Typically, %s loses to %s, but this time she has managed to defeat him."
 
 msgid "Algoritmus nepracuje se skórem, ale s herní úrovní hráče z dané hry."
 msgstr "The algorithm does not work with the score but with the player's skill level from the given game."
@@ -5309,22 +5153,6 @@ msgstr "A value calculated based on how well the players' skills are balanced. T
 
 msgid "Získáno bodů z hráče"
 msgstr "Points acquired from the player"
-
-msgctxt "results.highlights"
-msgid "%s má %0.2fx více výstřelů za minutu, než obvykle"
-msgstr "%s has %0.2fx fired more shots per minute than usual"
-
-msgctxt "results.highlights"
-msgid "%s a %s mají stejné skóre."
-msgstr "%s and %s have the same score."
-
-msgctxt "results.highlights"
-msgid "%s si zasedl na %s"
-msgstr "%s stalked %s"
-
-msgctxt "musicModes"
-msgid "Anime Vykyndr"
-msgstr "Anime Vykyndr"
 
 msgid "aréna"
 msgid_plural "arén"
@@ -5411,10 +5239,6 @@ msgctxt "pageDescription"
 msgid "Popis zásad zpracování osobních údajů pro web LaserLiga.cz."
 msgstr "Description of the personal data processing policy for the LaserLiga.cz website."
 
-msgctxt "musicModes"
-msgid "Laser Showdown"
-msgstr "Laser Showdown"
-
 msgid "Bezkonkurenční šampion"
 msgstr "Undisputable champion"
 
@@ -5432,10 +5256,6 @@ msgstr "Already have an account?"
 msgctxt "errors"
 msgid "Požadavek vypršel, zkuste znovu načíst stránku."
 msgstr "The request has expired; try reloading the page."
-
-msgctxt "musicModes"
-msgid "Matrix"
-msgstr "Matrix"
 
 msgid "Mimoň"
 msgstr "Minion"
@@ -5498,10 +5318,6 @@ msgstr "Players’ results"
 msgid "Skóre"
 msgstr "Score"
 
-msgctxt "musicModes"
-msgid "HOUSETRANCE"
-msgstr "HOUSETRANCE"
-
 msgid "Registrace"
 msgstr "Registration"
 
@@ -5513,10 +5329,6 @@ msgstr "Group"
 
 msgid "Hráč"
 msgstr "Player"
-
-msgctxt "musicModes"
-msgid "Nightcore"
-msgstr "Nightcore"
 
 msgid "Ďábel"
 msgstr "The devil"
@@ -5537,10 +5349,6 @@ msgstr "%d score"
 
 msgid "%.2f k herní úrovni"
 msgstr "%.2f to the player's ranking"
-
-msgctxt "musicModes"
-msgid "Lollipopz"
-msgstr "Lollipopz"
 
 msgid "Datum"
 msgstr "Date"
@@ -5726,23 +5534,11 @@ msgstr "Shots"
 msgid "Nula"
 msgstr "Zero"
 
-msgctxt "musicModes"
-msgid "Albatraoz"
-msgstr "Albatraoz"
-
 msgid "Výstřely"
 msgstr "Shots"
 
-msgctxt "musicModes"
-msgid "LaserMaxx Military"
-msgstr "LaserMaxx Military"
-
 msgid "Výstřely nenalezeny"
 msgstr "Shots not found"
-
-msgctxt "musicModes"
-msgid "Strážci galaxie"
-msgstr "Guardians of the galaxy"
 
 msgid "Zadejte předzívku nebo kód hráče a vyberte ze seznamu."
 msgstr "Input the player's nickname or code and choose from the list."
@@ -5758,26 +5554,6 @@ msgstr "Show more"
 
 msgid "Dnes"
 msgstr "Today"
-
-msgctxt "musicModes"
-msgid "White girl aesthetic"
-msgstr "White girl aesthetic"
-
-msgctxt "musicModes"
-msgid "CZ HARDSTYLE"
-msgstr "CZ HARDSTYLE"
-
-msgctxt "musicModes"
-msgid "WESTERN"
-msgstr "WESTERN"
-
-msgctxt "musicModes"
-msgid "Piráti z karibiku"
-msgstr "Pirates of the Caribbean"
-
-msgctxt "musicModes"
-msgid "DETI"
-msgstr "Children"
 
 msgctxt "music"
 msgid "LaserMaxx"
@@ -5917,10 +5693,6 @@ msgstr ""
 msgid "Odeslat"
 msgstr "Send"
 
-msgctxt "results.highlights"
-msgid "%s zasáhl hráče %s a %s stejněkrát (%d)"
-msgstr ""
-
 msgid "%s strávil %s ve hře vypnutý."
 msgstr ""
 
@@ -5936,24 +5708,8 @@ msgid_plural "%d sekund"
 msgstr[0] "%d second"
 msgstr[1] "%d seconds"
 
-msgctxt "results.highlights"
-msgid "%s zasáhla hráče %s a %s stejněkrát (%d)"
-msgstr ""
-
 msgid "%s strávila %s ve hře vypnutá."
 msgstr ""
-
-msgctxt "results.highlights"
-msgid "%s zasáhlo hráče %s a %s stejněkrát (%d)"
-msgstr ""
-
-msgctxt "results.highlights"
-msgid "%s byl zasažen nejvíce spoluhráči (%d)."
-msgstr ""
-
-msgctxt "musicModes"
-msgid "Anime 1 (Heroyt)"
-msgstr "Anime 1 (Heroyt)"
 
 msgid "Posun v žebříčku!"
 msgstr ""
@@ -5982,10 +5738,6 @@ msgstr "You can change your e-mail in "
 msgid "Pronásledovaný"
 msgstr "Followed"
 
-msgctxt "musicModes"
-msgid "J-pop"
-msgstr "J-pop"
-
 msgid "Remíza"
 msgstr "Draw"
 
@@ -6004,16 +5756,8 @@ msgstr "Tournament results"
 msgid "Tým"
 msgstr "Team"
 
-msgctxt "musicModes"
-msgid "DUBSTEP"
-msgstr "DUBSTEP"
-
 msgid "Férový hráč"
 msgstr "Fair player"
-
-msgctxt "results.highlights"
-msgid "%s proti %s většinou prohrává, ale teď to porazil."
-msgstr ""
 
 msgid "Celkem se zúčastnilo 6 týmů. Týmy byli nakombinované z Píseckých mazáků, jednoho kroužkového týmu a dokonce přijel i tým z Říčanské arény.  Žádný tým nehrál špatně, i tým Říčany, přes neznalost vybavení, předvedli slušný výkon v naší nejsilnější kategorii."
 msgstr ""
@@ -6027,10 +5771,6 @@ msgstr ""
 msgid "%s strávilo %s ve hře vypnuté."
 msgstr ""
 
-msgctxt "results.highlights"
-msgid "%s zasáhl nejvíce spoluhráčů (%d)."
-msgstr ""
-
 msgid "Probíhá automatické odhlášení"
 msgstr "Logging out automatically"
 
@@ -6039,14 +5779,6 @@ msgstr "Logging out after 2 minutes of inactivity."
 
 msgid "Úvod"
 msgstr ""
-
-msgctxt "musicModes"
-msgid "K-POP 2"
-msgstr "K-POP 2"
-
-msgctxt "results.highlights"
-msgid "Týmové skóre"
-msgstr "Team score"
 
 msgid "%s strávila %s ve hře vypnutá. To je víc než polovina hry!"
 msgstr ""
@@ -6058,10 +5790,6 @@ msgid "Umístění"
 msgstr "Ranking"
 
 msgid "%s strávilo %s ve hře vypnuté. To je víc než polovina hry!"
-msgstr ""
-
-msgctxt "results.highlights"
-msgid "%s byla zasažena nejvíce spoluhráči (%d)."
 msgstr ""
 
 msgid "Team deathmach"
@@ -6076,24 +5804,8 @@ msgstr "Base defence"
 msgid "Marco polo"
 msgstr "Marco polo"
 
-msgctxt "musicModes"
-msgid "HARDSTYLE"
-msgstr "HARDSTYLE"
-
-msgctxt "musicModes"
-msgid "DECHOVKA"
-msgstr "DECHOVKA"
-
-msgctxt "musicModes"
-msgid "Anime 2 (Vykyndr)"
-msgstr "Anime 2 (Vykyndr)"
-
 msgid "Zasedlý"
 msgstr "Obsessed"
-
-msgctxt "musicModes"
-msgid "Lidový hardbass"
-msgstr ""
 
 msgid "Nedotknutelný"
 msgstr "Untouchable"
@@ -6113,26 +5825,6 @@ msgstr "Machine gun"
 msgid "Štít"
 msgstr "Shield"
 
-msgctxt "musicModes"
-msgid "Herní mix by Pogánek"
-msgstr "Herní mix by Pogánek"
-
-msgctxt "musicModes"
-msgid "Anime 3 (Heroyt 2)"
-msgstr "Anime 3 (Heroyt 2)"
-
-msgctxt "musicModes"
-msgid "FIlm 2 by Pogánek"
-msgstr "FIlm 2 by Pogánek"
-
-msgctxt "musicModes"
-msgid "Film 1 by Pogánek"
-msgstr "Film 1 by Pogánek"
-
-msgctxt "musicModes"
-msgid "LaserMaxx"
-msgstr "LaserMaxx"
-
 msgid "Tahoun týmu"
 msgstr "Team-carry"
 
@@ -6150,22 +5842,6 @@ msgstr "Slayer"
 
 msgid "Turnaje hráče - %s"
 msgstr "Tournaments of the player - %s"
-
-msgctxt "results.highlights"
-msgid "%s zasáhlo více spoluhráčů, než protihráčů"
-msgstr ""
-
-msgctxt "results.highlights"
-msgid "%s zasáhl svého spoluhráče %s vícekrát, než kteréhokoliv protihráče"
-msgstr ""
-
-msgctxt "musicModes"
-msgid "Standard"
-msgstr "Standard"
-
-msgctxt "results.highlights"
-msgid "%s zasáhla nejvíce spoluhráčů (%d)."
-msgstr ""
 
 msgctxt "pageTitles"
 msgid "Zapomenuté heslo"
@@ -6190,64 +5866,8 @@ msgstr ""
 msgid "Už stihlo odehrát %d her."
 msgstr "They have managed to play %d games already."
 
-msgctxt "musicModes"
-msgid "FILM 1"
-msgstr "FILM 1"
-
-msgctxt "musicModes"
-msgid "OLDIES"
-msgstr "OLDIES"
-
-msgctxt "musicModes"
-msgid "8-bit by Pogánek"
-msgstr "8-bit by Pogánek"
-
-msgctxt "results.highlights"
-msgid "%s zasáhl více spoluhráčů, než protihráčů"
-msgstr ""
-
-msgctxt "musicModes"
-msgid "Halloween 2"
-msgstr "Halloween 2"
-
 msgid "Statistiky týmu - %s"
 msgstr "Team stats - %s"
-
-msgctxt "musicModes"
-msgid "K-POP 3"
-msgstr "K-POP 3"
-
-msgctxt "musicModes"
-msgid "HANS ZIMMER"
-msgstr "HANS ZIMMER"
-
-msgctxt "musicModes"
-msgid "HEAVY METAL"
-msgstr "HEAVY METAL"
-
-msgctxt "musicModes"
-msgid "HERNÍ MIX"
-msgstr "HERNÍ MIX"
-
-msgctxt "results.highlights"
-msgid "%s zasáhl svou spoluhráčku %s vícekrát, než kteréhokoliv protihráče"
-msgstr ""
-
-msgctxt "results.highlights"
-msgid "%s zasáhla více spoluhráčů, než protihráčů"
-msgstr ""
-
-msgctxt "results.highlights"
-msgid "%s zasáhla svého spoluhráče %s vícekrát, než kteréhokoliv protihráče"
-msgstr ""
-
-msgctxt "results.highlights"
-msgid "%s zasáhla svou spoluhráčku %s vícekrát, než kteréhokoliv protihráče"
-msgstr ""
-
-msgctxt "results.highlights"
-msgid "%s zasáhlo svou spoluhráčku %s vícekrát, než kteréhokoliv protihráče"
-msgstr ""
 
 msgid "Avatara si nemůžeš přímo vybrat, ale generují se náhodně. Můžeš si vybrat z několika různých stylů a pokud chceš ovlivnit jaký avatar se vygeneruje, můžeš zkusit měnit seed."
 msgstr "You cannot select an avatar directly; they are generated at random. You can choose from various styles, and if you want to influence which avatar is created, try changing the seed."
@@ -6271,27 +5891,11 @@ msgstr ""
 msgid "Zadejte Váš kód hráče ve formátu 00-0-000."
 msgstr ""
 
-msgctxt "musicModes"
-msgid "Military"
-msgstr "Military"
-
-msgctxt "musicModes"
-msgid "Horror"
-msgstr "Horror"
-
 msgid "Vyrovnaný"
 msgstr "Balanced"
 
-msgctxt "musicModes"
-msgid "EuroBeat"
-msgstr "EuroBeat"
-
 msgid "%s jediné bylo zasaženo minou."
 msgstr ""
-
-msgctxt "musicModes"
-msgid "Halloween 1"
-msgstr "Halloween 1"
 
 msgctxt "pageTitles"
 msgid "Hra nenalezena"
