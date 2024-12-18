@@ -800,4 +800,3 @@ msgstr "Výchozí"
 msgctxt "style"
 msgid "Tabulkové"
 msgstr "Tabulkové"
-

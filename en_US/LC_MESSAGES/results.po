@@ -788,4 +788,3 @@ msgstr "Default"
 msgctxt "style"
 msgid "Tabulkové"
 msgstr "Tabular"
-

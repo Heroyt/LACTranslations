@@ -1,0 +1,118 @@
+msgid ""
+msgstr ""
+"Language: de_DE\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Domain: music\n"
+
+msgid "Anime 2 (Vykyndr)"
+msgstr ""
+
+msgid "Lollipopz"
+msgstr ""
+
+msgid "Albatraoz"
+msgstr ""
+
+msgctxt "group"
+msgid "Anime"
+msgstr ""
+
+msgid "Anime 1 (Heroyt)"
+msgstr ""
+
+msgid "Anime 3 (Heroyt 2)"
+msgstr ""
+
+msgid "Doom"
+msgstr ""
+
+msgid "Dubstep"
+msgstr ""
+
+msgctxt "group"
+msgid "K-POP"
+msgstr ""
+
+msgid "K-POP"
+msgstr ""
+
+msgid "K-POP 2"
+msgstr ""
+
+msgid "K-POP 3"
+msgstr ""
+
+msgctxt "group"
+msgid "Lasermaxx"
+msgstr ""
+
+msgid "Standard"
+msgstr ""
+
+msgid "Military"
+msgstr ""
+
+msgid "Requiem"
+msgstr ""
+
+msgid "Marvel"
+msgstr ""
+
+msgid "Matrix"
+msgstr ""
+
+msgid "Mortal kombat"
+msgstr ""
+
+msgid "Narozeniny"
+msgstr ""
+
+msgid "Piráti z karibiku"
+msgstr ""
+
+msgid "S3RL"
+msgstr ""
+
+msgid "StarWars"
+msgstr ""
+
+msgid "Trpasličí metal"
+msgstr ""
+
+msgid "Turnajový mix"
+msgstr ""
+
+msgid "Undertale"
+msgstr ""
+
+msgctxt "group"
+msgid "AI"
+msgstr ""
+
+msgid "Laser Showdown"
+msgstr ""
+
+msgid "Lidový hardbass"
+msgstr ""
+
+msgid "Horror"
+msgstr ""
+
+msgctxt "group"
+msgid "Halloween"
+msgstr ""
+
+msgid "Halloween 1"
+msgstr ""
+
+msgid "Halloween 2"
+msgstr ""
+
+msgid "Vlčí klan"
+msgstr ""
+
+msgid "HERNÍ MIX"
+msgstr ""
+
+msgid "LaserMaxx"
+msgstr ""

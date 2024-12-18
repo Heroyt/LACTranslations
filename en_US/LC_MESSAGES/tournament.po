@@ -238,4 +238,3 @@ msgstr "Shots"
 
 msgid "Zabijáci vlastních"
 msgstr "Team killers"
-
