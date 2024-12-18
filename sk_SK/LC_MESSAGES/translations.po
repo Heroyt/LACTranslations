@@ -6,7 +6,7 @@ msgstr ""
 "Language-Team: Slovak\n"
 "Last-Translator: Tomáš Vojík <vojik@wboy.cz>\n"
 "MIME-Version: 1.0\n"
-"PO-Revision-Date: 2024-12-18 14:12\n"
+"PO-Revision-Date: 2024-12-18 18:49\n"
 "POT-Creation-Date: \n"
 "Plural-Forms: nplurals=4; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 3;\n"
 "Project-Id-Version: laserarenacontrol\n"
@@ -6066,5 +6066,68 @@ msgid "Absolutní vítěz"
 msgstr ""
 
 msgid "Největší terminátor"
+msgstr ""
+
+msgid "Podařilo se ti získat nové ocenění!"
+msgid_plural "Podařilo se ti získat nová ocenění!"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+
+msgctxt "achievement"
+msgid "Hráč na misi"
+msgstr ""
+
+msgid "Někdo tě přeskočil v žebříčku!"
+msgstr ""
+
+msgid "Posunul si se o %d místo dolů a teď jsi %s."
+msgid_plural "Posunul si se o %d míst dolů a teď jsi %s"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+
+msgctxt "achievement"
+msgid "Infiltrátor"
+msgstr ""
+
+msgid "Ligy laser game"
+msgstr ""
+
+msgid "Liga laser game je dlouhodobá soutěž skládající se z několika turnajů. Výsledky jsou vyhodnocovány z každého turnaje zvlášť, ale zároveň mezi turnaji. Na konci ligového období jsou vyhlášeny celkové výsledky."
+msgstr ""
+
+msgctxt "pageTitles"
+msgid "Akce %s - %s"
+msgstr ""
+
+msgctxt "pageDescription"
+msgid "Akce %s v %s v datech %s."
+msgstr ""
+
+msgid "Zpět na plánované akce"
+msgstr ""
+
+msgid "Informace o akci laser game, který se bude odehrávat v %s."
+msgstr ""
+
+msgid "Laser game akce: %s"
+msgstr ""
+
+msgid "Termíny"
+msgstr ""
+
+msgid "Zrušený"
+msgstr ""
+
+msgid "Individuální"
+msgstr ""
+
+msgid "Seznam přihlášených hráčů na akci laser game."
+msgstr ""
+
+msgid "Termín je zrušený"
 msgstr ""
 
