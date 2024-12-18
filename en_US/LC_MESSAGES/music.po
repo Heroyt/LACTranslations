@@ -1,13 +1,19 @@
 msgid ""
 msgstr ""
 "Language: en_US\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Domain: music\n"
+"X-Crowdin-Project: laserarenacontrol\n"
+"X-Crowdin-Project-ID: 515800\n"
+"X-Crowdin-Language: en\n"
+"X-Crowdin-File: /master/music.pot\n"
+"X-Crowdin-File-ID: 98\n"
+"Project-Id-Version: laserarenacontrol\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"PO-Revision-Date: 2024-12-18 13:42\n"
 
 msgid "Anime 2 (Vykyndr)"
-msgstr ""
-
-msgid "Doom"
 msgstr ""
 
 msgid "Lollipopz"
@@ -24,6 +30,9 @@ msgid "Anime 1 (Heroyt)"
 msgstr ""
 
 msgid "Anime 3 (Heroyt 2)"
+msgstr ""
+
+msgid "Doom"
 msgstr ""
 
 msgid "Dubstep"
@@ -214,3 +223,4 @@ msgstr ""
 
 msgid "Strážci galaxie"
 msgstr ""
+
