@@ -213,3 +213,6 @@ msgctxt "pod"
 msgid "%s získala %.1fx tolik bonusů co ostatní."
 msgstr ""
 
+msgctxt "results"
+msgid "%s byla zasažena nejvíce spoluhráči (%d)."
+msgstr ""
