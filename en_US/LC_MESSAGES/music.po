@@ -116,3 +116,101 @@ msgstr ""
 
 msgid "LaserMaxx"
 msgstr ""
+
+msgid "CRAZY MIX"
+msgstr ""
+
+msgid "HOUSETRANCE"
+msgstr ""
+
+msgid "CSR ROCK"
+msgstr ""
+
+msgid "DECHOVKA"
+msgstr ""
+
+msgid "DETI"
+msgstr ""
+
+msgid "DRUM AND BASE"
+msgstr ""
+
+msgid "DUBSTEP"
+msgstr ""
+
+msgid "ELECTRO"
+msgstr ""
+
+msgctxt "group"
+msgid "FILM"
+msgstr ""
+
+msgid "FILM 1"
+msgstr ""
+
+msgid "FILM 2"
+msgstr ""
+
+msgid "Film 1 by Pogánek"
+msgstr ""
+
+msgid "FIlm 2 by Pogánek"
+msgstr ""
+
+msgid "HANS ZIMMER"
+msgstr ""
+
+msgid "HARDSTYLE"
+msgstr ""
+
+msgid "HEAVY METAL"
+msgstr ""
+
+msgid "HOROR"
+msgstr ""
+
+msgid "OLDIES"
+msgstr ""
+
+msgid "ROCK"
+msgstr ""
+
+msgid "WESTERN"
+msgstr ""
+
+msgid "EuroBeat"
+msgstr ""
+
+msgid "J-pop"
+msgstr ""
+
+msgid "NCS pozadní hudba"
+msgstr ""
+
+msgid "Herní mix by Pogánek"
+msgstr ""
+
+msgid "DnB by Pogánek"
+msgstr ""
+
+msgid "White girl aesthetic"
+msgstr ""
+
+msgid "CZ HARDSTYLE"
+msgstr ""
+
+msgid "Nightcore"
+msgstr ""
+
+msgid "8-bit by Pogánek"
+msgstr ""
+
+msgctxt "group"
+msgid "LaserMaxx"
+msgstr ""
+
+msgid "LaserMaxx Military"
+msgstr ""
+
+msgid "Strážci galaxie"
+msgstr ""

@@ -120,3 +120,91 @@ msgstr "%s získalo %.1fx tolik bonusů co ostatní."
 msgctxt "evo5"
 msgid "%s získal %.1fx tolik bonusů co ostatní."
 msgstr "%s získal %.1fx tolik bonusů co ostatní."
+
+msgctxt "hits"
+msgid "%s zasáhlo hráče %s a %s stejněkrát (%d)"
+msgstr ""
+
+msgctxt "hits"
+msgid "%s zasáhla hráče %s a %s stejněkrát (%d)"
+msgstr ""
+
+msgctxt "hits"
+msgid "%s zasáhl hráče %s a %s stejněkrát (%d)"
+msgstr ""
+
+msgctxt "results"
+msgid "%s byl zasažen nejvíce spoluhráči (%d)."
+msgstr ""
+
+msgctxt "user"
+msgid "%s má %0.2fx lepší přesnost, než obvykle"
+msgstr ""
+
+msgctxt "user"
+msgid "%s má %0.2fx více výstřelů za minutu, než obvykle"
+msgstr ""
+
+msgctxt "results"
+msgid "%s zasáhl nejvíce spoluhráčů (%d)."
+msgstr ""
+
+msgctxt "results"
+msgid "%s bylo zasaženo nejvíce spoluhráči (%d)."
+msgstr ""
+
+msgctxt "pod"
+msgid "%s získalo %.1fx tolik bonusů co ostatní."
+msgstr ""
+
+msgctxt "results"
+msgid "%s zasáhlo nejvíce spoluhráčů (%d)."
+msgstr ""
+
+msgctxt "deaths"
+msgid "%s strávilo %s ve hře vypnuté. To je víc než polovina hry!"
+msgstr ""
+
+msgctxt "user"
+msgid "%s proti %s většinou prohrává, ale teď ho porazilo."
+msgstr ""
+
+msgctxt "user"
+msgid "Týmové skóre"
+msgstr ""
+
+msgctxt "user"
+msgid "%s proti %s většinou prohrává, ale teď jí porazilo."
+msgstr ""
+
+msgctxt "user"
+msgid "%s proti %s většinou prohrává, ale teď to porazilo."
+msgstr ""
+
+msgctxt "results"
+msgid "%s byli zasaženi nejvíce spoluhráči (%d)."
+msgstr ""
+
+msgctxt "results"
+msgid "%s zasáhla nejvíce spoluhráčů (%d)."
+msgstr ""
+
+msgctxt "user"
+msgid "%s a %s mají stejné skóre."
+msgstr ""
+
+msgctxt "user"
+msgid "%s proti %s většinou prohrává, ale teď ho porazil."
+msgstr ""
+
+msgctxt "user"
+msgid "%s proti %s většinou prohrává, ale teď to porazil."
+msgstr ""
+
+msgctxt "user"
+msgid "%s proti %s většinou prohrává, ale teď to porazila."
+msgstr ""
+
+msgctxt "user"
+msgid "%s proti %s většinou prohrává, ale teď jí porazil."
+msgstr ""
