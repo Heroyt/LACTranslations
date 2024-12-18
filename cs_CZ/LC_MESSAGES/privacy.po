@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: laserarenacontrol\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Czech\n"
-"PO-Revision-Date: 2024-12-17 16:05\n"
+"PO-Revision-Date: 2024-12-18 10:37\n"
 
 msgctxt "metadata"
 msgid "Zásady zpracování osobních údajů na webu %s."
@@ -208,4 +208,12 @@ msgstr "Tyto zásady mohou být aktualizovány. O změnách budete informováni.
 msgctxt "last_updated"
 msgid "Poslední aktualizace: %s"
 msgstr "Poslední aktualizace: %s"
+
+msgctxt "security_turnstile"
+msgid "Pro ochranu formulářů na webu používáme službu <a href=\"https://www.cloudflare.com/application-services/products/turnstile/\" target=\"_blank\">Cloudflare Turnstile Captcha</a>, která chrání proti automatizovaným útokům a zajišťuje bezpečnost webu."
+msgstr ""
+
+msgctxt "security_turnstile_anonymity"
+msgid "Cloudflare Turnstile nezpracovává osobní údaje uživatelů a veškeré ověřování probíhá anonymně."
+msgstr ""
 
