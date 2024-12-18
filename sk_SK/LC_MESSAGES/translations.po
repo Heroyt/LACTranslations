@@ -6,7 +6,7 @@ msgstr ""
 "Language-Team: Slovak\n"
 "Last-Translator: Tomáš Vojík <vojik@wboy.cz>\n"
 "MIME-Version: 1.0\n"
-"PO-Revision-Date: 2024-12-17 16:06\n"
+"PO-Revision-Date: 2024-12-18 10:38\n"
 "POT-Creation-Date: \n"
 "Plural-Forms: nplurals=4; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 3;\n"
 "Project-Id-Version: laserarenacontrol\n"
@@ -5527,5 +5527,940 @@ msgstr ""
 
 msgctxt "pageTitles"
 msgid "%s - Úprava registrace na turnaj"
+msgstr ""
+
+msgid "Plánované akce"
+msgstr ""
+
+msgid "Žebříček"
+msgstr ""
+
+msgid "Herní úroveň"
+msgstr ""
+
+msgid "Zobrazit"
+msgstr ""
+
+msgid "Hráči"
+msgstr ""
+
+msgid "Týmy"
+msgstr ""
+
+msgid "Výsledky týmů"
+msgstr ""
+
+msgid "Výsledky hráčů"
+msgstr ""
+
+msgid "Skóre"
+msgstr ""
+
+msgctxt "musicModes"
+msgid "HOUSETRANCE"
+msgstr ""
+
+msgid "Registrace"
+msgstr ""
+
+msgid "Jméno"
+msgstr ""
+
+msgid "Skupina"
+msgstr ""
+
+msgid "Hráč"
+msgstr ""
+
+msgctxt "musicModes"
+msgid "Nightcore"
+msgstr ""
+
+msgid "Ďábel"
+msgstr ""
+
+msgid "Nejúspornější střelec"
+msgstr ""
+
+msgid "Výsledky ze hry"
+msgstr ""
+
+msgid "%d místo"
+msgid_plural "%d místo"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+
+msgid "%d skóre"
+msgstr ""
+
+msgid "%.2f k herní úrovni"
+msgstr ""
+
+msgctxt "musicModes"
+msgid "Lollipopz"
+msgstr ""
+
+msgid "Datum"
+msgstr ""
+
+msgid "Hudební módy"
+msgstr ""
+
+msgid "Ikona"
+msgstr ""
+
+msgctxt "music"
+msgid "Albatraoz"
+msgstr ""
+
+msgctxt "music.group"
+msgid "Anime"
+msgstr "Anime"
+
+msgctxt "music"
+msgid "Anime 1 (Heroyt)"
+msgstr ""
+
+msgctxt "music"
+msgid "Anime 2 (Vykyndr)"
+msgstr ""
+
+msgctxt "music"
+msgid "Anime 3 (Heroyt 2)"
+msgstr ""
+
+msgctxt "music"
+msgid "Doom"
+msgstr "Doom"
+
+msgctxt "music"
+msgid "Dubstep"
+msgstr ""
+
+msgctxt "music.group"
+msgid "K-POP"
+msgstr "K-POP"
+
+msgctxt "music"
+msgid "K-POP"
+msgstr "K-POP"
+
+msgctxt "music"
+msgid "K-POP 2"
+msgstr "K-POP 2"
+
+msgctxt "music"
+msgid "K-POP 3"
+msgstr ""
+
+msgctxt "music.group"
+msgid "Lasermaxx"
+msgstr ""
+
+msgctxt "music"
+msgid "Standard"
+msgstr ""
+
+msgctxt "music"
+msgid "Military"
+msgstr ""
+
+msgctxt "music"
+msgid "Lollipopz"
+msgstr ""
+
+msgctxt "music"
+msgid "Requiem"
+msgstr ""
+
+msgctxt "music"
+msgid "Marvel"
+msgstr "Marvel"
+
+msgctxt "music"
+msgid "Matrix"
+msgstr "Matrix"
+
+msgctxt "music"
+msgid "Mortal kombat"
+msgstr "Mortal kombat"
+
+msgctxt "music"
+msgid "Narozeniny"
+msgstr "Narodeniny"
+
+msgctxt "music"
+msgid "Piráti z karibiku"
+msgstr ""
+
+msgctxt "music"
+msgid "S3RL"
+msgstr "S3RL"
+
+msgctxt "music"
+msgid "StarWars"
+msgstr "StarWars"
+
+msgctxt "music"
+msgid "Trpasličí metal"
+msgstr ""
+
+msgctxt "music"
+msgid "Turnajový mix"
+msgstr ""
+
+msgctxt "music"
+msgid "Undertale"
+msgstr "Undertale"
+
+msgctxt "music.group"
+msgid "AI"
+msgstr ""
+
+msgctxt "music"
+msgid "Laser Showdown"
+msgstr ""
+
+msgctxt "music"
+msgid "Lidový hardbass"
+msgstr ""
+
+msgctxt "music"
+msgid "Horror"
+msgstr "Horror"
+
+msgctxt "music.group"
+msgid "Halloween"
+msgstr "Halloween"
+
+msgctxt "music"
+msgid "Halloween 1"
+msgstr "Halloween 1"
+
+msgctxt "music"
+msgid "Halloween 2"
+msgstr "Halloween 2"
+
+msgctxt "music"
+msgid "Vlčí klan"
+msgstr ""
+
+msgid "Herní mód"
+msgstr ""
+
+msgid "Filtrovat"
+msgstr ""
+
+msgid "Odehráno her"
+msgstr ""
+
+msgid "Trofeje"
+msgstr ""
+
+msgid "Smrtí"
+msgstr ""
+
+msgid "K:D"
+msgstr ""
+
+msgid "Přesnost"
+msgstr ""
+
+msgid "Zásahy"
+msgstr ""
+
+msgid "Smrti"
+msgstr ""
+
+msgid "Počet výstřelů"
+msgstr ""
+
+msgid "Poslední hry"
+msgstr ""
+
+msgid "Výstřelů"
+msgstr ""
+
+msgid "Nula"
+msgstr ""
+
+msgctxt "musicModes"
+msgid "Albatraoz"
+msgstr ""
+
+msgid "Výstřely"
+msgstr ""
+
+msgctxt "musicModes"
+msgid "LaserMaxx Military"
+msgstr ""
+
+msgid "Výstřely nenalezeny"
+msgstr ""
+
+msgctxt "musicModes"
+msgid "Strážci galaxie"
+msgstr ""
+
+msgid "Zadejte předzívku nebo kód hráče a vyberte ze seznamu."
+msgstr ""
+
+msgid "Globální žebříček"
+msgstr ""
+
+msgid "Žebříček hráčů"
+msgstr ""
+
+msgid "Zobrazit další"
+msgstr ""
+
+msgid "Dnes"
+msgstr ""
+
+msgctxt "musicModes"
+msgid "White girl aesthetic"
+msgstr ""
+
+msgctxt "musicModes"
+msgid "CZ HARDSTYLE"
+msgstr ""
+
+msgctxt "musicModes"
+msgid "WESTERN"
+msgstr ""
+
+msgctxt "musicModes"
+msgid "Piráti z karibiku"
+msgstr ""
+
+msgctxt "musicModes"
+msgid "DETI"
+msgstr ""
+
+msgctxt "music"
+msgid "LaserMaxx"
+msgstr ""
+
+msgctxt "music"
+msgid "CRAZY MIX"
+msgstr ""
+
+msgctxt "music"
+msgid "CSR ROCK"
+msgstr ""
+
+msgctxt "music"
+msgid "DECHOVKA"
+msgstr ""
+
+msgctxt "music"
+msgid "DETI"
+msgstr ""
+
+msgctxt "music"
+msgid "DRUM AND BASE"
+msgstr ""
+
+msgctxt "music"
+msgid "DUBSTEP"
+msgstr ""
+
+msgctxt "music"
+msgid "ELECTRO"
+msgstr ""
+
+msgctxt "music.group"
+msgid "FILM"
+msgstr ""
+
+msgctxt "music"
+msgid "FILM 1"
+msgstr ""
+
+msgctxt "music"
+msgid "FILM 2"
+msgstr ""
+
+msgctxt "music"
+msgid "Film 1 by Pogánek"
+msgstr ""
+
+msgctxt "music"
+msgid "FIlm 2 by Pogánek"
+msgstr ""
+
+msgctxt "music"
+msgid "HANS ZIMMER"
+msgstr ""
+
+msgctxt "music"
+msgid "HARDSTYLE"
+msgstr ""
+
+msgctxt "music"
+msgid "HEAVY METAL"
+msgstr ""
+
+msgctxt "music"
+msgid "HERNÍ MIX"
+msgstr ""
+
+msgctxt "music"
+msgid "HOROR"
+msgstr ""
+
+msgctxt "music"
+msgid "HOUSETRANCE"
+msgstr ""
+
+msgctxt "music"
+msgid "OLDIES"
+msgstr ""
+
+msgctxt "music"
+msgid "ROCK"
+msgstr ""
+
+msgctxt "music"
+msgid "WESTERN"
+msgstr ""
+
+msgctxt "music"
+msgid "EuroBeat"
+msgstr ""
+
+msgctxt "music"
+msgid "J-pop"
+msgstr ""
+
+msgctxt "music"
+msgid "NCS pozadní hudba"
+msgstr ""
+
+msgctxt "music"
+msgid "Herní mix by Pogánek"
+msgstr ""
+
+msgctxt "music"
+msgid "DnB by Pogánek"
+msgstr ""
+
+msgctxt "music"
+msgid "White girl aesthetic"
+msgstr ""
+
+msgctxt "music"
+msgid "CZ HARDSTYLE"
+msgstr ""
+
+msgctxt "music"
+msgid "Nightcore"
+msgstr ""
+
+msgctxt "music"
+msgid "8-bit by Pogánek"
+msgstr ""
+
+msgid "Turnaje"
+msgstr ""
+
+msgctxt "pageTitles"
+msgid "%s - Registrace na turnaj"
+msgstr ""
+
+msgctxt "pageDescription"
+msgid "Registrace na turnaj %s v %s. Turnaj se odehrává %s od %s."
+msgstr ""
+
+msgid "Odeslat"
+msgstr ""
+
+msgctxt "results.highlights"
+msgid "%s zasáhl hráče %s a %s stejněkrát (%d)"
+msgstr ""
+
+msgid "%s strávil %s ve hře vypnutý."
+msgstr ""
+
+msgctxt "trvání"
+msgid "%d minutu"
+msgid_plural "%d minut"
+msgstr[0] "%d minútu"
+msgstr[1] "%d minút"
+msgstr[2] "%d minút"
+msgstr[3] "%d minút"
+
+msgctxt "trvání"
+msgid "%d sekundu"
+msgid_plural "%d sekund"
+msgstr[0] "%d sekundu"
+msgstr[1] "%d sekundu"
+msgstr[2] "%d sekundu"
+msgstr[3] "%d sekundu"
+
+msgctxt "results.highlights"
+msgid "%s zasáhla hráče %s a %s stejněkrát (%d)"
+msgstr ""
+
+msgid "%s strávila %s ve hře vypnutá."
+msgstr ""
+
+msgctxt "results.highlights"
+msgid "%s zasáhlo hráče %s a %s stejněkrát (%d)"
+msgstr ""
+
+msgctxt "results.highlights"
+msgid "%s byl zasažen nejvíce spoluhráči (%d)."
+msgstr ""
+
+msgctxt "musicModes"
+msgid "Anime 1 (Heroyt)"
+msgstr ""
+
+msgid "Posun v žebříčku!"
+msgstr ""
+
+msgid "Posunul si se o %d místo nahoru a teď jsi %s."
+msgid_plural "Posunul si se o %d míst nahoru a teď jsi %s"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+
+msgid "Přihlášení"
+msgstr ""
+
+msgctxt "errors"
+msgid "Jste člověk? Prosím načtěte stránku a vyplňte formulář znovu."
+msgstr ""
+
+msgid "Tvůj e-mail, není potvrzený. Zkontroluj svou schránku, nebo si nech potvrzovací e-mail"
+msgstr ""
+
+msgid "Poslat znovu"
+msgstr ""
+
+msgid "E-mail si můžeš změnit v "
+msgstr ""
+
+msgid "Pronásledovaný"
+msgstr ""
+
+msgctxt "musicModes"
+msgid "J-pop"
+msgstr ""
+
+msgid "Remíza"
+msgstr ""
+
+msgid "Miny"
+msgstr ""
+
+msgid "Zásah spoluhráče"
+msgstr ""
+
+msgid "Popis"
+msgstr ""
+
+msgid "Výsledky turnaje"
+msgstr ""
+
+msgid "Tým"
+msgstr ""
+
+msgctxt "musicModes"
+msgid "DUBSTEP"
+msgstr ""
+
+msgid "Férový hráč"
+msgstr ""
+
+msgctxt "results.highlights"
+msgid "%s proti %s většinou prohrává, ale teď to porazil."
+msgstr ""
+
+msgid "Celkem se zúčastnilo 6 týmů. Týmy byli nakombinované z Píseckých mazáků, jednoho kroužkového týmu a dokonce přijel i tým z Říčanské arény.  Žádný tým nehrál špatně, i tým Říčany, přes neznalost vybavení, předvedli slušný výkon v naší nejsilnější kategorii."
+msgstr ""
+
+msgid "Do celoroční soutěže se každému týmu započítají body podle jejich celkového umístění na jednotlivých turnajích. Ještě nás čekají 2, takže o vítězi poháru stále není rozhodnuto a může se stát cokoliv."
+msgstr ""
+
+msgid "Atmosféra byla skvělá a my doufáme, že si to hráči užili, tak jako my. Budeme se těšit v létě 17.9.2023 na další kolo mazáků. Přihlášky jsou už otevřené, týmy se zaplaceným startovným trénují za 50 Kč / Hráč a trénink se vyplácí!"
+msgstr ""
+
+msgid "%s strávilo %s ve hře vypnuté."
+msgstr ""
+
+msgctxt "results.highlights"
+msgid "%s zasáhl nejvíce spoluhráčů (%d)."
+msgstr ""
+
+msgid "Probíhá automatické odhlášení"
+msgstr ""
+
+msgid "Odhlášení po 2 minutách neaktivity."
+msgstr ""
+
+msgid "Úvod"
+msgstr ""
+
+msgctxt "musicModes"
+msgid "K-POP 2"
+msgstr ""
+
+msgctxt "results.highlights"
+msgid "Týmové skóre"
+msgstr ""
+
+msgid "%s strávila %s ve hře vypnutá. To je víc než polovina hry!"
+msgstr ""
+
+msgid "%s strávil %s ve hře vypnutý. To je víc než polovina hry!"
+msgstr ""
+
+msgid "Umístění"
+msgstr ""
+
+msgid "%s strávilo %s ve hře vypnuté. To je víc než polovina hry!"
+msgstr ""
+
+msgctxt "results.highlights"
+msgid "%s byla zasažena nejvíce spoluhráči (%d)."
+msgstr ""
+
+msgid "Team deathmach"
+msgstr ""
+
+msgid "Deathmach"
+msgstr ""
+
+msgid "Základny"
+msgstr ""
+
+msgid "Marco polo"
+msgstr ""
+
+msgctxt "musicModes"
+msgid "HARDSTYLE"
+msgstr ""
+
+msgctxt "musicModes"
+msgid "DECHOVKA"
+msgstr ""
+
+msgctxt "musicModes"
+msgid "Anime 2 (Vykyndr)"
+msgstr ""
+
+msgid "Zasedlý"
+msgstr ""
+
+msgctxt "musicModes"
+msgid "Lidový hardbass"
+msgstr ""
+
+msgid "Nedotknutelný"
+msgstr ""
+
+msgid "Bonusy"
+msgstr ""
+
+msgid "Agent"
+msgstr ""
+
+msgid "Neviditelnost"
+msgstr ""
+
+msgid "Samopal"
+msgstr ""
+
+msgid "Štít"
+msgstr ""
+
+msgctxt "musicModes"
+msgid "Herní mix by Pogánek"
+msgstr ""
+
+msgctxt "musicModes"
+msgid "Anime 3 (Heroyt 2)"
+msgstr ""
+
+msgctxt "musicModes"
+msgid "FIlm 2 by Pogánek"
+msgstr ""
+
+msgctxt "musicModes"
+msgid "Film 1 by Pogánek"
+msgstr ""
+
+msgctxt "musicModes"
+msgid "LaserMaxx"
+msgstr ""
+
+msgid "Tahoun týmu"
+msgstr ""
+
+msgid "%s získala %.1fx tolik bonusů co ostatní."
+msgstr ""
+
+msgid "%s začal svou cestu laser game hráče registrací do Laser ligy %s."
+msgstr ""
+
+msgid "Od té doby bohužel ještě nehrál ani jednu hru."
+msgstr ""
+
+msgid "Zabiják"
+msgstr ""
+
+msgid "Turnaje hráče - %s"
+msgstr ""
+
+msgctxt "results.highlights"
+msgid "%s zasáhlo více spoluhráčů, než protihráčů"
+msgstr ""
+
+msgctxt "results.highlights"
+msgid "%s zasáhl svého spoluhráče %s vícekrát, než kteréhokoliv protihráče"
+msgstr ""
+
+msgctxt "musicModes"
+msgid "Standard"
+msgstr ""
+
+msgctxt "results.highlights"
+msgid "%s zasáhla nejvíce spoluhráčů (%d)."
+msgstr ""
+
+msgctxt "pageTitles"
+msgid "Zapomenuté heslo"
+msgstr ""
+
+msgctxt "pageDescription"
+msgid "Formulář pro obnovení zapomenutého hesla."
+msgstr ""
+
+msgid "Pokud uživatel existuje, odeslali jsme vám e-mail s odkazem obnovu hesla."
+msgstr ""
+
+msgid "LaserLiga ještě není připravená na 100%, proto se může stát, že email spadne do spamu."
+msgstr ""
+
+msgid "Zatím odehrálo %d her."
+msgstr ""
+
+msgid "Už stihl odehrát %d her."
+msgstr ""
+
+msgid "Už stihlo odehrát %d her."
+msgstr ""
+
+msgctxt "musicModes"
+msgid "FILM 1"
+msgstr ""
+
+msgctxt "musicModes"
+msgid "OLDIES"
+msgstr ""
+
+msgctxt "musicModes"
+msgid "8-bit by Pogánek"
+msgstr ""
+
+msgctxt "results.highlights"
+msgid "%s zasáhl více spoluhráčů, než protihráčů"
+msgstr ""
+
+msgctxt "musicModes"
+msgid "Halloween 2"
+msgstr ""
+
+msgid "Statistiky týmu - %s"
+msgstr ""
+
+msgctxt "musicModes"
+msgid "K-POP 3"
+msgstr ""
+
+msgctxt "musicModes"
+msgid "HANS ZIMMER"
+msgstr ""
+
+msgctxt "musicModes"
+msgid "HEAVY METAL"
+msgstr ""
+
+msgctxt "musicModes"
+msgid "HERNÍ MIX"
+msgstr ""
+
+msgctxt "results.highlights"
+msgid "%s zasáhl svou spoluhráčku %s vícekrát, než kteréhokoliv protihráče"
+msgstr ""
+
+msgctxt "results.highlights"
+msgid "%s zasáhla více spoluhráčů, než protihráčů"
+msgstr ""
+
+msgctxt "results.highlights"
+msgid "%s zasáhla svého spoluhráče %s vícekrát, než kteréhokoliv protihráče"
+msgstr ""
+
+msgctxt "results.highlights"
+msgid "%s zasáhla svou spoluhráčku %s vícekrát, než kteréhokoliv protihráče"
+msgstr ""
+
+msgctxt "results.highlights"
+msgid "%s zasáhlo svou spoluhráčku %s vícekrát, než kteréhokoliv protihráče"
+msgstr ""
+
+msgid "Avatara si nemůžeš přímo vybrat, ale generují se náhodně. Můžeš si vybrat z několika různých stylů a pokud chceš ovlivnit jaký avatar se vygeneruje, můžeš zkusit měnit seed."
+msgstr ""
+
+msgid "Oficiální zdroj stylu"
+msgstr ""
+
+msgid "Další tituly odemkneš získáním ocenění."
+msgstr ""
+
+msgctxt "avatar"
+msgid "Dylan"
+msgstr ""
+
+msgid "#LaserGamePardubice"
+msgstr ""
+
+msgid "Zadejte URL vašeho profilu ve formátu https://my.lasermaxx.com/profile/0000000000."
+msgstr ""
+
+msgid "Zadejte Váš kód hráče ve formátu 00-0-000."
+msgstr ""
+
+msgctxt "musicModes"
+msgid "Military"
+msgstr ""
+
+msgctxt "musicModes"
+msgid "Horror"
+msgstr ""
+
+msgid "Vyrovnaný"
+msgstr ""
+
+msgctxt "musicModes"
+msgid "EuroBeat"
+msgstr ""
+
+msgid "%s jediné bylo zasaženo minou."
+msgstr ""
+
+msgctxt "musicModes"
+msgid "Halloween 1"
+msgstr ""
+
+msgctxt "pageTitles"
+msgid "Hra nenalezena"
+msgstr ""
+
+msgctxt "pageDescription"
+msgid "Nepodařilo se nám najít výsledky z této hry."
+msgstr ""
+
+msgid "Zatím odehrála %d her."
+msgstr ""
+
+msgid "Laserový závislák"
+msgstr ""
+
+msgid "%d další hráč"
+msgid_plural "%d dalších hráčů"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+
+msgid "První hra"
+msgstr ""
+
+msgid "Poslední hra"
+msgstr ""
+
+msgid "Odhlášený"
+msgstr ""
+
+msgid "Celkem se turnaje zůčastnilo 7 týmů, kteří se utkali často ve velmi vyrovnaných soubojích o medaile a body do celoroční soutěže. Do té se každému týmu započítají body podle jejich celkového umístění na jednotlivých turnajích. Ještě nás čekají 2, takže o vítězi poháru stále není rozhodnuto a může se stát cokoliv."
+msgstr ""
+
+msgid "Atmosféra byla skvělá a my doufáme, že si to hráči užili, tak jako my. Budeme se těšit v létě 30.7.2023 na další kolo začátečníků. Přihlášky jsou už otevřené, týmy se zaplaceným startovným trénují za 50 Kč / Hráč a trénink se vyplácí!"
+msgstr ""
+
+msgid "Turnaj se ještě nehrál"
+msgstr ""
+
+msgid "Vítěz"
+msgstr ""
+
+msgid "Nekonečná munice"
+msgstr ""
+
+msgid "T.M.A"
+msgstr ""
+
+msgid "Společné hry"
+msgstr ""
+
+msgid "Porovnat se mnou"
+msgstr ""
+
+msgid "Žádné společné hry"
+msgstr ""
+
+msgid "Vzájmené hry %s a %s. Je zde vidět, kolik her spolu odehráli a jak moc proti sobě vyhrávají / prohrávají."
+msgstr ""
+
+msgid "Spolu v týmu"
+msgstr ""
+
+msgid "Proti sobě - týmy"
+msgstr ""
+
+msgid "Proti sobě - solo"
+msgstr ""
+
+msgid "Hry proti sobě"
+msgstr ""
+
+msgid "Hry spolu v týmu"
+msgstr ""
+
+msgid "Zásahy proti sobě"
+msgstr ""
+
+msgid "Zásahy spolu v týmu"
+msgstr ""
+
+msgid "Nepodařilo se odeslat e-mail"
+msgstr ""
+
+msgid "Průzkumník"
+msgstr ""
+
+msgid "Drtič min"
+msgstr ""
+
+msgid "Hráč s nejlepší muškou"
+msgstr ""
+
+msgid "Největší vlastňák"
+msgstr ""
+
+msgid "Zabiják vlastního týmu"
+msgstr ""
+
+msgid "Absolutní vítěz"
+msgstr ""
+
+msgid "Největší terminátor"
 msgstr ""
 
