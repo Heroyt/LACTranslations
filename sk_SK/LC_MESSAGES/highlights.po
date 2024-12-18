@@ -208,3 +208,7 @@ msgstr ""
 msgctxt "user"
 msgid "%s proti %s většinou prohrává, ale teď jí porazil."
 msgstr ""
+
+msgctxt "pod"
+msgid "%s získala %.1fx tolik bonusů co ostatní."
+msgstr ""
