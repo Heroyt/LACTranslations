@@ -11,216 +11,216 @@ msgstr ""
 "Project-Id-Version: laserarenacontrol\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: English\n"
-"PO-Revision-Date: 2024-12-18 13:42\n"
+"PO-Revision-Date: 2024-12-18 14:12\n"
 
 msgid "Anime 2 (Vykyndr)"
-msgstr ""
+msgstr "Anime 2 (Vykyndr)"
 
 msgid "Lollipopz"
-msgstr ""
+msgstr "Lollipopz"
 
 msgid "Albatraoz"
-msgstr ""
+msgstr "Albatraoz"
 
 msgctxt "group"
 msgid "Anime"
-msgstr ""
+msgstr "Anime"
 
 msgid "Anime 1 (Heroyt)"
-msgstr ""
+msgstr "Anime 1 (Heroyt)"
 
 msgid "Anime 3 (Heroyt 2)"
-msgstr ""
+msgstr "Anime 3 (Heroyt 2)"
 
 msgid "Doom"
-msgstr ""
+msgstr "Doom"
 
 msgid "Dubstep"
-msgstr ""
+msgstr "Dubstep"
 
 msgctxt "group"
 msgid "K-POP"
-msgstr ""
+msgstr "K-POP"
 
 msgid "K-POP"
-msgstr ""
+msgstr "K-POP"
 
 msgid "K-POP 2"
-msgstr ""
+msgstr "K-POP 2"
 
 msgid "K-POP 3"
-msgstr ""
+msgstr "K-POP 3"
 
 msgctxt "group"
 msgid "Lasermaxx"
-msgstr ""
+msgstr "Lasermaxx"
 
 msgid "Standard"
-msgstr ""
+msgstr "Standard"
 
 msgid "Military"
-msgstr ""
+msgstr "Military"
 
 msgid "Requiem"
-msgstr ""
+msgstr "Requiem"
 
 msgid "Marvel"
-msgstr ""
+msgstr "Marvel"
 
 msgid "Matrix"
-msgstr ""
+msgstr "Matrix"
 
 msgid "Mortal kombat"
-msgstr ""
+msgstr "Mortal kombat"
 
 msgid "Narozeniny"
-msgstr ""
+msgstr "Birthday"
 
 msgid "Piráti z karibiku"
-msgstr ""
+msgstr "Pirates of the Caribbean"
 
 msgid "S3RL"
-msgstr ""
+msgstr "S3RL"
 
 msgid "StarWars"
-msgstr ""
+msgstr "StarWars"
 
 msgid "Trpasličí metal"
-msgstr ""
+msgstr "Dwarven metal"
 
 msgid "Turnajový mix"
-msgstr ""
+msgstr "Tournament mix"
 
 msgid "Undertale"
-msgstr ""
+msgstr "Undertale"
 
 msgctxt "group"
 msgid "AI"
-msgstr ""
+msgstr "AI"
 
 msgid "Laser Showdown"
-msgstr ""
+msgstr "Laser Showdown"
 
 msgid "Lidový hardbass"
-msgstr ""
+msgstr "Lidový hardbass"
 
 msgid "Horror"
-msgstr ""
+msgstr "Horror"
 
 msgctxt "group"
 msgid "Halloween"
-msgstr ""
+msgstr "Halloween"
 
 msgid "Halloween 1"
-msgstr ""
+msgstr "Halloween 1"
 
 msgid "Halloween 2"
-msgstr ""
+msgstr "Halloween 2"
 
 msgid "Vlčí klan"
-msgstr ""
+msgstr "Vlčí klan"
 
 msgid "HERNÍ MIX"
-msgstr ""
+msgstr "HERNÍ MIX"
 
 msgid "LaserMaxx"
-msgstr ""
+msgstr "LaserMaxx"
 
 msgid "CRAZY MIX"
-msgstr ""
+msgstr "CRAZY MIX"
 
 msgid "HOUSETRANCE"
-msgstr ""
+msgstr "HOUSETRANCE"
 
 msgid "CSR ROCK"
-msgstr ""
+msgstr "CSR ROCK"
 
 msgid "DECHOVKA"
-msgstr ""
+msgstr "DECHOVKA"
 
 msgid "DETI"
-msgstr ""
+msgstr "DETI"
 
 msgid "DRUM AND BASE"
-msgstr ""
+msgstr "DRUM AND BASE"
 
 msgid "DUBSTEP"
-msgstr ""
+msgstr "DUBSTEP"
 
 msgid "ELECTRO"
-msgstr ""
+msgstr "ELECTRO"
 
 msgctxt "group"
 msgid "FILM"
-msgstr ""
+msgstr "FILM"
 
 msgid "FILM 1"
-msgstr ""
+msgstr "FILM 1"
 
 msgid "FILM 2"
-msgstr ""
+msgstr "FILM 2"
 
 msgid "Film 1 by Pogánek"
-msgstr ""
+msgstr "Film 1 by Pogánek"
 
 msgid "FIlm 2 by Pogánek"
-msgstr ""
+msgstr "FIlm 2 by Pogánek"
 
 msgid "HANS ZIMMER"
-msgstr ""
+msgstr "HANS ZIMMER"
 
 msgid "HARDSTYLE"
-msgstr ""
+msgstr "HARDSTYLE"
 
 msgid "HEAVY METAL"
-msgstr ""
+msgstr "HEAVY METAL"
 
 msgid "HOROR"
-msgstr ""
+msgstr "HOROR"
 
 msgid "OLDIES"
-msgstr ""
+msgstr "OLDIES"
 
 msgid "ROCK"
-msgstr ""
+msgstr "ROCK"
 
 msgid "WESTERN"
-msgstr ""
+msgstr "WESTERN"
 
 msgid "EuroBeat"
-msgstr ""
+msgstr "EuroBeat"
 
 msgid "J-pop"
-msgstr ""
+msgstr "J-pop"
 
 msgid "NCS pozadní hudba"
-msgstr ""
+msgstr "NCS pozadní hudba"
 
 msgid "Herní mix by Pogánek"
-msgstr ""
+msgstr "Herní mix by Pogánek"
 
 msgid "DnB by Pogánek"
-msgstr ""
+msgstr "DnB by Pogánek"
 
 msgid "White girl aesthetic"
-msgstr ""
+msgstr "White girl aesthetic"
 
 msgid "CZ HARDSTYLE"
-msgstr ""
+msgstr "CZ HARDSTYLE"
 
 msgid "Nightcore"
-msgstr ""
+msgstr "Nightcore"
 
 msgid "8-bit by Pogánek"
-msgstr ""
+msgstr "8-bit by Pogánek"
 
 msgctxt "group"
 msgid "LaserMaxx"
-msgstr ""
+msgstr "LaserMaxx"
 
 msgid "LaserMaxx Military"
-msgstr ""
+msgstr "LaserMaxx Military"
 
 msgid "Strážci galaxie"
-msgstr ""
+msgstr "Guardians of the galaxy"
 
