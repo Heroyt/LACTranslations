@@ -199,3 +199,11 @@ msgstr "This policy may be updated. You will be notified of any changes."
 msgctxt "last_updated"
 msgid "Poslední aktualizace: %s"
 msgstr "Last updated: %s"
+
+msgctxt "security_turnstile"
+msgid "Pro ochranu formulářů na webu používáme službu <a href=\"https://www.cloudflare.com/application-services/products/turnstile/\" target=\"_blank\">Cloudflare Turnstile Captcha</a>, která chrání proti automatizovaným útokům a zajišťuje bezpečnost webu."
+msgstr "To protect forms on the website, we use the <a href=\"https://www.cloudflare.com/application-services/products/turnstile/\" target=\"_blank\">Cloudflare Turnstile Captcha</a> service, which prevents automated attacks and ensures website security."
+
+msgctxt "security_turnstile_anonymity"
+msgid "Cloudflare Turnstile nezpracovává osobní údaje uživatelů a veškeré ověřování probíhá anonymně."
+msgstr "Cloudflare Turnstile does not process users' personal data, and all verification is conducted anonymously."
