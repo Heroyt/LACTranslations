@@ -3,7 +3,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language: en_US\n"
 "Language-Team: English\n"
-"PO-Revision-Date: 2024-12-18 13:41\n"
+"PO-Revision-Date: 2024-12-18 14:12\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Project-Id-Version: laserarenacontrol\n"
 "X-Crowdin-File: /master/highlights.pot\n"
@@ -123,85 +123,93 @@ msgstr "%s gained %.1fx as many powers as the others."
 
 msgctxt "hits"
 msgid "%s zasáhlo hráče %s a %s stejněkrát (%d)"
-msgstr ""
+msgstr "%s hit the players %s and %s the same number of times (%d)"
 
 msgctxt "hits"
 msgid "%s zasáhla hráče %s a %s stejněkrát (%d)"
-msgstr ""
+msgstr "%s hit the players %s and %s the same number of times (%d)"
 
 msgctxt "hits"
 msgid "%s zasáhl hráče %s a %s stejněkrát (%d)"
-msgstr ""
+msgstr "%s hit the players %s and %s the same number of times (%d)"
 
 msgctxt "results"
 msgid "%s byl zasažen nejvíce spoluhráči (%d)."
-msgstr ""
+msgstr "%s was hit the most by teammates (%d)."
 
 msgctxt "user"
 msgid "%s má %0.2fx lepší přesnost, než obvykle"
-msgstr ""
+msgstr "%s has %0.2fx better accuracy than usual"
 
 msgctxt "user"
 msgid "%s má %0.2fx více výstřelů za minutu, než obvykle"
-msgstr ""
+msgstr "%s has %0.2fx fired more shots per minute than usual"
 
 msgctxt "results"
 msgid "%s zasáhl nejvíce spoluhráčů (%d)."
-msgstr ""
+msgstr "%s hit the most teammates (%d)."
 
 msgctxt "results"
 msgid "%s bylo zasaženo nejvíce spoluhráči (%d)."
-msgstr ""
+msgstr "%s was hit the most by teammates (%d)."
 
 msgctxt "pod"
 msgid "%s získalo %.1fx tolik bonusů co ostatní."
-msgstr ""
+msgstr "%s gained %.1fx as many powers as the others."
 
 msgctxt "results"
 msgid "%s zasáhlo nejvíce spoluhráčů (%d)."
-msgstr ""
+msgstr "%s hit the most teammates (%d)."
 
 msgctxt "deaths"
 msgid "%s strávilo %s ve hře vypnuté. To je víc než polovina hry!"
-msgstr ""
+msgstr "%s spent %s in-game turned off. That's more than half of the game!"
 
 msgctxt "user"
 msgid "%s proti %s většinou prohrává, ale teď ho porazilo."
-msgstr ""
+msgstr "Typically, %s loses to %s, but this time they have managed to defeat him."
 
 msgctxt "user"
 msgid "Týmové skóre"
-msgstr ""
+msgstr "Team score"
 
 msgctxt "user"
 msgid "%s proti %s většinou prohrává, ale teď jí porazilo."
-msgstr ""
+msgstr "Typically, %s loses to %s, but this time they have managed to defeat her."
 
 msgctxt "user"
 msgid "%s proti %s většinou prohrává, ale teď to porazilo."
-msgstr ""
+msgstr "Typically, %s loses to %s, but this time they have managed to defeat them."
 
 msgctxt "results"
 msgid "%s byli zasaženi nejvíce spoluhráči (%d)."
-msgstr ""
+msgstr "%s were hit the most by teammates (%d)."
 
 msgctxt "results"
 msgid "%s zasáhla nejvíce spoluhráčů (%d)."
-msgstr ""
+msgstr "%s hit the most teammates (%d)."
 
 msgctxt "user"
 msgid "%s a %s mají stejné skóre."
-msgstr ""
+msgstr "%s and %s have the same score."
 
 msgctxt "user"
 msgid "%s proti %s většinou prohrává, ale teď ho porazil."
+msgstr "Typically, %s loses to %s, but this time, he managed to defeat him."
+
+msgctxt "user"
+msgid "%s proti %s většinou prohrává, ale teď to porazil."
 msgstr ""
 
 msgctxt "user"
 msgid "%s proti %s většinou prohrává, ale teď to porazila."
-msgstr ""
+msgstr "Typically, %s loses to %s, but this time she has managed to defeat them."
 
 msgctxt "user"
 msgid "%s proti %s většinou prohrává, ale teď jí porazil."
+msgstr "Typically, %s loses to %s, but this time he has managed to defeat her."
+
+msgctxt "pod"
+msgid "%s získala %.1fx tolik bonusů co ostatní."
 msgstr ""
 
