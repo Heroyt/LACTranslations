@@ -5048,51 +5048,11 @@ msgstr ""
 msgid "To nejsem já"
 msgstr ""
 
-msgctxt "results.highlights"
-msgid "Hráči %s a %s se oba navzájem zasáhli %dx."
-msgstr ""
-
 msgid "%s zasáhli nejvíce spoluhráčů (%d)."
 msgstr ""
 
 msgctxt "spojka"
 msgid "a"
-msgstr ""
-
-msgctxt "results.highlights"
-msgid "%s bylo zasaženo nejvíce spoluhráči (%d)."
-msgstr ""
-
-msgctxt "results.highlights"
-msgid "%s si zasedlo na %s"
-msgstr ""
-
-msgctxt "results.highlights"
-msgid "%s získává trofej: %s"
-msgstr ""
-
-msgctxt "results.highlights"
-msgid "%s bylo pronásledováno od %s"
-msgstr ""
-
-msgctxt "results.highlights"
-msgid "%s zasáhlo nejvíce spoluhráčů (%d)."
-msgstr ""
-
-msgctxt "results.highlights"
-msgid "%s byli zasaženi nejvíce spoluhráči (%d)."
-msgstr ""
-
-msgctxt "results.highlights"
-msgid "%s si zasedla na %s"
-msgstr ""
-
-msgctxt "results.highlights"
-msgid "%s byla pronásledovaná od %s"
-msgstr ""
-
-msgctxt "results.highlights"
-msgid "%s byl pronásledovaný od %s"
 msgstr ""
 
 msgid "%s začalo svou cestu laser game hráče svou první hrou %s."
@@ -5176,26 +5136,6 @@ msgstr ""
 msgid "Žádné hry neodpovídají filtrům"
 msgstr ""
 
-msgctxt "results.highlights"
-msgid "%s má %0.2fx lepší přesnost, než obvykle"
-msgstr ""
-
-msgctxt "results.highlights"
-msgid "%s proti %s většinou prohrává, ale teď ho porazil."
-msgstr ""
-
-msgctxt "results.highlights"
-msgid "%s proti %s většinou prohrává, ale teď jí porazil."
-msgstr ""
-
-msgctxt "results.highlights"
-msgid "%s proti %s většinou prohrává, ale teď jí porazila."
-msgstr ""
-
-msgctxt "results.highlights"
-msgid "%s proti %s většinou prohrává, ale teď ho porazila."
-msgstr ""
-
 msgid "Algoritmus nepracuje se skórem, ale s herní úrovní hráče z dané hry."
 msgstr ""
 
@@ -5230,18 +5170,6 @@ msgid "Hodnota vypočítaná podle toho, jak jsou hráči vyrovnaní. Výsledná
 msgstr ""
 
 msgid "Získáno bodů z hráče"
-msgstr ""
-
-msgctxt "results.highlights"
-msgid "%s má %0.2fx více výstřelů za minutu, než obvykle"
-msgstr ""
-
-msgctxt "results.highlights"
-msgid "%s a %s mají stejné skóre."
-msgstr ""
-
-msgctxt "results.highlights"
-msgid "%s si zasedl na %s"
 msgstr ""
 
 msgid "aréna"
@@ -5530,10 +5458,6 @@ msgstr ""
 msgid "Odeslat"
 msgstr ""
 
-msgctxt "results.highlights"
-msgid "%s zasáhl hráče %s a %s stejněkrát (%d)"
-msgstr ""
-
 msgid "%s strávil %s ve hře vypnutý."
 msgstr ""
 
@@ -5551,19 +5475,7 @@ msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
 
-msgctxt "results.highlights"
-msgid "%s zasáhla hráče %s a %s stejněkrát (%d)"
-msgstr ""
-
 msgid "%s strávila %s ve hře vypnutá."
-msgstr ""
-
-msgctxt "results.highlights"
-msgid "%s zasáhlo hráče %s a %s stejněkrát (%d)"
-msgstr ""
-
-msgctxt "results.highlights"
-msgid "%s byl zasažen nejvíce spoluhráči (%d)."
 msgstr ""
 
 msgid "Posun v žebříčku!"
@@ -5615,10 +5527,6 @@ msgstr ""
 msgid "Férový hráč"
 msgstr ""
 
-msgctxt "results.highlights"
-msgid "%s proti %s většinou prohrává, ale teď to porazil."
-msgstr ""
-
 msgid "Celkem se zúčastnilo 6 týmů. Týmy byli nakombinované z Píseckých mazáků, jednoho kroužkového týmu a dokonce přijel i tým z Říčanské arény.  Žádný tým nehrál špatně, i tým Říčany, přes neznalost vybavení, předvedli slušný výkon v naší nejsilnější kategorii."
 msgstr ""
 
@@ -5631,10 +5539,6 @@ msgstr ""
 msgid "%s strávilo %s ve hře vypnuté."
 msgstr ""
 
-msgctxt "results.highlights"
-msgid "%s zasáhl nejvíce spoluhráčů (%d)."
-msgstr ""
-
 msgid "Probíhá automatické odhlášení"
 msgstr ""
 
@@ -5642,10 +5546,6 @@ msgid "Odhlášení po 2 minutách neaktivity."
 msgstr ""
 
 msgid "Úvod"
-msgstr ""
-
-msgctxt "results.highlights"
-msgid "Týmové skóre"
 msgstr ""
 
 msgid "%s strávila %s ve hře vypnutá. To je víc než polovina hry!"
@@ -5658,10 +5558,6 @@ msgid "Umístění"
 msgstr ""
 
 msgid "%s strávilo %s ve hře vypnuté. To je víc než polovina hry!"
-msgstr ""
-
-msgctxt "results.highlights"
-msgid "%s byla zasažena nejvíce spoluhráči (%d)."
 msgstr ""
 
 msgid "Team deathmach"
@@ -5715,18 +5611,6 @@ msgstr ""
 msgid "Turnaje hráče - %s"
 msgstr ""
 
-msgctxt "results.highlights"
-msgid "%s zasáhlo více spoluhráčů, než protihráčů"
-msgstr ""
-
-msgctxt "results.highlights"
-msgid "%s zasáhl svého spoluhráče %s vícekrát, než kteréhokoliv protihráče"
-msgstr ""
-
-msgctxt "results.highlights"
-msgid "%s zasáhla nejvíce spoluhráčů (%d)."
-msgstr ""
-
 msgctxt "pageTitles"
 msgid "Zapomenuté heslo"
 msgstr ""
@@ -5750,31 +5634,7 @@ msgstr ""
 msgid "Už stihlo odehrát %d her."
 msgstr ""
 
-msgctxt "results.highlights"
-msgid "%s zasáhl více spoluhráčů, než protihráčů"
-msgstr ""
-
 msgid "Statistiky týmu - %s"
-msgstr ""
-
-msgctxt "results.highlights"
-msgid "%s zasáhl svou spoluhráčku %s vícekrát, než kteréhokoliv protihráče"
-msgstr ""
-
-msgctxt "results.highlights"
-msgid "%s zasáhla více spoluhráčů, než protihráčů"
-msgstr ""
-
-msgctxt "results.highlights"
-msgid "%s zasáhla svého spoluhráče %s vícekrát, než kteréhokoliv protihráče"
-msgstr ""
-
-msgctxt "results.highlights"
-msgid "%s zasáhla svou spoluhráčku %s vícekrát, než kteréhokoliv protihráče"
-msgstr ""
-
-msgctxt "results.highlights"
-msgid "%s zasáhlo svou spoluhráčku %s vícekrát, než kteréhokoliv protihráče"
 msgstr ""
 
 msgid "Avatara si nemůžeš přímo vybrat, ale generují se náhodně. Můžeš si vybrat z několika různých stylů a pokud chceš ovlivnit jaký avatar se vygeneruje, můžeš zkusit měnit seed."
