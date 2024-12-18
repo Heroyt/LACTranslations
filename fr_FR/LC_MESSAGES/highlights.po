@@ -3,7 +3,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language: fr_FR\n"
 "Language-Team: French\n"
-"PO-Revision-Date: 2024-12-17 16:05\n"
+"PO-Revision-Date: 2024-12-18 13:41\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "Project-Id-Version: laserarenacontrol\n"
 "X-Crowdin-File: /master/highlights.pot\n"
@@ -198,13 +198,10 @@ msgid "%s proti %s většinou prohrává, ale teď ho porazil."
 msgstr ""
 
 msgctxt "user"
-msgid "%s proti %s většinou prohrává, ale teď to porazil."
-msgstr ""
-
-msgctxt "user"
 msgid "%s proti %s většinou prohrává, ale teď to porazila."
 msgstr ""
 
 msgctxt "user"
 msgid "%s proti %s většinou prohrává, ale teď jí porazil."
 msgstr ""
+
