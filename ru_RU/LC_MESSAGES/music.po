@@ -1,0 +1,226 @@
+msgid ""
+msgstr ""
+"Language: ru_RU\n"
+"Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
+"X-Domain: music\n"
+"X-Crowdin-Project: laserarenacontrol\n"
+"X-Crowdin-Project-ID: 515800\n"
+"X-Crowdin-Language: ru\n"
+"X-Crowdin-File: /master/music.pot\n"
+"X-Crowdin-File-ID: 98\n"
+"Project-Id-Version: laserarenacontrol\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Russian\n"
+"PO-Revision-Date: 2024-12-18 13:42\n"
+
+msgid "Anime 2 (Vykyndr)"
+msgstr ""
+
+msgid "Lollipopz"
+msgstr ""
+
+msgid "Albatraoz"
+msgstr ""
+
+msgctxt "group"
+msgid "Anime"
+msgstr ""
+
+msgid "Anime 1 (Heroyt)"
+msgstr ""
+
+msgid "Anime 3 (Heroyt 2)"
+msgstr ""
+
+msgid "Doom"
+msgstr ""
+
+msgid "Dubstep"
+msgstr ""
+
+msgctxt "group"
+msgid "K-POP"
+msgstr ""
+
+msgid "K-POP"
+msgstr ""
+
+msgid "K-POP 2"
+msgstr ""
+
+msgid "K-POP 3"
+msgstr ""
+
+msgctxt "group"
+msgid "Lasermaxx"
+msgstr ""
+
+msgid "Standard"
+msgstr ""
+
+msgid "Military"
+msgstr ""
+
+msgid "Requiem"
+msgstr ""
+
+msgid "Marvel"
+msgstr ""
+
+msgid "Matrix"
+msgstr ""
+
+msgid "Mortal kombat"
+msgstr ""
+
+msgid "Narozeniny"
+msgstr ""
+
+msgid "Piráti z karibiku"
+msgstr ""
+
+msgid "S3RL"
+msgstr ""
+
+msgid "StarWars"
+msgstr ""
+
+msgid "Trpasličí metal"
+msgstr ""
+
+msgid "Turnajový mix"
+msgstr ""
+
+msgid "Undertale"
+msgstr ""
+
+msgctxt "group"
+msgid "AI"
+msgstr ""
+
+msgid "Laser Showdown"
+msgstr ""
+
+msgid "Lidový hardbass"
+msgstr ""
+
+msgid "Horror"
+msgstr ""
+
+msgctxt "group"
+msgid "Halloween"
+msgstr ""
+
+msgid "Halloween 1"
+msgstr ""
+
+msgid "Halloween 2"
+msgstr ""
+
+msgid "Vlčí klan"
+msgstr ""
+
+msgid "HERNÍ MIX"
+msgstr ""
+
+msgid "LaserMaxx"
+msgstr ""
+
+msgid "CRAZY MIX"
+msgstr ""
+
+msgid "HOUSETRANCE"
+msgstr ""
+
+msgid "CSR ROCK"
+msgstr ""
+
+msgid "DECHOVKA"
+msgstr ""
+
+msgid "DETI"
+msgstr ""
+
+msgid "DRUM AND BASE"
+msgstr ""
+
+msgid "DUBSTEP"
+msgstr ""
+
+msgid "ELECTRO"
+msgstr ""
+
+msgctxt "group"
+msgid "FILM"
+msgstr ""
+
+msgid "FILM 1"
+msgstr ""
+
+msgid "FILM 2"
+msgstr ""
+
+msgid "Film 1 by Pogánek"
+msgstr ""
+
+msgid "FIlm 2 by Pogánek"
+msgstr ""
+
+msgid "HANS ZIMMER"
+msgstr ""
+
+msgid "HARDSTYLE"
+msgstr ""
+
+msgid "HEAVY METAL"
+msgstr ""
+
+msgid "HOROR"
+msgstr ""
+
+msgid "OLDIES"
+msgstr ""
+
+msgid "ROCK"
+msgstr ""
+
+msgid "WESTERN"
+msgstr ""
+
+msgid "EuroBeat"
+msgstr ""
+
+msgid "J-pop"
+msgstr ""
+
+msgid "NCS pozadní hudba"
+msgstr ""
+
+msgid "Herní mix by Pogánek"
+msgstr ""
+
+msgid "DnB by Pogánek"
+msgstr ""
+
+msgid "White girl aesthetic"
+msgstr ""
+
+msgid "CZ HARDSTYLE"
+msgstr ""
+
+msgid "Nightcore"
+msgstr ""
+
+msgid "8-bit by Pogánek"
+msgstr ""
+
+msgctxt "group"
+msgid "LaserMaxx"
+msgstr ""
+
+msgid "LaserMaxx Military"
+msgstr ""
+
+msgid "Strážci galaxie"
+msgstr ""
+
