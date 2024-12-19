@@ -6,7 +6,7 @@ msgstr ""
 "Language-Team: English\n"
 "Last-Translator: Tomáš Vojík <vojik@wboy.cz>\n"
 "MIME-Version: 1.0\n"
-"PO-Revision-Date: 2024-12-18 18:49\n"
+"PO-Revision-Date: 2024-12-19 12:29\n"
 "POT-Creation-Date: \n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Project-Id-Version: laserarenacontrol\n"
@@ -6002,60 +6002,60 @@ msgstr "Terminator"
 
 msgid "Podařilo se ti získat nové ocenění!"
 msgid_plural "Podařilo se ti získat nová ocenění!"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "You managed to get a new achievement!"
+msgstr[1] "You managed to get a new achievements!"
 
 msgctxt "achievement"
 msgid "Hráč na misi"
-msgstr ""
+msgstr "Player on a mission"
 
 msgid "Někdo tě přeskočil v žebříčku!"
-msgstr ""
+msgstr "Someone has overtaken you in the rankings!"
 
 msgid "Posunul si se o %d místo dolů a teď jsi %s."
 msgid_plural "Posunul si se o %d míst dolů a teď jsi %s"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "You moved %d place down the leaderboard, and now you're %s."
+msgstr[1] "You moved %d places down the leaderboard, and now you're %s."
 
 msgctxt "achievement"
 msgid "Infiltrátor"
-msgstr ""
+msgstr "Infiltrator"
 
 msgid "Ligy laser game"
-msgstr ""
+msgstr "Laser game Leagues"
 
 msgid "Liga laser game je dlouhodobá soutěž skládající se z několika turnajů. Výsledky jsou vyhodnocovány z každého turnaje zvlášť, ale zároveň mezi turnaji. Na konci ligového období jsou vyhlášeny celkové výsledky."
-msgstr ""
+msgstr "A laser game league is a long-term competition consisting of several tournaments. The results of each tournament are evaluated separately and as a whole. At the end of the league season, the overall results are announced."
 
 msgctxt "pageTitles"
 msgid "Akce %s - %s"
-msgstr ""
+msgstr "Event %s - %s"
 
 msgctxt "pageDescription"
 msgid "Akce %s v %s v datech %s."
-msgstr ""
+msgstr "Event %s in %s on %s."
 
 msgid "Zpět na plánované akce"
-msgstr ""
+msgstr "Back to planned events"
 
 msgid "Informace o akci laser game, který se bude odehrávat v %s."
-msgstr ""
+msgstr "Information about the laser game event that will take place in %s."
 
 msgid "Laser game akce: %s"
-msgstr ""
+msgstr "Laser game event: %s"
 
 msgid "Termíny"
-msgstr ""
+msgstr "Dates"
 
 msgid "Zrušený"
-msgstr ""
+msgstr "Cancelled"
 
 msgid "Individuální"
-msgstr ""
+msgstr "Solo"
 
 msgid "Seznam přihlášených hráčů na akci laser game."
-msgstr ""
+msgstr "List of registered players in this laser game event."
 
 msgid "Termín je zrušený"
-msgstr ""
+msgstr "This term is cancelled"
 
