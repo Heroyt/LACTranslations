@@ -83,4 +83,3 @@ msgstr "Lista separada por comas de los nombres de contexto para omitir al fusio
 msgctxt "errors"
 msgid "Insufficient data for game mode: %s (#%d)"
 msgstr "Datos insuficientes para el modo de partido: %s (#%d)"
-

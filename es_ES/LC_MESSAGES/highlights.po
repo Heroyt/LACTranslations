@@ -213,3 +213,6 @@ msgctxt "pod"
 msgid "%s získala %.1fx tolik bonusů co ostatní."
 msgstr ""
 
+msgctxt "evo5"
+msgid "%s jediné bylo zasaženo minou."
+msgstr ""

@@ -788,3 +788,18 @@ msgstr ""
 msgctxt "style"
 msgid "Tabulkové"
 msgstr ""
+
+msgid "Skóre"
+msgstr ""
+
+msgid "Výstřely"
+msgstr ""
+
+msgid "Zásahy"
+msgstr ""
+
+msgid "Smrti"
+msgstr ""
+
+msgid "Sniper"
+msgstr ""

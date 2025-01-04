@@ -216,3 +216,7 @@ msgstr ""
 msgctxt "results"
 msgid "%s byla zasažena nejvíce spoluhráči (%d)."
 msgstr ""
+
+msgctxt "evo5"
+msgid "%s jediné bylo zasaženo minou."
+msgstr ""

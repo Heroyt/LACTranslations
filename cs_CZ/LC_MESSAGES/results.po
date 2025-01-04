@@ -800,3 +800,18 @@ msgstr "Výchozí"
 msgctxt "style"
 msgid "Tabulkové"
 msgstr "Tabulkové"
+
+msgid "Skóre"
+msgstr ""
+
+msgid "Výstřely"
+msgstr ""
+
+msgid "Zásahy"
+msgstr ""
+
+msgid "Smrti"
+msgstr ""
+
+msgid "Sniper"
+msgstr ""

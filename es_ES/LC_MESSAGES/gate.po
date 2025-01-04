@@ -352,4 +352,3 @@ msgstr "Visualización manual del juego"
 msgctxt "settings"
 msgid "Rozložení obrazovky"
 msgstr "Disposición de pantalla"
-

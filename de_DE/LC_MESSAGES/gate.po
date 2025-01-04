@@ -352,4 +352,3 @@ msgstr ""
 msgctxt "settings"
 msgid "Rozložení obrazovky"
 msgstr ""
-

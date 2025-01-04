@@ -238,4 +238,3 @@ msgstr ""
 
 msgid "Zabijáci vlastních"
 msgstr ""
-
