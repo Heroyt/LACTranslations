@@ -4728,3 +4728,84 @@ msgstr ""
 
 msgid "Přetažením vest v mřížce upravujete zobrazení vest na výsledkové tabuli. Mělo by odpovídat fyzickému rozmístění vest na stojanech."
 msgstr ""
+
+msgctxt "pageTitles.settings"
+msgid "Systémy lasergame"
+msgstr ""
+
+msgctxt "settings"
+msgid "Nastavení LG systémů"
+msgstr ""
+
+msgctxt "settings"
+msgid "Obecné"
+msgstr ""
+
+msgctxt "settings"
+msgid "Vesty"
+msgstr ""
+
+msgctxt "settings"
+msgid "Rozlození vest"
+msgstr ""
+
+msgctxt "settings"
+msgid "Nastavení systému %s"
+msgstr ""
+
+msgid "Nový LG systém"
+msgstr ""
+
+msgid "Název systému"
+msgstr ""
+
+msgid "Typ vybavení"
+msgstr ""
+
+msgid "Počet vest"
+msgstr ""
+
+msgid "IP adresa konzole"
+msgstr ""
+
+msgid "Cesta k adresáři výsledků"
+msgstr ""
+
+msgid "Cesta k adresáři pro nahrání her"
+msgstr ""
+
+msgid "Cesta k adresáři hudby"
+msgstr ""
+
+msgid "Aktivní"
+msgstr ""
+
+msgid "Výchozí"
+msgstr ""
+
+msgid "Chyba při ukládání systému"
+msgstr ""
+
+msgctxt "vest.type"
+msgid "Vesta"
+msgstr ""
+
+msgctxt "vest.type"
+msgid "Zbraň"
+msgstr ""
+
+msgid "Opravdu chcete smazat vestu?"
+msgstr ""
+
+msgid "Přidat vesty"
+msgstr ""
+
+msgctxt "game"
+msgid "Vybrat LG systém"
+msgstr ""
+
+msgid "Naroozeniny"
+msgstr ""
+
+msgid "Narozeniny"
+msgstr ""
