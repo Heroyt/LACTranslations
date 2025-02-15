@@ -6,7 +6,7 @@ msgstr ""
 "Language-Team: French\n"
 "Last-Translator: Tomáš Vojík <vojik@wboy.cz>\n"
 "MIME-Version: 1.0\n"
-"PO-Revision-Date: 2025-01-25 21:24\n"
+"PO-Revision-Date: 2025-02-15 18:49\n"
 "POT-Creation-Date: 2021-12-01 12:05+0100\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "Project-Id-Version: laserarenacontrol\n"
@@ -34,23 +34,23 @@ msgstr "Nombre d’équipes"
 
 msgctxt "scoring"
 msgid "Zásah protihráče"
-msgstr "Adversaire touché"
+msgstr "Frappé un adversaire"
 
 msgctxt "scoring"
 msgid "Zasažen protihráčem"
-msgstr "Touché par un adversaire"
+msgstr "Touché par adversaire"
 
 msgctxt "scoring"
 msgid "Zásah spoluhráče"
-msgstr "Allié touché"
+msgstr "Frappé un allié"
 
 msgctxt "scoring"
 msgid "Zasažen spouhráčem"
-msgstr "Touché par un allié"
+msgstr "Touché par allié"
 
 msgctxt "scoring"
 msgid "Zasažen minou"
-msgstr "Touché par une mine"
+msgstr "Tir de mine"
 
 msgctxt "scoring"
 msgid "Body za výstřel"
@@ -102,7 +102,7 @@ msgstr "Joueurs"
 
 msgctxt "player"
 msgid "Zásahy"
-msgstr "Touches"
+msgstr "Coups"
 
 msgctxt "player"
 msgid "Smrti"
@@ -130,7 +130,7 @@ msgstr "Prénom"
 
 msgctxt "today"
 msgid "Denní pořadí podle"
-msgstr "Classement du jour par"
+msgstr "Un ordre de jour selon"
 
 msgctxt "today"
 msgid "Skóre"
@@ -142,7 +142,7 @@ msgstr "Précision"
 
 msgctxt "today"
 msgid "Zásahů"
-msgstr "Touches"
+msgstr "Coups"
 
 msgctxt "today"
 msgid "Smrtí"
@@ -172,15 +172,15 @@ msgstr[1] "%d joueurs"
 
 msgctxt "hits"
 msgid "Zásahy hráčů"
-msgstr "Touches des joueurs"
+msgstr "Coups de joueurs"
 
 msgctxt "hits"
 msgid "Zasáhl si hráče"
-msgstr "Tu as touché un joueur"
+msgstr "Vous frappez un joueur"
 
 msgctxt "team"
 msgid "Výsledky týmů"
-msgstr "Résultats des équipes"
+msgstr "Les résultats des équipes"
 
 msgctxt "team"
 msgid "Tým"
@@ -188,7 +188,7 @@ msgstr "Équipe"
 
 msgctxt "team"
 msgid "Zásahů"
-msgstr "Touches"
+msgstr "Coups"
 
 msgctxt "team"
 msgid "Skóre"
@@ -212,7 +212,7 @@ msgstr "Le plus grand terminator"
 
 msgctxt "bests"
 msgid "Objekt největšího zájmu"
-msgstr "Objet de grand intérêt"
+msgstr "L’objet du plus grand intérêt"
 
 msgctxt "bests"
 msgid "Absolutní vítěz"
@@ -220,7 +220,7 @@ msgstr "Vainqueur absolu"
 
 msgctxt "bests"
 msgid "Hráč s nejlepší muškou"
-msgstr "Joueur avec la meilleure précision"
+msgstr "Le joueur avec la milleure précision"
 
 msgctxt "bests"
 msgid "Nejúspornější střelec"
@@ -228,15 +228,15 @@ msgstr "Le tireur le plus économique"
 
 msgctxt "bests"
 msgid "Největší mimoň"
-msgstr "Joueur avec le plus de tirs ratés"
+msgstr "Le joueur qui a tiré hors de cible"
 
 msgctxt "bests"
 msgid "Zabiják vlastního týmu"
-msgstr "Tueur de son propre équipe"
+msgstr "Tueur de sa propre équipe"
 
 msgctxt "bests"
 msgid "Největší vlastňák"
-msgstr "Le tireur le plus touché par son équipe"
+msgstr "Tireur le plus touché par son équipe"
 
 msgctxt "bests"
 msgid "Drtič min"
@@ -248,7 +248,7 @@ msgstr "Style"
 
 msgctxt "style"
 msgid "Základní"
-msgstr "Défaut"
+msgstr "De base"
 
 msgctxt "style"
 msgid "Čerti"
@@ -260,7 +260,7 @@ msgstr "Hiver"
 
 msgctxt "style"
 msgid "Valentýn"
-msgstr "Saint Valentin"
+msgstr "St. Valentine"
 
 msgctxt "style"
 msgid "Vánoce"
@@ -268,7 +268,7 @@ msgstr "Noël"
 
 msgctxt "style"
 msgid "Nový rok"
-msgstr "Nouvel an"
+msgstr "Le jour de l'An"
 
 msgctxt "style"
 msgid "Template"
@@ -306,7 +306,7 @@ msgstr "Vies restantes"
 
 msgctxt "style.settings"
 msgid "Name"
-msgstr "Titre"
+msgstr "Nom"
 
 msgctxt "style.settings"
 msgid "Primární barva"
@@ -350,7 +350,7 @@ msgstr "Untouchable"
 
 msgctxt "bests"
 msgid "Sniper"
-msgstr "Sniper"
+msgstr "Tireur d'élite"
 
 msgctxt "bests"
 msgid "Hráč"
@@ -369,7 +369,7 @@ msgstr "Équilibré"
 
 msgctxt "bests"
 msgid "Poloviční sniper"
-msgstr "Quasi sniper"
+msgstr "Demi-sniper"
 
 msgctxt "bests"
 msgid "Zabiják"
@@ -381,7 +381,7 @@ msgstr "Zéro"
 
 msgctxt "bests"
 msgid "Potahal tým"
-msgstr "Leader de l'équipe"
+msgstr "Porté son équipe"
 
 msgctxt "bests"
 msgid "Občas se i trefí"
@@ -389,26 +389,23 @@ msgstr ""
 
 msgctxt "bests"
 msgid "Zasedlý"
-msgstr "Obsédé"
+msgstr "Prévenu"
 
 msgctxt "bests"
 msgid "Pronásledovaný"
-msgstr "Traqué"
+msgstr "Poursuivi"
 
 msgid "%d zabití"
-msgstr "%d touches"
+msgstr "%d coups"
 
 msgid "%d smrt"
 msgid_plural "%d smrtí"
-msgstr[0] "%d mort\n"
-"%d morts\n"
-"%d morts\n"
-"%d morts"
+msgstr[0] "%d mort"
 msgstr[1] "%d morts"
 
 msgctxt "bests"
 msgid "Tahoun týmu"
-msgstr "Leader de l'équipe"
+msgstr "Bosseur d'équipe"
 
 msgctxt "bests"
 msgid "Ďábel"
@@ -438,17 +435,11 @@ msgstr "Cible"
 msgid "%d výstřel"
 msgid_plural "%d výstřelů"
 msgstr[0] "%d tirs"
-msgstr[1] "%d tir\n"
-"%d tirs\n"
-"%d tirs\n"
-"%d tirs"
+msgstr[1] "%d tirs"
 
 msgid "%d zásah"
 msgid_plural "%d zásahů"
-msgstr[0] "%d touche\n"
-"%d touches\n"
-"%d touches\n"
-"%d touches"
+msgstr[0] "%d coups"
 msgstr[1] "%d coups"
 
 msgctxt "style.settings"
@@ -457,15 +448,15 @@ msgstr "Données de style d'impression"
 
 msgctxt "style.settings"
 msgid "Pozadí na šířku"
-msgstr "Second plan en largeur"
+msgstr "Paysage d'arrière plan"
 
 msgctxt "style.settings"
 msgid "Výchozí hodnoty tisku"
-msgstr "Paramètres d'impression par défaut"
+msgstr "Paramètres d'impression"
 
 msgctxt "style.settings"
 msgid "Výchozí tiskový styl"
-msgstr "Style d'impression par défaut"
+msgstr "Style d'impression de base"
 
 msgctxt "style.settings"
 msgid "Výchozí šablona"
@@ -477,7 +468,7 @@ msgstr "Résultats plus détaillés ici"
 
 msgctxt "bests"
 msgid "Férový hráč"
-msgstr "Joueur juste"
+msgstr "Bon joueur"
 
 msgctxt "bests"
 msgid "Terč"
@@ -485,7 +476,7 @@ msgstr "Cible"
 
 msgctxt "bests.description"
 msgid "Staň se hráčem s největším skóre hry."
-msgstr "Deviens le joueur avec le meilleur score du jeu."
+msgstr "Devenez le joueur avec le score le plus élevé du jeu."
 
 msgctxt "bests.description"
 msgid "Staň se hráčem s největším počtem zásahů hry."
@@ -517,23 +508,23 @@ msgstr ""
 
 msgctxt "bests.description"
 msgid "Získej nejvíce bonusů za hru."
-msgstr "Obtiens le plus de bonus par match."
+msgstr "Obtenez le plus de bonus par match."
 
 msgctxt "bests.description"
 msgid "Zemři méně než 10krát za hru."
-msgstr "Meurs moins de 10 fois par match."
+msgstr "Mourir moins de 10 fois par match."
 
 msgctxt "bests.description"
 msgid "Získej přesnost alespoň 95% za hru."
-msgstr "Obtiens une précision d'au moins 95 % par match."
+msgstr "Obtenez une précision d'au moins 95 % par match."
 
 msgctxt "bests.description"
 msgid "Získej přesnost alespoň 50% za hru."
-msgstr "Obtiens une précision d'au moins 50 % par match."
+msgstr "Obtenez une précision d'au moins 50% par match."
 
 msgctxt "bests.description"
 msgid "Získej přesnost maximálně 5% za hru."
-msgstr "Obtiens une précision maximale de 5 % par match."
+msgstr "Obtenez une précision maximale de 5 % par match."
 
 msgctxt "bests.description"
 msgid "Měj téměř stejně zásahů a smrtí."
@@ -549,7 +540,7 @@ msgstr ""
 
 msgctxt "bests.description"
 msgid "Měj 0 skóre."
-msgstr "Aie un score nul."
+msgstr "Ayez un score nul."
 
 msgctxt "bests.description"
 msgid "Získej alespoň přibližně polovinu skóre celého tvého týmu."
@@ -569,11 +560,11 @@ msgstr ""
 
 msgctxt "bests.description"
 msgid "Získej 404, 4040, nebo 40400 skóre."
-msgstr "Obtiens un score de 404, 4040 ou 40400."
+msgstr "Obtenez un score de 404, 4040 ou 40400."
 
 msgctxt "bests.description"
 msgid "Vystřel 404krát."
-msgstr "Tires 404 fois."
+msgstr "Tirez 404 fois."
 
 msgctxt "bests.description"
 msgid "Zasáhni všechny své nepřátele stejněkrát (přibližně)."
@@ -584,7 +575,7 @@ msgid "Průměrný hráč. Bohužel na tebe nesedí žádná z trofejí."
 msgstr ""
 
 msgid "On-line detailní výsledky"
-msgstr "Résultats détaillés en ligne"
+msgstr "Détails résultats en ligne"
 
 msgid "Zásahy/Smrti od spoluhráčů"
 msgstr ""
@@ -628,7 +619,7 @@ msgid "Zásahy od/do spoluhráčů"
 msgstr "Touches reçues/données des/aux alliés"
 
 msgid "Odehráno her"
-msgstr "Matchs réalisés"
+msgstr "Parties jouées"
 
 msgctxt "today"
 msgid "Dnešní pořadí podle"
@@ -640,7 +631,7 @@ msgstr "Tirs"
 
 msgctxt "info"
 msgid "Body za zásah"
-msgstr "Points par touche"
+msgstr "Points par coup"
 
 msgctxt "info"
 msgid "Body za smrt"
@@ -648,7 +639,7 @@ msgstr "Points par morts"
 
 msgctxt "info"
 msgid "Body za zásah vlastního"
-msgstr "Points de pénalité pour toucher un allié"
+msgstr "Points par touché par un allié"
 
 msgctxt "info"
 msgid "Body za smrt od vlastního hráče"
@@ -656,22 +647,22 @@ msgstr ""
 
 msgctxt "bests"
 msgid "Získané trofeje"
-msgstr "Trophées gagnés"
+msgstr "Trophées acquises"
 
 msgctxt "bests"
 msgid "Zobrazit dostupné trofeje"
 msgstr "Afficher les trophées disponibles"
 
 msgid "Střely do prázdna"
-msgstr "Tirs ratés"
+msgstr "Coups ratés"
 
 msgctxt "hits"
 msgid "Zásahy do hráčů"
-msgstr "Touches des joueurs"
+msgstr "Coups de joueurs"
 
 msgctxt "hits"
 msgid "Smrti od hráčů"
-msgstr "Morts par des joueurs"
+msgstr "La mort par des joueurs"
 
 msgctxt "bests"
 msgid "Dostupné trofeje"
@@ -707,18 +698,18 @@ msgstr "Afficher tous les trophées"
 
 msgctxt "today"
 msgid "Klikněte níže na okénko pro zobrazení tabulky dnešního pořadí."
-msgstr "Cliquez ci-dessous pour afficher le classement du jour."
+msgstr "Cliquez ci-dessous pour afficher le classement d'aujourd'hui."
 
 msgctxt "today"
 msgid "Zobrazit dnešní pořadí"
-msgstr "Afficher le classement du jour"
+msgstr "Afficher le classement d'aujourd'hui"
 
 msgctxt "bests"
 msgid "Bohužel na tebe nesedí žádná z trofejí..."
-msgstr "Hélas, il n'y a aucun trophée pour toi..."
+msgstr "Malheureusement, il n'y a pas de trophée pour toi..."
 
 msgid "Bodování"
-msgstr "Scoring"
+msgstr "Calcul de classement"
 
 msgctxt "info"
 msgid "Skupina"
@@ -726,11 +717,11 @@ msgstr "Groupe"
 
 msgctxt "group"
 msgid "Předchozí hra"
-msgstr "Match précédent"
+msgstr "Jeu précédent"
 
 msgctxt "group"
 msgid "Následující hra"
-msgstr "Match suivant"
+msgstr "Jeu suivant"
 
 msgctxt "info"
 msgid "Hudební mód"
@@ -797,4 +788,19 @@ msgstr "Défaut"
 msgctxt "style"
 msgid "Tabulkové"
 msgstr "Résultats en tableau"
+
+msgid "Skóre"
+msgstr ""
+
+msgid "Výstřely"
+msgstr ""
+
+msgid "Zásahy"
+msgstr ""
+
+msgid "Smrti"
+msgstr ""
+
+msgid "Sniper"
+msgstr ""
 
