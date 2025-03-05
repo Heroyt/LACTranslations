@@ -6,7 +6,7 @@ msgstr ""
 "Language-Team: French\n"
 "Last-Translator: Tomáš Vojík <vojik@wboy.cz>\n"
 "MIME-Version: 1.0\n"
-"PO-Revision-Date: 2025-02-15 18:49\n"
+"PO-Revision-Date: 2025-03-05 15:45\n"
 "POT-Creation-Date: 2021-12-01 12:05+0100\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "Project-Id-Version: laserarenacontrol\n"
@@ -790,17 +790,17 @@ msgid "Tabulkové"
 msgstr "Résultats en tableau"
 
 msgid "Skóre"
-msgstr ""
+msgstr "Score"
 
 msgid "Výstřely"
-msgstr ""
+msgstr "Tirs"
 
 msgid "Zásahy"
-msgstr ""
+msgstr "Interventions"
 
 msgid "Smrti"
-msgstr ""
+msgstr "Décès"
 
 msgid "Sniper"
-msgstr ""
+msgstr "Sniper"
 
