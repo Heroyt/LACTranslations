@@ -352,3 +352,7 @@ msgstr "Manuální zobrazení hry"
 msgctxt "settings"
 msgid "Rozložení obrazovky"
 msgstr "Rozložení obrazovky"
+
+msgctxt "screens"
+msgid "Stav hry"
+msgstr ""

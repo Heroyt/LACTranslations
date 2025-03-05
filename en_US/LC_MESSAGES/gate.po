@@ -352,3 +352,7 @@ msgstr "Manual game trigger"
 msgctxt "settings"
 msgid "Rozložení obrazovky"
 msgstr "Screen layout"
+
+msgctxt "screens"
+msgid "Stav hry"
+msgstr ""
