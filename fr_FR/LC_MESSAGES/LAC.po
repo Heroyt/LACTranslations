@@ -6,7 +6,7 @@ msgstr ""
 "Language-Team: French\n"
 "Last-Translator: Tomáš Vojík <vojik@wboy.cz>\n"
 "MIME-Version: 1.0\n"
-"PO-Revision-Date: 2025-02-15 18:49\n"
+"PO-Revision-Date: 2025-03-05 15:44\n"
 "POT-Creation-Date: 2021-12-01 12:05+0100\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "Project-Id-Version: laserarenacontrol\n"
@@ -4640,89 +4640,89 @@ msgid "Dnes se nehrály žádné hry."
 msgstr ""
 
 msgid "Rozložení"
-msgstr ""
+msgstr "Mise en page"
 
 msgid "Přetažením vest v mřížce upravujete zobrazení vest na výsledkové tabuli. Mělo by odpovídat fyzickému rozmístění vest na stojanech."
-msgstr ""
+msgstr "Glissez-déposez les gilets dans la grille pour modifier l'affichage des gilets sur le tableau d'affichage. L'affichage doit correspondre à l'emplacement physique des gilets sur les racks."
 
 msgctxt "pageTitles.settings"
 msgid "Systémy lasergame"
-msgstr ""
+msgstr "Systèmes de jeu au laser"
 
 msgctxt "settings"
 msgid "Nastavení LG systémů"
-msgstr ""
+msgstr "Paramètres du système LG"
 
 msgctxt "settings"
 msgid "Obecné"
-msgstr ""
+msgstr "Général"
 
 msgctxt "settings"
 msgid "Vesty"
-msgstr ""
+msgstr "Gilets"
 
 msgctxt "settings"
 msgid "Rozlození vest"
-msgstr ""
+msgstr "Disposition de la veste"
 
 msgctxt "settings"
 msgid "Nastavení systému %s"
-msgstr ""
+msgstr "Paramètres du système %s"
 
 msgid "Nový LG systém"
-msgstr ""
+msgstr "Nouveau système LG"
 
 msgid "Název systému"
-msgstr ""
+msgstr "Nom du système"
 
 msgid "Typ vybavení"
-msgstr ""
+msgstr "Type d'équipement"
 
 msgid "Počet vest"
-msgstr ""
+msgstr "Nombre de gilets"
 
 msgid "IP adresa konzole"
-msgstr ""
+msgstr "Adresse IP de la console"
 
 msgid "Cesta k adresáři výsledků"
-msgstr ""
+msgstr "Chemin d'accès au répertoire des résultats"
 
 msgid "Cesta k adresáři pro nahrání her"
-msgstr ""
+msgstr "Chemin d'accès au répertoire de téléchargement du jeu"
 
 msgid "Cesta k adresáři hudby"
-msgstr ""
+msgstr "Chemin d'accès au répertoire musical"
 
 msgid "Aktivní"
-msgstr ""
+msgstr "Actif"
 
 msgid "Výchozí"
-msgstr ""
+msgstr "Défaut"
 
 msgid "Chyba při ukládání systému"
-msgstr ""
+msgstr "Système de sauvegarde des erreurs"
 
 msgctxt "vest.type"
 msgid "Vesta"
-msgstr ""
+msgstr "Vesta"
 
 msgctxt "vest.type"
 msgid "Zbraň"
-msgstr ""
+msgstr "Arme"
 
 msgid "Opravdu chcete smazat vestu?"
-msgstr ""
+msgstr "Voulez-vous vraiment supprimer le gilet ?"
 
 msgid "Přidat vesty"
-msgstr ""
+msgstr "Ajouter des gilets"
 
 msgctxt "game"
 msgid "Vybrat LG systém"
-msgstr ""
+msgstr "Sélectionner le système LG"
 
 msgid "Naroozeniny"
-msgstr ""
+msgstr "Natif"
 
 msgid "Narozeniny"
-msgstr ""
+msgstr "Anniversaire"
 
