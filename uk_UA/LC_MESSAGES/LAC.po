@@ -6,7 +6,7 @@ msgstr ""
 "Language-Team: Ukrainian\n"
 "Last-Translator: Tomáš Vojík <vojik@wboy.cz>\n"
 "MIME-Version: 1.0\n"
-"PO-Revision-Date: 2025-02-15 18:49\n"
+"PO-Revision-Date: 2025-03-05 15:44\n"
 "POT-Creation-Date: 2021-12-01 12:05+0100\n"
 "Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
 "Project-Id-Version: laserarenacontrol\n"
@@ -4692,89 +4692,89 @@ msgid "Dnes se nehrály žádné hry."
 msgstr ""
 
 msgid "Rozložení"
-msgstr ""
+msgstr "Макет"
 
 msgid "Přetažením vest v mřížce upravujete zobrazení vest na výsledkové tabuli. Mělo by odpovídat fyzickému rozmístění vest na stojanech."
-msgstr ""
+msgstr "Перетягніть жилети в сітці, щоб відредагувати відображення жилетів на табло. Воно має відповідати фізичному розміщенню жилетів на стійках."
 
 msgctxt "pageTitles.settings"
 msgid "Systémy lasergame"
-msgstr ""
+msgstr "Лазерні ігрові системи"
 
 msgctxt "settings"
 msgid "Nastavení LG systémů"
-msgstr ""
+msgstr "Системні налаштування LG"
 
 msgctxt "settings"
 msgid "Obecné"
-msgstr ""
+msgstr "Загальні відомості"
 
 msgctxt "settings"
 msgid "Vesty"
-msgstr ""
+msgstr "Жилети"
 
 msgctxt "settings"
 msgid "Rozlození vest"
-msgstr ""
+msgstr "Макет жилета"
 
 msgctxt "settings"
 msgid "Nastavení systému %s"
-msgstr ""
+msgstr "Системні налаштування %s"
 
 msgid "Nový LG systém"
-msgstr ""
+msgstr "Нова система LG"
 
 msgid "Název systému"
-msgstr ""
+msgstr "Ім'я системи"
 
 msgid "Typ vybavení"
-msgstr ""
+msgstr "Тип обладнання"
 
 msgid "Počet vest"
-msgstr ""
+msgstr "Кількість жилетів"
 
 msgid "IP adresa konzole"
-msgstr ""
+msgstr "IP-адреса консолі"
 
 msgid "Cesta k adresáři výsledků"
-msgstr ""
+msgstr "Шлях до каталогу результатів"
 
 msgid "Cesta k adresáři pro nahrání her"
-msgstr ""
+msgstr "Шлях до каталогу завантаження гри"
 
 msgid "Cesta k adresáři hudby"
-msgstr ""
+msgstr "Шлях до каталогу музики"
 
 msgid "Aktivní"
-msgstr ""
+msgstr "Активний"
 
 msgid "Výchozí"
-msgstr ""
+msgstr "За замовчуванням"
 
 msgid "Chyba při ukládání systému"
-msgstr ""
+msgstr "Система збереження помилок"
 
 msgctxt "vest.type"
 msgid "Vesta"
-msgstr ""
+msgstr "Vesta"
 
 msgctxt "vest.type"
 msgid "Zbraň"
-msgstr ""
+msgstr "Зброя"
 
 msgid "Opravdu chcete smazat vestu?"
-msgstr ""
+msgstr "Ви дійсно хочете видалити жилет?"
 
 msgid "Přidat vesty"
-msgstr ""
+msgstr "Додати жилети"
 
 msgctxt "game"
 msgid "Vybrat LG systém"
-msgstr ""
+msgstr "Виберіть систему LG"
 
 msgid "Naroozeniny"
-msgstr ""
+msgstr "Рідна мова"
 
 msgid "Narozeniny"
-msgstr ""
+msgstr "День народження"
 
