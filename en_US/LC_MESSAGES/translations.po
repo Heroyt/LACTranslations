@@ -6,7 +6,7 @@ msgstr ""
 "Language-Team: English\n"
 "Last-Translator: Tomáš Vojík <vojik@wboy.cz>\n"
 "MIME-Version: 1.0\n"
-"PO-Revision-Date: 2025-03-23 11:51\n"
+"PO-Revision-Date: 2025-03-23 13:42\n"
 "POT-Creation-Date: \n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Project-Id-Version: laserarenacontrol\n"
@@ -5781,16 +5781,16 @@ msgid "Úvod"
 msgstr "Introduction"
 
 msgid "%s strávila %s ve hře vypnutá. To je víc než polovina hry!"
-msgstr ""
+msgstr "%s spent %s in-game turned off. That's more than half of the game!"
 
 msgid "%s strávil %s ve hře vypnutý. To je víc než polovina hry!"
-msgstr ""
+msgstr "%s spent %s in-game turned off. That's more than half of the game!"
 
 msgid "Umístění"
 msgstr "Ranking"
 
 msgid "%s strávilo %s ve hře vypnuté. To je víc než polovina hry!"
-msgstr ""
+msgstr "%s spent %s in-game turned off. That's more than half of the game!"
 
 msgid "Team deathmach"
 msgstr "Team Deathmatch"
@@ -5829,7 +5829,7 @@ msgid "Tahoun týmu"
 msgstr "Team-carry"
 
 msgid "%s získala %.1fx tolik bonusů co ostatní."
-msgstr ""
+msgstr "%s gained %.1fx as many powers as the others."
 
 msgid "%s začal svou cestu laser game hráče registrací do Laser ligy %s."
 msgstr "%s started his laser game journey by registering into Laser Liga on %s."
@@ -5849,7 +5849,7 @@ msgstr "Forgot password"
 
 msgctxt "pageDescription"
 msgid "Formulář pro obnovení zapomenutého hesla."
-msgstr ""
+msgstr "Form to recover a forgotten password."
 
 msgid "Pokud uživatel existuje, odeslali jsme vám e-mail s odkazem obnovu hesla."
 msgstr "If the user exists, we will send you an e-mail with a link to reset your password."
@@ -5953,7 +5953,7 @@ msgid "Žádné společné hry"
 msgstr "No games together"
 
 msgid "Vzájmené hry %s a %s. Je zde vidět, kolik her spolu odehráli a jak moc proti sobě vyhrávají / prohrávají."
-msgstr ""
+msgstr "Games of %s and %s. It shows how many games they have played together and how much they win/lose against each other."
 
 msgid "Spolu v týmu"
 msgstr "Together in team"
@@ -6060,10 +6060,10 @@ msgid "Termín je zrušený"
 msgstr "This term is cancelled"
 
 msgid "Souhlasím se <a href=\"%s\" target=\"_blank\">zásadami zpracování osobních údajů</a>."
-msgstr ""
+msgstr "I agree to the <a href=\"%s\" target=\"_blank\">privacy policy</a>."
 
 msgid "Správa arény"
-msgstr ""
+msgstr "Arena admin"
 
 msgctxt "gameModes"
 msgid "Team deathmatch"
@@ -6075,80 +6075,80 @@ msgstr "Deathmatch"
 
 msgctxt "gameModes"
 msgid "Kámen, Nůžky, Papír"
-msgstr ""
+msgstr "Rock, Paper, Scissors"
 
 msgid "Fotky"
-msgstr ""
+msgstr "Photos"
 
 msgid "Fotky arény"
-msgstr ""
+msgstr "Arena photos"
 
 msgid "Filtrovat fotky podle data"
-msgstr ""
+msgstr "Filter photos by date"
 
 msgid "Jinak se zobrazí všechny nepřiřazené fotky."
-msgstr ""
+msgstr "Otherwise all unassigned photos will be displayed."
 
 msgid "Nepřiřazené fotky"
-msgstr ""
+msgstr "Unassigned photos"
 
 msgid "Opravdu chcete smazat %d fotek?"
-msgstr ""
+msgstr "Do you really want to delete %d photos?"
 
 msgid "Smazat vybrané fotky"
-msgstr ""
+msgstr "Delete selected photos"
 
 msgid "Vybrat vše"
-msgstr ""
+msgstr "Select All"
 
 msgid "Stáhnout vybrané fotky"
-msgstr ""
+msgstr "Download selected photos"
 
 msgid "Opravdu chcete fotku smazat?"
-msgstr ""
+msgstr "Are you sure you want to delete the photo?"
 
 msgid "Smazat"
-msgstr ""
+msgstr "Delete"
 
 msgid "Odehrané skupiny"
-msgstr ""
+msgstr "Played groups"
 
 msgid "Zobrazi/Skrýt fotky"
-msgstr ""
+msgstr "Show/Hide Photos"
 
 msgid "Přiřadit fotky"
-msgstr ""
+msgstr "Assign photos"
 
 msgid "Odeslat na e-mail"
-msgstr ""
+msgstr "Send to e-mail"
 
 msgid "Zrušit přiřazení fotek"
-msgstr ""
+msgstr "Cancel photo assignment"
 
 msgid "Odeslané e-maily"
-msgstr ""
+msgstr "Sent e-mails"
 
 msgid "Odeslat fotky na e-mail"
-msgstr ""
+msgstr "Send photos to e-mail"
 
 msgid "Nepodařilo se odeslat e-maily."
-msgstr ""
+msgstr "Failed to send emails."
 
 msgid "E-maily byly úspěšně odeslány."
-msgstr ""
+msgstr "Emails have been sent successfully."
 
 msgid "E-mailové adresy"
-msgstr ""
+msgstr "E-mail addresses"
 
 msgid "Musíte zadat alespoň jednu e-mailovou adresu."
-msgstr ""
+msgstr "You must enter at least one email address."
 
 msgid "Některé e-mailové adresy nejsou platné."
-msgstr ""
+msgstr "Some email addresses are not valid."
 
 msgid "Adresy oddělte čárkou nebo novým řádkem."
-msgstr ""
+msgstr "Separate the addresses with a comma or a new line."
 
 msgid "Odeslat e-maily"
-msgstr ""
+msgstr "Send Emails"
 
