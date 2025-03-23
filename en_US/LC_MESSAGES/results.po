@@ -6,7 +6,7 @@ msgstr ""
 "Language-Team: English\n"
 "Last-Translator: Tomáš Vojík <vojik@wboy.cz>\n"
 "MIME-Version: 1.0\n"
-"PO-Revision-Date: 2025-03-05 14:16\n"
+"PO-Revision-Date: 2025-03-23 11:51\n"
 "POT-Creation-Date: 2021-12-01 12:05+0100\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Project-Id-Version: laserarenacontrol\n"
@@ -803,4 +803,28 @@ msgstr "Deaths"
 
 msgid "Sniper"
 msgstr "Sniper"
+
+msgid "Fotka ze hry %s"
+msgstr ""
+
+msgid "Fotky ze hry jsou nastaveny jako veřejné."
+msgstr ""
+
+msgid "Fotky ze hry jsou nastaveny jako neveřejné. Pro zobrazení fotek je třeba přístup přes speciální odkaz, nebo přihlášení do LaserLigy."
+msgstr ""
+
+msgid "Opravdu chcete zveřejnit fotky z této hry? Fotky uvidí kdokoliv, kdo si zobrazí výsledky této hry, ale nebude je moci stáhnout."
+msgstr ""
+
+msgid "Opravdu chcete zrušit zveřejnění fotek z této hry? Fotky uvidí jen hráči hry, nebo ten, kdo přejde na výsledky se speciálním odkazem."
+msgstr ""
+
+msgid "Fotky"
+msgstr ""
+
+msgid "Stáhnout fotky"
+msgstr ""
+
+msgid "Zveřejnit fotky"
+msgstr ""
 
