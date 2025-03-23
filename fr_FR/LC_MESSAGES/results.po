@@ -6,7 +6,7 @@ msgstr ""
 "Language-Team: French\n"
 "Last-Translator: Tomáš Vojík <vojik@wboy.cz>\n"
 "MIME-Version: 1.0\n"
-"PO-Revision-Date: 2025-03-05 15:45\n"
+"PO-Revision-Date: 2025-03-23 11:50\n"
 "POT-Creation-Date: 2021-12-01 12:05+0100\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "Project-Id-Version: laserarenacontrol\n"
@@ -803,4 +803,28 @@ msgstr "Décès"
 
 msgid "Sniper"
 msgstr "Sniper"
+
+msgid "Fotka ze hry %s"
+msgstr "Photo du jeu %s"
+
+msgid "Fotky ze hry jsou nastaveny jako veřejné."
+msgstr "Les photos du jeu sont publiques."
+
+msgid "Fotky ze hry jsou nastaveny jako neveřejné. Pro zobrazení fotek je třeba přístup přes speciální odkaz, nebo přihlášení do LaserLigy."
+msgstr "Les photos du jeu sont réglées sur non-public. Pour voir les photos, vous devez accéder via un lien spécial ou vous connecter à LaserLeague."
+
+msgid "Opravdu chcete zveřejnit fotky z této hry? Fotky uvidí kdokoliv, kdo si zobrazí výsledky této hry, ale nebude je moci stáhnout."
+msgstr "Voulez-vous vraiment publier des photos de ce jeu ? Toute personne qui consulte les résultats de ce jeu pourra voir les photos, mais ne pourra pas les télécharger."
+
+msgid "Opravdu chcete zrušit zveřejnění fotek z této hry? Fotky uvidí jen hráči hry, nebo ten, kdo přejde na výsledky se speciálním odkazem."
+msgstr "Voulez-vous vraiment annuler la publication des photos de ce jeu ? Seuls les joueurs du jeu ou ceux qui accèdent aux résultats à l'aide d'un lien spécial verront les photos."
+
+msgid "Fotky"
+msgstr "Photos"
+
+msgid "Stáhnout fotky"
+msgstr "Télécharger les photos"
+
+msgid "Zveřejnit fotky"
+msgstr "Publier des photos"
 
