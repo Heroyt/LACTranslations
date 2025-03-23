@@ -3,7 +3,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language: en_US\n"
 "Language-Team: English\n"
-"PO-Revision-Date: 2025-03-23 11:51\n"
+"PO-Revision-Date: 2025-03-23 13:42\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Project-Id-Version: laserarenacontrol\n"
 "X-Crowdin-File: /master/privacy.pot\n"
@@ -287,25 +287,25 @@ msgstr "Arenas are responsible for processing this data and may have their own p
 
 msgctxt "section_title"
 msgid "Fotografie a jejich zpracování"
-msgstr ""
+msgstr "Photos and their processing"
 
 msgctxt "photos_info"
 msgid "LaserLiga umožňuje arénám nahrávát k výsledkům z her fotografie hráčů."
-msgstr ""
+msgstr "LaserLiga allows arenas to upload player photos to game results."
 
 msgctxt "photos_info"
 msgid "Fotografie pořizují a spravují arény. Fotografie ve výchozím stavu nejsou veřejně přístupné; přístup k nim mají pouze uživatelé se speciálním odkazem (který arény odesílají pomocí LaserLigy na e-mail) nebo registrovaní hráči, kteří se účastnili příslušné hry."
-msgstr ""
+msgstr "Photos are taken and managed by arenas. By default, images are not publicly accessible; users can only access them with a unique link (which arenas send via LaserLiga to an email) or by registered players who have participated in the relevant game."
 
 msgctxt "photos_storage"
 msgid "Fotografie jsou uchovávány v cloudovém úložišti evropského poskytovatele <a href=\"https://www.scaleway.com/en/privacy-policy/\" target=\"_blank\">Scaleway</a>."
-msgstr ""
+msgstr "Photos are stored in the cloud storage of the European provider <a href=\"https://www.scaleway.com/en/privacy-policy/\" target=\"_blank\">Scaleway</a>."
 
 msgctxt "photos_rights"
 msgid "Uživatelé s přístupem k fotografiím mohou fotografie stáhnout, požádat o jejich odstranění nebo je zveřejnit. V případě zveřejnění se fotografie zobrazí všem návštěvníkům, kteří si prohlížejí výsledky hry, avšak nemohou je stahovat, žádat o odstranění ani měnit jejich viditelnost."
-msgstr ""
+msgstr "Users with access to the photos can download, request removal or publish them. If published, the photos will be displayed to all visitors viewing the game results, but they cannot download, request removal or change their visibility."
 
 msgctxt "photos_retention"
 msgid "Fotografie, které aréna pořídila, ale nepřiřadila ke hře, budou odstraněny po jednom týdnu; fotografie přiřazené ke hře budou automaticky odstraněny typicky po 2 měsících."
-msgstr ""
+msgstr "Photos taken by the arena but not assigned to a game will be removed after one week; photos assigned to a game will be automatically removed typically after 2 months."
 
