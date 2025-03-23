@@ -6,7 +6,7 @@ msgstr ""
 "Language-Team: Slovak\n"
 "Last-Translator: Tomáš Vojík <vojik@wboy.cz>\n"
 "MIME-Version: 1.0\n"
-"PO-Revision-Date: 2025-03-05 15:45\n"
+"PO-Revision-Date: 2025-03-23 11:51\n"
 "POT-Creation-Date: \n"
 "Plural-Forms: nplurals=4; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 3;\n"
 "Project-Id-Version: laserarenacontrol\n"
@@ -6130,4 +6130,97 @@ msgstr "Zoznam registrovaných hráčov na podujatie laser game."
 
 msgid "Termín je zrušený"
 msgstr "Termín je zrušený"
+
+msgid "Souhlasím se <a href=\"%s\" target=\"_blank\">zásadami zpracování osobních údajů</a>."
+msgstr "Súhlasím so <a href=\"%s\" target=\"_blank\">zásadami ochrany osobných údajov</a>."
+
+msgid "Správa arény"
+msgstr "Správa arény"
+
+msgctxt "gameModes"
+msgid "Team deathmatch"
+msgstr "Tímový deathmatch"
+
+msgctxt "gameModes"
+msgid "Deathmatch"
+msgstr "Deathmatch"
+
+msgctxt "gameModes"
+msgid "Kámen, Nůžky, Papír"
+msgstr "Kameň, nožnice, papier"
+
+msgid "Fotky"
+msgstr "Fotografie"
+
+msgid "Fotky arény"
+msgstr "Fotografie arény"
+
+msgid "Filtrovat fotky podle data"
+msgstr "Filtrovanie fotografií podľa dátumu"
+
+msgid "Jinak se zobrazí všechny nepřiřazené fotky."
+msgstr "V opačnom prípade sa zobrazia všetky nepriradené fotografie."
+
+msgid "Nepřiřazené fotky"
+msgstr "Nepriradené fotografie"
+
+msgid "Opravdu chcete smazat %d fotek?"
+msgstr "Naozaj chcete vymazať fotografie %d ?"
+
+msgid "Smazat vybrané fotky"
+msgstr "Odstránenie vybraných fotografií"
+
+msgid "Vybrat vše"
+msgstr "Vybrať všetko"
+
+msgid "Stáhnout vybrané fotky"
+msgstr "Stiahnuť vybrané fotografie"
+
+msgid "Opravdu chcete fotku smazat?"
+msgstr "Ste si istí, že chcete odstrániť fotografiu?"
+
+msgid "Smazat"
+msgstr "Vymazať"
+
+msgid "Odehrané skupiny"
+msgstr "Skupiny, v ktorých sa hralo"
+
+msgid "Zobrazi/Skrýt fotky"
+msgstr "Zobraziť/skryť Fotografie"
+
+msgid "Přiřadit fotky"
+msgstr "Priradiť fotografie"
+
+msgid "Odeslat na e-mail"
+msgstr "Odoslať na e-mail"
+
+msgid "Zrušit přiřazení fotek"
+msgstr "Zrušiť priradenie fotografie"
+
+msgid "Odeslané e-maily"
+msgstr "Odoslané e-maily"
+
+msgid "Odeslat fotky na e-mail"
+msgstr "Poslať fotografie na e-mail"
+
+msgid "Nepodařilo se odeslat e-maily."
+msgstr "Nepodarilo sa odoslať e-maily."
+
+msgid "E-maily byly úspěšně odeslány."
+msgstr "E-maily boli úspešne odoslané."
+
+msgid "E-mailové adresy"
+msgstr "E-mailové adresy"
+
+msgid "Musíte zadat alespoň jednu e-mailovou adresu."
+msgstr "Musíte zadať aspoň jednu e-mailovú adresu."
+
+msgid "Některé e-mailové adresy nejsou platné."
+msgstr "Niektoré e-mailové adresy nie sú platné."
+
+msgid "Adresy oddělte čárkou nebo novým řádkem."
+msgstr "Oddeľte adresy čiarkou alebo novým riadkom."
+
+msgid "Odeslat e-maily"
+msgstr "Odoslať e-maily"
 
