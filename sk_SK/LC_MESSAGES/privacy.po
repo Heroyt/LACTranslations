@@ -3,7 +3,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language: sk_SK\n"
 "Language-Team: Slovak\n"
-"PO-Revision-Date: 2025-03-05 15:45\n"
+"PO-Revision-Date: 2025-03-23 11:51\n"
 "Plural-Forms: nplurals=4; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 3;\n"
 "Project-Id-Version: laserarenacontrol\n"
 "X-Crowdin-File: /master/privacy.pot\n"
@@ -284,4 +284,28 @@ msgstr "Používateľom odporúčame, aby si pred prihlásením do turnaja preč
 msgctxt "access"
 msgid "Arény jsou odpovědné za zpracování těchto údajů a mohou mít vlastní zásady ochrany osobních údajů."
 msgstr "Za spracovanie týchto údajov sú zodpovedné arény, ktoré môžu mať vlastné zásady ochrany osobných údajov."
+
+msgctxt "section_title"
+msgid "Fotografie a jejich zpracování"
+msgstr "Fotografie a ich spracovanie"
+
+msgctxt "photos_info"
+msgid "LaserLiga umožňuje arénám nahrávát k výsledkům z her fotografie hráčů."
+msgstr "LaserLeague umožňuje arénam nahrávať fotografie hráčov k výsledkom hier."
+
+msgctxt "photos_info"
+msgid "Fotografie pořizují a spravují arény. Fotografie ve výchozím stavu nejsou veřejně přístupné; přístup k nim mají pouze uživatelé se speciálním odkazem (který arény odesílají pomocí LaserLigy na e-mail) nebo registrovaní hráči, kteří se účastnili příslušné hry."
+msgstr "Fotografie zhotovujú a spravujú arény. Fotografie nie sú štandardne verejne prístupné; prístup k nim majú len používatelia so špeciálnym odkazom (ktorý arény posielajú prostredníctvom e-mailu LaserLeague) alebo registrovaní hráči, ktorí sa zúčastnili príslušnej hry."
+
+msgctxt "photos_storage"
+msgid "Fotografie jsou uchovávány v cloudovém úložišti evropského poskytovatele <a href=\"https://www.scaleway.com/en/privacy-policy/\" target=\"_blank\">Scaleway</a>."
+msgstr "Fotografie sú uložené v cloudovom úložisku európskeho poskytovateľa <a href=\"https://www.scaleway.com/en/privacy-policy/\" target=\"_blank\">Scaleway</a>."
+
+msgctxt "photos_rights"
+msgid "Uživatelé s přístupem k fotografiím mohou fotografie stáhnout, požádat o jejich odstranění nebo je zveřejnit. V případě zveřejnění se fotografie zobrazí všem návštěvníkům, kteří si prohlížejí výsledky hry, avšak nemohou je stahovat, žádat o odstranění ani měnit jejich viditelnost."
+msgstr "Používatelia s prístupom k fotografiám si ich môžu stiahnuť, požiadať o ich odstránenie alebo ich zverejniť. Ak sú fotografie zverejnené, zobrazia sa všetkým návštevníkom, ktorí si prezerajú výsledky hry, ale nemôžu si ich stiahnuť, požiadať o ich odstránenie alebo zmeniť ich viditeľnosť."
+
+msgctxt "photos_retention"
+msgid "Fotografie, které aréna pořídila, ale nepřiřadila ke hře, budou odstraněny po jednom týdnu; fotografie přiřazené ke hře budou automaticky odstraněny typicky po 2 měsících."
+msgstr "Fotografie z arény, ktoré neboli priradené k hre, budú odstránené po jednom týždni; fotografie priradené k hre budú automaticky odstránené zvyčajne po 2 mesiacoch."
 
