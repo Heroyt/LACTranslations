@@ -3,7 +3,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language: uk_UA\n"
 "Language-Team: Ukrainian\n"
-"PO-Revision-Date: 2025-03-05 15:45\n"
+"PO-Revision-Date: 2025-03-23 11:51\n"
 "Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
 "Project-Id-Version: laserarenacontrol\n"
 "X-Crowdin-File: /master/privacy.pot\n"
@@ -284,4 +284,28 @@ msgstr "Ми рекомендуємо користувачам ознайоми�
 msgctxt "access"
 msgid "Arény jsou odpovědné za zpracování těchto údajů a mohou mít vlastní zásady ochrany osobních údajů."
 msgstr "Арени несуть відповідальність за обробку цих даних і можуть мати власну політику конфіденційності."
+
+msgctxt "section_title"
+msgid "Fotografie a jejich zpracování"
+msgstr ""
+
+msgctxt "photos_info"
+msgid "LaserLiga umožňuje arénám nahrávát k výsledkům z her fotografie hráčů."
+msgstr ""
+
+msgctxt "photos_info"
+msgid "Fotografie pořizují a spravují arény. Fotografie ve výchozím stavu nejsou veřejně přístupné; přístup k nim mají pouze uživatelé se speciálním odkazem (který arény odesílají pomocí LaserLigy na e-mail) nebo registrovaní hráči, kteří se účastnili příslušné hry."
+msgstr ""
+
+msgctxt "photos_storage"
+msgid "Fotografie jsou uchovávány v cloudovém úložišti evropského poskytovatele <a href=\"https://www.scaleway.com/en/privacy-policy/\" target=\"_blank\">Scaleway</a>."
+msgstr ""
+
+msgctxt "photos_rights"
+msgid "Uživatelé s přístupem k fotografiím mohou fotografie stáhnout, požádat o jejich odstranění nebo je zveřejnit. V případě zveřejnění se fotografie zobrazí všem návštěvníkům, kteří si prohlížejí výsledky hry, avšak nemohou je stahovat, žádat o odstranění ani měnit jejich viditelnost."
+msgstr ""
+
+msgctxt "photos_retention"
+msgid "Fotografie, které aréna pořídila, ale nepřiřadila ke hře, budou odstraněny po jednom týdnu; fotografie přiřazené ke hře budou automaticky odstraněny typicky po 2 měsících."
+msgstr ""
 
