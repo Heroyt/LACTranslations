@@ -815,3 +815,27 @@ msgstr ""
 
 msgid "Sniper"
 msgstr ""
+
+msgid "Fotka ze hry %s"
+msgstr ""
+
+msgid "Fotky ze hry jsou nastaveny jako veřejné."
+msgstr ""
+
+msgid "Fotky ze hry jsou nastaveny jako neveřejné. Pro zobrazení fotek je třeba přístup přes speciální odkaz, nebo přihlášení do LaserLigy."
+msgstr ""
+
+msgid "Opravdu chcete zveřejnit fotky z této hry? Fotky uvidí kdokoliv, kdo si zobrazí výsledky této hry, ale nebude je moci stáhnout."
+msgstr ""
+
+msgid "Opravdu chcete zrušit zveřejnění fotek z této hry? Fotky uvidí jen hráči hry, nebo ten, kdo přejde na výsledky se speciálním odkazem."
+msgstr ""
+
+msgid "Fotky"
+msgstr ""
+
+msgid "Stáhnout fotky"
+msgstr ""
+
+msgid "Zveřejnit fotky"
+msgstr ""

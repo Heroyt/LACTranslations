@@ -1244,9 +1244,11 @@ msgid "Více než 50 let"
 msgstr "More than 50 years old"
 
 msgctxt "questionnaire.question"
-msgid "<h4>O Vás</h4>\n"
+msgid ""
+"<h4>O Vás</h4>\n"
 "<p>Pro začátek prosím vyplňte základní údaje o Vás a vašem hraní laser game.</p>"
-msgstr "<h4>About you</h4>\n"
+msgstr ""
+"<h4>About you</h4>\n"
 "<p>At first, please fill out some basic information about you and your laser game experience.</p>"
 
 msgctxt "questionnaire"
@@ -1414,10 +1416,12 @@ msgid "Ohodnoťte aktuální vzhled výsledků"
 msgstr "Rate the current visual of the results"
 
 msgctxt "questionnaire.question"
-msgid "<h4>Papírové výsledky - srozumitelnost</h4>\n"
+msgid ""
+"<h4>Papírové výsledky - srozumitelnost</h4>\n"
 "<p>V této části budete hodnotit jednotlivé části tisknutch výsledků a jejich srozumitelnost.</p>\n"
 "<p class=\"text-muted\">(1 = Nemám problém s pochopením, 5 = Vůbec tomu nerozumím / nevím, že tam něco takového je)</p> "
-msgstr "<h4>Printed results - clarity</h4>\n"
+msgstr ""
+"<h4>Printed results - clarity</h4>\n"
 "<p>In this part, you will rate each part of printed results and their clarity.</p>\n"
 "<p class=”text-muted”>(1 = I understand everything, 5 = I don’t understand it at all / I didn’t even know there is something like that)</p> "
 
@@ -1458,10 +1462,12 @@ msgid "Bonusy (ve hře s minami - pokud jste nehrál/a s minami, vyberte možnos
 msgstr "Powers (If you haven’t played with powers, chose option 3)"
 
 msgctxt "questionnaire.question"
-msgid "<h4>Papírové výsledky - vzhled</h4>\n"
+msgid ""
+"<h4>Papírové výsledky - vzhled</h4>\n"
 "<p>V této části budete hodnotit jednotlivé části tisknutch výsledků a jejich vzhled.</p>\n"
 "<p class=\"text-muted\">(1 = Moc se mi to líbí, 5 = Nelíbí se mi to)</p> "
-msgstr "<h4>Printed results - visual</h4>\n"
+msgstr ""
+"<h4>Printed results - visual</h4>\n"
 "<p>In this part, you will rate each part of printed results and their visual.</p>\n"
 "<p class=”text-muted”>(1 = I like it a lot, 5 = I don’t like it)</p> "
 
@@ -1494,10 +1500,12 @@ msgid "On-line výsledky jsou málo detailní"
 msgstr "Online results are too little detailed"
 
 msgctxt "questionnaire.question"
-msgid "<h4>On-line výsledky - srozumitelnost</h4>\n"
+msgid ""
+"<h4>On-line výsledky - srozumitelnost</h4>\n"
 "<p>V této části budete hodnotit jednotlivé části on-line výsledků a jejich srozumitelnost.</p>\n"
 "<p class=\"text-muted\">(1 = Nemám problém s pochopením, 5 = Vůbec tomu nerozumím / nevím, že tam něco takového je)</p> "
-msgstr "<h4>Online results - clarity</h4>\n"
+msgstr ""
+"<h4>Online results - clarity</h4>\n"
 "<p>In this part, you will rate each part of online results and their clarity.</p>\n"
 "<p class=\"text-muted\">(1 = I understand everything, 5 = I don’t understand it at all / I didn’t even know there is something like that)</p> "
 
@@ -1510,10 +1518,12 @@ msgid "Dnešní pořadí podle"
 msgstr "Today’s leaderboard"
 
 msgctxt "questionnaire.question"
-msgid "<h4>On-line výsledky - vzhled</h4>\n"
+msgid ""
+"<h4>On-line výsledky - vzhled</h4>\n"
 "<p>V této části budete hodnotit jednotlivé části on-line výsledků a jejich vzhled.</p>\n"
 "<p class=\"text-muted\">(1 = Moc se mi to líbí, 5 = Nelíbí se mi to)</p> "
-msgstr "<h4>Online results - visual</h4>\n"
+msgstr ""
+"<h4>Online results - visual</h4>\n"
 "<p>In this part, you will rate each part of online results and their visual.</p>\n"
 "<p class=”text-muted”>(1 = I like it a lot, 5 = I don’t like it)</p> "
 
@@ -1534,19 +1544,23 @@ msgid "Na výsledkové tabuli je detailů až moc"
 msgstr "The result board is too detailed"
 
 msgctxt "questionnaire.question"
-msgid "<h4>Výsledková tabule - srozumitelnost</h4>\n"
+msgid ""
+"<h4>Výsledková tabule - srozumitelnost</h4>\n"
 "<p>V této části budete hodnotit jednotlivé části výsledkové tabule a jejich srozumitelnost.</p>\n"
 "<p class=\"text-muted\">(1 = Nemám problém s pochopením, 5 = Vůbec tomu nerozumím / nevím, že tam něco takového je)</p> "
-msgstr "<h4>Result board - clarity</h4>\n"
+msgstr ""
+"<h4>Result board - clarity</h4>\n"
 "<p>In this part, you will rate each part of result board and their clarity.</p>\n"
 "<p class=”text-muted”>(1 = I understand everything, 5 = I don’t understand it at all / I didn’t even know there is something like that)</p> "
 
 msgctxt "questionnaire.question"
-msgid "<h4>Budoucnost</h4>\n"
+msgid ""
+"<h4>Budoucnost</h4>\n"
 "<p>V této části se budeme zabývat budoucím stavem. Zde budou Vaše odpovědi pomáhat určivat prioritu implementace nových funkcí do výsledků.</p>\n"
 "<p>Známkujte jednotlivé podotázky podle toho, jak moc se vám daná funkce libí a jak moc byste chtěli funkci využívat</p>\n"
 "<p class=\"text-muted\">(1 = nemůžu se dočkat, 5 = vůbec mě to neláká)</p>"
-msgstr "<h4>Future</h4>\n"
+msgstr ""
+"<h4>Future</h4>\n"
 "<p>In this part we will focus on the possible future. Your answers here will help prioritize new features.</p>\n"
 "<p>Rate the features based on your personal opinion how much would you like to use the feature.</p>\n"
 "<p class=\"text-muted\">(1 = can’t wait, 5 = not interested at all)</p>"
@@ -1576,10 +1590,12 @@ msgid "Organizace a registrace na turnaje pomocí mého přihlášení"
 msgstr "Organization and registration to tournaments using my login"
 
 msgctxt "questionnaire.question"
-msgid "<h4>Je něco co byste chtěl/a dodat? (nepovinné)</h4>\n"
+msgid ""
+"<h4>Je něco co byste chtěl/a dodat? (nepovinné)</h4>\n"
 "<p>V této části nám prosím napište jakoukoliv další kritiku, kterou chcete sdělit.</p>\n"
 "<p>Budu rád za jakékoliv další nápady na změny, připomínky, problémy, ale i pochvaly.</p>"
-msgstr "<h4>Is there something you would like to add? (optional)</h4>\n"
+msgstr ""
+"<h4>Is there something you would like to add? (optional)</h4>\n"
 "<p>Please write any other critique that you want to share.</p>\n"
 "<p>I will be happy for any ideas for the future, problems, even praises.</p>"
 
@@ -6057,4 +6073,137 @@ msgid "Seznam přihlášených hráčů na akci laser game."
 msgstr ""
 
 msgid "Termín je zrušený"
+msgstr ""
+
+msgid "Souhlasím se <a href=\"%s\" target=\"_blank\">zásadami zpracování osobních údajů</a>."
+msgstr ""
+
+msgid "Správa arény"
+msgstr ""
+
+msgctxt "errors"
+msgid "Požadavek vypršel, zkuste znovu načíst stránku. \"39f6d41c9fa780ccaae4557a68eae6953645b3a2b7d149eab327e81f167e4454\""
+msgstr ""
+
+msgctxt "gameModes"
+msgid "Team deathmatch"
+msgstr ""
+
+msgctxt "errors"
+msgid "Požadavek vypršel, zkuste znovu načíst stránku. \"800ead54a336ce7bb146487dc43964aa30ca0da25f8c993468f72e5c3a583229\""
+msgstr ""
+
+msgctxt "gameModes"
+msgid "Deathmatch"
+msgstr ""
+
+msgctxt "errors"
+msgid "Požadavek vypršel, zkuste znovu načíst stránku. \"94ccac7f24379cfcd905c5cd50393e5059a0111f27f6663682f367a1b8704414\""
+msgstr ""
+
+msgctxt "errors"
+msgid "Požadavek vypršel, zkuste znovu načíst stránku. \"6ee2f837ebaf5c6f08d8062cb6f22ceb3ee1dc49d79fad8ff058b1e58fb13d21\""
+msgstr ""
+
+msgctxt "errors"
+msgid "Požadavek vypršel, zkuste znovu načíst stránku. \"bcffa99fd6ec06eca3cfe14d41af89005f8c52d0f7dc4db9e1a65c9ceddd95f0\""
+msgstr ""
+
+msgctxt "errors"
+msgid "Požadavek vypršel, zkuste znovu načíst stránku. \"30b448e439711f346f03fba795e42057857e080ab2f474a58dcd6e0714596a18\""
+msgstr ""
+
+msgctxt "errors"
+msgid "Požadavek vypršel, zkuste znovu načíst stránku. \"146ba8ed709c720505571494086d8772bebe8eb12a1bdc07ea647c8358f92c2c\""
+msgstr ""
+
+msgctxt "errors"
+msgid "Požadavek vypršel, zkuste znovu načíst stránku. \"d04818e486a4b6a4851d3c26c3be85bbffb12b32800c7994721860ac9e1da606\""
+msgstr ""
+
+msgctxt "errors"
+msgid "Požadavek vypršel, zkuste znovu načíst stránku. \"9718f2d96ae090b36ddd18c189bd51244885918555465eebcaac7ce25483418e\""
+msgstr ""
+
+msgctxt "errors"
+msgid "Požadavek vypršel, zkuste znovu načíst stránku. \"edfc294e177440fb461fe713e387de5a7f9bec80f0cb712d17f25a1881a33b38\""
+msgstr ""
+
+msgctxt "gameModes"
+msgid "Kámen, Nůžky, Papír"
+msgstr ""
+
+msgid "Fotky"
+msgstr ""
+
+msgid "Fotky arény"
+msgstr ""
+
+msgid "Filtrovat fotky podle data"
+msgstr ""
+
+msgid "Jinak se zobrazí všechny nepřiřazené fotky."
+msgstr ""
+
+msgid "Nepřiřazené fotky"
+msgstr ""
+
+msgid "Opravdu chcete smazat %d fotek?"
+msgstr ""
+
+msgid "Smazat vybrané fotky"
+msgstr ""
+
+msgid "Vybrat vše"
+msgstr ""
+
+msgid "Stáhnout vybrané fotky"
+msgstr ""
+
+msgid "Opravdu chcete fotku smazat?"
+msgstr ""
+
+msgid "Smazat"
+msgstr ""
+
+msgid "Odehrané skupiny"
+msgstr ""
+
+msgid "Zobrazi/Skrýt fotky"
+msgstr ""
+
+msgid "Přiřadit fotky"
+msgstr ""
+
+msgid "Odeslat na e-mail"
+msgstr ""
+
+msgid "Zrušit přiřazení fotek"
+msgstr ""
+
+msgid "Odeslané e-maily"
+msgstr ""
+
+msgid "Odeslat fotky na e-mail"
+msgstr ""
+
+msgid "Nepodařilo se odeslat e-maily."
+msgstr ""
+
+msgid "E-maily byly úspěšně odeslány."
+msgstr ""
+
+msgid "E-mailové adresy"
+msgstr ""
+
+msgid "Musíte zadat alespoň jednu e-mailovou adresu."
+msgstr ""
+
+msgid "Některé e-mailové adresy nejsou platné."
+msgstr ""
+
+msgid "Adresy oddělte čárkou nebo novým řádkem."
+msgstr ""
+
+msgid "Odeslat e-maily"
 msgstr ""
