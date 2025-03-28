@@ -6,7 +6,7 @@ msgstr ""
 "Language-Team: German\n"
 "Last-Translator: Tomáš Vojík <vojik@wboy.cz>\n"
 "MIME-Version: 1.0\n"
-"PO-Revision-Date: 2025-03-28 12:15\n"
+"PO-Revision-Date: 2025-03-28 13:33\n"
 "POT-Creation-Date: \n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Project-Id-Version: laserarenacontrol\n"
@@ -101,6 +101,24 @@ msgstr "Aktionen"
 
 msgid "Print"
 msgstr "Drucken"
+
+msgctxt "results.today"
+msgid "%d hra"
+msgid_plural "%d her"
+msgstr[0] "%d Spiel"
+msgstr[1] "%d ihr"
+
+msgctxt "results.today"
+msgid "%d tým"
+msgid_plural "%d týmů"
+msgstr[0] "%d Mannschaft"
+msgstr[1] "%d Mannschaften"
+
+msgctxt "results.today"
+msgid "%d hráč"
+msgid_plural "%d hráčů"
+msgstr[0] "%d Spieler"
+msgstr[1] "%d Spieler"
 
 msgctxt "gameModes"
 msgid "Team deathmach"
@@ -337,7 +355,7 @@ msgstr ""
 
 msgctxt "actions"
 msgid "Zavřít"
-msgstr ""
+msgstr "Schließen"
 
 msgctxt "leaderboard"
 msgid "Hráč"
@@ -384,10 +402,6 @@ msgstr ""
 msgctxt "actions"
 msgid "Začít"
 msgstr ""
-
-msgctxt "actions"
-msgid "Zavřít"
-msgstr "Schließen"
 
 msgctxt "action"
 msgid "Zobrazit později"
@@ -475,14 +489,6 @@ msgstr "T.M.A - solo"
 msgid "Výsledky on-line"
 msgstr ""
 
-msgctxt "results"
-msgid "On-line detailní výsledky"
-msgstr ""
-
-msgctxt "results"
-msgid "Zásahy/Smrti od spoluhráčů"
-msgstr ""
-
 msgid "Zobrazit vesty na Gate"
 msgstr ""
 
@@ -511,10 +517,6 @@ msgstr ""
 
 msgctxt "settings"
 msgid "Settings"
-msgstr ""
-
-msgctxt "results"
-msgid "Odehráno her"
 msgstr ""
 
 msgctxt "cli.errors"
@@ -1885,10 +1887,6 @@ msgid "Nezastavitelný klikač"
 msgstr ""
 
 msgid "Vysvětlení hodnocení"
-msgstr ""
-
-msgctxt "results"
-msgid "Umístění"
 msgstr ""
 
 msgid "Počet hráčů, který je lepší/horší než vy. Např. pokud jste v %s 10%%, znamená to, že 90%% hráčů mělo nižší hodnotu, než vy. %s 10 %% znamená, že 90 %% hráčů mělo vyšší hodnotu, než vy."
@@ -4850,105 +4848,30 @@ msgstr "Trennen Sie die Adressen mit einem Komma oder einem Zeilenumbruch."
 msgid "Odeslat e-maily"
 msgstr "Mails senden"
 
-msgctxt "gameModes"
-msgid "Kámen, Nůžky, Papír"
-msgstr ""
-
-msgid "Fotky"
-msgstr ""
-
-msgid "Fotky arény"
-msgstr ""
-
-msgid "Filtrovat fotky podle data"
-msgstr ""
-
-msgid "Jinak se zobrazí všechny nepřiřazené fotky."
-msgstr ""
-
-msgid "Nepřiřazené fotky"
-msgstr ""
-
-msgid "Opravdu chcete smazat %d fotek?"
-msgstr ""
-
-msgid "Smazat vybrané fotky"
-msgstr ""
-
-msgid "Vybrat vše"
-msgstr ""
-
-msgid "Stáhnout vybrané fotky"
-msgstr ""
-
-msgid "Opravdu chcete fotku smazat?"
-msgstr ""
-
-msgid "Smazat"
-msgstr ""
-
-msgid "Odehrané skupiny"
-msgstr ""
-
-msgid "Zobrazi/Skrýt fotky"
-msgstr ""
-
-msgid "Přiřadit fotky"
-msgstr ""
-
-msgid "Odeslat na e-mail"
-msgstr ""
-
-msgid "Zrušit přiřazení fotek"
-msgstr ""
-
-msgid "Odeslané e-maily"
-msgstr ""
-
-msgid "Odeslat fotky na e-mail"
-msgstr ""
-
-msgid "Nepodařilo se odeslat e-maily."
-msgstr ""
-
-msgid "E-maily byly úspěšně odeslány."
-msgstr ""
-
-msgid "E-mailové adresy"
-msgstr ""
-
-msgid "Musíte zadat alespoň jednu e-mailovou adresu."
-msgstr ""
-
-msgid "Některé e-mailové adresy nejsou platné."
-msgstr ""
-
-msgid "Adresy oddělte čárkou nebo novým řádkem."
-msgstr ""
-
-msgid "Odeslat e-maily"
+msgctxt "results"
+msgid "Umístění"
 msgstr ""
 
 msgctxt "gameModes"
 msgid "Team Revolver"
-msgstr ""
+msgstr "Team Revolver"
 
 msgctxt "gameModes"
 msgid "Gladiátor"
-msgstr ""
+msgstr "Gladiator"
 
 msgctxt "gender-male"
 msgid "Odeslal"
-msgstr ""
+msgstr "Geschrieben von"
 
 msgctxt "gender-female"
 msgid "Odeslala"
-msgstr ""
+msgstr "Eingereicht von"
 
 msgctxt "gender-other"
 msgid "Odeslalo"
-msgstr ""
+msgstr "Gesendet von"
 
 msgid "Vyberte fotky, které chcete od skupiny odebrat."
-msgstr ""
+msgstr "Wählen Sie die Fotos aus, die Sie aus der Gruppe entfernen möchten."
 
