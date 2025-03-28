@@ -6,7 +6,7 @@ msgstr ""
 "Language-Team: French\n"
 "Last-Translator: Tomáš Vojík <vojik@wboy.cz>\n"
 "MIME-Version: 1.0\n"
-"PO-Revision-Date: 2024-12-17 16:05\n"
+"PO-Revision-Date: 2025-03-28 10:55\n"
 "POT-Creation-Date: 2021-12-01 12:05+0100\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "Project-Id-Version: laserarenacontrol\n"
@@ -102,7 +102,7 @@ msgstr "Joueurs"
 
 msgctxt "player"
 msgid "Zásahy"
-msgstr "Coups"
+msgstr "Touches"
 
 msgctxt "player"
 msgid "Smrti"
@@ -156,23 +156,23 @@ msgctxt "today"
 msgid "%d hra"
 msgid_plural "%d her"
 msgstr[0] "%d match"
-msgstr[1] ""
+msgstr[1] "%d matchs"
 
 msgctxt "today"
 msgid "%d tým"
 msgid_plural "%d týmů"
 msgstr[0] "%d équipe"
-msgstr[1] ""
+msgstr[1] "%d équipes"
 
 msgctxt "today"
 msgid "%d hráč"
 msgid_plural "%d hráčů"
 msgstr[0] "%d joueur"
-msgstr[1] ""
+msgstr[1] "%d joueurs"
 
 msgctxt "hits"
 msgid "Zásahy hráčů"
-msgstr "Coups de joueurs"
+msgstr "Touches des joueurs"
 
 msgctxt "hits"
 msgid "Zasáhl si hráče"
@@ -204,7 +204,7 @@ msgstr "Tirs"
 
 msgctxt "bests"
 msgid "Ti nej..."
-msgstr ""
+msgstr "Au top..."
 
 msgctxt "bests"
 msgid "Největší terminátor"
@@ -444,7 +444,7 @@ msgstr[1] "%d coups"
 
 msgctxt "style.settings"
 msgid "Data tiskových stylů"
-msgstr ""
+msgstr "Données de style d'impression"
 
 msgctxt "style.settings"
 msgid "Pozadí na šířku"
@@ -616,7 +616,7 @@ msgid "Staň se nejpřesnějším hráčem."
 msgstr ""
 
 msgid "Zásahy od/do spoluhráčů"
-msgstr ""
+msgstr "Touches reçues/données des/aux alliés"
 
 msgid "Odehráno her"
 msgstr "Parties jouées"
@@ -658,11 +658,11 @@ msgstr "Coups ratés"
 
 msgctxt "hits"
 msgid "Zásahy do hráčů"
-msgstr "Coups de joueurs"
+msgstr "Touches des joueurs"
 
 msgctxt "hits"
 msgid "Smrti od hráčů"
-msgstr "La mort par des joueurs"
+msgstr "Morts par des joueurs"
 
 msgctxt "bests"
 msgid "Dostupné trofeje"
@@ -725,22 +725,22 @@ msgstr "Jeu suivant"
 
 msgctxt "info"
 msgid "Hudební mód"
-msgstr ""
+msgstr "Mode musique"
 
 msgctxt "group"
 msgid "Předchozí hra hráče %s"
-msgstr ""
+msgstr "Match précédent du joueur %s"
 
 msgctxt "group"
 msgid "Následující hra hráče %s"
-msgstr ""
+msgstr "Match suivant du joueur %s"
 
 msgctxt "hits"
 msgid "Zasáhlo si hráče"
 msgstr ""
 
 msgid "Umístění"
-msgstr ""
+msgstr "Position"
 
 msgctxt "hits"
 msgid "Zasáhla si hráče"
@@ -760,34 +760,73 @@ msgstr ""
 
 msgctxt "today"
 msgid "Zobrazit umístění"
-msgstr ""
+msgstr "Afficher la position"
 
 msgctxt "hits"
 msgid "Hry proti dalším týmům"
-msgstr ""
+msgstr "Matchs contre d'autres équipes"
 
 msgctxt "player"
 msgid "Životy"
-msgstr ""
+msgstr "Vies"
 
 msgid "Dobyté miny týmu"
-msgstr ""
+msgstr "Mines touchées par l’équipe"
 
 msgctxt "mode.zakladny"
 msgid "Dolní základna"
-msgstr ""
+msgstr "Base inférieure"
 
 msgctxt "mode.zakladny"
 msgid "Horní základna"
-msgstr ""
+msgstr "Base supérieure"
 
 msgctxt "style"
 msgid "Výchozí"
-msgstr ""
+msgstr "Défaut"
 
 msgctxt "style"
 msgid "Tabulkové"
-msgstr ""
+msgstr "Résultats en tableau"
+
+msgid "Skóre"
+msgstr "Score"
+
+msgid "Výstřely"
+msgstr "Tirs"
+
+msgid "Zásahy"
+msgstr "Touches"
+
+msgid "Smrti"
+msgstr "Morts"
+
+msgid "Sniper"
+msgstr "Sniper"
+
+msgid "Fotka ze hry %s"
+msgstr "Photo du jeu %s"
+
+msgid "Fotky ze hry jsou nastaveny jako veřejné."
+msgstr "Les photos du jeu sont publiques."
+
+msgid "Fotky ze hry jsou nastaveny jako neveřejné. Pro zobrazení fotek je třeba přístup přes speciální odkaz, nebo přihlášení do LaserLigy."
+msgstr "Les photos du jeu sont réglées sur non-public. Pour voir les photos, vous devez accéder via un lien spécial ou vous connecter à LaserLeague."
+
+msgid "Opravdu chcete zveřejnit fotky z této hry? Fotky uvidí kdokoliv, kdo si zobrazí výsledky této hry, ale nebude je moci stáhnout."
+msgstr "Voulez-vous vraiment publier des photos de ce jeu ? Toute personne qui consulte les résultats de ce jeu pourra voir les photos, mais ne pourra pas les télécharger."
+
+msgid "Opravdu chcete zrušit zveřejnění fotek z této hry? Fotky uvidí jen hráči hry, nebo ten, kdo přejde na výsledky se speciálním odkazem."
+msgstr "Voulez-vous vraiment annuler la publication des photos de ce jeu ? Seuls les joueurs du jeu ou ceux qui accèdent aux résultats à l'aide d'un lien spécial verront les photos."
+
+msgid "Fotky"
+msgstr "Photos"
+
+msgid "Stáhnout fotky"
+msgstr "Télécharger les photos"
+
+msgid "Zveřejnit fotky"
+msgstr "Publier des photos"
 
 msgid "Skóre"
 msgstr ""

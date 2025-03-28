@@ -3,7 +3,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language: en_US\n"
 "Language-Team: English\n"
-"PO-Revision-Date: 2024-12-18 10:37\n"
+"PO-Revision-Date: 2025-03-23 13:42\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Project-Id-Version: laserarenacontrol\n"
 "X-Crowdin-File: /master/privacy.pot\n"
@@ -219,92 +219,93 @@ msgstr "Cloudflare Turnstile does not process users' personal data, and all veri
 
 msgctxt "data_processing"
 msgid "Jméno a příjmení"
-msgstr ""
+msgstr "First and last name"
 
 msgctxt "data_processing"
 msgid "Přihláška na turnaj"
-msgstr ""
+msgstr "Tournament registration"
 
 msgctxt "data_processing"
 msgid "Telefonní číslo"
-msgstr ""
+msgstr "Phone number"
 
 msgctxt "data_processing"
 msgid "Rok narození"
-msgstr ""
+msgstr "Birth Year"
 
 msgctxt "purpose"
 msgid "Marketingové akce"
-msgstr ""
+msgstr "Marketing"
 
 msgctxt "purpose"
 msgid "Přihláška na turnaj"
-msgstr ""
+msgstr "Tournament registration"
 
 msgctxt "legal_basis"
 msgid "Souhlas / Oprávněný zájem"
-msgstr ""
+msgstr "Consent / Legitimate interest"
 
 msgctxt "section_title"
 msgid "Přihláška na turnaj / akci"
-msgstr ""
+msgstr "Tournament / Event Registration"
 
 msgctxt "tournament_registration"
 msgid "Přihláška na akci organizovanou skrz web LaserLiga.cz může vyžadovat vyplnění dodatečných údajů o hráčích jako jejich jméno, telefon, rok narození a případně kontaktní údaje na zákonného zástupce."
-msgstr ""
+msgstr "Registration for an event organised through the LaserLiga.cz website may require filling in additional information about the players, such as their name, phone number, year of birth and possibly contact information for a legal representative."
 
 msgctxt "tournament_registration"
 msgid "Povinnost jednotlivých údajů určuje organizátor dané akce (aréna)."
-msgstr ""
+msgstr "The organisation responsible for the event (arena) will determine individual data requirements."
 
 msgctxt "tournament_registration"
 msgid "Organizátor akce (aréna) má přístup k údajům vyplněných v přihlášce a může je využívat primárně k účelům komunikace s hráči."
-msgstr ""
+msgstr "The event organiser (arena) has access to the data filled in the application and can use it primarily for communication with the players."
 
 msgctxt "access"
 msgid "<strong>Zapojené arény</strong>: Mají přístup pouze k e-mailovým adrésám hráčů, kteří si je vybrali jako domovskou arénu nebo v nich hráli a k údajům vyplněných v přihláškách na akce organizované danou arénou."
-msgstr ""
+msgstr "<strong>Involved arenas</strong>: have access only to the email addresses of players who have selected them as their home arena or played in them, along with the details filled in the applications for events organised by that arena."
 
 msgctxt "access"
 msgid "Arény mohou údaje využívat k zasílání marketingových sdělení a komunikaci s hráči za účelem organizace akcí."
-msgstr ""
+msgstr "Arenas may use the data to send marketing messages and communicate with players to organise events."
 
 msgctxt "access"
 msgid "<strong>Osobní údaje nejsou poskytovány jiným třetím stranám</strong> ani předávány mimo EU."
-msgstr ""
+msgstr "<strong>Personal data is not provided to other third parties</strong> or transferred outside the EU."
 
 msgctxt "tournament_registration"
 msgid "Upozorňujeme, že každá aréna působí jako samostatný správce osobních údajů. Organizátoři akcí mohou mít své vlastní zásady zpracování osobních údajů, které nejsou pod kontrolou webu LaserLiga.cz."
-msgstr ""
+msgstr "Please note that each arena acts as a separate controller of personal data. Event organisers may have personal data processing policies that are not controlled by the LaserLiga.cz website."
 
 msgctxt "tournament_registration"
 msgid "Doporučujeme, aby si uživatelé před přihlášením na turnaj přečetli zásady zpracování osobních údajů konkrétní arény."
-msgstr ""
+msgstr "We recommend that users read the privacy policy of the specific arena before registering for the tournament."
 
 msgctxt "access"
 msgid "Arény jsou odpovědné za zpracování těchto údajů a mohou mít vlastní zásady ochrany osobních údajů."
-msgstr ""
+msgstr "Arenas are responsible for processing this data and may have their own privacy policies."
 
 msgctxt "section_title"
 msgid "Fotografie a jejich zpracování"
-msgstr ""
+msgstr "Photos and their processing"
 
 msgctxt "photos_info"
 msgid "LaserLiga umožňuje arénám nahrávát k výsledkům z her fotografie hráčů."
-msgstr ""
+msgstr "LaserLiga allows arenas to upload player photos to game results."
 
 msgctxt "photos_info"
 msgid "Fotografie pořizují a spravují arény. Fotografie ve výchozím stavu nejsou veřejně přístupné; přístup k nim mají pouze uživatelé se speciálním odkazem (který arény odesílají pomocí LaserLigy na e-mail) nebo registrovaní hráči, kteří se účastnili příslušné hry."
-msgstr ""
+msgstr "Photos are taken and managed by arenas. By default, images are not publicly accessible; users can only access them with a unique link (which arenas send via LaserLiga to an email) or by registered players who have participated in the relevant game."
 
 msgctxt "photos_storage"
 msgid "Fotografie jsou uchovávány v cloudovém úložišti evropského poskytovatele <a href=\"https://www.scaleway.com/en/privacy-policy/\" target=\"_blank\">Scaleway</a>."
-msgstr ""
+msgstr "Photos are stored in the cloud storage of the European provider <a href=\"https://www.scaleway.com/en/privacy-policy/\" target=\"_blank\">Scaleway</a>."
 
 msgctxt "photos_rights"
 msgid "Uživatelé s přístupem k fotografiím mohou fotografie stáhnout, požádat o jejich odstranění nebo je zveřejnit. V případě zveřejnění se fotografie zobrazí všem návštěvníkům, kteří si prohlížejí výsledky hry, avšak nemohou je stahovat, žádat o odstranění ani měnit jejich viditelnost."
-msgstr ""
+msgstr "Users with access to the photos can download, request removal or publish them. If published, the photos will be displayed to all visitors viewing the game results, but they cannot download, request removal or change their visibility."
 
 msgctxt "photos_retention"
 msgid "Fotografie, které aréna pořídila, ale nepřiřadila ke hře, budou odstraněny po jednom týdnu; fotografie přiřazené ke hře budou automaticky odstraněny typicky po 2 měsících."
-msgstr ""
+msgstr "Photos taken by the arena but not assigned to a game will be removed after one week; photos assigned to a game will be automatically removed typically after 2 months."
+

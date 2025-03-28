@@ -6,7 +6,7 @@ msgstr ""
 "Language-Team: English\n"
 "Last-Translator: Tomáš Vojík <vojik@wboy.cz>\n"
 "MIME-Version: 1.0\n"
-"PO-Revision-Date: 2024-12-17 16:06\n"
+"PO-Revision-Date: 2025-03-23 13:42\n"
 "POT-Creation-Date: 2021-12-01 12:05+0100\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Project-Id-Version: laserarenacontrol\n"
@@ -790,43 +790,43 @@ msgid "Tabulkové"
 msgstr "Tabular"
 
 msgid "Skóre"
-msgstr ""
+msgstr "Score"
 
 msgid "Výstřely"
-msgstr ""
+msgstr "Shots"
 
 msgid "Zásahy"
-msgstr ""
+msgstr "Hits"
 
 msgid "Smrti"
-msgstr ""
+msgstr "Deaths"
 
 msgid "Sniper"
-msgstr ""
+msgstr "Sniper"
 
 msgid "Fotka ze hry %s"
-msgstr ""
+msgstr "Game photo %s"
 
 msgid "Fotky ze hry jsou nastaveny jako veřejné."
-msgstr ""
+msgstr "Game photos are set as public."
 
 msgid "Fotky ze hry jsou nastaveny jako neveřejné. Pro zobrazení fotek je třeba přístup přes speciální odkaz, nebo přihlášení do LaserLigy."
-msgstr ""
+msgstr "Game photos are set to private. To view the photos, you need to access them via a unique link or by logging in to LaserLiga."
 
 msgid "Opravdu chcete zveřejnit fotky z této hry? Fotky uvidí kdokoliv, kdo si zobrazí výsledky této hry, ale nebude je moci stáhnout."
-msgstr ""
+msgstr "Are you sure you want to make the pictures of this game public? Anyone who views the results of this game will be able to see the photos but will not be able to download them."
 
 msgid "Opravdu chcete zrušit zveřejnění fotek z této hry? Fotky uvidí jen hráči hry, nebo ten, kdo přejde na výsledky se speciálním odkazem."
-msgstr ""
+msgstr "Are you sure you want to make the photos from this game private? Only players of the game, or whoever goes to the results with a unique link, will see the photos."
 
 msgid "Fotky"
-msgstr ""
+msgstr "Photos"
 
 msgid "Stáhnout fotky"
-msgstr ""
+msgstr "Download photos"
 
 msgid "Zveřejnit fotky"
-msgstr ""
+msgstr "Make photos public"
 
 msgid "Zásahy spoluhráčů"
 msgstr ""

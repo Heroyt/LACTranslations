@@ -6,7 +6,7 @@ msgstr ""
 "Language-Team: German\n"
 "Last-Translator: Tomáš Vojík <vojik@wboy.cz>\n"
 "MIME-Version: 1.0\n"
-"PO-Revision-Date: 2024-12-18 12:46\n"
+"PO-Revision-Date: 2025-03-28 12:15\n"
 "POT-Creation-Date: 2021-12-01 12:05+0100\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Project-Id-Version: laserarenacontrol\n"
@@ -283,10 +283,6 @@ msgstr ""
 msgid "%d score"
 msgstr ""
 
-msgctxt "actions"
-msgid "Zavřít"
-msgstr ""
-
 msgctxt "leaderboard"
 msgid "Hráč"
 msgstr ""
@@ -331,7 +327,7 @@ msgstr ""
 
 msgctxt "actions"
 msgid "Zavřít"
-msgstr ""
+msgstr "Schließen"
 
 msgctxt "action"
 msgid "Zobrazit později"
@@ -524,7 +520,6 @@ msgstr ""
 msgctxt "game.select"
 msgid "Vybrat hru"
 msgstr ""
-
 
 msgid "Použít pro novou hru"
 msgstr ""
@@ -4197,88 +4192,89 @@ msgid "Dnes se nehrály žádné hry."
 msgstr ""
 
 msgid "Rozložení"
-msgstr ""
+msgstr "Layout"
 
 msgid "Přetažením vest v mřížce upravujete zobrazení vest na výsledkové tabuli. Mělo by odpovídat fyzickému rozmístění vest na stojanech."
-msgstr ""
+msgstr "Ziehen Sie die Westen in das Raster, um die Anzeige der Westen auf der Anzeigetafel zu bearbeiten. Sie sollte mit der physischen Platzierung der Westen auf den Gestellen übereinstimmen."
 
 msgctxt "pageTitles.settings"
 msgid "Systémy lasergame"
-msgstr ""
+msgstr "Lasergame Systeme"
 
 msgctxt "settings"
 msgid "Nastavení LG systémů"
-msgstr ""
+msgstr "LG Systemeinstellungen"
 
 msgctxt "settings"
 msgid "Obecné"
-msgstr ""
+msgstr "Allgemein"
 
 msgctxt "settings"
 msgid "Vesty"
-msgstr ""
+msgstr "Schutzwesten"
 
 msgctxt "settings"
 msgid "Rozlození vest"
-msgstr ""
+msgstr "Weste Layout"
 
 msgctxt "settings"
 msgid "Nastavení systému %s"
-msgstr ""
+msgstr "Systemeinstellungen %s"
 
 msgid "Nový LG systém"
-msgstr ""
+msgstr "Neues LG-System"
 
 msgid "Název systému"
-msgstr ""
+msgstr "System-Name"
 
 msgid "Typ vybavení"
-msgstr ""
+msgstr "Typ der Ausrüstung"
 
 msgid "Počet vest"
-msgstr ""
+msgstr "Anzahl der Schutzwesten"
 
 msgid "IP adresa konzole"
-msgstr ""
+msgstr "IP-Adresse der Konsole"
 
 msgid "Cesta k adresáři výsledků"
-msgstr ""
+msgstr "Pfad zum Ergebnisverzeichnis"
 
 msgid "Cesta k adresáři pro nahrání her"
-msgstr ""
+msgstr "Der Pfad zum Upload-Verzeichnis des Spiels"
 
 msgid "Cesta k adresáři hudby"
-msgstr ""
+msgstr "Pfad zum Musikverzeichnis"
 
 msgid "Aktivní"
-msgstr ""
+msgstr "Aktiv"
 
 msgid "Výchozí"
-msgstr ""
+msgstr "Standard"
 
 msgid "Chyba při ukládání systému"
-msgstr ""
+msgstr "Fehler speicherndes System"
 
 msgctxt "vest.type"
 msgid "Vesta"
-msgstr ""
+msgstr "Vesta"
 
 msgctxt "vest.type"
 msgid "Zbraň"
-msgstr ""
+msgstr "Waffe"
 
 msgid "Opravdu chcete smazat vestu?"
-msgstr ""
+msgstr "Wollen Sie die Weste wirklich löschen?"
 
 msgid "Přidat vesty"
-msgstr ""
+msgstr "Schutzwesten hinzufügen"
 
 msgctxt "game"
 msgid "Vybrat LG systém"
-msgstr ""
+msgstr "LG-System auswählen"
 
 msgid "Naroozeniny"
-msgstr ""
+msgstr "Native"
 
 msgid "Narozeniny"
-msgstr ""
+msgstr "Geburtstag"
+

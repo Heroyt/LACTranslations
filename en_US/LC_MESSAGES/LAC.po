@@ -6,7 +6,7 @@ msgstr ""
 "Language-Team: English\n"
 "Last-Translator: Tomáš Vojík <vojik@wboy.cz>\n"
 "MIME-Version: 1.0\n"
-"PO-Revision-Date: 2024-12-18 12:46\n"
+"PO-Revision-Date: 2025-03-28 12:15\n"
 "POT-Creation-Date: 2021-12-01 12:05+0100\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Project-Id-Version: laserarenacontrol\n"
@@ -524,7 +524,6 @@ msgstr "Last games"
 msgctxt "game.select"
 msgid "Vybrat hru"
 msgstr "Choose game"
-
 
 msgid "Použít pro novou hru"
 msgstr "Use for a new game"
@@ -4197,88 +4196,89 @@ msgid "Dnes se nehrály žádné hry."
 msgstr "No games had been played today."
 
 msgid "Rozložení"
-msgstr ""
+msgstr "Layout"
 
 msgid "Přetažením vest v mřížce upravujete zobrazení vest na výsledkové tabuli. Mělo by odpovídat fyzickému rozmístění vest na stojanech."
-msgstr ""
+msgstr "Drag and drop vests in the grid to edit the display of vests on the scoreboard. It should match the physical placement of the vests on the racks."
 
 msgctxt "pageTitles.settings"
 msgid "Systémy lasergame"
-msgstr ""
+msgstr "Lasergame systems"
 
 msgctxt "settings"
 msgid "Nastavení LG systémů"
-msgstr ""
+msgstr "LG system settings"
 
 msgctxt "settings"
 msgid "Obecné"
-msgstr ""
+msgstr "General"
 
 msgctxt "settings"
 msgid "Vesty"
-msgstr ""
+msgstr "Vests"
 
 msgctxt "settings"
 msgid "Rozlození vest"
-msgstr ""
+msgstr "Vest layout"
 
 msgctxt "settings"
 msgid "Nastavení systému %s"
-msgstr ""
+msgstr "System Settings %s"
 
 msgid "Nový LG systém"
-msgstr ""
+msgstr "New LG system"
 
 msgid "Název systému"
-msgstr ""
+msgstr "System name"
 
 msgid "Typ vybavení"
-msgstr ""
+msgstr "Type of equipment"
 
 msgid "Počet vest"
-msgstr ""
+msgstr "Number of vests"
 
 msgid "IP adresa konzole"
-msgstr ""
+msgstr "IP address of the console"
 
 msgid "Cesta k adresáři výsledků"
-msgstr ""
+msgstr "Path to the results directory"
 
 msgid "Cesta k adresáři pro nahrání her"
-msgstr ""
+msgstr "Path to the game upload directory"
 
 msgid "Cesta k adresáři hudby"
-msgstr ""
+msgstr "Path to music directory"
 
 msgid "Aktivní"
-msgstr ""
+msgstr "Active"
 
 msgid "Výchozí"
-msgstr ""
+msgstr "Default"
 
 msgid "Chyba při ukládání systému"
-msgstr ""
+msgstr "Error saving system"
 
 msgctxt "vest.type"
 msgid "Vesta"
-msgstr ""
+msgstr "Vest"
 
 msgctxt "vest.type"
 msgid "Zbraň"
-msgstr ""
+msgstr "Gun"
 
 msgid "Opravdu chcete smazat vestu?"
-msgstr ""
+msgstr "Do you really want to delete the vest?"
 
 msgid "Přidat vesty"
-msgstr ""
+msgstr "Add vests"
 
 msgctxt "game"
 msgid "Vybrat LG systém"
-msgstr ""
+msgstr "Select LG system"
 
 msgid "Naroozeniny"
-msgstr ""
+msgstr "Birthday"
 
 msgid "Narozeniny"
-msgstr ""
+msgstr "Birthday"
+

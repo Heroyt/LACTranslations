@@ -6,7 +6,7 @@ msgstr ""
 "Language-Team: Czech\n"
 "Last-Translator: Tomáš Vojík <vojik@wboy.cz>\n"
 "MIME-Version: 1.0\n"
-"PO-Revision-Date: 2024-12-18 10:37\n"
+"PO-Revision-Date: 2025-03-28 12:15\n"
 "POT-Creation-Date: \n"
 "Plural-Forms: nplurals=4; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 3;\n"
 "Project-Id-Version: laserarenacontrol\n"
@@ -101,30 +101,6 @@ msgstr "Akce"
 
 msgid "Print"
 msgstr "Tisk"
-
-msgctxt "results.today"
-msgid "%d hra"
-msgid_plural "%d her"
-msgstr[0] "%d hra"
-msgstr[1] "%d hry"
-msgstr[2] "%d her"
-msgstr[3] "%d her"
-
-msgctxt "results.today"
-msgid "%d tým"
-msgid_plural "%d týmů"
-msgstr[0] "%d tým"
-msgstr[1] "%d týmy"
-msgstr[2] "%d týmů"
-msgstr[3] "%d týmů"
-
-msgctxt "results.today"
-msgid "%d hráč"
-msgid_plural "%d hráčů"
-msgstr[0] "%d hráč"
-msgstr[1] "%d hráči"
-msgstr[2] "%d hráčů"
-msgstr[3] "%d hráčů"
 
 msgctxt "gameModes"
 msgid "Team deathmach"
@@ -409,6 +385,10 @@ msgctxt "actions"
 msgid "Začít"
 msgstr "Začít"
 
+msgctxt "actions"
+msgid "Zavřít"
+msgstr ""
+
 msgctxt "action"
 msgid "Zobrazit později"
 msgstr "Zobrazit později"
@@ -524,6 +504,10 @@ msgstr "Zobrazit časovač od minuty"
 msgctxt "settings"
 msgid "Settings"
 msgstr "Nastavení"
+
+msgctxt "results"
+msgid "Odehráno her"
+msgstr "Odehráno her"
 
 msgctxt "cli.errors"
 msgid "Cannot find any translation files in \"%s\" for language \"%s\" - skipping"
@@ -4766,6 +4750,162 @@ msgid "Absolutní vítěz"
 msgstr ""
 
 msgid "Největší terminátor"
+msgstr ""
+
+msgid "Podařilo se ti získat nové ocenění!"
+msgid_plural "Podařilo se ti získat nová ocenění!"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+
+msgctxt "achievement"
+msgid "Hráč na misi"
+msgstr ""
+
+msgid "Někdo tě přeskočil v žebříčku!"
+msgstr ""
+
+msgid "Posunul si se o %d místo dolů a teď jsi %s."
+msgid_plural "Posunul si se o %d míst dolů a teď jsi %s"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+
+msgctxt "achievement"
+msgid "Infiltrátor"
+msgstr ""
+
+msgid "Ligy laser game"
+msgstr ""
+
+msgid "Liga laser game je dlouhodobá soutěž skládající se z několika turnajů. Výsledky jsou vyhodnocovány z každého turnaje zvlášť, ale zároveň mezi turnaji. Na konci ligového období jsou vyhlášeny celkové výsledky."
+msgstr ""
+
+msgctxt "pageTitles"
+msgid "Akce %s - %s"
+msgstr ""
+
+msgctxt "pageDescription"
+msgid "Akce %s v %s v datech %s."
+msgstr ""
+
+msgid "Zpět na plánované akce"
+msgstr ""
+
+msgid "Informace o akci laser game, který se bude odehrávat v %s."
+msgstr ""
+
+msgid "Laser game akce: %s"
+msgstr ""
+
+msgid "Termíny"
+msgstr ""
+
+msgid "Zrušený"
+msgstr ""
+
+msgid "Individuální"
+msgstr ""
+
+msgid "Seznam přihlášených hráčů na akci laser game."
+msgstr ""
+
+msgid "Termín je zrušený"
+msgstr ""
+
+msgid "Souhlasím se <a href=\"%s\" target=\"_blank\">zásadami zpracování osobních údajů</a>."
+msgstr ""
+
+msgid "Správa arény"
+msgstr ""
+
+msgctxt "gameModes"
+msgid "Team deathmatch"
+msgstr ""
+
+msgctxt "gameModes"
+msgid "Deathmatch"
+msgstr ""
+
+msgctxt "gameModes"
+msgid "Kámen, Nůžky, Papír"
+msgstr ""
+
+msgid "Fotky"
+msgstr ""
+
+msgid "Fotky arény"
+msgstr ""
+
+msgid "Filtrovat fotky podle data"
+msgstr ""
+
+msgid "Jinak se zobrazí všechny nepřiřazené fotky."
+msgstr ""
+
+msgid "Nepřiřazené fotky"
+msgstr ""
+
+msgid "Opravdu chcete smazat %d fotek?"
+msgstr ""
+
+msgid "Smazat vybrané fotky"
+msgstr ""
+
+msgid "Vybrat vše"
+msgstr ""
+
+msgid "Stáhnout vybrané fotky"
+msgstr ""
+
+msgid "Opravdu chcete fotku smazat?"
+msgstr ""
+
+msgid "Smazat"
+msgstr ""
+
+msgid "Odehrané skupiny"
+msgstr ""
+
+msgid "Zobrazi/Skrýt fotky"
+msgstr ""
+
+msgid "Přiřadit fotky"
+msgstr ""
+
+msgid "Odeslat na e-mail"
+msgstr ""
+
+msgid "Zrušit přiřazení fotek"
+msgstr ""
+
+msgid "Odeslané e-maily"
+msgstr ""
+
+msgid "Odeslat fotky na e-mail"
+msgstr ""
+
+msgid "Nepodařilo se odeslat e-maily."
+msgstr ""
+
+msgid "E-maily byly úspěšně odeslány."
+msgstr ""
+
+msgid "E-mailové adresy"
+msgstr ""
+
+msgid "Musíte zadat alespoň jednu e-mailovou adresu."
+msgstr ""
+
+msgid "Některé e-mailové adresy nejsou platné."
+msgstr ""
+
+msgid "Adresy oddělte čárkou nebo novým řádkem."
+msgstr ""
+
+msgid "Odeslat e-maily"
 msgstr ""
 
 msgid "Podařilo se ti získat nové ocenění!"

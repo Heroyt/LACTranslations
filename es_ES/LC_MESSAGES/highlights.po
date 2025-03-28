@@ -213,6 +213,11 @@ msgctxt "pod"
 msgid "%s získala %.1fx tolik bonusů co ostatní."
 msgstr ""
 
+msgctxt "results"
+msgid "%s byla zasažena nejvíce spoluhráči (%d)."
+msgstr "%s ha sido golpeado por el mayor número de compañeros de equipo (%d)."
+
 msgctxt "evo5"
 msgid "%s jediné bylo zasaženo minou."
-msgstr ""
+msgstr "%s ha sido el único alcanzado por una mina."
+

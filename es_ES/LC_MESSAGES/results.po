@@ -6,7 +6,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "Last-Translator: Tomáš Vojík <vojik@wboy.cz>\n"
 "MIME-Version: 1.0\n"
-"PO-Revision-Date: 2024-12-17 16:05\n"
+"PO-Revision-Date: 2025-03-23 11:50\n"
 "POT-Creation-Date: 2021-12-01 12:05+0100\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Project-Id-Version: laserarenacontrol\n"
@@ -790,16 +790,41 @@ msgid "Tabulkové"
 msgstr ""
 
 msgid "Skóre"
-msgstr ""
+msgstr "Puntuación"
 
 msgid "Výstřely"
-msgstr ""
+msgstr "Disparos"
 
 msgid "Zásahy"
-msgstr ""
+msgstr "Intervenciones"
 
 msgid "Smrti"
-msgstr ""
+msgstr "Fallecimientos"
 
 msgid "Sniper"
-msgstr ""
+msgstr "Francotirador"
+
+msgid "Fotka ze hry %s"
+msgstr "Foto del juego %s"
+
+msgid "Fotky ze hry jsou nastaveny jako veřejné."
+msgstr "Las fotos del juego son públicas."
+
+msgid "Fotky ze hry jsou nastaveny jako neveřejné. Pro zobrazení fotek je třeba přístup přes speciální odkaz, nebo přihlášení do LaserLigy."
+msgstr "Las fotos de los partidos no son públicas. Para ver las fotos tienes que acceder a través de un enlace especial o iniciar sesión en LaserLeague."
+
+msgid "Opravdu chcete zveřejnit fotky z této hry? Fotky uvidí kdokoliv, kdo si zobrazí výsledky této hry, ale nebude je moci stáhnout."
+msgstr "¿De verdad quieres publicar fotos de este partido? Cualquiera que vea los resultados de este juego podrá ver las fotos, pero no podrá descargarlas."
+
+msgid "Opravdu chcete zrušit zveřejnění fotek z této hry? Fotky uvidí jen hráči hry, nebo ten, kdo přejde na výsledky se speciálním odkazem."
+msgstr "¿De verdad quieres cancelar la publicación de las fotos de este juego? Sólo verán las fotos los jugadores del juego o quienes vayan a los resultados con un enlace especial."
+
+msgid "Fotky"
+msgstr "Fotos"
+
+msgid "Stáhnout fotky"
+msgstr "Descargar fotos"
+
+msgid "Zveřejnit fotky"
+msgstr "Publicar fotos"
+

@@ -3,7 +3,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language: sk_SK\n"
 "Language-Team: Slovak\n"
-"PO-Revision-Date: 2024-12-18 10:37\n"
+"PO-Revision-Date: 2025-03-23 13:42\n"
 "Plural-Forms: nplurals=4; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 3;\n"
 "Project-Id-Version: laserarenacontrol\n"
 "X-Crowdin-File: /master/privacy.pot\n"
@@ -15,207 +15,299 @@ msgstr ""
 
 msgctxt "metadata"
 msgid "Zásady zpracování osobních údajů na webu %s."
-msgstr ""
+msgstr "Zásady spracúvania osobných údajov na webovej stránke %s."
 
 msgctxt "title"
 msgid "Zásady zpracování osobních údajů"
-msgstr ""
+msgstr "Politika spracovania osobných údajov"
 
 msgctxt "intro"
 msgid "Tyto zásady popisují zpracování osobních údajů na webu %s v souladu s nařízením Evropského parlamentu a Rady (EU) 2016/679 o ochraně osobních údajů (GDPR)."
-msgstr ""
+msgstr "Tieto zásady opisujú spracovanie osobných údajov na webovej stránke %s v súlade so všeobecným nariadením Európskeho parlamentu a Rady (EÚ) 2016/679 o ochrane údajov (GDPR)."
 
 msgctxt "section_title"
 msgid "Úvodní ustanovení"
-msgstr ""
+msgstr "Úvodné ustanovenia"
 
 msgctxt "controller_info"
 msgid "Správcem osobních údajů je %s (IČ: %s) se sídlem %s."
-msgstr ""
+msgstr "Prevádzkovateľom osobných údajov je %s (IČO: %s) so sídlom na adrese %s."
 
 msgctxt "contact_info"
 msgid "Pro dotazy kontaktujte naši podporu na e-mailu %s."
-msgstr ""
+msgstr "V prípade otázok kontaktujte náš tím podpory na adrese %s."
 
 msgctxt "section_title"
 msgid "Jaké osobní údaje zpracováváme?"
-msgstr ""
+msgstr "Aké osobné údaje spracúvame?"
 
 msgctxt "table_header"
 msgid "Údaj"
-msgstr ""
+msgstr "Údaj"
 
 msgctxt "table_header"
 msgid "Účel zpracování"
-msgstr ""
+msgstr "Účel spracovania"
 
 msgctxt "data_processing_email"
 msgid "E-mailová adresa"
-msgstr ""
+msgstr "E-mailová adresa"
 
 msgctxt "data_processing_email"
 msgid "Registrace, komunikace a marketing."
-msgstr ""
+msgstr "Registrácia, komunikácia a marketing."
 
 msgctxt "data_processing_birthdate"
 msgid "Datum narození (volitelné)"
-msgstr ""
+msgstr "Dátum narodenia (nepovinné)"
 
 msgctxt "data_processing_birthdate"
 msgid "Marketing (např. narozeninové slevy), narozeninové ocenění"
-msgstr ""
+msgstr "Marketing (napr. narodeninové zľavy), narodeninové odmeny"
 
 msgctxt "section_title"
 msgid "Účely a právní základ zpracování osobních údajů"
-msgstr ""
+msgstr "Účely a právny základ spracúvania osobných údajov"
 
 msgctxt "table_header"
 msgid "Právní základ"
-msgstr ""
+msgstr "Právny základ"
 
 msgctxt "purpose"
 msgid "Registrace a správa uživatelského účtu"
-msgstr ""
+msgstr "Registrácia a správa používateľských účtov"
 
 msgctxt "legal_basis"
 msgid "Souhlas"
-msgstr ""
+msgstr "Súhlas"
 
 msgctxt "purpose"
 msgid "Marketingové akce (narozeninová sleva, achievementy)"
-msgstr ""
+msgstr "Marketingové akcie (narodeninová zľava, úspechy)"
 
 msgctxt "legal_basis"
 msgid "Souhlas / oprávněný zájem"
-msgstr ""
+msgstr "Súhlas / oprávnený záujem"
 
 msgctxt "purpose"
 msgid "Analytika webu"
-msgstr ""
+msgstr "Webová analytika"
 
 msgctxt "legal_basis"
 msgid "Oprávněný zájem"
-msgstr ""
+msgstr "Oprávnený záujem"
 
 msgctxt "section_title"
 msgid "Marketingová komunikace a volby uživatelů"
-msgstr ""
+msgstr "Marketingová komunikácia a voľba používateľa"
 
 msgctxt "marketing_options"
 msgid "Uživatelé mohou nastavit, zda chtějí svůj e-mail poskytovat pro marketingové účely:"
-msgstr ""
+msgstr "Používatelia môžu nastaviť, či chcú poskytnúť svoj e-mail na marketingové účely:"
 
 msgctxt "marketing_choice"
 msgid "Všem zapojeným arénám a Laser Lize."
-msgstr ""
+msgstr "Všetkým zapojeným arénam a LaserLige."
 
 msgctxt "marketing_choice"
 msgid "Jen své domovské aréně a Laser Lize."
-msgstr ""
+msgstr "Len do vašej domácej arény a LaserLige."
 
 msgctxt "marketing_choice"
 msgid "Pouze Laser Lize."
-msgstr ""
+msgstr "Iba Laser Liga."
 
 msgctxt "marketing_choice"
 msgid "Nikomu."
-msgstr ""
+msgstr "Nikomu."
 
 msgctxt "section_title"
 msgid "Uchovávání osobních údajů"
-msgstr ""
+msgstr "Ukladanie osobných údajov"
 
 msgctxt "data_retention"
 msgid "Osobní údaje uchováváme po dobu aktivního účtu uživatele nebo do odvolání souhlasu."
-msgstr ""
+msgstr "Osobné údaje uchovávame dovtedy, kým je účet používateľa aktívny alebo kým nie je súhlas odvolaný."
 
 msgctxt "section_title"
 msgid "Kdo má přístup k osobním údajům"
-msgstr ""
+msgstr "Kto má prístup k osobným údajom"
 
 msgctxt "access"
 msgid "<strong>Provozovatel webu</strong>"
-msgstr ""
+msgstr "<strong>Prevádzkovateľ webovej stránky</strong>"
 
 msgctxt "access"
 msgid "<strong>Zapojené arény</strong>: Mají přístup pouze k e-mailovým adrésám hráčů, kteří si je vybrali jako domovskou arénu nebo v nich hráli. Tyto arény mohou adresy využívat k zasílání marketingových sdělení."
-msgstr ""
+msgstr "<strong>Arény, ktorých sa to týka</strong>: Majú prístup len k e-mailovým adresám hráčov, ktorí si ich zvolili za svoju domovskú arénu alebo v nich hrali. Tieto arény môžu tieto adresy použiť na zasielanie marketingových správ."
 
 msgctxt "access"
 msgid "<strong>Osobní údaje nejsou poskytovány třetím stranám</strong> ani předávány mimo EU."
-msgstr ""
+msgstr "<strong>Osobné údaje sa neposkytujú tretím stranám ani sa neprenášajú</strong> mimo EÚ."
 
 msgctxt "section_title"
 msgid "Analytika a cookies"
-msgstr ""
+msgstr "Analýza a súbory cookie"
 
 msgctxt "analytics"
 msgid "Používáme open-source analytickou službu, která nesdílí data se třetími stranami a je plně v naší správě."
-msgstr ""
+msgstr "Používame analytickú službu s otvoreným zdrojovým kódom, ktorá nezdieľa údaje s tretími stranami a je plne spravovaná nami."
 
 msgctxt "section_title"
 msgid "Práva uživatelů"
-msgstr ""
+msgstr "Práva používateľa"
 
 msgctxt "user_rights"
 msgid "Podle GDPR máte právo:"
-msgstr ""
+msgstr "Podľa GDPR máte právo:"
 
 msgctxt "user_right"
 msgid "Právo na přístup ke svým údajům."
-msgstr ""
+msgstr "Právo na prístup k vašim údajom."
 
 msgctxt "user_right"
 msgid "Právo na opravu nepřesných údajů."
-msgstr ""
+msgstr "Právo na opravu nepresných údajov."
 
 msgctxt "user_right"
 msgid "Právo na výmaz údajů („právo být zapomenut“)."
-msgstr ""
+msgstr "Právo na vymazanie údajov (\"právo byť zabudnutý\")."
 
 msgctxt "user_right"
 msgid "Právo odvolat souhlas se zpracováním údajů."
-msgstr ""
+msgstr "Právo odvolať súhlas so spracovaním údajov."
 
 msgctxt "section_title"
 msgid "Ochrana osobních údajů"
-msgstr ""
+msgstr "Ochrana osobných údajov"
 
 msgctxt "contact_dpa"
 msgid "Web %s implementuje vhodná technická a organizační opatření k ochraně osobních údajů proti neoprávněnému přístupu, změně, ztrátě či zničení."
-msgstr ""
+msgstr "Na webovej stránke %s sú zavedené vhodné technické a organizačné opatrenia na ochranu osobných údajov pred neoprávneným prístupom, zmenou, stratou alebo zničením."
 
 msgctxt "section_title"
 msgid "Kontakt na dozorový úřad"
-msgstr ""
+msgstr "Kontakt na dozorný orgán"
 
 msgctxt "contact_dpa"
 msgid "Pokud nejste spokojeni se zpracováním, máte právo se obrátit na dozorový úřad."
-msgstr ""
+msgstr "Ak nie ste spokojní so spracovaním, máte právo obrátiť sa na dozorný orgán."
 
 msgctxt "dpa_link"
 msgid "Úřad pro ochranu osobních údajů"
-msgstr ""
+msgstr "Úrad na ochranu údajov"
 
 msgctxt "section_title"
 msgid "Změny zásad"
-msgstr ""
+msgstr "Zmeny v politike"
 
 msgctxt "updates"
 msgid "Tyto zásady mohou být aktualizovány. O změnách budete informováni."
-msgstr ""
+msgstr "Tieto zásady sa môžu aktualizovať. O všetkých zmenách budete informovaní."
 
 msgctxt "last_updated"
 msgid "Poslední aktualizace: %s"
-msgstr ""
+msgstr "Posledná aktualizácia: %s"
 
 msgctxt "security_turnstile"
 msgid "Pro ochranu formulářů na webu používáme službu <a href=\"https://www.cloudflare.com/application-services/products/turnstile/\" target=\"_blank\">Cloudflare Turnstile Captcha</a>, která chrání proti automatizovaným útokům a zajišťuje bezpečnost webu."
-msgstr ""
+msgstr "Na ochranu formulárov na webe používame <a href=\"https://www.cloudflare.com/application-services/products/turnstile/\" target=\"_blank\">Cloudflare Turnstile Captcha</a>, ktorý chráni pred automatickými útokmi a zaisťuje bezpečnosť webu."
 
 msgctxt "security_turnstile_anonymity"
 msgid "Cloudflare Turnstile nezpracovává osobní údaje uživatelů a veškeré ověřování probíhá anonymně."
-msgstr ""
+msgstr "Cloudflare Turnstile nespracúva osobné údaje používateľov a všetky overenia sa vykonávajú anonymne."
+
+msgctxt "data_processing"
+msgid "Jméno a příjmení"
+msgstr "Meno a priezvisko"
+
+msgctxt "data_processing"
+msgid "Přihláška na turnaj"
+msgstr "Prihláška na turnaj"
+
+msgctxt "data_processing"
+msgid "Telefonní číslo"
+msgstr "Telefónne číslo"
+
+msgctxt "data_processing"
+msgid "Rok narození"
+msgstr "Rok narodenia"
+
+msgctxt "purpose"
+msgid "Marketingové akce"
+msgstr "Marketingové podujatia"
+
+msgctxt "purpose"
+msgid "Přihláška na turnaj"
+msgstr "Prihláška na turnaj"
+
+msgctxt "legal_basis"
+msgid "Souhlas / Oprávněný zájem"
+msgstr "Súhlas / oprávnený záujem"
+
+msgctxt "section_title"
+msgid "Přihláška na turnaj / akci"
+msgstr "Prihláška na turnaj/podujatie"
+
+msgctxt "tournament_registration"
+msgid "Přihláška na akci organizovanou skrz web LaserLiga.cz může vyžadovat vyplnění dodatečných údajů o hráčích jako jejich jméno, telefon, rok narození a případně kontaktní údaje na zákonného zástupce."
+msgstr "Registrácia na podujatie organizované prostredníctvom LaserLiga.cz môže vyžadovať ďalšie informácie o hráčoch, ako je ich meno, telefónne číslo, rok narodenia a prípadne kontaktné údaje na ich zákonného zástupcu."
+
+msgctxt "tournament_registration"
+msgid "Povinnost jednotlivých údajů určuje organizátor dané akce (aréna)."
+msgstr "Povinnosť uvádzať jednotlivé údaje určuje organizátor podujatia (aréna)."
+
+msgctxt "tournament_registration"
+msgid "Organizátor akce (aréna) má přístup k údajům vyplněných v přihlášce a může je využívat primárně k účelům komunikace s hráči."
+msgstr "Organizátor podujatia (aréna) má prístup k údajom vyplneným v prihláške a môže ich použiť predovšetkým na účely komunikácie s hráčmi."
+
+msgctxt "access"
+msgid "<strong>Zapojené arény</strong>: Mají přístup pouze k e-mailovým adrésám hráčů, kteří si je vybrali jako domovskou arénu nebo v nich hráli a k údajům vyplněných v přihláškách na akce organizované danou arénou."
+msgstr "<strong>Zapojené arény</strong>: Majú prístup len k e-mailovým adresám hráčov, ktorí si ich zvolili za svoju domovskú arénu alebo v nich hrali, a k údajom vyplneným v registračných formulároch na podujatia organizované danou arénou."
+
+msgctxt "access"
+msgid "Arény mohou údaje využívat k zasílání marketingových sdělení a komunikaci s hráči za účelem organizace akcí."
+msgstr "Arény môžu údaje používať na zasielanie marketingových správ a komunikáciu s hráčmi na účely organizovania podujatí."
+
+msgctxt "access"
+msgid "<strong>Osobní údaje nejsou poskytovány jiným třetím stranám</strong> ani předávány mimo EU."
+msgstr "<strong>Osobné údaje sa neposkytujú iným tretím stranám ani sa neprenášajú</strong> mimo EÚ."
+
+msgctxt "tournament_registration"
+msgid "Upozorňujeme, že každá aréna působí jako samostatný správce osobních údajů. Organizátoři akcí mohou mít své vlastní zásady zpracování osobních údajů, které nejsou pod kontrolou webu LaserLiga.cz."
+msgstr "Upozorňujeme, že každá aréna vystupuje ako samostatný správca údajov. Organizátori podujatí môžu mať vlastné zásady spracovania osobných údajov, ktoré nie sú pod kontrolou LaserLiga.cz."
+
+msgctxt "tournament_registration"
+msgid "Doporučujeme, aby si uživatelé před přihlášením na turnaj přečetli zásady zpracování osobních údajů konkrétní arény."
+msgstr "Používateľom odporúčame, aby si pred prihlásením do turnaja prečítali zásady spracovania osobných údajov konkrétnej arény."
+
+msgctxt "access"
+msgid "Arény jsou odpovědné za zpracování těchto údajů a mohou mít vlastní zásady ochrany osobních údajů."
+msgstr "Za spracovanie týchto údajov sú zodpovedné arény, ktoré môžu mať vlastné zásady ochrany osobných údajov."
+
+msgctxt "section_title"
+msgid "Fotografie a jejich zpracování"
+msgstr "Fotografie a ich spracovanie"
+
+msgctxt "photos_info"
+msgid "LaserLiga umožňuje arénám nahrávát k výsledkům z her fotografie hráčů."
+msgstr "LaserLiga umožňuje arénam nahrávať fotografie hráčov k výsledkom hier."
+
+msgctxt "photos_info"
+msgid "Fotografie pořizují a spravují arény. Fotografie ve výchozím stavu nejsou veřejně přístupné; přístup k nim mají pouze uživatelé se speciálním odkazem (který arény odesílají pomocí LaserLigy na e-mail) nebo registrovaní hráči, kteří se účastnili příslušné hry."
+msgstr "Fotografie zhotovujú a spravujú arény. Fotografie nie sú štandardne verejne prístupné; prístup k nim majú len používatelia so špeciálnym odkazom (ktorý arény posielajú prostredníctvom e-mailu LaserLeague) alebo registrovaní hráči, ktorí sa zúčastnili príslušnej hry."
+
+msgctxt "photos_storage"
+msgid "Fotografie jsou uchovávány v cloudovém úložišti evropského poskytovatele <a href=\"https://www.scaleway.com/en/privacy-policy/\" target=\"_blank\">Scaleway</a>."
+msgstr "Fotografie sú uložené v cloudovom úložisku európskeho poskytovateľa <a href=\"https://www.scaleway.com/en/privacy-policy/\" target=\"_blank\">Scaleway</a>."
+
+msgctxt "photos_rights"
+msgid "Uživatelé s přístupem k fotografiím mohou fotografie stáhnout, požádat o jejich odstranění nebo je zveřejnit. V případě zveřejnění se fotografie zobrazí všem návštěvníkům, kteří si prohlížejí výsledky hry, avšak nemohou je stahovat, žádat o odstranění ani měnit jejich viditelnost."
+msgstr "Používatelia s prístupom k fotografiám si ich môžu stiahnuť, požiadať o ich odstránenie alebo ich zverejniť. Ak sú fotografie zverejnené, zobrazia sa všetkým návštevníkom, ktorí si prezerajú výsledky hry, ale nemôžu si ich stiahnuť, požiadať o ich odstránenie alebo zmeniť ich viditeľnosť."
+
+msgctxt "photos_retention"
+msgid "Fotografie, které aréna pořídila, ale nepřiřadila ke hře, budou odstraněny po jednom týdnu; fotografie přiřazené ke hře budou automaticky odstraněny typicky po 2 měsících."
+msgstr "Fotografie z arény, ktoré neboli priradené k hre, budú odstránené po jednom týždni; fotografie priradené k hre budú automaticky odstránené zvyčajne po 2 mesiacoch."
 
 msgctxt "data_processing"
 msgid "Jméno a příjmení"

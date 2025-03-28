@@ -6,7 +6,7 @@ msgstr ""
 "Language-Team: Ukrainian\n"
 "Last-Translator: Tomáš Vojík <vojik@wboy.cz>\n"
 "MIME-Version: 1.0\n"
-"PO-Revision-Date: 2024-12-18 14:12\n"
+"PO-Revision-Date: 2025-03-28 12:15\n"
 "POT-Creation-Date: \n"
 "Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
 "Project-Id-Version: laserarenacontrol\n"
@@ -102,114 +102,9 @@ msgstr ""
 msgid "Print"
 msgstr ""
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 msgctxt "gameModes"
 msgid "Team deathmach"
 msgstr ""
-
-
-
-
 
 msgctxt "debugPanel"
 msgid "Language"
@@ -226,8 +121,6 @@ msgstr ""
 msgctxt "gameModes"
 msgid "CSGO"
 msgstr ""
-
-
 
 msgctxt "gameModes"
 msgid "Deathmach"
@@ -247,42 +140,6 @@ msgstr ""
 
 msgid "Game"
 msgstr ""
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-msgctxt "results"
-msgid "Vítězství"
-msgstr ""
-
-msgctxt "results"
-msgid "Remíza"
-msgstr ""
-
-
-
-
 
 msgctxt "tips"
 msgid "Jak se v aréně střílí, tak se v aréně umírá..."
@@ -414,20 +271,6 @@ msgctxt "pageTitles"
 msgid "Settings"
 msgstr ""
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 msgctxt "actions"
 msgid "Send"
 msgstr ""
@@ -435,10 +278,6 @@ msgstr ""
 msgctxt "actions"
 msgid "Delete"
 msgstr ""
-
-
-
-
 
 msgctxt "dates"
 msgid "Date from"
@@ -463,71 +302,11 @@ msgstr ""
 msgid "No games have been played yet."
 msgstr ""
 
-
-
 msgctxt "tips"
 msgid "Oživení trvá 5 sekund."
 msgstr ""
 
-
-
-
-
-
-
-msgctxt "results"
-msgid "Výsledky hráčů"
-msgstr ""
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-msgctxt "results"
-msgid "%d zabití"
-msgstr ""
-
-
-
-
-
-
-
-
-
-
-
 msgid "Zobrazit na Gate"
-msgstr ""
-
-msgctxt "results"
-msgid "Sniper"
-msgstr ""
-
-msgctxt "results"
-msgid "Mega střelec"
-msgstr ""
-
-msgctxt "results"
-msgid "Predátor"
-msgstr ""
-
-msgctxt "results"
-msgid "Cíl"
 msgstr ""
 
 msgctxt "gate"
@@ -537,8 +316,6 @@ msgstr ""
 msgctxt "gate"
 msgid "Výsledky dne"
 msgstr ""
-
-
 
 msgctxt "actions"
 msgid "Add date"
@@ -550,8 +327,6 @@ msgstr ""
 msgid "never"
 msgstr ""
 
-
-
 msgctxt "errors"
 msgid "Uploaded file is too large"
 msgstr ""
@@ -559,16 +334,6 @@ msgstr ""
 msgctxt "errors"
 msgid "Database error occurred."
 msgstr ""
-
-
-
-
-
-
-
-
-
-
 
 msgctxt "actions"
 msgid "Zavřít"
@@ -610,133 +375,11 @@ msgctxt "gameModes"
 msgid "100 nábojů"
 msgstr ""
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-msgctxt "results"
-msgid "Výstřely"
-msgstr ""
-
-msgctxt "results"
-msgid "Střely do prázdna"
-msgstr ""
-
-
-
-
-
 msgid "Bohužel tady nic není..."
 msgstr ""
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 msgid "Legenda"
 msgstr ""
-
-msgctxt "results"
-msgid "Skóre"
-msgstr ""
-
-msgctxt "results"
-msgid "Zásahy"
-msgstr ""
-
-msgctxt "results"
-msgid "Smrti"
-msgstr ""
-
-msgctxt "results"
-msgid "Zásahy od/do spoluhráčů"
-msgstr ""
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 msgctxt "actions"
 msgid "Začít"
@@ -754,8 +397,6 @@ msgctxt "action"
 msgid "Nezobrazovat"
 msgstr ""
 
-
-
 msgctxt "actions"
 msgid "Předchozí"
 msgstr ""
@@ -767,18 +408,6 @@ msgstr ""
 msgctxt "actions"
 msgid "Načítání"
 msgstr ""
-
-msgctxt "results"
-msgid "Bonusy"
-msgstr ""
-
-
-
-
-
-
-
-
 
 msgctxt "action"
 msgid "Dokončit"
@@ -794,10 +423,6 @@ msgstr ""
 
 msgctxt "gameModes"
 msgid "Barvičky"
-msgstr ""
-
-msgctxt "results"
-msgid "Bodování"
 msgstr ""
 
 msgctxt "gameModes"
@@ -846,8 +471,6 @@ msgstr ""
 msgctxt "gameModes"
 msgid "T.M.A - solo"
 msgstr ""
-
-
 
 msgid "Výsledky on-line"
 msgstr ""
@@ -971,12 +594,6 @@ msgstr ""
 
 msgid "Hry"
 msgstr ""
-
-
-
-
-
-
 
 msgctxt "debugPanel"
 msgid "Invalid cache class"
@@ -1112,7 +729,6 @@ msgstr ""
 msgctxt "game.select"
 msgid "Vybrat hru"
 msgstr ""
-
 
 msgid "Použít pro novou hru"
 msgstr ""
@@ -2245,8 +1861,6 @@ msgstr ""
 msgid "Zobrazit stránku arény"
 msgstr ""
 
-
-
 msgid "Analýza hry - zajímavosti"
 msgstr ""
 
@@ -2265,10 +1879,6 @@ msgstr ""
 msgid "Sdílet"
 msgstr ""
 
-
-
-
-
 msgid "Trofej"
 msgstr ""
 
@@ -2283,8 +1893,6 @@ msgstr ""
 
 msgid "Nezastavitelný klikač"
 msgstr ""
-
-
 
 msgid "Vysvětlení hodnocení"
 msgstr ""
@@ -2842,8 +2450,6 @@ msgstr ""
 msgid "%d. se umístila %s s celkovým skóre %s."
 msgstr ""
 
-
-
 msgctxt "pageTitles"
 msgid "Ligy laser game"
 msgstr ""
@@ -3225,10 +2831,6 @@ msgstr ""
 msgid "Vytrvalec"
 msgstr ""
 
-
-
-
-
 msgid "Rozpad skóre a herní úrovně"
 msgstr ""
 
@@ -3258,10 +2860,6 @@ msgstr ""
 
 msgid "Umístění v žebříčku"
 msgstr ""
-
-
-
-
 
 msgid "Nastavení profilu"
 msgstr ""
@@ -3621,8 +3219,6 @@ msgstr ""
 
 msgid "Průměrné ohodnocení týmu"
 msgstr ""
-
-
 
 msgid "hra proti týmu"
 msgid_plural "her proti týmu"
@@ -5166,5 +4762,161 @@ msgid "Absolutní vítěz"
 msgstr ""
 
 msgid "Největší terminátor"
+msgstr ""
+
+msgid "Podařilo se ti získat nové ocenění!"
+msgid_plural "Podařilo se ti získat nová ocenění!"
+msgstr[0] "Ви отримали нову нагороду!"
+msgstr[1] "Вам вдалося виграти нові нагороди!"
+msgstr[2] "Вам вдалося виграти нові нагороди!"
+msgstr[3] "Вам вдалося виграти нові нагороди!"
+
+msgctxt "achievement"
+msgid "Hráč na misi"
+msgstr "Гравець на місії"
+
+msgid "Někdo tě přeskočil v žebříčku!"
+msgstr "Хтось пропустив вас у рейтингу!"
+
+msgid "Posunul si se o %d místo dolů a teď jsi %s."
+msgid_plural "Posunul si se o %d míst dolů a teď jsi %s"
+msgstr[0] "Ви прокрутили сторінку %d вниз і зараз знаходитесь на %s."
+msgstr[1] "Ви прокрутили вниз %d сторінок і зараз знаходитесь на %s"
+msgstr[2] "Ви прокрутили вниз %d сторінок і зараз знаходитесь на %s"
+msgstr[3] "Ви прокрутили вниз %d сторінок і зараз знаходитесь на %s"
+
+msgctxt "achievement"
+msgid "Infiltrátor"
+msgstr "Інфільтратор"
+
+msgid "Ligy laser game"
+msgstr "Лазерна ліга гра"
+
+msgid "Liga laser game je dlouhodobá soutěž skládající se z několika turnajů. Výsledky jsou vyhodnocovány z každého turnaje zvlášť, ale zároveň mezi turnaji. Na konci ligového období jsou vyhlášeny celkové výsledky."
+msgstr "Лазерна ігрова ліга - це довгострокове змагання, що складається з декількох турнірів. Результати оцінюються з кожного турніру окремо, але одночасно між турнірами. В кінці періоду ліги оголошуються загальні результати."
+
+msgctxt "pageTitles"
+msgid "Akce %s - %s"
+msgstr "Події %s - %s"
+
+msgctxt "pageDescription"
+msgid "Akce %s v %s v datech %s."
+msgstr "Дія %s в %s в даних %s."
+
+msgid "Zpět na plánované akce"
+msgstr "Повернутися до запланованих подій"
+
+msgid "Informace o akci laser game, který se bude odehrávat v %s."
+msgstr "Інформація про лазерний ігровий захід, який відбудеться в %s."
+
+msgid "Laser game akce: %s"
+msgstr "Дія лазерної гри: %s"
+
+msgid "Termíny"
+msgstr "Дати"
+
+msgid "Zrušený"
+msgstr "Скасовано"
+
+msgid "Individuální"
+msgstr "Індивідуальний"
+
+msgid "Seznam přihlášených hráčů na akci laser game."
+msgstr "Список зареєстрованих гравців на змагання з лазерної гри."
+
+msgid "Termín je zrušený"
+msgstr "Термін скасовано"
+
+msgid "Souhlasím se <a href=\"%s\" target=\"_blank\">zásadami zpracování osobních údajů</a>."
+msgstr ""
+
+msgid "Správa arény"
+msgstr ""
+
+msgctxt "gameModes"
+msgid "Team deathmatch"
+msgstr ""
+
+msgctxt "gameModes"
+msgid "Deathmatch"
+msgstr ""
+
+msgctxt "gameModes"
+msgid "Kámen, Nůžky, Papír"
+msgstr ""
+
+msgid "Fotky"
+msgstr ""
+
+msgid "Fotky arény"
+msgstr ""
+
+msgid "Filtrovat fotky podle data"
+msgstr ""
+
+msgid "Jinak se zobrazí všechny nepřiřazené fotky."
+msgstr ""
+
+msgid "Nepřiřazené fotky"
+msgstr ""
+
+msgid "Opravdu chcete smazat %d fotek?"
+msgstr ""
+
+msgid "Smazat vybrané fotky"
+msgstr ""
+
+msgid "Vybrat vše"
+msgstr ""
+
+msgid "Stáhnout vybrané fotky"
+msgstr ""
+
+msgid "Opravdu chcete fotku smazat?"
+msgstr ""
+
+msgid "Smazat"
+msgstr ""
+
+msgid "Odehrané skupiny"
+msgstr ""
+
+msgid "Zobrazi/Skrýt fotky"
+msgstr ""
+
+msgid "Přiřadit fotky"
+msgstr ""
+
+msgid "Odeslat na e-mail"
+msgstr ""
+
+msgid "Zrušit přiřazení fotek"
+msgstr ""
+
+msgid "Odeslané e-maily"
+msgstr ""
+
+msgid "Odeslat fotky na e-mail"
+msgstr ""
+
+msgid "Nepodařilo se odeslat e-maily."
+msgstr ""
+
+msgid "E-maily byly úspěšně odeslány."
+msgstr ""
+
+msgid "E-mailové adresy"
+msgstr ""
+
+msgid "Musíte zadat alespoň jednu e-mailovou adresu."
+msgstr ""
+
+msgid "Některé e-mailové adresy nejsou platné."
+msgstr ""
+
+msgid "Adresy oddělte čárkou nebo novým řádkem."
+msgstr ""
+
+msgid "Odeslat e-maily"
 msgstr ""
 

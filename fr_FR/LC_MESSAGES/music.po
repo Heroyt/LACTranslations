@@ -3,214 +3,223 @@ msgstr ""
 "Language: fr_FR\n"
 "Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : ((n != 0 && n % 1000000 == 0) ? 1 : 2);\n"
 "X-Domain: music\n"
+"X-Crowdin-Project: laserarenacontrol\n"
+"X-Crowdin-Project-ID: 515800\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /master/music.pot\n"
+"X-Crowdin-File-ID: 98\n"
+"Project-Id-Version: laserarenacontrol\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: French\n"
+"PO-Revision-Date: 2025-01-21 22:10\n"
 
 msgid "Anime 2 (Vykyndr)"
-msgstr ""
+msgstr "Anime 2 (Vykyndr)"
 
 msgid "Lollipopz"
-msgstr ""
+msgstr "Lollipopz"
 
 msgid "Albatraoz"
-msgstr ""
+msgstr "Albatraoz"
 
 msgctxt "group"
 msgid "Anime"
-msgstr ""
+msgstr "Anime"
 
 msgid "Anime 1 (Heroyt)"
-msgstr ""
+msgstr "Anime 1 (Heroyt)"
 
 msgid "Anime 3 (Heroyt 2)"
-msgstr ""
+msgstr "Anime 3 (Heroyt 2)"
 
 msgid "Doom"
-msgstr ""
+msgstr "Doom"
 
 msgid "Dubstep"
-msgstr ""
+msgstr "Dubstep"
 
 msgctxt "group"
 msgid "K-POP"
-msgstr ""
+msgstr "K-POP"
 
 msgid "K-POP"
-msgstr ""
+msgstr "K-POP"
 
 msgid "K-POP 2"
-msgstr ""
+msgstr "K-POP 2"
 
 msgid "K-POP 3"
-msgstr ""
+msgstr "K-POP 3"
 
 msgctxt "group"
 msgid "Lasermaxx"
-msgstr ""
+msgstr "Lasermaxx"
 
 msgid "Standard"
-msgstr ""
+msgstr "Standard"
 
 msgid "Military"
-msgstr ""
+msgstr "Militaire"
 
 msgid "Requiem"
-msgstr ""
+msgstr "Requiem"
 
 msgid "Marvel"
-msgstr ""
+msgstr "Marvel"
 
 msgid "Matrix"
-msgstr ""
+msgstr "Matrix"
 
 msgid "Mortal kombat"
-msgstr ""
+msgstr "Mortal kombat"
 
 msgid "Narozeniny"
-msgstr ""
+msgstr "Anniversaire"
 
 msgid "Piráti z karibiku"
-msgstr ""
+msgstr "Pirates des Caraïbes"
 
 msgid "S3RL"
-msgstr ""
+msgstr "S3RL"
 
 msgid "StarWars"
-msgstr ""
+msgstr "StarWars"
 
 msgid "Trpasličí metal"
-msgstr ""
+msgstr "Métal Nain"
 
 msgid "Turnajový mix"
-msgstr ""
+msgstr "Mixage de tournois"
 
 msgid "Undertale"
-msgstr ""
+msgstr "Undertale"
 
 msgctxt "group"
 msgid "AI"
-msgstr ""
+msgstr "IA"
 
 msgid "Laser Showdown"
-msgstr ""
+msgstr "Laser Showdown"
 
 msgid "Lidový hardbass"
-msgstr ""
+msgstr "Hardbass folklorique"
 
 msgid "Horror"
-msgstr ""
+msgstr "Horreur"
 
 msgctxt "group"
 msgid "Halloween"
-msgstr ""
+msgstr "Halloween"
 
 msgid "Halloween 1"
-msgstr ""
+msgstr "Halloween 1"
 
 msgid "Halloween 2"
-msgstr ""
+msgstr "Halloween 2"
 
 msgid "Vlčí klan"
-msgstr ""
+msgstr "Clan des loups"
 
 msgid "HERNÍ MIX"
-msgstr ""
+msgstr "MIXAGE DU JEU"
 
 msgid "LaserMaxx"
-msgstr ""
+msgstr "LaserMaxx"
 
 msgid "CRAZY MIX"
-msgstr ""
+msgstr "CRAZY MIX"
 
 msgid "HOUSETRANCE"
-msgstr ""
+msgstr "HOUSETRANCE"
 
 msgid "CSR ROCK"
-msgstr ""
+msgstr "CSR ROCK"
 
 msgid "DECHOVKA"
-msgstr ""
+msgstr "CUIVRES"
 
 msgid "DETI"
-msgstr ""
+msgstr "ENFANTS"
 
 msgid "DRUM AND BASE"
-msgstr ""
+msgstr "DRUM AND BASE"
 
 msgid "DUBSTEP"
-msgstr ""
+msgstr "DUBSTEP"
 
 msgid "ELECTRO"
-msgstr ""
+msgstr "ELECTRO"
 
 msgctxt "group"
 msgid "FILM"
-msgstr ""
+msgstr "FILM"
 
 msgid "FILM 1"
-msgstr ""
+msgstr "FILM 1"
 
 msgid "FILM 2"
-msgstr ""
+msgstr "FILM 2"
 
 msgid "Film 1 by Pogánek"
-msgstr ""
+msgstr "Film 1 by Pogánek"
 
 msgid "FIlm 2 by Pogánek"
-msgstr ""
+msgstr "FIlm 2 by Pogánek"
 
 msgid "HANS ZIMMER"
-msgstr ""
+msgstr "HANS ZIMMER"
 
 msgid "HARDSTYLE"
-msgstr ""
+msgstr "HARDSTYLE"
 
 msgid "HEAVY METAL"
-msgstr ""
+msgstr "HEAVY METAL"
 
 msgid "HOROR"
-msgstr ""
+msgstr "HORREUR"
 
 msgid "OLDIES"
-msgstr ""
+msgstr "OLDIES"
 
 msgid "ROCK"
-msgstr ""
+msgstr "ROCK"
 
 msgid "WESTERN"
-msgstr ""
+msgstr "WESTERN"
 
 msgid "EuroBeat"
-msgstr ""
+msgstr "EuroBeat"
 
 msgid "J-pop"
-msgstr ""
+msgstr "J-pop"
 
 msgid "NCS pozadní hudba"
-msgstr ""
+msgstr "NCS background music"
 
 msgid "Herní mix by Pogánek"
-msgstr ""
+msgstr "Mixage du jeu by Pogánek"
 
 msgid "DnB by Pogánek"
-msgstr ""
+msgstr "DnB by Pogánek"
 
 msgid "White girl aesthetic"
-msgstr ""
+msgstr "White girl aesthetic"
 
 msgid "CZ HARDSTYLE"
-msgstr ""
+msgstr "CZ HARDSTYLE"
 
 msgid "Nightcore"
-msgstr ""
+msgstr "Nightcore"
 
 msgid "8-bit by Pogánek"
-msgstr ""
+msgstr "8-bit by Pogánek"
 
 msgctxt "group"
 msgid "LaserMaxx"
-msgstr ""
+msgstr "LaserMaxx"
 
 msgid "LaserMaxx Military"
-msgstr ""
+msgstr "LaserMaxx Militaire"
 
 msgid "Strážci galaxie"
-msgstr ""
+msgstr "Les Gardiens de la Galaxie"
