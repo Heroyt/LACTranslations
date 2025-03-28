@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Language: fr_FR\n"
-"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : ((n != 0 && n % 1000000 == 0) ? 1 : 2);\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Domain: music\n"
 "X-Crowdin-Project: laserarenacontrol\n"
 "X-Crowdin-Project-ID: 515800\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: laserarenacontrol\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
-"PO-Revision-Date: 2025-01-21 22:10\n"
+"PO-Revision-Date: 2025-03-28 12:15\n"
 
 msgid "Anime 2 (Vykyndr)"
 msgstr "Anime 2 (Vykyndr)"
@@ -223,3 +223,4 @@ msgstr "LaserMaxx Militaire"
 
 msgid "Strážci galaxie"
 msgstr "Les Gardiens de la Galaxie"
+
