@@ -6,7 +6,7 @@ msgstr ""
 "Language-Team: French\n"
 "Last-Translator: Tomáš Vojík <vojik@wboy.cz>\n"
 "MIME-Version: 1.0\n"
-"PO-Revision-Date: 2025-03-28 10:55\n"
+"PO-Revision-Date: 2025-03-28 13:33\n"
 "POT-Creation-Date: 2021-12-01 12:05+0100\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "Project-Id-Version: laserarenacontrol\n"
@@ -828,89 +828,51 @@ msgstr "Télécharger les photos"
 msgid "Zveřejnit fotky"
 msgstr "Publier des photos"
 
-msgid "Skóre"
-msgstr ""
-
-msgid "Výstřely"
-msgstr ""
-
-msgid "Zásahy"
-msgstr ""
-
-msgid "Smrti"
-msgstr ""
-
-msgid "Sniper"
-msgstr ""
-
-msgid "Fotka ze hry %s"
-msgstr ""
-
-msgid "Fotky ze hry jsou nastaveny jako veřejné."
-msgstr ""
-
-msgid "Fotky ze hry jsou nastaveny jako neveřejné. Pro zobrazení fotek je třeba přístup přes speciální odkaz, nebo přihlášení do LaserLigy."
-msgstr ""
-
-msgid "Opravdu chcete zveřejnit fotky z této hry? Fotky uvidí kdokoliv, kdo si zobrazí výsledky této hry, ale nebude je moci stáhnout."
-msgstr ""
-
-msgid "Opravdu chcete zrušit zveřejnění fotek z této hry? Fotky uvidí jen hráči hry, nebo ten, kdo přejde na výsledky se speciálním odkazem."
-msgstr ""
-
-msgid "Fotky"
-msgstr ""
-
-msgid "Stáhnout fotky"
-msgstr ""
-
-msgid "Zveřejnit fotky"
-msgstr ""
-
 msgid "Zásahy spoluhráčů"
-msgstr ""
+msgstr "Interférence des coéquipiers"
 
 msgid "K:D"
-msgstr ""
+msgstr "K:D"
 
 msgid "Přesnost"
-msgstr ""
+msgstr "Précision"
 
 msgid "Srovnání s protihráči"
-msgstr ""
+msgstr "Comparaison avec les adversaires"
 
 msgid "Zohlednění vašich protihráčů. Pokud hrajete proti slabším, vaše herní úroveň se sníží. Naopak, pokud hrajete proti silným hráčům, vaše herní úroveň se zvýší."
-msgstr ""
+msgstr "Tenir compte de vos adversaires. Si vous jouez contre des joueurs plus faibles, votre niveau de jeu diminuera. Inversement, si vous jouez contre des joueurs forts, votre niveau de jeu augmentera."
 
 msgctxt "player"
 msgid "%d zabití"
-msgstr ""
+msgstr "%d Mise à mort"
 
 msgctxt "player"
 msgid "%d smrt"
 msgid_plural "%d smrtí"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%d la mort"
+msgstr[1] "%d La mort"
 
 msgid "Herní úroveň"
-msgstr ""
+msgstr "Niveau de jeu"
 
 msgid "Zásahy:Smrti"
-msgstr ""
+msgstr "Hits:Décès"
 
 msgctxt "player.ranking.elo"
 msgid "Vysvětlení hodnocení"
-msgstr ""
+msgstr "Explication de l'évaluation"
 
 msgctxt "info"
 msgid "Body za výstřel"
-msgstr ""
+msgstr "Points par tir"
 
 msgid "Trofej"
-msgstr ""
+msgstr "Trophée"
 
 msgid "Výsledky týmů"
-msgstr ""
+msgstr "Résultats de l'équipe"
 
 msgid "Zrušit zveřejnění fotek"
-msgstr ""
+msgstr "Annuler la publication de photos"
+
