@@ -220,3 +220,43 @@ msgstr ""
 msgctxt "evo5"
 msgid "%s jediné bylo zasaženo minou."
 msgstr ""
+
+msgctxt "user"
+msgid "%s proti %s většinou prohrává, ale teď ho porazila."
+msgstr ""
+
+msgctxt "hits"
+msgid "%s zasáhla svou spoluhráčku %s vícekrát (%d), než kteréhokoliv protihráče"
+msgstr ""
+
+msgctxt "deaths"
+msgid "%s byla zasažena více spoluhráči (%d), než protihráči (%d)"
+msgstr ""
+
+msgctxt "hits"
+msgid "%s zasáhl více spoluhráčů (%d), než protihráčů (%d)"
+msgstr ""
+
+msgctxt "hits"
+msgid "%s zasáhl svého spoluhráče %s vícekrát (%d), než kteréhokoliv protihráče"
+msgstr ""
+
+msgctxt "deaths"
+msgid "%s byl zasažen více spoluhráči (%d), než protihráči (%d)"
+msgstr ""
+
+msgctxt "hits"
+msgid "%s zasáhlo svou spoluhráčku %s vícekrát (%d), než kteréhokoliv protihráče"
+msgstr ""
+
+msgctxt "deaths"
+msgid "%s bylo zasaženo více spoluhráči (%d), než protihráči (%d)"
+msgstr ""
+
+msgctxt "hits"
+msgid "%s zasáhla svého spoluhráče %s vícekrát (%d), než kteréhokoliv protihráče"
+msgstr ""
+
+msgctxt "hits"
+msgid "%s zasáhl svou spoluhráčku %s vícekrát (%d), než kteréhokoliv protihráče"
+msgstr ""

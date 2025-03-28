@@ -102,114 +102,9 @@ msgstr "Aktionen"
 msgid "Print"
 msgstr "Drucken"
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 msgctxt "gameModes"
 msgid "Team deathmach"
 msgstr ""
-
-
-
-
 
 msgctxt "debugPanel"
 msgid "Language"
@@ -226,8 +121,6 @@ msgstr ""
 msgctxt "gameModes"
 msgid "CSGO"
 msgstr "CSGO"
-
-
 
 msgctxt "gameModes"
 msgid "Deathmach"
@@ -247,36 +140,6 @@ msgstr ""
 
 msgid "Game"
 msgstr ""
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 msgctxt "tips"
 msgid "Jak se v aréně střílí, tak se v aréně umírá..."
@@ -408,20 +271,6 @@ msgctxt "pageTitles"
 msgid "Settings"
 msgstr ""
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 msgctxt "actions"
 msgid "Send"
 msgstr ""
@@ -429,10 +278,6 @@ msgstr ""
 msgctxt "actions"
 msgid "Delete"
 msgstr ""
-
-
-
-
 
 msgctxt "dates"
 msgid "Date from"
@@ -457,54 +302,12 @@ msgstr ""
 msgid "No games have been played yet."
 msgstr ""
 
-
-
 msgctxt "tips"
 msgid "Oživení trvá 5 sekund."
 msgstr ""
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 msgid "Zobrazit na Gate"
 msgstr ""
-
-
-
-
 
 msgctxt "gate"
 msgid "Nejlepší skóre dne"
@@ -513,8 +316,6 @@ msgstr ""
 msgctxt "gate"
 msgid "Výsledky dne"
 msgstr ""
-
-
 
 msgctxt "actions"
 msgid "Add date"
@@ -526,8 +327,6 @@ msgstr ""
 msgid "never"
 msgstr ""
 
-
-
 msgctxt "errors"
 msgid "Uploaded file is too large"
 msgstr ""
@@ -535,16 +334,6 @@ msgstr ""
 msgctxt "errors"
 msgid "Database error occurred."
 msgstr ""
-
-
-
-
-
-
-
-
-
-
 
 msgctxt "actions"
 msgid "Zavřít"
@@ -586,94 +375,8 @@ msgctxt "gameModes"
 msgid "100 nábojů"
 msgstr ""
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 msgid "Bohužel tady nic není..."
 msgstr ""
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 msgid "Legenda"
 msgstr ""
@@ -694,26 +397,8 @@ msgctxt "results"
 msgid "Zásahy od/do spoluhráčů"
 msgstr ""
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 msgctxt "actions"
 msgid "Začít"
-msgstr ""
-
-msgctxt "actions"
-msgid "Zavřít"
 msgstr ""
 
 msgctxt "action"
@@ -723,8 +408,6 @@ msgstr ""
 msgctxt "action"
 msgid "Nezobrazovat"
 msgstr ""
-
-
 
 msgctxt "actions"
 msgid "Předchozí"
@@ -741,14 +424,6 @@ msgstr ""
 msgctxt "results"
 msgid "Bonusy"
 msgstr ""
-
-
-
-
-
-
-
-
 
 msgctxt "action"
 msgid "Dokončit"
@@ -816,8 +491,6 @@ msgstr ""
 msgctxt "gameModes"
 msgid "T.M.A - solo"
 msgstr "T.M.A - solo"
-
-
 
 msgid "Výsledky on-line"
 msgstr ""
@@ -939,12 +612,6 @@ msgstr ""
 
 msgid "Hry"
 msgstr ""
-
-
-
-
-
-
 
 msgctxt "debugPanel"
 msgid "Invalid cache class"
@@ -1080,7 +747,6 @@ msgstr ""
 msgctxt "game.select"
 msgid "Vybrat hru"
 msgstr ""
-
 
 msgid "Použít pro novou hru"
 msgstr ""
@@ -2205,8 +1871,6 @@ msgstr ""
 msgid "Zobrazit stránku arény"
 msgstr ""
 
-
-
 msgid "Analýza hry - zajímavosti"
 msgstr ""
 
@@ -2225,10 +1889,6 @@ msgstr ""
 msgid "Sdílet"
 msgstr ""
 
-
-
-
-
 msgid "Trofej"
 msgstr ""
 
@@ -2243,8 +1903,6 @@ msgstr ""
 
 msgid "Nezastavitelný klikač"
 msgstr ""
-
-
 
 msgid "Vysvětlení hodnocení"
 msgstr ""
@@ -2798,8 +2456,6 @@ msgstr ""
 msgid "%d. se umístila %s s celkovým skóre %s."
 msgstr ""
 
-
-
 msgctxt "pageTitles"
 msgid "Ligy laser game"
 msgstr ""
@@ -3179,10 +2835,6 @@ msgstr ""
 msgid "Vytrvalec"
 msgstr ""
 
-
-
-
-
 msgid "Rozpad skóre a herní úrovně"
 msgstr ""
 
@@ -3212,10 +2864,6 @@ msgstr ""
 
 msgid "Umístění v žebříčku"
 msgstr ""
-
-
-
-
 
 msgid "Nastavení profilu"
 msgstr ""
@@ -3565,8 +3213,6 @@ msgstr ""
 
 msgid "Průměrné ohodnocení týmu"
 msgstr ""
-
-
 
 msgid "hra proti týmu"
 msgid_plural "her proti týmu"
@@ -5262,4 +4908,27 @@ msgid "Adresy oddělte čárkou nebo novým řádkem."
 msgstr ""
 
 msgid "Odeslat e-maily"
+msgstr ""
+
+msgctxt "gameModes"
+msgid "Team Revolver"
+msgstr ""
+
+msgctxt "gameModes"
+msgid "Gladiátor"
+msgstr ""
+
+msgctxt "gender-male"
+msgid "Odeslal"
+msgstr ""
+
+msgctxt "gender-female"
+msgid "Odeslala"
+msgstr ""
+
+msgctxt "gender-other"
+msgid "Odeslalo"
+msgstr ""
+
+msgid "Vyberte fotky, které chcete od skupiny odebrat."
 msgstr ""

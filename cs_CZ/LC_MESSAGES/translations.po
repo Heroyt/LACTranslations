@@ -102,74 +102,6 @@ msgstr "Akce"
 msgid "Print"
 msgstr "Tisk"
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 msgctxt "results.today"
 msgid "%d hra"
 msgid_plural "%d her"
@@ -194,43 +126,9 @@ msgstr[1] "%d hráči"
 msgstr[2] "%d hráčů"
 msgstr[3] "%d hráčů"
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 msgctxt "gameModes"
 msgid "Team deathmach"
 msgstr "Team deathmach"
-
-
-
-
 
 msgctxt "debugPanel"
 msgid "Language"
@@ -247,8 +145,6 @@ msgstr "Základny"
 msgctxt "gameModes"
 msgid "CSGO"
 msgstr "CSGO"
-
-
 
 msgctxt "gameModes"
 msgid "Deathmach"
@@ -268,36 +164,6 @@ msgstr "Černobílé"
 
 msgid "Game"
 msgstr "Hra"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 msgctxt "tips"
 msgid "Jak se v aréně střílí, tak se v aréně umírá..."
@@ -429,20 +295,6 @@ msgctxt "pageTitles"
 msgid "Settings"
 msgstr "Nastavení"
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 msgctxt "actions"
 msgid "Send"
 msgstr "Odeslat"
@@ -450,10 +302,6 @@ msgstr "Odeslat"
 msgctxt "actions"
 msgid "Delete"
 msgstr "Smazat"
-
-
-
-
 
 msgctxt "dates"
 msgid "Date from"
@@ -478,54 +326,12 @@ msgstr "Data"
 msgid "No games have been played yet."
 msgstr "Nebyly odehrány žádné hry."
 
-
-
 msgctxt "tips"
 msgid "Oživení trvá 5 sekund."
 msgstr "Oživení trvá 5 sekund."
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 msgid "Zobrazit na Gate"
 msgstr "Zobrazit na Gate"
-
-
-
-
 
 msgctxt "gate"
 msgid "Nejlepší skóre dne"
@@ -534,8 +340,6 @@ msgstr "Nejlepší skóre dne"
 msgctxt "gate"
 msgid "Výsledky dne"
 msgstr "Výsledky dne"
-
-
 
 msgctxt "actions"
 msgid "Add date"
@@ -547,8 +351,6 @@ msgstr "Naposledy uloženo:"
 msgid "never"
 msgstr "nikdy"
 
-
-
 msgctxt "errors"
 msgid "Uploaded file is too large"
 msgstr "Nahraný soubor je příliš velký"
@@ -556,16 +358,6 @@ msgstr "Nahraný soubor je příliš velký"
 msgctxt "errors"
 msgid "Database error occurred."
 msgstr "Nastala chyba databáze."
-
-
-
-
-
-
-
-
-
-
 
 msgctxt "actions"
 msgid "Zavřít"
@@ -607,123 +399,15 @@ msgctxt "gameModes"
 msgid "100 nábojů"
 msgstr "100 nábojů"
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 msgid "Bohužel tady nic není..."
 msgstr "Bohužel tady nic není..."
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 msgid "Legenda"
 msgstr "Legenda"
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 msgctxt "actions"
 msgid "Začít"
 msgstr "Začít"
-
-msgctxt "actions"
-msgid "Zavřít"
-msgstr "Zavřít"
 
 msgctxt "action"
 msgid "Zobrazit později"
@@ -732,8 +416,6 @@ msgstr "Zobrazit později"
 msgctxt "action"
 msgid "Nezobrazovat"
 msgstr "Nezobrazovat"
-
-
 
 msgctxt "actions"
 msgid "Předchozí"
@@ -746,15 +428,6 @@ msgstr "Další"
 msgctxt "actions"
 msgid "Načítání"
 msgstr "Načítání"
-
-
-
-
-
-
-
-
-
 
 msgctxt "action"
 msgid "Dokončit"
@@ -771,7 +444,6 @@ msgstr "Toto pole je povinné"
 msgctxt "gameModes"
 msgid "Barvičky"
 msgstr "Barvičky"
-
 
 msgctxt "gameModes"
 msgid "Survival"
@@ -820,12 +492,8 @@ msgctxt "gameModes"
 msgid "T.M.A - solo"
 msgstr "T.M.A - solo"
 
-
-
 msgid "Výsledky on-line"
 msgstr "Výsledky on-line"
-
-
 
 msgid "Zobrazit vesty na Gate"
 msgstr "Zobrazit vesty na výsledkové tabuli"
@@ -856,7 +524,6 @@ msgstr "Zobrazit časovač od minuty"
 msgctxt "settings"
 msgid "Settings"
 msgstr "Nastavení"
-
 
 msgctxt "cli.errors"
 msgid "Cannot find any translation files in \"%s\" for language \"%s\" - skipping"
@@ -935,12 +602,6 @@ msgstr "Výsledky"
 
 msgid "Hry"
 msgstr "Hry"
-
-
-
-
-
-
 
 msgctxt "debugPanel"
 msgid "Invalid cache class"
@@ -1076,7 +737,6 @@ msgstr "Poslední hry"
 msgctxt "game.select"
 msgid "Vybrat hru"
 msgstr "Vybrat hru"
-
 
 msgid "Použít pro novou hru"
 msgstr "Použít pro novou hru"
@@ -2209,8 +1869,6 @@ msgstr "Informace o hře"
 msgid "Zobrazit stránku arény"
 msgstr "Zobrazit stránku arény"
 
-
-
 msgid "Analýza hry - zajímavosti"
 msgstr "Analýza hry - zajímavosti"
 
@@ -2229,10 +1887,6 @@ msgstr "Výsledky ze hry - %s %s"
 msgid "Sdílet"
 msgstr "Sdílet"
 
-
-
-
-
 msgid "Trofej"
 msgstr "Trofej"
 
@@ -2248,11 +1902,8 @@ msgstr "Zlato"
 msgid "Nezastavitelný klikač"
 msgstr "Nezastavitelný klikač"
 
-
-
 msgid "Vysvětlení hodnocení"
 msgstr "Vysvětlení hodnocení"
-
 
 msgid "Počet hráčů, který je lepší/horší než vy. Např. pokud jste v %s 10%%, znamená to, že 90%% hráčů mělo nižší hodnotu, než vy. %s 10 %% znamená, že 90 %% hráčů mělo vyšší hodnotu, než vy."
 msgstr "Počet hráčů, který je lepší/horší než vy. Např. pokud jste v %s 10%%, znamená to, že 90%% hráčů mělo nižší hodnotu, než vy. %s 10 %% znamená, že 90 %% hráčů mělo vyšší hodnotu, než vy."
@@ -2803,8 +2454,6 @@ msgstr "Turnaje laser game"
 msgid "%d. se umístila %s s celkovým skóre %s."
 msgstr "%d. se umístila %s s celkovým skóre %s."
 
-
-
 msgctxt "pageTitles"
 msgid "Ligy laser game"
 msgstr "Ligy laser game"
@@ -3186,10 +2835,6 @@ msgstr "Don't give up"
 msgid "Vytrvalec"
 msgstr "Vytrvalec"
 
-
-
-
-
 msgid "Rozpad skóre a herní úrovně"
 msgstr "Rozpad skóre a herní úrovně"
 
@@ -3219,10 +2864,6 @@ msgstr "Smrti od spoluhráčů"
 
 msgid "Umístění v žebříčku"
 msgstr "Umístění v žebříčku"
-
-
-
-
 
 msgid "Nastavení profilu"
 msgstr "Nastavení profilu"
@@ -3582,8 +3223,6 @@ msgstr "Počet výher / Remíz / Proher"
 
 msgid "Průměrné ohodnocení týmu"
 msgstr "Průměrné ohodnocení týmu"
-
-
 
 msgid "hra proti týmu"
 msgid_plural "her proti týmu"
@@ -5323,4 +4962,31 @@ msgid "Adresy oddělte čárkou nebo novým řádkem."
 msgstr ""
 
 msgid "Odeslat e-maily"
+msgstr ""
+
+msgctxt "results"
+msgid "Umístění"
+msgstr ""
+
+msgctxt "gameModes"
+msgid "Team Revolver"
+msgstr ""
+
+msgctxt "gameModes"
+msgid "Gladiátor"
+msgstr ""
+
+msgctxt "gender-male"
+msgid "Odeslal"
+msgstr ""
+
+msgctxt "gender-female"
+msgid "Odeslala"
+msgstr ""
+
+msgctxt "gender-other"
+msgid "Odeslalo"
+msgstr ""
+
+msgid "Vyberte fotky, které chcete od skupiny odebrat."
 msgstr ""

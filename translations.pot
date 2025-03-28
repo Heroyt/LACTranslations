@@ -102,6 +102,30 @@ msgstr ""
 msgid "Print"
 msgstr ""
 
+msgctxt "results.today"
+msgid "%d hra"
+msgid_plural "%d her"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+
+msgctxt "results.today"
+msgid "%d tým"
+msgid_plural "%d týmů"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+
+msgctxt "results.today"
+msgid "%d hráč"
+msgid_plural "%d hráčů"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+
 msgctxt "gameModes"
 msgid "Team deathmach"
 msgstr ""
@@ -385,10 +409,6 @@ msgctxt "actions"
 msgid "Začít"
 msgstr ""
 
-msgctxt "actions"
-msgid "Zavřít"
-msgstr ""
-
 msgctxt "action"
 msgid "Zobrazit později"
 msgstr ""
@@ -424,7 +444,6 @@ msgstr ""
 msgctxt "gameModes"
 msgid "Barvičky"
 msgstr ""
-
 
 msgctxt "gameModes"
 msgid "Survival"
@@ -473,17 +492,7 @@ msgctxt "gameModes"
 msgid "T.M.A - solo"
 msgstr ""
 
-
-
 msgid "Výsledky on-line"
-msgstr ""
-
-msgctxt "results"
-msgid "On-line detailní výsledky"
-msgstr ""
-
-msgctxt "results"
-msgid "Zásahy/Smrti od spoluhráčů"
 msgstr ""
 
 msgid "Zobrazit vesty na Gate"
@@ -514,10 +523,6 @@ msgstr ""
 
 msgctxt "settings"
 msgid "Settings"
-msgstr ""
-
-msgctxt "results"
-msgid "Odehráno her"
 msgstr ""
 
 msgctxt "cli.errors"
@@ -1898,10 +1903,6 @@ msgid "Nezastavitelný klikač"
 msgstr ""
 
 msgid "Vysvětlení hodnocení"
-msgstr ""
-
-msgctxt "results"
-msgid "Umístění"
 msgstr ""
 
 msgid "Počet hráčů, který je lepší/horší než vy. Např. pokud jste v %s 10%%, znamená to, že 90%% hráčů mělo nižší hodnotu, než vy. %s 10 %% znamená, že 90 %% hráčů mělo vyšší hodnotu, než vy."
@@ -4836,12 +4837,52 @@ msgstr ""
 msgid "Správa arény"
 msgstr ""
 
+msgctxt "errors"
+msgid "Požadavek vypršel, zkuste znovu načíst stránku. \"39f6d41c9fa780ccaae4557a68eae6953645b3a2b7d149eab327e81f167e4454\""
+msgstr ""
+
 msgctxt "gameModes"
 msgid "Team deathmatch"
 msgstr ""
 
+msgctxt "errors"
+msgid "Požadavek vypršel, zkuste znovu načíst stránku. \"800ead54a336ce7bb146487dc43964aa30ca0da25f8c993468f72e5c3a583229\""
+msgstr ""
+
 msgctxt "gameModes"
 msgid "Deathmatch"
+msgstr ""
+
+msgctxt "errors"
+msgid "Požadavek vypršel, zkuste znovu načíst stránku. \"94ccac7f24379cfcd905c5cd50393e5059a0111f27f6663682f367a1b8704414\""
+msgstr ""
+
+msgctxt "errors"
+msgid "Požadavek vypršel, zkuste znovu načíst stránku. \"6ee2f837ebaf5c6f08d8062cb6f22ceb3ee1dc49d79fad8ff058b1e58fb13d21\""
+msgstr ""
+
+msgctxt "errors"
+msgid "Požadavek vypršel, zkuste znovu načíst stránku. \"bcffa99fd6ec06eca3cfe14d41af89005f8c52d0f7dc4db9e1a65c9ceddd95f0\""
+msgstr ""
+
+msgctxt "errors"
+msgid "Požadavek vypršel, zkuste znovu načíst stránku. \"30b448e439711f346f03fba795e42057857e080ab2f474a58dcd6e0714596a18\""
+msgstr ""
+
+msgctxt "errors"
+msgid "Požadavek vypršel, zkuste znovu načíst stránku. \"146ba8ed709c720505571494086d8772bebe8eb12a1bdc07ea647c8358f92c2c\""
+msgstr ""
+
+msgctxt "errors"
+msgid "Požadavek vypršel, zkuste znovu načíst stránku. \"d04818e486a4b6a4851d3c26c3be85bbffb12b32800c7994721860ac9e1da606\""
+msgstr ""
+
+msgctxt "errors"
+msgid "Požadavek vypršel, zkuste znovu načíst stránku. \"9718f2d96ae090b36ddd18c189bd51244885918555465eebcaac7ce25483418e\""
+msgstr ""
+
+msgctxt "errors"
+msgid "Požadavek vypršel, zkuste znovu načíst stránku. \"edfc294e177440fb461fe713e387de5a7f9bec80f0cb712d17f25a1881a33b38\""
 msgstr ""
 
 msgctxt "gameModes"
@@ -4921,4 +4962,31 @@ msgid "Adresy oddělte čárkou nebo novým řádkem."
 msgstr ""
 
 msgid "Odeslat e-maily"
+msgstr ""
+
+msgctxt "results"
+msgid "Umístění"
+msgstr ""
+
+msgctxt "gameModes"
+msgid "Team Revolver"
+msgstr ""
+
+msgctxt "gameModes"
+msgid "Gladiátor"
+msgstr ""
+
+msgctxt "gender-male"
+msgid "Odeslal"
+msgstr ""
+
+msgctxt "gender-female"
+msgid "Odeslala"
+msgstr ""
+
+msgctxt "gender-other"
+msgid "Odeslalo"
+msgstr ""
+
+msgid "Vyberte fotky, které chcete od skupiny odebrat."
 msgstr ""

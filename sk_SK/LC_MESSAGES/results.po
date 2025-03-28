@@ -839,3 +839,53 @@ msgstr ""
 
 msgid "Zveřejnit fotky"
 msgstr ""
+
+msgid "Zásahy spoluhráčů"
+msgstr ""
+
+msgid "K:D"
+msgstr ""
+
+msgid "Přesnost"
+msgstr ""
+
+msgid "Srovnání s protihráči"
+msgstr ""
+
+msgid "Zohlednění vašich protihráčů. Pokud hrajete proti slabším, vaše herní úroveň se sníží. Naopak, pokud hrajete proti silným hráčům, vaše herní úroveň se zvýší."
+msgstr ""
+
+msgctxt "player"
+msgid "%d zabití"
+msgstr ""
+
+msgctxt "player"
+msgid "%d smrt"
+msgid_plural "%d smrtí"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+
+msgid "Herní úroveň"
+msgstr ""
+
+msgid "Zásahy:Smrti"
+msgstr ""
+
+msgctxt "player.ranking.elo"
+msgid "Vysvětlení hodnocení"
+msgstr ""
+
+msgctxt "info"
+msgid "Body za výstřel"
+msgstr ""
+
+msgid "Trofej"
+msgstr ""
+
+msgid "Výsledky týmů"
+msgstr ""
+
+msgid "Zrušit zveřejnění fotek"
+msgstr ""
