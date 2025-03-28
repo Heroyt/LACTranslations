@@ -6,7 +6,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "Last-Translator: Tomáš Vojík <vojik@wboy.cz>\n"
 "MIME-Version: 1.0\n"
-"PO-Revision-Date: 2025-03-28 12:15\n"
+"PO-Revision-Date: 2025-03-28 13:33\n"
 "POT-Creation-Date: \n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Project-Id-Version: laserarenacontrol\n"
@@ -101,6 +101,24 @@ msgstr ""
 
 msgid "Print"
 msgstr ""
+
+msgctxt "results.today"
+msgid "%d hra"
+msgid_plural "%d her"
+msgstr[0] "%d juego"
+msgstr[1] "%d su"
+
+msgctxt "results.today"
+msgid "%d tým"
+msgid_plural "%d týmů"
+msgstr[0] "%d Equipo"
+msgstr[1] "%d equipos"
+
+msgctxt "results.today"
+msgid "%d hráč"
+msgid_plural "%d hráčů"
+msgstr[0] "%d Jugador"
+msgstr[1] "%d Jugadores"
 
 msgctxt "gameModes"
 msgid "Team deathmach"
@@ -337,7 +355,7 @@ msgstr ""
 
 msgctxt "actions"
 msgid "Zavřít"
-msgstr ""
+msgstr "Cerrar"
 
 msgctxt "leaderboard"
 msgid "Hráč"
@@ -384,10 +402,6 @@ msgstr ""
 msgctxt "actions"
 msgid "Začít"
 msgstr ""
-
-msgctxt "actions"
-msgid "Zavřít"
-msgstr "Cerrar"
 
 msgctxt "action"
 msgid "Zobrazit později"
@@ -475,14 +489,6 @@ msgstr ""
 msgid "Výsledky on-line"
 msgstr ""
 
-msgctxt "results"
-msgid "On-line detailní výsledky"
-msgstr ""
-
-msgctxt "results"
-msgid "Zásahy/Smrti od spoluhráčů"
-msgstr ""
-
 msgid "Zobrazit vesty na Gate"
 msgstr ""
 
@@ -511,10 +517,6 @@ msgstr ""
 
 msgctxt "settings"
 msgid "Settings"
-msgstr ""
-
-msgctxt "results"
-msgid "Odehráno her"
 msgstr ""
 
 msgctxt "cli.errors"
@@ -1885,10 +1887,6 @@ msgid "Nezastavitelný klikač"
 msgstr ""
 
 msgid "Vysvětlení hodnocení"
-msgstr ""
-
-msgctxt "results"
-msgid "Umístění"
 msgstr ""
 
 msgid "Počet hráčů, který je lepší/horší než vy. Např. pokud jste v %s 10%%, znamená to, že 90%% hráčů mělo nižší hodnotu, než vy. %s 10 %% znamená, že 90 %% hráčů mělo vyšší hodnotu, než vy."
@@ -4849,4 +4847,31 @@ msgstr "Separe las direcciones con una coma o una nueva línea."
 
 msgid "Odeslat e-maily"
 msgstr "Enviar e-mails"
+
+msgctxt "results"
+msgid "Umístění"
+msgstr ""
+
+msgctxt "gameModes"
+msgid "Team Revolver"
+msgstr "Equipo Revolver"
+
+msgctxt "gameModes"
+msgid "Gladiátor"
+msgstr "Gladiador"
+
+msgctxt "gender-male"
+msgid "Odeslal"
+msgstr "Publicado por"
+
+msgctxt "gender-female"
+msgid "Odeslala"
+msgstr "Enviado por"
+
+msgctxt "gender-other"
+msgid "Odeslalo"
+msgstr "Enviado por"
+
+msgid "Vyberte fotky, které chcete od skupiny odebrat."
+msgstr "Seleccione las fotos que desea eliminar del grupo."
 
