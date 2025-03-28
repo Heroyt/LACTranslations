@@ -3,7 +3,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language: uk_UA\n"
 "Language-Team: Ukrainian\n"
-"PO-Revision-Date: 2025-03-05 15:45\n"
+"PO-Revision-Date: 2025-03-28 13:33\n"
 "Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
 "Project-Id-Version: laserarenacontrol\n"
 "X-Crowdin-File: /master/highlights.pot\n"
@@ -220,4 +220,44 @@ msgstr "%s отримав найбільше ударів від товариш�
 msgctxt "evo5"
 msgid "%s jediné bylo zasaženo minou."
 msgstr "%s був єдиним, хто підірвався на міні."
+
+msgctxt "user"
+msgid "%s proti %s většinou prohrává, ale teď ho porazila."
+msgstr ""
+
+msgctxt "hits"
+msgid "%s zasáhla svou spoluhráčku %s vícekrát (%d), než kteréhokoliv protihráče"
+msgstr ""
+
+msgctxt "deaths"
+msgid "%s byla zasažena více spoluhráči (%d), než protihráči (%d)"
+msgstr ""
+
+msgctxt "hits"
+msgid "%s zasáhl více spoluhráčů (%d), než protihráčů (%d)"
+msgstr ""
+
+msgctxt "hits"
+msgid "%s zasáhl svého spoluhráče %s vícekrát (%d), než kteréhokoliv protihráče"
+msgstr ""
+
+msgctxt "deaths"
+msgid "%s byl zasažen více spoluhráči (%d), než protihráči (%d)"
+msgstr ""
+
+msgctxt "hits"
+msgid "%s zasáhlo svou spoluhráčku %s vícekrát (%d), než kteréhokoliv protihráče"
+msgstr ""
+
+msgctxt "deaths"
+msgid "%s bylo zasaženo více spoluhráči (%d), než protihráči (%d)"
+msgstr ""
+
+msgctxt "hits"
+msgid "%s zasáhla svého spoluhráče %s vícekrát (%d), než kteréhokoliv protihráče"
+msgstr ""
+
+msgctxt "hits"
+msgid "%s zasáhl svou spoluhráčku %s vícekrát (%d), než kteréhokoliv protihráče"
+msgstr ""
 
