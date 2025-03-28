@@ -6,7 +6,7 @@ msgstr ""
 "Language-Team: English\n"
 "Last-Translator: Tomáš Vojík <vojik@wboy.cz>\n"
 "MIME-Version: 1.0\n"
-"PO-Revision-Date: 2025-03-28 12:15\n"
+"PO-Revision-Date: 2025-03-28 13:34\n"
 "POT-Creation-Date: \n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Project-Id-Version: laserarenacontrol\n"
@@ -101,6 +101,24 @@ msgstr "Actions"
 
 msgid "Print"
 msgstr "Print"
+
+msgctxt "results.today"
+msgid "%d hra"
+msgid_plural "%d her"
+msgstr[0] "%d game"
+msgstr[1] "%d games"
+
+msgctxt "results.today"
+msgid "%d tým"
+msgid_plural "%d týmů"
+msgstr[0] "%d team"
+msgstr[1] "%d teams"
+
+msgctxt "results.today"
+msgid "%d hráč"
+msgid_plural "%d hráčů"
+msgstr[0] "%d player"
+msgstr[1] "%d players"
 
 msgctxt "gameModes"
 msgid "Team deathmach"
@@ -385,10 +403,6 @@ msgctxt "actions"
 msgid "Začít"
 msgstr "Begin"
 
-msgctxt "actions"
-msgid "Zavřít"
-msgstr "Close"
-
 msgctxt "action"
 msgid "Zobrazit později"
 msgstr "Show later"
@@ -475,14 +489,6 @@ msgstr "T.M.A - solo"
 msgid "Výsledky on-line"
 msgstr "Online results"
 
-msgctxt "results"
-msgid "On-line detailní výsledky"
-msgstr "Detailed online results"
-
-msgctxt "results"
-msgid "Zásahy/Smrti od spoluhráčů"
-msgstr "Hits from/to teammates"
-
 msgid "Zobrazit vesty na Gate"
 msgstr "Show vests on Gate"
 
@@ -512,10 +518,6 @@ msgstr "Show timer from minute"
 msgctxt "settings"
 msgid "Settings"
 msgstr "Settings"
-
-msgctxt "results"
-msgid "Odehráno her"
-msgstr "Games played"
 
 msgctxt "cli.errors"
 msgid "Cannot find any translation files in \"%s\" for language \"%s\" - skipping"
@@ -1886,10 +1888,6 @@ msgstr "Unstoppable clicker"
 
 msgid "Vysvětlení hodnocení"
 msgstr "Ranking explanation"
-
-msgctxt "results"
-msgid "Umístění"
-msgstr "Ranking"
 
 msgid "Počet hráčů, který je lepší/horší než vy. Např. pokud jste v %s 10%%, znamená to, že 90%% hráčů mělo nižší hodnotu, než vy. %s 10 %% znamená, že 90 %% hráčů mělo vyšší hodnotu, než vy."
 msgstr "The amount of players who are better/worse than you. For example, if you are in %s 10%% it means that 90%% of players have had a lower value than you. %s 10%% means that 90%% of players have had a higher value than you."
@@ -4458,13 +4456,13 @@ msgid "Férový hráč"
 msgstr "Fair player"
 
 msgid "Celkem se zúčastnilo 6 týmů. Týmy byli nakombinované z Píseckých mazáků, jednoho kroužkového týmu a dokonce přijel i tým z Říčanské arény.  Žádný tým nehrál špatně, i tým Říčany, přes neznalost vybavení, předvedli slušný výkon v naší nejsilnější kategorii."
-msgstr ""
+msgstr "Total of 6 teams participated. The teams were a mix of the Písek greasers, one ring team, and even a team from the Říčanská arena.  None of the teams played badly, even the Říčany team, despite their lack of knowledge of the equipment, showed a decent performance in our strongest category."
 
 msgid "Do celoroční soutěže se každému týmu započítají body podle jejich celkového umístění na jednotlivých turnajích. Ještě nás čekají 2, takže o vítězi poháru stále není rozhodnuto a může se stát cokoliv."
-msgstr ""
+msgstr "Each team will be credited points for the year-long competition based on their overall standings at each tournament. We still have 2 more to go, so the winner of the cup is still undecided and anything can happen."
 
 msgid "Atmosféra byla skvělá a my doufáme, že si to hráči užili, tak jako my. Budeme se těšit v létě 17.9.2023 na další kolo mazáků. Přihlášky jsou už otevřené, týmy se zaplaceným startovným trénují za 50 Kč / Hráč a trénink se vyplácí!"
-msgstr ""
+msgstr "The atmosphere was great and we hope the players enjoyed it as much as we did. We will look forward to the next round of greasers in the summer of September 17, 2023. Entries are now open, teams with paid entry fees train for 50 CZK / Player and training pays!"
 
 msgid "%s strávilo %s ve hře vypnuté."
 msgstr "%s spent %s in the game turned off."
@@ -4624,10 +4622,10 @@ msgid "Odhlášený"
 msgstr "Logged out"
 
 msgid "Celkem se turnaje zůčastnilo 7 týmů, kteří se utkali často ve velmi vyrovnaných soubojích o medaile a body do celoroční soutěže. Do té se každému týmu započítají body podle jejich celkového umístění na jednotlivých turnajích. Ještě nás čekají 2, takže o vítězi poháru stále není rozhodnuto a může se stát cokoliv."
-msgstr ""
+msgstr "A total of 7 teams took part in the tournament, competing in often very close battles for medals and points for the year-long competition. Each team will be awarded points according to their overall placing in the individual tournaments. We still have 2 more to go, so the winner of the cup is still undecided and anything can happen."
 
 msgid "Atmosféra byla skvělá a my doufáme, že si to hráči užili, tak jako my. Budeme se těšit v létě 30.7.2023 na další kolo začátečníků. Přihlášky jsou už otevřené, týmy se zaplaceným startovným trénují za 50 Kč / Hráč a trénink se vyplácí!"
-msgstr ""
+msgstr "The atmosphere was great and we hope the players enjoyed it as much as we did. We look forward to the next round of beginners in the summer of July 30, 2023. Entries are now open, teams with paid entry fees train for 50 CZK / Player and training pays!"
 
 msgid "Turnaj se ještě nehrál"
 msgstr "The tournament was not played yet"
@@ -4850,105 +4848,30 @@ msgstr "Separate the addresses with a comma or a new line."
 msgid "Odeslat e-maily"
 msgstr "Send Emails"
 
-msgctxt "gameModes"
-msgid "Kámen, Nůžky, Papír"
-msgstr ""
-
-msgid "Fotky"
-msgstr ""
-
-msgid "Fotky arény"
-msgstr ""
-
-msgid "Filtrovat fotky podle data"
-msgstr ""
-
-msgid "Jinak se zobrazí všechny nepřiřazené fotky."
-msgstr ""
-
-msgid "Nepřiřazené fotky"
-msgstr ""
-
-msgid "Opravdu chcete smazat %d fotek?"
-msgstr ""
-
-msgid "Smazat vybrané fotky"
-msgstr ""
-
-msgid "Vybrat vše"
-msgstr ""
-
-msgid "Stáhnout vybrané fotky"
-msgstr ""
-
-msgid "Opravdu chcete fotku smazat?"
-msgstr ""
-
-msgid "Smazat"
-msgstr ""
-
-msgid "Odehrané skupiny"
-msgstr ""
-
-msgid "Zobrazi/Skrýt fotky"
-msgstr ""
-
-msgid "Přiřadit fotky"
-msgstr ""
-
-msgid "Odeslat na e-mail"
-msgstr ""
-
-msgid "Zrušit přiřazení fotek"
-msgstr ""
-
-msgid "Odeslané e-maily"
-msgstr ""
-
-msgid "Odeslat fotky na e-mail"
-msgstr ""
-
-msgid "Nepodařilo se odeslat e-maily."
-msgstr ""
-
-msgid "E-maily byly úspěšně odeslány."
-msgstr ""
-
-msgid "E-mailové adresy"
-msgstr ""
-
-msgid "Musíte zadat alespoň jednu e-mailovou adresu."
-msgstr ""
-
-msgid "Některé e-mailové adresy nejsou platné."
-msgstr ""
-
-msgid "Adresy oddělte čárkou nebo novým řádkem."
-msgstr ""
-
-msgid "Odeslat e-maily"
-msgstr ""
+msgctxt "results"
+msgid "Umístění"
+msgstr "Ranking"
 
 msgctxt "gameModes"
 msgid "Team Revolver"
-msgstr ""
+msgstr "Team Revolver"
 
 msgctxt "gameModes"
 msgid "Gladiátor"
-msgstr ""
+msgstr "Gladiator"
 
 msgctxt "gender-male"
 msgid "Odeslal"
-msgstr ""
+msgstr "Sent by"
 
 msgctxt "gender-female"
 msgid "Odeslala"
-msgstr ""
+msgstr "Sent by"
 
 msgctxt "gender-other"
 msgid "Odeslalo"
-msgstr ""
+msgstr "Sent by"
 
 msgid "Vyberte fotky, které chcete od skupiny odebrat."
-msgstr ""
+msgstr "Select the photos you want to remove from the group."
 

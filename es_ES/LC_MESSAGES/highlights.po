@@ -3,7 +3,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language: es_ES\n"
 "Language-Team: Spanish\n"
-"PO-Revision-Date: 2024-12-18 14:12\n"
+"PO-Revision-Date: 2025-03-28 13:33\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Project-Id-Version: laserarenacontrol\n"
 "X-Crowdin-File: /master/highlights.pot\n"
@@ -220,4 +220,44 @@ msgstr "%s ha sido golpeado por el mayor número de compañeros de equipo (%d)."
 msgctxt "evo5"
 msgid "%s jediné bylo zasaženo minou."
 msgstr "%s ha sido el único alcanzado por una mina."
+
+msgctxt "user"
+msgid "%s proti %s většinou prohrává, ale teď ho porazila."
+msgstr "%s Contra %s suele perder, pero ahora le ha ganado."
+
+msgctxt "hits"
+msgid "%s zasáhla svou spoluhráčku %s vícekrát (%d), než kteréhokoliv protihráče"
+msgstr "%s ha golpeado a su compañero de equipo %s más veces (%d) que cualquier jugador contrario"
+
+msgctxt "deaths"
+msgid "%s byla zasažena více spoluhráči (%d), než protihráči (%d)"
+msgstr "%s ha sido golpeado por más compañeros de equipo (%d) que adversarios (%d)"
+
+msgctxt "hits"
+msgid "%s zasáhl více spoluhráčů (%d), než protihráčů (%d)"
+msgstr "%s ha golpeado a más compañeros de equipo (%d) que oponentes (%d)"
+
+msgctxt "hits"
+msgid "%s zasáhl svého spoluhráče %s vícekrát (%d), než kteréhokoliv protihráče"
+msgstr "%s ha golpeado a su compañero de equipo %s más veces (%d) que cualquier jugador contrario"
+
+msgctxt "deaths"
+msgid "%s byl zasažen více spoluhráči (%d), než protihráči (%d)"
+msgstr "%s ha sido golpeado por más compañeros de equipo (%d) que adversarios (%d)"
+
+msgctxt "hits"
+msgid "%s zasáhlo svou spoluhráčku %s vícekrát (%d), než kteréhokoliv protihráče"
+msgstr "%s ha golpeado a su compañero de equipo %s más veces (%d) que cualquier jugador contrario"
+
+msgctxt "deaths"
+msgid "%s bylo zasaženo více spoluhráči (%d), než protihráči (%d)"
+msgstr "%s ha sido golpeado por más compañeros de equipo (%d) que adversarios (%d)"
+
+msgctxt "hits"
+msgid "%s zasáhla svého spoluhráče %s vícekrát (%d), než kteréhokoliv protihráče"
+msgstr "%s ha golpeado a su compañero de equipo %s más veces (%d) que cualquier jugador contrario"
+
+msgctxt "hits"
+msgid "%s zasáhl svou spoluhráčku %s vícekrát (%d), než kteréhokoliv protihráče"
+msgstr "%s golpeado a su compañero de equipo %s más veces (%d) que cualquiera de sus oponentes"
 

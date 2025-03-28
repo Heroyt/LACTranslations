@@ -4837,16 +4837,8 @@ msgstr ""
 msgid "Správa arény"
 msgstr ""
 
-msgctxt "errors"
-msgid "Požadavek vypršel, zkuste znovu načíst stránku. \"39f6d41c9fa780ccaae4557a68eae6953645b3a2b7d149eab327e81f167e4454\""
-msgstr ""
-
 msgctxt "gameModes"
 msgid "Team deathmatch"
-msgstr ""
-
-msgctxt "errors"
-msgid "Požadavek vypršel, zkuste znovu načíst stránku. \"800ead54a336ce7bb146487dc43964aa30ca0da25f8c993468f72e5c3a583229\""
 msgstr ""
 
 msgctxt "gameModes"
@@ -4958,3 +4950,4 @@ msgstr ""
 
 msgid "Vyberte fotky, které chcete od skupiny odebrat."
 msgstr ""
+

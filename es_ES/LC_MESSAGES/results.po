@@ -6,7 +6,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "Last-Translator: Tomáš Vojík <vojik@wboy.cz>\n"
 "MIME-Version: 1.0\n"
-"PO-Revision-Date: 2025-03-23 11:50\n"
+"PO-Revision-Date: 2025-03-28 13:33\n"
 "POT-Creation-Date: 2021-12-01 12:05+0100\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Project-Id-Version: laserarenacontrol\n"
@@ -827,4 +827,52 @@ msgstr "Descargar fotos"
 
 msgid "Zveřejnit fotky"
 msgstr "Publicar fotos"
+
+msgid "Zásahy spoluhráčů"
+msgstr "Interferencia de los compañeros de equipo"
+
+msgid "K:D"
+msgstr "K:D"
+
+msgid "Přesnost"
+msgstr "Precisión"
+
+msgid "Srovnání s protihráči"
+msgstr "Comparación con los adversarios"
+
+msgid "Zohlednění vašich protihráčů. Pokud hrajete proti slabším, vaše herní úroveň se sníží. Naopak, pokud hrajete proti silným hráčům, vaše herní úroveň se zvýší."
+msgstr "Ten en cuenta a tus oponentes. Si juegas contra jugadores más débiles, tu nivel de juego disminuirá. Por el contrario, si juegas contra jugadores fuertes, tu nivel de juego aumentará."
+
+msgctxt "player"
+msgid "%d zabití"
+msgstr "%d Matar"
+
+msgctxt "player"
+msgid "%d smrt"
+msgid_plural "%d smrtí"
+msgstr[0] "%d muerte"
+msgstr[1] "%d Muerte"
+
+msgid "Herní úroveň"
+msgstr "Nivel de juego"
+
+msgid "Zásahy:Smrti"
+msgstr "Hits:Muertes"
+
+msgctxt "player.ranking.elo"
+msgid "Vysvětlení hodnocení"
+msgstr "Explicación de la evaluación"
+
+msgctxt "info"
+msgid "Body za výstřel"
+msgstr "Puntos por disparo"
+
+msgid "Trofej"
+msgstr "Trofeo"
+
+msgid "Výsledky týmů"
+msgstr "Resultados del equipo"
+
+msgid "Zrušit zveřejnění fotek"
+msgstr "Cancelar la publicación de fotos"
 
