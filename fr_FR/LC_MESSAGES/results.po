@@ -6,7 +6,7 @@ msgstr ""
 "Language-Team: French\n"
 "Last-Translator: Tomáš Vojík <vojik@wboy.cz>\n"
 "MIME-Version: 1.0\n"
-"PO-Revision-Date: 2025-03-23 11:50\n"
+"PO-Revision-Date: 2025-03-28 10:55\n"
 "POT-Creation-Date: 2021-12-01 12:05+0100\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "Project-Id-Version: laserarenacontrol\n"
@@ -102,7 +102,7 @@ msgstr "Joueurs"
 
 msgctxt "player"
 msgid "Zásahy"
-msgstr "Coups"
+msgstr "Touches"
 
 msgctxt "player"
 msgid "Smrti"
@@ -172,7 +172,7 @@ msgstr[1] "%d joueurs"
 
 msgctxt "hits"
 msgid "Zásahy hráčů"
-msgstr "Coups de joueurs"
+msgstr "Touches des joueurs"
 
 msgctxt "hits"
 msgid "Zasáhl si hráče"
@@ -658,11 +658,11 @@ msgstr "Coups ratés"
 
 msgctxt "hits"
 msgid "Zásahy do hráčů"
-msgstr "Coups de joueurs"
+msgstr "Touches des joueurs"
 
 msgctxt "hits"
 msgid "Smrti od hráčů"
-msgstr "La mort par des joueurs"
+msgstr "Morts par des joueurs"
 
 msgctxt "bests"
 msgid "Dostupné trofeje"
@@ -796,10 +796,10 @@ msgid "Výstřely"
 msgstr "Tirs"
 
 msgid "Zásahy"
-msgstr "Interventions"
+msgstr "Touches"
 
 msgid "Smrti"
-msgstr "Décès"
+msgstr "Morts"
 
 msgid "Sniper"
 msgstr "Sniper"
