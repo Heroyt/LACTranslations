@@ -4853,6 +4853,38 @@ msgctxt "gameModes"
 msgid "Deathmatch"
 msgstr ""
 
+msgctxt "errors"
+msgid "Požadavek vypršel, zkuste znovu načíst stránku. \"94ccac7f24379cfcd905c5cd50393e5059a0111f27f6663682f367a1b8704414\""
+msgstr ""
+
+msgctxt "errors"
+msgid "Požadavek vypršel, zkuste znovu načíst stránku. \"6ee2f837ebaf5c6f08d8062cb6f22ceb3ee1dc49d79fad8ff058b1e58fb13d21\""
+msgstr ""
+
+msgctxt "errors"
+msgid "Požadavek vypršel, zkuste znovu načíst stránku. \"bcffa99fd6ec06eca3cfe14d41af89005f8c52d0f7dc4db9e1a65c9ceddd95f0\""
+msgstr ""
+
+msgctxt "errors"
+msgid "Požadavek vypršel, zkuste znovu načíst stránku. \"30b448e439711f346f03fba795e42057857e080ab2f474a58dcd6e0714596a18\""
+msgstr ""
+
+msgctxt "errors"
+msgid "Požadavek vypršel, zkuste znovu načíst stránku. \"146ba8ed709c720505571494086d8772bebe8eb12a1bdc07ea647c8358f92c2c\""
+msgstr ""
+
+msgctxt "errors"
+msgid "Požadavek vypršel, zkuste znovu načíst stránku. \"d04818e486a4b6a4851d3c26c3be85bbffb12b32800c7994721860ac9e1da606\""
+msgstr ""
+
+msgctxt "errors"
+msgid "Požadavek vypršel, zkuste znovu načíst stránku. \"9718f2d96ae090b36ddd18c189bd51244885918555465eebcaac7ce25483418e\""
+msgstr ""
+
+msgctxt "errors"
+msgid "Požadavek vypršel, zkuste znovu načíst stránku. \"edfc294e177440fb461fe713e387de5a7f9bec80f0cb712d17f25a1881a33b38\""
+msgstr ""
+
 msgctxt "gameModes"
 msgid "Kámen, Nůžky, Papír"
 msgstr ""
