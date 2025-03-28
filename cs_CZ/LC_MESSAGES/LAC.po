@@ -329,6 +329,10 @@ msgctxt "actions"
 msgid "Začít"
 msgstr "Začít"
 
+msgctxt "actions"
+msgid "Zavřít"
+msgstr ""
+
 msgctxt "action"
 msgid "Zobrazit později"
 msgstr "Zobrazit později"
