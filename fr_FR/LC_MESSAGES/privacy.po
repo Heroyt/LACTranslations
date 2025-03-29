@@ -3,7 +3,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language: fr_FR\n"
 "Language-Team: French\n"
-"PO-Revision-Date: 2025-03-23 11:50\n"
+"PO-Revision-Date: 2025-03-28 17:37\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "Project-Id-Version: laserarenacontrol\n"
 "X-Crowdin-File: /master/privacy.pot\n"
@@ -15,55 +15,55 @@ msgstr ""
 
 msgctxt "metadata"
 msgid "Zásady zpracování osobních údajů na webu %s."
-msgstr ""
+msgstr "Politique de traitement des données personnelles sur le site web %s."
 
 msgctxt "title"
 msgid "Zásady zpracování osobních údajů"
-msgstr ""
+msgstr "Politique de traitement des données personnelles"
 
 msgctxt "intro"
 msgid "Tyto zásady popisují zpracování osobních údajů na webu %s v souladu s nařízením Evropského parlamentu a Rady (EU) 2016/679 o ochraně osobních údajů (GDPR)."
-msgstr ""
+msgstr "La présente politique décrit le traitement des données personnelles sur le site web %s conformément au règlement (UE) 2016/679 du Parlement européen et du Conseil relatif à la protection des données à caractère personnel (RGPD)."
 
 msgctxt "section_title"
 msgid "Úvodní ustanovení"
-msgstr ""
+msgstr "Dispositions préliminaires"
 
 msgctxt "controller_info"
 msgid "Správcem osobních údajů je %s (IČ: %s) se sídlem %s."
-msgstr ""
+msgstr "Le responsable du traitement des données est %s (SIREN : %s) dont le siège social est situé à %s."
 
 msgctxt "contact_info"
 msgid "Pro dotazy kontaktujte naši podporu na e-mailu %s."
-msgstr ""
+msgstr "Pour toute question, veuillez contacter notre équipe d'assistance à l'adresse %s."
 
 msgctxt "section_title"
 msgid "Jaké osobní údaje zpracováváme?"
-msgstr ""
+msgstr "Quelles données personnelles traitons-nous ?"
 
 msgctxt "table_header"
 msgid "Údaj"
-msgstr ""
+msgstr "Donnée"
 
 msgctxt "table_header"
 msgid "Účel zpracování"
-msgstr ""
+msgstr "Objectif du traitement"
 
 msgctxt "data_processing_email"
 msgid "E-mailová adresa"
-msgstr ""
+msgstr "Adresse e-mail"
 
 msgctxt "data_processing_email"
 msgid "Registrace, komunikace a marketing."
-msgstr ""
+msgstr "Inscription, communication et marketing."
 
 msgctxt "data_processing_birthdate"
 msgid "Datum narození (volitelné)"
-msgstr ""
+msgstr "Date de naissance (facultatif)"
 
 msgctxt "data_processing_birthdate"
 msgid "Marketing (např. narozeninové slevy), narozeninové ocenění"
-msgstr ""
+msgstr "Marketing (par exemple, réductions d'anniversaire), trophée d'anniversaire"
 
 msgctxt "section_title"
 msgid "Účely a právní základ zpracování osobních údajů"
@@ -71,15 +71,15 @@ msgstr ""
 
 msgctxt "table_header"
 msgid "Právní základ"
-msgstr ""
+msgstr "Base légale"
 
 msgctxt "purpose"
 msgid "Registrace a správa uživatelského účtu"
-msgstr ""
+msgstr "Enregistrement et gestion des comptes d'utilisateurs"
 
 msgctxt "legal_basis"
 msgid "Souhlas"
-msgstr ""
+msgstr "Consentement"
 
 msgctxt "purpose"
 msgid "Marketingové akce (narozeninová sleva, achievementy)"
@@ -91,7 +91,7 @@ msgstr ""
 
 msgctxt "purpose"
 msgid "Analytika webu"
-msgstr ""
+msgstr "Analyse du web"
 
 msgctxt "legal_basis"
 msgid "Oprávněný zájem"
@@ -119,7 +119,7 @@ msgstr ""
 
 msgctxt "marketing_choice"
 msgid "Nikomu."
-msgstr ""
+msgstr "Personne."
 
 msgctxt "section_title"
 msgid "Uchovávání osobních údajů"
@@ -131,11 +131,11 @@ msgstr ""
 
 msgctxt "section_title"
 msgid "Kdo má přístup k osobním údajům"
-msgstr ""
+msgstr "Qui a accès aux données personnelles"
 
 msgctxt "access"
 msgid "<strong>Provozovatel webu</strong>"
-msgstr ""
+msgstr "<strong>Webmaster</strong>"
 
 msgctxt "access"
 msgid "<strong>Zapojené arény</strong>: Mají přístup pouze k e-mailovým adrésám hráčů, kteří si je vybrali jako domovskou arénu nebo v nich hráli. Tyto arény mohou adresy využívat k zasílání marketingových sdělení."
@@ -147,15 +147,15 @@ msgstr ""
 
 msgctxt "section_title"
 msgid "Analytika a cookies"
-msgstr ""
+msgstr "Analyse et cookies"
 
 msgctxt "analytics"
 msgid "Používáme open-source analytickou službu, která nesdílí data se třetími stranami a je plně v naší správě."
-msgstr ""
+msgstr "Nous utilisons un service d'analyse à source ouverte qui ne partage pas les données avec des tiers et qui est entièrement géré par nous."
 
 msgctxt "section_title"
 msgid "Práva uživatelů"
-msgstr ""
+msgstr "Droits de l'utilisateur"
 
 msgctxt "user_rights"
 msgid "Podle GDPR máte právo:"
@@ -163,15 +163,15 @@ msgstr ""
 
 msgctxt "user_right"
 msgid "Právo na přístup ke svým údajům."
-msgstr ""
+msgstr "Le droit d'accès à vos données."
 
 msgctxt "user_right"
 msgid "Právo na opravu nepřesných údajů."
-msgstr ""
+msgstr "Le droit de corriger les données inexactes."
 
 msgctxt "user_right"
 msgid "Právo na výmaz údajů („právo být zapomenut“)."
-msgstr ""
+msgstr "Le droit à l'effacement des données (« droit à l'oubli »)."
 
 msgctxt "user_right"
 msgid "Právo odvolat souhlas se zpracováním údajů."
@@ -179,7 +179,7 @@ msgstr ""
 
 msgctxt "section_title"
 msgid "Ochrana osobních údajů"
-msgstr ""
+msgstr "Protection des données personnelles"
 
 msgctxt "contact_dpa"
 msgid "Web %s implementuje vhodná technická a organizační opatření k ochraně osobních údajů proti neoprávněnému přístupu, změně, ztrátě či zničení."
@@ -195,19 +195,19 @@ msgstr ""
 
 msgctxt "dpa_link"
 msgid "Úřad pro ochranu osobních údajů"
-msgstr ""
+msgstr "Autorité de protection des données"
 
 msgctxt "section_title"
 msgid "Změny zásad"
-msgstr ""
+msgstr "Changements de politique"
 
 msgctxt "updates"
 msgid "Tyto zásady mohou být aktualizovány. O změnách budete informováni."
-msgstr ""
+msgstr "Cette politique peut être mise à jour. Vous serez informé de tout changement."
 
 msgctxt "last_updated"
 msgid "Poslední aktualizace: %s"
-msgstr ""
+msgstr "Dernière mise à jour : %s"
 
 msgctxt "security_turnstile"
 msgid "Pro ochranu formulářů na webu používáme službu <a href=\"https://www.cloudflare.com/application-services/products/turnstile/\" target=\"_blank\">Cloudflare Turnstile Captcha</a>, která chrání proti automatizovaným útokům a zajišťuje bezpečnost webu."

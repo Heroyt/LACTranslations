@@ -6,7 +6,7 @@ msgstr ""
 "Language-Team: French\n"
 "Last-Translator: Tomáš Vojík <vojik@wboy.cz>\n"
 "MIME-Version: 1.0\n"
-"PO-Revision-Date: 2025-03-28 13:33\n"
+"PO-Revision-Date: 2025-03-28 17:37\n"
 "POT-Creation-Date: 2021-12-01 12:05+0100\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "Project-Id-Version: laserarenacontrol\n"
@@ -476,23 +476,23 @@ msgstr "Cible"
 
 msgctxt "bests.description"
 msgid "Staň se hráčem s největším skóre hry."
-msgstr "Devenez le joueur avec le score le plus élevé du jeu."
+msgstr "Devenez le joueur avec le meilleur score du jeu."
 
 msgctxt "bests.description"
 msgid "Staň se hráčem s největším počtem zásahů hry."
-msgstr ""
+msgstr "Devenez le joueur avec le plus de coups du jeu."
 
 msgctxt "bests.description"
 msgid "Staň se hráčem s největším počtem smrtí hry."
-msgstr ""
+msgstr "Devenez le joueur avec le plus de morts du jeu."
 
 msgctxt "bests.description"
 msgid "Staň se nejpřesnějším hráčem hry."
-msgstr ""
+msgstr "Devenez le joueur le plus précis du jeu."
 
 msgctxt "bests.description"
 msgid "Staň se hráčem s nejméně výstřely z celé hry."
-msgstr ""
+msgstr "Devenez le joueur qui a tiré le moins de tirs dans le jeu."
 
 msgctxt "bests.description"
 msgid "Staň se hráčem, který se nejvícekrát netrefil."
@@ -500,11 +500,11 @@ msgstr ""
 
 msgctxt "bests.description"
 msgid "Staň se hrářem, který nejvíckát zasáhnul spoluhráče."
-msgstr ""
+msgstr "Devenez le joueur qui frappe le plus de fois ses coéquipiers."
 
 msgctxt "bests.description"
 msgid "Staň se hráčem, kterého nejvíckrát trefili spoluhráči."
-msgstr ""
+msgstr "Devenez le joueur qui a été touché le plus de fois par ses coéquipiers."
 
 msgctxt "bests.description"
 msgid "Získej nejvíce bonusů za hru."
@@ -532,11 +532,11 @@ msgstr ""
 
 msgctxt "bests.description"
 msgid "Měj alespoň 2x tolik zásahů co smrtí."
-msgstr ""
+msgstr "Obtenir au moins deux fois plus de coups que de morts."
 
 msgctxt "bests.description"
 msgid "Měl alespoň přibližně 2x tolik smrtí co zásahů."
-msgstr ""
+msgstr "Obtenir au moins deux fois plus de morts que de coups."
 
 msgctxt "bests.description"
 msgid "Měj 0 skóre."
@@ -544,7 +544,7 @@ msgstr "Ayez un score nul."
 
 msgctxt "bests.description"
 msgid "Získej alespoň přibližně polovinu skóre celého tvého týmu."
-msgstr ""
+msgstr "Obtenez au moins la moitié du score de votre équipe."
 
 msgctxt "bests.description"
 msgid "Alespoň přibližně polovina všech tvých zásahů je jen jeden hráč."
@@ -556,7 +556,7 @@ msgstr ""
 
 msgctxt "bests.description"
 msgid "Získej 666 skóre nebo výstřelů."
-msgstr ""
+msgstr "Obtenez 666 scores ou tirs."
 
 msgctxt "bests.description"
 msgid "Získej 404, 4040, nebo 40400 skóre."
@@ -568,17 +568,17 @@ msgstr "Tirez 404 fois."
 
 msgctxt "bests.description"
 msgid "Zasáhni všechny své nepřátele stejněkrát (přibližně)."
-msgstr ""
+msgstr "Frappez tous vos ennemis le même nombre de fois (approx.)."
 
 msgctxt "bests.description"
 msgid "Průměrný hráč. Bohužel na tebe nesedí žádná z trofejí."
-msgstr ""
+msgstr "Joueur moyen. Hélas, il n'y a aucun trophée pour toi."
 
 msgid "On-line detailní výsledky"
 msgstr "Détails résultats en ligne"
 
 msgid "Zásahy/Smrti od spoluhráčů"
-msgstr ""
+msgstr "Coups/morts par les coéquipiers"
 
 msgid "Bonusy"
 msgstr "Bonus"
@@ -601,19 +601,19 @@ msgstr "Bouclier"
 
 msgctxt "bests.description"
 msgid "Staň se hráčem s největším skóre."
-msgstr ""
+msgstr "Devenez le joueur avec le meilleur score."
 
 msgctxt "bests.description"
 msgid "Staň se hráčem s největším počtem zásahů."
-msgstr ""
+msgstr "Devenez le joueur avec le plus de coups."
 
 msgctxt "bests.description"
 msgid "Staň se hráčem s největším počtem smrtí."
-msgstr ""
+msgstr "Devenez le joueur avec le plus de morts."
 
 msgctxt "bests.description"
 msgid "Staň se nejpřesnějším hráčem."
-msgstr ""
+msgstr "Devenez le joueur le plus précis."
 
 msgid "Zásahy od/do spoluhráčů"
 msgstr "Touches reçues/données des/aux alliés"
@@ -737,14 +737,14 @@ msgstr "Match suivant du joueur %s"
 
 msgctxt "hits"
 msgid "Zasáhlo si hráče"
-msgstr ""
+msgstr "On as touché un joueur"
 
 msgid "Umístění"
 msgstr "Position"
 
 msgctxt "hits"
 msgid "Zasáhla si hráče"
-msgstr ""
+msgstr "Tu as touché un joueur"
 
 msgctxt "hits"
 msgid "Zásahy do týmů"
@@ -756,7 +756,7 @@ msgstr ""
 
 msgctxt "today"
 msgid "Klikněte níže na okénko pro zobrazení grafu vašeho umístění."
-msgstr ""
+msgstr "Cliquez sur la fenêtre ci-dessous pour voir un graphique de votre position."
 
 msgctxt "today"
 msgid "Zobrazit umístění"
