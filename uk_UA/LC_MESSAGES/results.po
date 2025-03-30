@@ -6,7 +6,7 @@ msgstr ""
 "Language-Team: Ukrainian\n"
 "Last-Translator: Tomáš Vojík <vojik@wboy.cz>\n"
 "MIME-Version: 1.0\n"
-"PO-Revision-Date: 2025-03-30 12:54\n"
+"PO-Revision-Date: 2025-03-30 13:46\n"
 "POT-Creation-Date: 2021-12-01 12:05+0100\n"
 "Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
 "Project-Id-Version: laserarenacontrol\n"
@@ -242,7 +242,7 @@ msgstr "Вбивця власної команди"
 
 msgctxt "bests"
 msgid "Největší vlastňák"
-msgstr ""
+msgstr "Найбільший стрілець по своїх"
 
 msgctxt "bests"
 msgid "Drtič min"
@@ -384,10 +384,6 @@ msgstr "Вбивця"
 msgctxt "bests"
 msgid "Nula"
 msgstr "Нуль"
-
-msgctxt "bests"
-msgid "Potahal tým"
-msgstr ""
 
 msgctxt "bests"
 msgid "Občas se i trefí"
@@ -682,77 +678,77 @@ msgstr "Доступні трофеї"
 
 msgctxt "info"
 msgid "Body smrt od miny"
-msgstr ""
+msgstr "Бали за смерть від міни"
 
 msgctxt "info"
 msgid "Body za bonus"
-msgstr ""
+msgstr "Бали за бонус"
 
 msgctxt "bonus"
 msgid "agent"
-msgstr ""
+msgstr "агент"
 
 msgctxt "bonus"
 msgid "neviditelnost"
-msgstr ""
+msgstr "невидимість"
 
 msgctxt "bonus"
 msgid "samopal"
-msgstr ""
+msgstr "автомат"
 
 msgctxt "bonus"
 msgid "štít"
-msgstr ""
+msgstr "щит"
 
 msgctxt "bests"
 msgid "Zobrazit všechny trofeje"
-msgstr ""
+msgstr "Показати всі трофеї"
 
 msgctxt "today"
 msgid "Klikněte níže na okénko pro zobrazení tabulky dnešního pořadí."
-msgstr ""
+msgstr "Натисніть на іконку нижче для зображення таблиці сьогоднішнього рейтингу."
 
 msgctxt "today"
 msgid "Zobrazit dnešní pořadí"
-msgstr ""
+msgstr "Зобразити сьогоднішній рейтинг"
 
 msgctxt "bests"
 msgid "Bohužel na tebe nesedí žádná z trofejí..."
-msgstr ""
+msgstr "На жаль, жоден з трофеїв тобі не підходить..."
 
 msgid "Bodování"
-msgstr ""
+msgstr "Підрахунок балів"
 
 msgctxt "info"
 msgid "Skupina"
-msgstr ""
+msgstr "Група"
 
 msgctxt "group"
 msgid "Předchozí hra"
-msgstr ""
+msgstr "Попередня гра"
 
 msgctxt "group"
 msgid "Následující hra"
-msgstr ""
+msgstr "Наступна гра"
 
 msgctxt "info"
 msgid "Hudební mód"
-msgstr ""
+msgstr "Музичний режим"
 
 msgctxt "group"
 msgid "Předchozí hra hráče %s"
-msgstr ""
+msgstr "Попередня гра гравця %s"
 
 msgctxt "group"
 msgid "Následující hra hráče %s"
-msgstr ""
+msgstr "Наступна гра гравця %s"
 
 msgctxt "hits"
 msgid "Zasáhlo si hráče"
 msgstr ""
 
 msgid "Umístění"
-msgstr ""
+msgstr "Розташування"
 
 msgctxt "hits"
 msgid "Zasáhla si hráče"
@@ -760,42 +756,42 @@ msgstr ""
 
 msgctxt "hits"
 msgid "Zásahy do týmů"
-msgstr ""
+msgstr "Влучання у команду"
 
 msgctxt "hits"
 msgid "Smrti od týmů"
-msgstr ""
+msgstr "Смерті від команди"
 
 msgctxt "today"
 msgid "Klikněte níže na okénko pro zobrazení grafu vašeho umístění."
-msgstr ""
+msgstr "Натисніть на іконку нижче для зображення графи вашого розташування."
 
 msgctxt "today"
 msgid "Zobrazit umístění"
-msgstr ""
+msgstr "Зобразити розташування"
 
 msgctxt "hits"
 msgid "Hry proti dalším týmům"
-msgstr ""
+msgstr "Ігри проти інших команд"
 
 msgctxt "player"
 msgid "Životy"
-msgstr ""
+msgstr "Життя"
 
 msgid "Dobyté miny týmu"
-msgstr ""
+msgstr "Захоплені міни команди"
 
 msgctxt "mode.zakladny"
 msgid "Dolní základna"
-msgstr ""
+msgstr "Нижня база"
 
 msgctxt "mode.zakladny"
 msgid "Horní základna"
-msgstr ""
+msgstr "Верхня база"
 
 msgctxt "style"
 msgid "Výchozí"
-msgstr ""
+msgstr "За замовчуванням"
 
 msgctxt "style"
 msgid "Tabulkové"
@@ -817,76 +813,76 @@ msgid "Sniper"
 msgstr "Снайпер."
 
 msgid "Fotka ze hry %s"
-msgstr ""
+msgstr "Фото з гри %s"
 
 msgid "Fotky ze hry jsou nastaveny jako veřejné."
-msgstr ""
+msgstr "Фото з гри, налаштовані як публічні."
 
 msgid "Fotky ze hry jsou nastaveny jako neveřejné. Pro zobrazení fotek je třeba přístup přes speciální odkaz, nebo přihlášení do LaserLigy."
-msgstr ""
+msgstr "Фото з гри, встановлені як непублічні. Для перегляду фото необхідно перейти за спеціальним посиланням або авторизуватися в Лазер Лізі."
 
 msgid "Opravdu chcete zveřejnit fotky z této hry? Fotky uvidí kdokoliv, kdo si zobrazí výsledky této hry, ale nebude je moci stáhnout."
-msgstr ""
+msgstr "Дійсно хочете опублікувати фото з цієї гри? Кожен, хто перегляне результати цієї гри, зможе побачити фото, але не зможе їх завантажити."
 
 msgid "Opravdu chcete zrušit zveřejnění fotek z této hry? Fotky uvidí jen hráči hry, nebo ten, kdo přejde na výsledky se speciálním odkazem."
-msgstr ""
+msgstr "Дійсно хочете скасувати оприлюднення фото з цієї гри? Фото побачать тільки гравці гри або той, хто перейде на результати за спеціальним посиланням."
 
 msgid "Fotky"
-msgstr ""
+msgstr "Фото"
 
 msgid "Stáhnout fotky"
-msgstr ""
+msgstr "Завантажити фото"
 
 msgid "Zveřejnit fotky"
-msgstr ""
+msgstr "Оприлюднити фото"
 
 msgid "Zásahy spoluhráčů"
-msgstr ""
+msgstr "Влучання напарників"
 
 msgid "K:D"
 msgstr ""
 
 msgid "Přesnost"
-msgstr ""
+msgstr "Влучність"
 
 msgid "Srovnání s protihráči"
-msgstr ""
+msgstr "Порівняння із противниками"
 
 msgid "Zohlednění vašich protihráčů. Pokud hrajete proti slabším, vaše herní úroveň se sníží. Naopak, pokud hrajete proti silným hráčům, vaše herní úroveň se zvýší."
-msgstr ""
+msgstr "Зображення ваших суперників. Якщо граєте проти слабших, ваш ігровий рівень знизиться. Навпаки, якщо граєте проти сильніших гравців, ваш ігровий рівень підвищиться."
 
 msgctxt "player"
 msgid "%d zabití"
-msgstr ""
+msgstr "Вбивств %d"
 
 msgctxt "player"
 msgid "%d smrt"
 msgid_plural "%d smrtí"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
+msgstr[0] "Смерть %d"
+msgstr[1] "Смертей %d"
+msgstr[2] "Смертей %d"
+msgstr[3] "Смертей %d"
 
 msgid "Herní úroveň"
-msgstr ""
+msgstr "Ігровий рівень"
 
 msgid "Zásahy:Smrti"
-msgstr ""
+msgstr "Влучання:Смерті"
 
 msgctxt "player.ranking.elo"
 msgid "Vysvětlení hodnocení"
-msgstr ""
+msgstr "Пояснення оцінки"
 
 msgctxt "info"
 msgid "Body za výstřel"
-msgstr ""
+msgstr "Бали за постріл"
 
 msgid "Trofej"
-msgstr ""
+msgstr "Трофей"
 
 msgid "Výsledky týmů"
-msgstr ""
+msgstr "Результати команд"
 
 msgid "Zrušit zveřejnění fotek"
-msgstr ""
+msgstr "Скасувати оприлюднення фото"
 

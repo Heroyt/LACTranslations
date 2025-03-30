@@ -386,10 +386,6 @@ msgid "Nula"
 msgstr ""
 
 msgctxt "bests"
-msgid "Potahal tým"
-msgstr ""
-
-msgctxt "bests"
 msgid "Občas se i trefí"
 msgstr ""
 
@@ -889,3 +885,4 @@ msgstr ""
 
 msgid "Zrušit zveřejnění fotek"
 msgstr ""
+
