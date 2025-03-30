@@ -6,7 +6,7 @@ msgstr ""
 "Language-Team: Ukrainian\n"
 "Last-Translator: Tomáš Vojík <vojik@wboy.cz>\n"
 "MIME-Version: 1.0\n"
-"PO-Revision-Date: 2025-03-30 13:46\n"
+"PO-Revision-Date: 2025-03-30 14:47\n"
 "POT-Creation-Date: 2021-12-01 12:05+0100\n"
 "Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
 "Project-Id-Version: laserarenacontrol\n"
@@ -254,7 +254,7 @@ msgstr "Стиль"
 
 msgctxt "style"
 msgid "Základní"
-msgstr ""
+msgstr "Базовий"
 
 msgctxt "style"
 msgid "Čerti"
@@ -286,7 +286,7 @@ msgstr "За замовчуванням"
 
 msgctxt "player"
 msgid "K:D"
-msgstr ""
+msgstr "K:D"
 
 msgctxt "player"
 msgid "Nejoblíbenější cíl"
@@ -332,7 +332,7 @@ msgstr "Фон"
 
 msgctxt "style.settings"
 msgid "Tiskové styly"
-msgstr ""
+msgstr "Стиль друку"
 
 msgctxt "style.settings"
 msgid "Přidat styl"
@@ -348,7 +348,7 @@ msgstr "Стиль"
 
 msgctxt "style"
 msgid "Graphical"
-msgstr ""
+msgstr "Графічний"
 
 msgctxt "bests"
 msgid "Nedotknutelný"
@@ -452,7 +452,7 @@ msgstr[3] "Влучань %d"
 
 msgctxt "style.settings"
 msgid "Data tiskových stylů"
-msgstr ""
+msgstr "Дані стилів друку"
 
 msgctxt "style.settings"
 msgid "Pozadí na šířku"
@@ -745,14 +745,14 @@ msgstr "Наступна гра гравця %s"
 
 msgctxt "hits"
 msgid "Zasáhlo si hráče"
-msgstr ""
+msgstr "Влучило у гравця"
 
 msgid "Umístění"
 msgstr "Розташування"
 
 msgctxt "hits"
 msgid "Zasáhla si hráče"
-msgstr ""
+msgstr "Влучила у гравця"
 
 msgctxt "hits"
 msgid "Zásahy do týmů"
@@ -795,7 +795,7 @@ msgstr "За замовчуванням"
 
 msgctxt "style"
 msgid "Tabulkové"
-msgstr ""
+msgstr "Таблиці"
 
 msgid "Skóre"
 msgstr "Оцінка"
@@ -840,7 +840,7 @@ msgid "Zásahy spoluhráčů"
 msgstr "Влучання напарників"
 
 msgid "K:D"
-msgstr ""
+msgstr "K:D"
 
 msgid "Přesnost"
 msgstr "Влучність"
