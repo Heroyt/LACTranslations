@@ -6,7 +6,7 @@ msgstr ""
 "Language-Team: Ukrainian\n"
 "Last-Translator: Tomáš Vojík <vojik@wboy.cz>\n"
 "MIME-Version: 1.0\n"
-"PO-Revision-Date: 2025-04-02 13:15\n"
+"PO-Revision-Date: 2025-04-02 14:56\n"
 "POT-Creation-Date: \n"
 "Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
 "Project-Id-Version: laserarenacontrol\n"
@@ -181,15 +181,15 @@ msgstr ""
 
 msgctxt "vests.status"
 msgid "V pořádku"
-msgstr ""
+msgstr "Нічого страшного."
 
 msgctxt "vests.status"
 msgid "Nefunkční"
-msgstr ""
+msgstr "Не працює"
 
 msgctxt "vests.status"
 msgid "Hratelná"
-msgstr ""
+msgstr "Можна відтворити"
 
 msgctxt "gameModes"
 msgid "T.M.A - solo"
@@ -2857,97 +2857,97 @@ msgid "Termín je zrušený"
 msgstr "Термін скасовано"
 
 msgid "Souhlasím se <a href=\"%s\" target=\"_blank\">zásadami zpracování osobních údajů</a>."
-msgstr ""
+msgstr "Я згоден з <a href=\"%s\" target=\"_blank\">політикою конфіденційності</a>."
 
 msgid "Správa arény"
-msgstr ""
+msgstr "Управління ареною"
 
 msgctxt "gameModes"
 msgid "Team deathmatch"
-msgstr ""
+msgstr "Командний матч на виживання"
 
 msgctxt "gameModes"
 msgid "Deathmatch"
-msgstr ""
+msgstr "Deathmatch"
 
 msgctxt "gameModes"
 msgid "Kámen, Nůžky, Papír"
-msgstr ""
+msgstr "Камінь, ножиці, папір"
 
 msgid "Fotky"
-msgstr ""
+msgstr "Фото"
 
 msgid "Fotky arény"
-msgstr ""
+msgstr "Фотографії арени"
 
 msgid "Filtrovat fotky podle data"
-msgstr ""
+msgstr "Фільтрувати фотографії за датою"
 
 msgid "Jinak se zobrazí všechny nepřiřazené fotky."
-msgstr ""
+msgstr "В іншому випадку будуть показані всі непризначені фотографії."
 
 msgid "Nepřiřazené fotky"
-msgstr ""
+msgstr "Непризначені фотографії"
 
 msgid "Opravdu chcete smazat %d fotek?"
-msgstr ""
+msgstr "Ви дійсно хочете видалити фотографії %d ?"
 
 msgid "Smazat vybrané fotky"
-msgstr ""
+msgstr "Видалити вибрані фотографії"
 
 msgid "Vybrat vše"
-msgstr ""
+msgstr "Вибрати все"
 
 msgid "Stáhnout vybrané fotky"
-msgstr ""
+msgstr "Завантажити вибрані фотографії"
 
 msgid "Opravdu chcete fotku smazat?"
-msgstr ""
+msgstr "Ви впевнені, що хочете видалити фотографію?"
 
 msgid "Smazat"
-msgstr ""
+msgstr "Видалити"
 
 msgid "Odehrané skupiny"
-msgstr ""
+msgstr "Групи, що грали"
 
 msgid "Zobrazi/Skrýt fotky"
-msgstr ""
+msgstr "Показати/приховати фото"
 
 msgid "Přiřadit fotky"
-msgstr ""
+msgstr "Призначити фотографії"
 
 msgid "Odeslat na e-mail"
-msgstr ""
+msgstr "Надіслати на електронну пошту"
 
 msgid "Zrušit přiřazení fotek"
-msgstr ""
+msgstr "Скасувати призначення фотографій"
 
 msgid "Odeslané e-maily"
-msgstr ""
+msgstr "Надіслано імейлів"
 
 msgid "Odeslat fotky na e-mail"
-msgstr ""
+msgstr "Надсилайте фотографії на електронну пошту"
 
 msgid "Nepodařilo se odeslat e-maily."
-msgstr ""
+msgstr "Не вдалося надіслати імейли."
 
 msgid "E-maily byly úspěšně odeslány."
-msgstr ""
+msgstr "Імейли успішно надіслано."
 
 msgid "E-mailové adresy"
-msgstr ""
+msgstr "Адреси електронної пошти"
 
 msgid "Musíte zadat alespoň jednu e-mailovou adresu."
-msgstr ""
+msgstr "Ви повинні ввести принаймні одну адресу електронної пошти."
 
 msgid "Některé e-mailové adresy nejsou platné."
-msgstr ""
+msgstr "Деякі адреси електронної пошти недійсні."
 
 msgid "Adresy oddělte čárkou nebo novým řádkem."
-msgstr ""
+msgstr "Відокремлюйте адреси комою або новим рядком."
 
 msgid "Odeslat e-maily"
-msgstr ""
+msgstr "Надсилати електронні листи"
 
 msgctxt "results"
 msgid "Umístění"
@@ -2955,34 +2955,34 @@ msgstr ""
 
 msgctxt "gameModes"
 msgid "Team Revolver"
-msgstr ""
+msgstr "Команда \"Револьвер"
 
 msgctxt "gameModes"
 msgid "Gladiátor"
-msgstr ""
+msgstr "Гладіатор"
 
 msgctxt "gender-male"
 msgid "Odeslal"
-msgstr ""
+msgstr "Дописувач"
 
 msgctxt "gender-female"
 msgid "Odeslala"
-msgstr ""
+msgstr "Перекладено"
 
 msgctxt "gender-other"
 msgid "Odeslalo"
-msgstr ""
+msgstr "Надіслано"
 
 msgid "Vyberte fotky, které chcete od skupiny odebrat."
-msgstr ""
+msgstr "Виберіть фотографії, які ви хочете вилучити з групи."
 
 msgid "Datum narození"
-msgstr ""
+msgstr "Дата народження"
 
 msgid "Pokud vyplníte datum narození, mužete získat narozenové ocenění a některé zapojené arény mohou mít pro oslavence sleciální akce."
-msgstr ""
+msgstr "Якщо ви введете дату свого народження, ви можете отримати нагороду до дня народження, а на деяких аренах-учасницях можуть бути спеціальні заходи для іменинників."
 
 msgctxt "actions"
 msgid "Upravit"
-msgstr ""
+msgstr "Редагувати"
 
