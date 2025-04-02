@@ -6,7 +6,7 @@ msgstr ""
 "Language-Team: Russian\n"
 "Last-Translator: Tomáš Vojík <vojik@wboy.cz>\n"
 "MIME-Version: 1.0\n"
-"PO-Revision-Date: 2025-03-28 13:33\n"
+"PO-Revision-Date: 2025-04-02 13:15\n"
 "POT-Creation-Date: \n"
 "Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
 "Project-Id-Version: laserarenacontrol\n"
@@ -71,71 +71,8 @@ msgstr ""
 msgid "Hra neexistuje!"
 msgstr ""
 
-msgctxt "debugPanel"
-msgid "Plural"
-msgstr ""
-
-msgid "Games"
-msgstr ""
-
-msgid "No games had been played on this date."
-msgstr ""
-
-msgid "Time"
-msgstr ""
-
-msgid "Game mode"
-msgstr ""
-
-msgid "Players"
-msgstr ""
-
-msgid "%d score"
-msgstr ""
-
-msgid "%s score"
-msgstr ""
-
-msgid "Actions"
-msgstr ""
-
-msgid "Print"
-msgstr ""
-
-msgctxt "results.today"
-msgid "%d hra"
-msgid_plural "%d her"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
-
-msgctxt "results.today"
-msgid "%d tým"
-msgid_plural "%d týmů"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
-
-msgctxt "results.today"
-msgid "%d hráč"
-msgid_plural "%d hráčů"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
-
 msgctxt "gameModes"
 msgid "Team deathmach"
-msgstr ""
-
-msgctxt "debugPanel"
-msgid "Language"
-msgstr ""
-
-msgctxt "debugPanel"
-msgid "HTTP header"
 msgstr ""
 
 msgctxt "gameModes"
@@ -148,207 +85,6 @@ msgstr ""
 
 msgctxt "gameModes"
 msgid "Deathmach"
-msgstr ""
-
-msgctxt "print"
-msgid "In color:"
-msgstr ""
-
-msgctxt "print"
-msgid "In color"
-msgstr ""
-
-msgctxt "print"
-msgid "Black & white"
-msgstr ""
-
-msgid "Game"
-msgstr ""
-
-msgctxt "tips"
-msgid "Jak se v aréně střílí, tak se v aréně umírá..."
-msgstr ""
-
-msgctxt "tips"
-msgid "Trénink se vyplácí!"
-msgstr ""
-
-msgctxt "tips"
-msgid "Tip #%d"
-msgstr ""
-
-msgctxt "tips"
-msgid "Střílíme v Písku už od 31.12.2013!!!"
-msgstr ""
-
-msgctxt "tips"
-msgid "Ve hře vždy sleduj svoje okolí!"
-msgstr ""
-
-msgctxt "tips"
-msgid "Čidlo na zbrani, ač nenápadné, se dá velmi dobře trefit."
-msgstr ""
-
-msgctxt "tips"
-msgid "Zkušení hráči hrajou týmově!"
-msgstr ""
-
-msgctxt "tips"
-msgid "Pro vyřízení osobních sporů je aréna ideální."
-msgstr ""
-
-msgctxt "tips"
-msgid "Dobití protihráče pažbou, vám žádné body nepřidá."
-msgstr ""
-
-msgctxt "tips"
-msgid "Zabiják vlastního týmu, či největší vlasťnák... To je oč tu běží!"
-msgstr ""
-
-msgctxt "tips"
-msgid "Vestu si oblečte vždy zbraní dobředu."
-msgstr ""
-
-msgctxt "tips"
-msgid "Při týmové hře není výhodné střílet do hráčů se stejnou barvou."
-msgstr ""
-
-msgctxt "tips"
-msgid "Jen Chuck Norris vás může zastřelit baterkou na svém mobilu."
-msgstr ""
-
-msgctxt "tips"
-msgid "Nejlepší výherní taktika je strílet do protihráčů."
-msgstr ""
-
-msgctxt "tips"
-msgid "Nemá cenu umírat na tom samém místě. Když to nejde, uteč jinam!"
-msgstr ""
-
-msgctxt "tips"
-msgid "Všechny bonusy, kromě štítu, trvají 30s."
-msgstr ""
-
-msgctxt "tips"
-msgid "Držení zbraně v obou rukách je přesnější."
-msgstr ""
-
-msgctxt "tips"
-msgid "Měl bys radši hrát laser game a být úžasný!"
-msgstr ""
-
-msgctxt "tips"
-msgid "Spoluhráč je nejlepší cíl. Neutíká."
-msgstr ""
-
-msgctxt "tips"
-msgid "#laserarenapísek"
-msgstr ""
-
-msgctxt "tips"
-msgid "Zabití: 100 bodů, Smrt: -50 bodů, Zabití vlastního hráče: -25 bodů"
-msgstr ""
-
-msgctxt "tips"
-msgid "Go, go, go, go..."
-msgstr ""
-
-msgctxt "tips"
-msgid "Ramenní čidla se trefují nejlépe, zádová nejhůř."
-msgstr ""
-
-msgctxt "tips"
-msgid "Pohyblivý cíl je vždycky těžší trefit."
-msgstr ""
-
-msgctxt "tips"
-msgid "Na displeji vesty po zásahu vidíte kdo vás zasáhl do jakého čidla. To pomáhá při orientaci."
-msgstr ""
-
-msgctxt "tips"
-msgid "Při výstupu z arény vždy připni zbraň k vestě."
-msgstr ""
-
-msgctxt "tips"
-msgid "LASER TAG - SUIT UP!"
-msgstr ""
-
-msgctxt "tips"
-msgid "Když tě bolí nohy, kempi!"
-msgstr ""
-
-msgctxt "tips"
-msgid "Nikdy nejsi příliš starý na laser game."
-msgstr ""
-
-msgctxt "tips"
-msgid "Nezapomeň každý květen a listopad registrovat svůj tým na turnaj!"
-msgstr ""
-
-msgid "Game modes"
-msgstr ""
-
-msgid "General"
-msgstr ""
-
-msgctxt "pageTitles"
-msgid "Settings"
-msgstr ""
-
-msgctxt "actions"
-msgid "Send"
-msgstr ""
-
-msgctxt "actions"
-msgid "Delete"
-msgstr ""
-
-msgctxt "dates"
-msgid "Date from"
-msgstr ""
-
-msgctxt "dates"
-msgid "to"
-msgstr ""
-
-msgctxt "actions"
-msgid "Add"
-msgstr ""
-
-msgctxt "dates"
-msgid "Date"
-msgstr ""
-
-msgctxt "dates"
-msgid "Dates"
-msgstr ""
-
-msgid "No games have been played yet."
-msgstr ""
-
-msgctxt "tips"
-msgid "Oživení trvá 5 sekund."
-msgstr ""
-
-msgid "Zobrazit na Gate"
-msgstr ""
-
-msgctxt "gate"
-msgid "Nejlepší skóre dne"
-msgstr ""
-
-msgctxt "gate"
-msgid "Výsledky dne"
-msgstr ""
-
-msgctxt "actions"
-msgid "Add date"
-msgstr ""
-
-msgid "Last saved:"
-msgstr ""
-
-msgid "never"
 msgstr ""
 
 msgctxt "errors"
@@ -399,12 +135,6 @@ msgctxt "gameModes"
 msgid "100 nábojů"
 msgstr ""
 
-msgid "Bohužel tady nic není..."
-msgstr ""
-
-msgid "Legenda"
-msgstr ""
-
 msgctxt "actions"
 msgid "Začít"
 msgstr ""
@@ -449,112 +179,25 @@ msgctxt "gameModes"
 msgid "Survival"
 msgstr ""
 
-msgctxt "settings"
-msgid "API klíč"
-msgstr ""
-
-msgctxt "settings"
-msgid "General settings"
-msgstr ""
-
-msgid "Vests"
-msgstr ""
-
-msgctxt "settings"
-msgid "Vest settings"
-msgstr ""
-
-msgctxt "systems"
-msgid "evo5"
-msgstr ""
-
-msgctxt "settings.vests"
-msgid "Porucha"
-msgstr ""
-
-msgctxt "settings.vests.status"
+msgctxt "vests.status"
 msgid "V pořádku"
 msgstr ""
 
-msgctxt "settings.vests.status"
+msgctxt "vests.status"
 msgid "Nefunkční"
 msgstr ""
 
-msgctxt "settings.vests.status"
+msgctxt "vests.status"
 msgid "Hratelná"
-msgstr ""
-
-msgctxt "errors"
-msgid "Failed to save settings."
 msgstr ""
 
 msgctxt "gameModes"
 msgid "T.M.A - solo"
 msgstr ""
 
-msgid "Výsledky on-line"
-msgstr ""
-
-msgid "Zobrazit vesty na Gate"
-msgstr ""
-
-msgid "Gate"
-msgstr ""
-
-msgctxt "settings"
-msgid "Gate settings"
-msgstr ""
-
-msgctxt "settings"
-msgid "Trigger events"
-msgstr ""
-
-msgctxt "events"
-msgid "Reload gate"
-msgstr ""
-
-msgctxt "settings"
-msgid "Game timer offset in seconds"
-msgstr ""
-
-msgctxt "settings"
-msgid "Show timer from minute"
-msgstr ""
-
-msgctxt "settings"
-msgid "Settings"
-msgstr ""
-
-msgctxt "cli.errors"
-msgid "Cannot find any translation files in \"%s\" for language \"%s\" - skipping"
-msgstr ""
-
-msgid "Velký květnový turnaj 2022!"
-msgstr ""
-
-msgid "Přihlaš i svůj (vý)herní tým na pravidelný turnaj!"
-msgstr ""
-
-msgid "3 kategorie - začátečníci, pokročilí a mazáci"
-msgstr ""
-
-msgid "Možnost tréninkových her za 50 Kč / hráč / hra"
-msgstr ""
-
-msgid "Domluv si trénink s profíky!"
-msgstr ""
-
 msgctxt "gameModes"
 msgid "Apokalypsa"
 msgstr ""
-
-msgctxt "debugPanel"
-msgid "%d call"
-msgid_plural "%d calls"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
 
 msgid "Filtry"
 msgstr ""
@@ -603,67 +246,8 @@ msgstr ""
 msgid "Hry"
 msgstr ""
 
-msgctxt "debugPanel"
-msgid "Invalid cache class"
-msgstr ""
-
-msgid "Znovu importovat ze souboru"
-msgstr ""
-
-msgctxt "pageTitles"
-msgid "New game"
-msgstr ""
-
-msgctxt "game.actions"
-msgid "Nahrát hru"
-msgstr ""
-
-msgctxt "game.actions"
-msgid "Spustit hru"
-msgstr ""
-
-msgctxt "game.actions"
-msgid "Ukončit hru"
-msgstr ""
-
-msgctxt "game"
-msgid "Herní mód"
-msgstr ""
-
-msgctxt "gameModes"
-msgid "Classic team game."
-msgstr ""
-
-msgctxt "gameModes"
-msgid "Classic free for all game."
-msgstr ""
-
-msgctxt "gameModes"
-msgid "Náročná hra o přežití se 3mi životy."
-msgstr ""
-
-msgctxt "gameModes"
-msgid "Strategická hra, kdy 2 týmy bojují proti sobě o zničení základny druhého týmu."
-msgstr ""
-
-msgctxt "gameModes"
-msgid "Rychlá, šílená hra. Po pár smrtích se přebarvíš na barvu toho, kdo tě trefil."
-msgstr ""
-
-msgctxt "gameModes"
-msgid "Klasická hra, ale tentokrát bez světel."
-msgstr ""
-
 msgctxt "gameModes"
 msgid "T.M.A"
-msgstr ""
-
-msgctxt "gameModes"
-msgid "Hra na zombíky! Vybraní hráči jsou zombie, kteří se snaží infikovat ostatní hráče."
-msgstr ""
-
-msgctxt "gameModes"
-msgid "Strategická hra s omezeným počtem životů a nábojů."
 msgstr ""
 
 msgctxt "gameModes"
@@ -676,26 +260,6 @@ msgstr ""
 
 msgctxt "gameModes"
 msgid "Zombie"
-msgstr ""
-
-msgctxt "game"
-msgid "Hudební mód"
-msgstr ""
-
-msgctxt "game"
-msgid "Náhodné rozdělení týmů"
-msgstr ""
-
-msgctxt "actions"
-msgid "Náhodně"
-msgstr ""
-
-msgctxt "actions"
-msgid "Náhodně fér"
-msgstr ""
-
-msgctxt "game"
-msgid "Týmy"
 msgstr ""
 
 msgctxt "team.names"
@@ -722,50 +286,6 @@ msgctxt "team.names"
 msgid "Ocean team"
 msgstr ""
 
-msgctxt "errors"
-msgid "Musíte vybrat alespoň 2 týmy."
-msgstr ""
-
-msgctxt "errors"
-msgid "Musíte zadat alespoň 2 hráče."
-msgstr ""
-
-msgctxt "game"
-msgid "Poslední hry"
-msgstr ""
-
-msgctxt "game.select"
-msgid "Vybrat hru"
-msgstr ""
-
-msgid "Použít pro novou hru"
-msgstr ""
-
-msgctxt "errors"
-msgid "Musíte vybrat tým hráče."
-msgstr ""
-
-msgctxt "game.player"
-msgid "Herní schopnost hráče"
-msgstr ""
-
-msgid "Znovu spočítat herní úroveň"
-msgstr ""
-
-msgid "Přepnout na sólo mód"
-msgstr ""
-
-msgid "Music"
-msgstr ""
-
-msgctxt "game"
-msgid "Hudební módy"
-msgstr ""
-
-msgctxt "actions"
-msgid "Upload"
-msgstr ""
-
 msgctxt "form"
 msgid "Saved successfully"
 msgstr ""
@@ -778,20 +298,8 @@ msgctxt "errors"
 msgid "Error while uploading a file."
 msgstr ""
 
-msgctxt "errors"
-msgid "Uploaded file already exists"
-msgstr ""
-
-msgctxt "errors"
-msgid "Failed to delete the music file"
-msgstr ""
-
 msgctxt "actions"
 msgid "Uložit"
-msgstr ""
-
-msgctxt "actions"
-msgid "Save"
 msgstr ""
 
 msgctxt "actions"
@@ -802,50 +310,11 @@ msgctxt "actions"
 msgid "Zastavit"
 msgstr ""
 
-msgctxt "game.player"
-msgid "Maximální herní úroveň"
-msgstr ""
-
-msgctxt "actions"
-msgid "Smazat vše"
-msgstr ""
-
 msgid "Název"
-msgstr ""
-
-msgid "Název v konzoli"
 msgstr ""
 
 msgctxt "actions"
 msgid "Odeslat"
-msgstr ""
-
-msgctxt "game.modes"
-msgid "Upravit variace"
-msgstr ""
-
-msgctxt "game.modes"
-msgid "Upravit zobrazení výsledků"
-msgstr ""
-
-msgctxt "game.modes"
-msgid "Variace módu"
-msgstr ""
-
-msgctxt "game.modes"
-msgid "Název variace"
-msgstr ""
-
-msgctxt "game.modes"
-msgid "Hodnota variace"
-msgstr ""
-
-msgctxt "game.modes"
-msgid "Přípona variace k módu v konzoli"
-msgstr ""
-
-msgctxt "game.modes"
-msgid "Existující variace"
 msgstr ""
 
 msgctxt "actions"
@@ -856,614 +325,13 @@ msgctxt "actions"
 msgid "Vytvořit"
 msgstr ""
 
-msgctxt "game.modes"
-msgid "Nová variace"
-msgstr ""
-
-msgctxt "errors"
-msgid "Název nesmí být prázdný"
-msgstr ""
-
-msgctxt "errors"
-msgid "Variace v módu již existuje"
-msgstr ""
-
-msgctxt "game.modes"
-msgid "Herní mód"
-msgstr ""
-
-msgctxt "game.modes"
-msgid "Nastavení zobrazených statistik na výsledcích"
-msgstr ""
-
-msgctxt "game.modes.settings"
-msgid "Veřejný"
-msgstr ""
-
-msgctxt "game.modes.settings"
-msgid "Pokud má být herní mód zobrazován veřejně v rozhraní pro zadání hry hráči (na tabletu)."
-msgstr ""
-
-msgctxt "game.modes.settings"
-msgid "Miny"
-msgstr ""
-
-msgctxt "game.modes.settings"
-msgid "Pokud se mají zobrazovat statistiky min."
-msgstr ""
-
-msgctxt "game.modes.settings"
-msgid "Vítěz"
-msgstr ""
-
-msgctxt "game.modes.settings"
-msgid "Pokud se má zobrazovat část \"Vítěz\"."
-msgstr ""
-
-msgctxt "game.modes.settings"
-msgid "Týmy"
-msgstr ""
-
-msgctxt "game.modes.settings"
-msgid "Pokud se má zobrazovat část \"Týmy\"."
-msgstr ""
-
-msgctxt "game.modes.settings"
-msgid "Hráči"
-msgstr ""
-
-msgctxt "game.modes.settings"
-msgid "Pokud se má zobrazovat část \"Hráči\"."
-msgstr ""
-
-msgctxt "game.modes.settings"
-msgid "Zásahy hráčů"
-msgstr ""
-
-msgctxt "game.modes.settings"
-msgid "Pokud se má zobrazovat část \"Zásahy hráčů\" (kdo koho zasáhl)."
-msgstr ""
-
-msgctxt "game.modes.settings"
-msgid "Ti nej"
-msgstr ""
-
-msgctxt "game.modes.settings"
-msgid "Pokud se má zobrazovat část \"Ti nej\"."
-msgstr ""
-
-msgctxt "game.modes.settings"
-msgid "Pořadí dne"
-msgstr ""
-
-msgctxt "game.modes.settings"
-msgid "Pokud se má zobrazovat část \"Pořadí dne\"."
-msgstr ""
-
-msgctxt "game.modes.settings"
-msgid "Skóre hráče"
-msgstr ""
-
-msgctxt "game.modes.settings"
-msgid "Pokud se má zobrazovat skóre u jednotlivých hráčů."
-msgstr ""
-
-msgctxt "game.modes.settings"
-msgid "Výstřely hráče"
-msgstr ""
-
-msgctxt "game.modes.settings"
-msgid "Pokud se mají zobrazovat výstřely u jednotlivých hráčů."
-msgstr ""
-
-msgctxt "game.modes.settings"
-msgid "Výstřely mimo hráče"
-msgstr ""
-
-msgctxt "game.modes.settings"
-msgid "Pokud se mají zobrazovat výstřely mimo u jednotlivých hráčů."
-msgstr ""
-
-msgctxt "game.modes.settings"
-msgid "Přesnost hráče"
-msgstr ""
-
-msgctxt "game.modes.settings"
-msgid "Pokud se má zobrazovat přesnost u jednotlivých hráčů."
-msgstr ""
-
-msgctxt "game.modes.settings"
-msgid "Miny hráče"
-msgstr ""
-
-msgctxt "game.modes.settings"
-msgid "Pokud se mají zobrazovat statistiky min u jednotlivých hráčů."
-msgstr ""
-
-msgctxt "game.modes.settings"
-msgid "Zásahy hráče"
-msgstr ""
-
-msgctxt "game.modes.settings"
-msgid "Pokud se mají zobrazovat zásahy u jednotlivých hráčů."
-msgstr ""
-
-msgctxt "game.modes.settings"
-msgid "Zásahy vlastních hráče"
-msgstr ""
-
-msgctxt "game.modes.settings"
-msgid "Pokud se mají zobrazovat zásahy rozdělené na vlastní a ostatní u jednotlivých hráčů."
-msgstr ""
-
-msgctxt "game.modes.settings"
-msgid "K:D hráče"
-msgstr ""
-
-msgctxt "game.modes.settings"
-msgid "Pokud se má zobrazovat K:D (poměr zabití a smrtí) u jednotlivých hráčů."
-msgstr ""
-
-msgctxt "game.modes.settings"
-msgid "Oblíbený cíl / Největší zabiják hráče"
-msgstr ""
-
-msgctxt "game.modes.settings"
-msgid "Pokud se mají zobrazovat oblíbení hráči (\"Největší cíl\", \"Největší zabiják\") u jednotlivých hráčů."
-msgstr ""
-
-msgctxt "game.modes.settings"
-msgid "Životy hráče"
-msgstr ""
-
-msgctxt "game.modes.settings"
-msgid "Pokud se mají zobrazovat zbývající životy u jednotlivých hráčů."
-msgstr ""
-
-msgctxt "game.modes.settings"
-msgid "Skóre týmu"
-msgstr ""
-
-msgctxt "game.modes.settings"
-msgid "Pokud se má zobrazovat skóre u jednotlivých týmů."
-msgstr ""
-
-msgctxt "game.modes.settings"
-msgid "Přesnost týmu"
-msgstr ""
-
-msgctxt "game.modes.settings"
-msgid "Pokud se má zobrazovat celková přesnost u jednotlivých týmů."
-msgstr ""
-
-msgctxt "game.modes.settings"
-msgid "Výstřely týmu"
-msgstr ""
-
-msgctxt "game.modes.settings"
-msgid "Pokud se mají zobrazovat výstřely u jednotlivých týmů."
-msgstr ""
-
-msgctxt "game.modes.settings"
-msgid "Zásahy týmu"
-msgstr ""
-
-msgctxt "game.modes.settings"
-msgid "Pokud se mají zobrazovat zásahy u jednotlivých týmů."
-msgstr ""
-
-msgctxt "game.modes.settings"
-msgid "Ztráty základny týmu"
-msgstr ""
-
-msgctxt "game.modes.settings"
-msgid "Pokud se mají zobrazovat ztráty základny u jednotlivých týmů (týká se jen módu Základny)."
-msgstr ""
-
-msgctxt "game.modes.settings"
-msgid "Absolutní vítěz"
-msgstr ""
-
-msgctxt "game.modes.settings"
-msgid "Pokud se má zobrazovat \"Absolutní vítěz\" v tabulce \"Ti nej\"."
-msgstr ""
-
-msgctxt "game.modes.settings"
-msgid "Největí terminátor"
-msgstr ""
-
-msgctxt "game.modes.settings"
-msgid "Pokud se má zobrazovat \"Největí terminátor\" v tabulce \"Ti nej\"."
-msgstr ""
-
-msgctxt "game.modes.settings"
-msgid "Objekt největšího zájmu"
-msgstr ""
-
-msgctxt "game.modes.settings"
-msgid "Pokud se má zobrazovat \"Objekt největšího zájmu\" v tabulce \"Ti nej\"."
-msgstr ""
-
-msgctxt "game.modes.settings"
-msgid "Hráč s nejlepší muškou"
-msgstr ""
-
-msgctxt "game.modes.settings"
-msgid "Pokud se má zobrazovat \"Hráč s nejlepší muškou\" v tabulce \"Ti nej\"."
-msgstr ""
-
-msgctxt "game.modes.settings"
-msgid "Zabiják vlastního týmu"
-msgstr ""
-
-msgctxt "game.modes.settings"
-msgid "Pokud se má zobrazovat \"Zabiják vlastního týmu\" v tabulce \"Ti nej\"."
-msgstr ""
-
-msgctxt "game.modes.settings"
-msgid "Největší vlasňák"
-msgstr ""
-
-msgctxt "game.modes.settings"
-msgid "Pokud se má zobrazovat \"Největší vlastňák\" v tabulce \"Ti nej\"."
-msgstr ""
-
-msgctxt "game.modes.settings"
-msgid "Nejúspornější střelec"
-msgstr ""
-
-msgctxt "game.modes.settings"
-msgid "Pokud se má zobrazovat \"Nejúspornější střelec\" v tabulce \"Ti nej\"."
-msgstr ""
-
-msgctxt "game.modes.settings"
-msgid "Největší mimoň"
-msgstr ""
-
-msgctxt "game.modes.settings"
-msgid "Pokud se má zobrazovat \"Největší mimooň\" v tabulce \"Ti nej\"."
-msgstr ""
-
-msgctxt "game.modes.settings"
-msgid "Drtič min"
-msgstr ""
-
-msgctxt "game.modes.settings"
-msgid "Pokud se má zobrazovat \"Drtič min\" v tabulce \"Ti nej\"."
-msgstr ""
-
-msgctxt "game.modes.settings"
-msgid "Obecné"
-msgstr ""
-
-msgctxt "game.modes.settings"
-msgid "Části"
-msgstr ""
-
-msgid "Varování"
-msgstr ""
-
-msgctxt "game.modes.settings"
-msgid "Na výsledcích se nezobrazují vždy všechny kategorie, ale jen ty které se vejdou."
-msgstr ""
-
-msgctxt "game.modes.settings"
-msgid "Výsledky hráče"
-msgstr ""
-
-msgctxt "game.modes.settings"
-msgid "Výsledky týmů"
-msgstr ""
-
-msgctxt "game.modes"
-msgid "Popis"
-msgstr ""
-
-msgctxt "gameModes"
-msgid "Klasická týmová hra."
-msgstr ""
-
-msgctxt "gameModes"
-msgid "Klasická hra všichni proti všem."
-msgstr ""
-
-msgctxt "gameModes"
-msgid "Klasická hra. Jeden Marco má zavázané oči a hledá na vybrané části arény ostatní hráče. Kdykoliv může zakřičet \"Marco\", kdy potom musí ostatní hráči ztuhnout na místě, kde byly a zakřičet \"Polo\". Marco poté může udělat 3 kroky a vystřelit. Jakmile vystřelí, hráči se můžou zase pohybovat. Hra končí po vypršení času, pokud Marco chytí všechny hráče, nebo Marcovi dojdou náboje."
-msgstr ""
-
-msgctxt "actions"
-msgid "Přidat týmový mód"
-msgstr ""
-
-msgctxt "actions"
-msgid "Přidat sólo mód"
-msgstr ""
-
-msgctxt "game.modes.types"
-msgid "Týmový"
-msgstr ""
-
-msgctxt "game.modes.types"
-msgid "Sólo"
-msgstr ""
-
-msgid "Typ"
-msgstr ""
-
-msgctxt "game.modes"
-msgid "Opravdu chcete herní mód vymazat? Akce nepůjde vrátit."
-msgstr ""
-
-msgctxt "gameModes"
-msgid "Nový mód"
-msgstr ""
-
-msgctxt "gameModes"
-msgid "Test"
-msgstr ""
-
-msgctxt "gameModes"
-msgid "Test - solo"
-msgstr ""
-
-msgid "Variace herních módů označují malé změny v nastavení hry, jako například délku hry. Při načtení hry do konzole se vybírá mód, jehož jméno se získá přidáním potřebných přípon za nastavený základní název v konzoli. Pokud je tedy mód \"TeamDeathmach\" a má vybranou variaci délky 15 minut, která má příponu \"-10\", výsledný vybraný mód z konzole bude mít název \"TeamDeathmach-15\"."
-msgstr ""
-
-msgid "Hodnoty variace můžete řadit. Jako výchozí se vždy použije první hodnota (nahoře v seznamu)."
-msgstr ""
-
-msgctxt "settings"
-msgid "IP adresa LaserMaxx konzole"
-msgstr ""
-
-msgctxt "game.modes"
-msgid "Upravit názvy z konzole"
-msgstr ""
-
-msgctxt "game.modes"
-msgid "Názvy z konzole"
-msgstr ""
-
-msgid "Názvy nastavené zde se budou používat pro párování načtených her z konzole do systému."
-msgstr ""
-
-msgid "Názvy nejsou kontrolované striktně. Nezáleží na velkých/malých písmenech. Zadaný název může být jen podřetězec celého názvu v konzoli."
-msgstr ""
-
-msgid "Např. při módu \"1-TEAM-DEATHMACH\" stačí, aby byl zde zadaný text \"1-TEAM\" nebo \"team-deathmach\"."
-msgstr ""
-
-msgctxt "game.modes"
-msgid "Povolené barvy"
-msgstr ""
-
-msgctxt "actions"
-msgid "Tisknout poslední hru"
-msgstr ""
-
-msgid "Synchronizovat on-line"
-msgstr ""
-
 msgid "Nápověda"
-msgstr ""
-
-msgctxt "help"
-msgid "Klávesové zkratky"
-msgstr ""
-
-msgctxt "help.keys"
-msgid "Enter"
-msgstr ""
-
-msgctxt "help"
-msgid "Odeslat formulář. Nahraje / Spustí hru."
-msgstr ""
-
-msgctxt "help.keys"
-msgid "Mezerník"
-msgstr ""
-
-msgctxt "help.keys"
-msgid "CTRL"
-msgstr ""
-
-msgctxt "help.keys"
-msgid "Backspace"
-msgstr ""
-
-msgctxt "help"
-msgid "Smaže celý formulář."
-msgstr ""
-
-msgid "Stahují se výsledky"
-msgstr ""
-
-msgid "Systém detekoval nedokončené stahování z výsledků. Zkontrolujte vesty a případně klikěte na \"Opakovat\""
-msgstr ""
-
-msgid "Při kliknutí na \"Zrušit\" se výsledky z vest nestáhnout."
-msgstr ""
-
-msgctxt "actions"
-msgid "Opakovat"
-msgstr ""
-
-msgctxt "actions"
-msgid "Zrušit"
-msgstr ""
-
-msgctxt "modes.settings"
-msgid "Skryté náhodné týmy"
-msgstr ""
-
-msgctxt "gameModes"
-msgid "Variace"
-msgstr ""
-
-msgctxt "help"
-msgid "Skryje / Odkryje variace."
-msgstr ""
-
-msgctxt "help"
-msgid "Nastaví tým hráče."
-msgstr ""
-
-msgctxt "help"
-msgid "Přepne nastavení VIP hráče."
-msgstr ""
-
-msgctxt "help"
-msgid "Globální"
-msgstr ""
-
-msgctxt "help"
-msgid "Zadávání hráče"
-msgstr ""
-
-msgctxt "help"
-msgid "Smaže hráče."
-msgstr ""
-
-msgctxt "help"
-msgid "Aktivní pouze při zadávání jména hráče."
-msgstr ""
-
-msgctxt "help"
-msgid "Zvýší herní úroveň hráče."
-msgstr ""
-
-msgctxt "help"
-msgid "Sníží herní úroveň hráče."
-msgstr ""
-
-msgctxt "help"
-msgid "Skryje / Zobrazí variace."
-msgstr ""
-
-msgctxt "help"
-msgid "Skryje / Zobrazí nápovědu."
-msgstr ""
-
-msgctxt "help.keys"
-msgid "TAB"
-msgstr ""
-
-msgctxt "help"
-msgid "Přepne na dalšího hráče."
-msgstr ""
-
-msgctxt "help.keys"
-msgid "SHIFT"
-msgstr ""
-
-msgctxt "help"
-msgid "Přepne na předchozího hráče."
-msgstr ""
-
-msgid "Začátek ukázky"
-msgstr ""
-
-msgid "Zobrazit hráče skupiny"
-msgstr ""
-
-msgid "Nahrát na vesty"
-msgstr ""
-
-msgid "Bez skupiny"
-msgstr ""
-
-msgid "Nová skupina"
-msgstr ""
-
-msgid "Hromadné akce"
-msgstr ""
-
-msgid "Vybrat skupinu"
-msgstr ""
-
-msgid "Název skupiny"
-msgstr ""
-
-msgctxt "settings"
-msgid "Cache"
-msgstr ""
-
-msgctxt "actions"
-msgid "Smazat systémovou cache"
-msgstr ""
-
-msgctxt "actions"
-msgid "Smazat DI cache"
-msgstr ""
-
-msgctxt "actions"
-msgid "Smazat cache výsledků"
-msgstr ""
-
-msgctxt "actions"
-msgid "Smazat cache šablon"
-msgstr ""
-
-msgctxt "settings"
-msgid "Tables"
 msgstr ""
 
 msgid "Pozice"
 msgstr ""
 
-msgid "Sloupec"
-msgstr ""
-
-msgid "Řádek"
-msgstr ""
-
-msgid "Šířka"
-msgstr ""
-
-msgid "Výška"
-msgstr ""
-
 msgid "Úspěšně uloženo"
-msgstr ""
-
-msgid "Nový stůl"
-msgstr ""
-
-msgid "Stůl"
-msgstr ""
-
-msgid "Úspěšně vytvořeno"
-msgstr ""
-
-msgid "Stoly"
-msgstr ""
-
-msgid "Vybrat"
-msgstr ""
-
-msgid "Uvolnit"
-msgstr ""
-
-msgid "Bez stolu"
-msgstr ""
-
-msgid "Nepodařilo se připojit k TCP serveru (%s:%d)."
-msgstr ""
-
-msgctxt "settings"
-msgid "Skupiny"
-msgstr ""
-
-msgctxt "actions"
-msgid "Deaktivovat"
-msgstr ""
-
-msgctxt "actions"
-msgid "Aktivovat"
-msgstr ""
-
-msgctxt "settings"
-msgid "Neaktivní skupiny"
 msgstr ""
 
 msgctxt "actions"
@@ -1869,9 +737,6 @@ msgstr ""
 msgid "Zobrazit stránku arény"
 msgstr ""
 
-msgid "Analýza hry - zajímavosti"
-msgstr ""
-
 msgid "Žádné zajímavosti"
 msgstr ""
 
@@ -1888,18 +753,6 @@ msgid "Sdílet"
 msgstr ""
 
 msgid "Trofej"
-msgstr ""
-
-msgid "Nekompromisní vraždící stroj"
-msgstr ""
-
-msgid "Brambora"
-msgstr ""
-
-msgid "Zlato"
-msgstr ""
-
-msgid "Nezastavitelný klikač"
 msgstr ""
 
 msgid "Vysvětlení hodnocení"
@@ -2401,24 +1254,6 @@ msgstr ""
 msgid "Profil uživatele %s"
 msgstr ""
 
-msgid "Mistr sniper"
-msgstr ""
-
-msgid "Postrach arény"
-msgstr ""
-
-msgid "Laserový maratonista"
-msgstr ""
-
-msgid "Smrtonosný nadřazenec"
-msgstr ""
-
-msgid "Nepřemožitelný střelec"
-msgstr ""
-
-msgid "Nesmrtelný"
-msgstr ""
-
 msgid "Řadit vzestupně"
 msgstr ""
 
@@ -2541,15 +1376,6 @@ msgid "Statistiky týmu %s"
 msgstr ""
 
 msgid "Individuální výsledky"
-msgstr ""
-
-msgid "Legendární válečník"
-msgstr ""
-
-msgid "Mistr sniperských taktik"
-msgstr ""
-
-msgid "Stínový chodec"
 msgstr ""
 
 msgctxt "pageTitles"
@@ -2829,15 +1655,6 @@ msgstr ""
 msgid "Pokud otevřu výsledky ve kterých je hráč s mým jménem, zobrazí se vedle jména hráče tlačítko přiřadit. Po kliknutí na tlačítko se mi hra přiřadí do profilu."
 msgstr ""
 
-msgid "Don't give up"
-msgstr ""
-
-msgid "Vytrvalec"
-msgstr ""
-
-msgid "Rozpad skóre a herní úrovně"
-msgstr ""
-
 msgid "Smrti od min"
 msgstr ""
 
@@ -2860,9 +1677,6 @@ msgid "Smrti od protihráčů"
 msgstr ""
 
 msgid "Smrti od spoluhráčů"
-msgstr ""
-
-msgid "Umístění v žebříčku"
 msgstr ""
 
 msgid "Nastavení profilu"
@@ -3007,23 +1821,8 @@ msgctxt "rarity"
 msgid "Legendární"
 msgstr ""
 
-msgid "Neúnavný"
-msgstr ""
-
 msgctxt "rarity"
 msgid "Epický"
-msgstr ""
-
-msgid "Stříbro"
-msgstr ""
-
-msgid "Přesný sniper"
-msgstr ""
-
-msgid "Ostrostřelec"
-msgstr ""
-
-msgid "Laserový maniak"
 msgstr ""
 
 msgctxt "rarity"
@@ -3032,93 +1831,6 @@ msgstr ""
 
 msgctxt "rarity"
 msgid "Neobvyklý"
-msgstr ""
-
-msgid "Agent 47"
-msgstr ""
-
-msgid "Pravidelný vítěz"
-msgstr ""
-
-msgid "Hrdinský vytrvalec"
-msgstr ""
-
-msgid "Střelec z dálky"
-msgstr ""
-
-msgid "Spray and Pray"
-msgstr ""
-
-msgid "Zkušený střelec"
-msgstr ""
-
-msgid "Nadšenec"
-msgstr ""
-
-msgid "Na plný výkon"
-msgstr ""
-
-msgid "Nezastavitelná síla"
-msgstr ""
-
-msgid "Herní maratón"
-msgstr ""
-
-msgid "Maximální obrana"
-msgstr ""
-
-msgid "Neporazitelný"
-msgstr ""
-
-msgid "Pravidelný hráč"
-msgstr ""
-
-msgid "Turnajový hráč"
-msgstr ""
-
-msgid "Kulometář"
-msgstr ""
-
-msgid "Vládce zásahů"
-msgstr ""
-
-msgid "Stínový střelec"
-msgstr ""
-
-msgid "Netrefitelný"
-msgstr ""
-
-msgid "Exekutor"
-msgstr ""
-
-msgid "Neporazitelný střelec"
-msgstr ""
-
-msgid "Stínový mistr"
-msgstr ""
-
-msgid "Energický hráč"
-msgstr ""
-
-msgid "Drtič nepřátel"
-msgstr ""
-
-msgid "Přeživší"
-msgstr ""
-
-msgid "Střelec"
-msgstr ""
-
-msgid "Shoot to win"
-msgstr ""
-
-msgid "Používám nejlepší výherní taktiku"
-msgstr ""
-
-msgid "#LaserArenaPísek"
-msgstr ""
-
-msgid "#FunSpaceČB"
 msgstr ""
 
 msgid "Údaje"
@@ -3266,94 +1978,16 @@ msgstr[1] ""
 msgstr[2] ""
 msgstr[3] ""
 
-msgctxt "settings"
-msgid "IP adresy brán"
-msgstr ""
-
-msgid "Zapnout brány"
-msgstr ""
-
-msgid "Vypnout brány"
-msgstr ""
-
-msgid "Nepodařilo se připojit k socket serveru (%s:%d)."
-msgstr ""
-
-msgid "Zobrazit týmy"
-msgstr ""
-
-msgid "Zobrazit hráče"
-msgstr ""
-
 msgid "Logo"
 msgstr ""
 
 msgid "Pozadí"
 msgstr ""
 
-msgid "Vyhledat hráče"
-msgstr ""
-
-msgid "Jméno, e-mail, kód hráče"
-msgstr ""
-
-msgid "Nastavit výsledkovou tabuli na souhrn"
-msgstr ""
-
-msgid "Obsazený"
-msgstr ""
-
 msgid "Turnaj"
 msgstr ""
 
 msgid "Rozlosování"
-msgstr ""
-
-msgid "Typ turnaje"
-msgstr ""
-
-msgctxt "tournament.presets"
-msgid "Každý s každým"
-msgstr ""
-
-msgctxt "tournament.presets"
-msgid "Každý s každým na poloviny"
-msgstr ""
-
-msgid "v minutách"
-msgstr ""
-
-msgid "Přestávka mezi hrami"
-msgstr ""
-
-msgid "Předpokládaná délka turnaje"
-msgstr ""
-
-msgid "Počet her na tým"
-msgstr ""
-
-msgid "Čas ve hře na tým"
-msgstr ""
-
-msgid "Synchronizovat"
-msgstr ""
-
-msgid "Synchronizováno"
-msgstr ""
-
-msgid "Čas na začátku turnaje"
-msgstr ""
-
-msgid "Kvalifikace"
-msgstr ""
-
-msgid "Finále"
-msgstr ""
-
-msgid "Vygenerováno"
-msgstr ""
-
-msgid "Turnaj už byl rozlosován"
 msgstr ""
 
 msgid "Domácí"
@@ -3365,18 +1999,6 @@ msgstr ""
 msgid "Tým %s"
 msgstr ""
 
-msgid "Smazat rozlosování"
-msgstr ""
-
-msgid "Rozlosování bylo smazáno"
-msgstr ""
-
-msgid "Tým ze skupiny: %s"
-msgstr ""
-
-msgid "Tým #%d ze skupiny: %s"
-msgstr ""
-
 msgid "%d. tým ze skupiny: %s"
 msgstr ""
 
@@ -3384,41 +2006,6 @@ msgid "Hra"
 msgstr ""
 
 msgid "Žádná"
-msgstr ""
-
-msgid "Další hra"
-msgstr ""
-
-msgid "Hrát"
-msgstr ""
-
-msgid "Bonus/Penalizace"
-msgstr ""
-
-msgctxt "game.actions"
-msgid "Opakovat hru"
-msgstr ""
-
-msgid "Opravdu chcete hru opakovat?"
-msgstr ""
-
-msgid "Postoupeno týmů:"
-msgstr ""
-
-msgid "Postoupit týmy"
-msgstr ""
-
-msgid "Postoupeno skupin:"
-msgstr ""
-
-msgctxt "gate"
-msgid "Výsledky turnaje"
-msgstr ""
-
-msgid "Celkové"
-msgstr ""
-
-msgid "Individální"
 msgstr ""
 
 msgid "Nejlepší hráči"
@@ -3433,67 +2020,10 @@ msgstr ""
 msgid "Zabijáci vlastních"
 msgstr ""
 
-msgid "Seznam"
-msgstr ""
-
-msgid "Výsledková tabule"
-msgstr ""
-
-msgid "Připravené hry"
-msgstr ""
-
-msgid "Připravené"
-msgstr ""
-
-msgctxt "game.actions"
-msgid "Připravit hru"
-msgstr ""
-
-msgctxt "newGame.preparedGames.actions"
-msgid "Nahrát"
-msgstr ""
-
-msgctxt "tournament.presets"
-msgid "Každý s každým na poloviny - 10 týmů"
-msgstr ""
-
 msgid "Odehrané turnaje"
 msgstr ""
 
-msgid "Odehráno her:"
-msgstr ""
-
 msgid "Počet vzájemných her"
-msgstr ""
-
-msgid "Dostupné vesty"
-msgstr ""
-
-msgid "Nový turnaj"
-msgstr ""
-
-msgid "Název turnaje"
-msgstr ""
-
-msgid "Turnaj XYZ"
-msgstr ""
-
-msgid "Začátek turnaje"
-msgstr ""
-
-msgid "Velikost týmu"
-msgstr ""
-
-msgid "Týmů ve hře"
-msgstr ""
-
-msgid "Turnaj se nepodařilo uložit."
-msgstr ""
-
-msgid "Přidat tým"
-msgstr ""
-
-msgid "Uloženo"
 msgstr ""
 
 msgid "Tým 1"
@@ -3505,129 +2035,12 @@ msgstr ""
 msgid "Tým 3"
 msgstr ""
 
-msgctxt "settings"
-msgid "Platí i pro časovač na neaktivní obrazovce"
-msgstr ""
-
-msgctxt "tournament.presets"
-msgid "3 základní hry a baráž"
-msgstr ""
-
-msgctxt "tournament"
-msgid "Základní skupina"
-msgstr ""
-
-msgid "Semifinále"
-msgstr ""
-
-msgid "Čtvrtfinále"
-msgstr ""
-
-msgid "Osmifinále"
-msgstr ""
-
-msgid "Předkolo"
-msgstr ""
-
-msgctxt "tournament.presets"
-msgid "X základních her a baráž"
-msgstr ""
-
-msgid "Týmů ve hře: %d"
-msgstr ""
-
-msgid "Počet her na tým v základní skupině"
-msgstr ""
-
-msgid "Maximální počet kol baráže"
-msgstr ""
-
-msgid "Předpokládaný počet her na tým"
-msgstr ""
-
-msgid "Předpokládaný čas ve hře na tým"
-msgstr ""
-
-msgid "Celkem her"
-msgstr ""
-
-msgctxt "tournament.presets"
-msgid "3 základní hry na poloviny a baráž"
-msgstr ""
-
-msgid "Play-off"
-msgstr ""
-
-msgid "Nejlepší %d týmy z %d. týmů ze skupin: %s"
-msgstr ""
-
-msgid "Pořadí"
-msgstr ""
-
-msgid "Body za výhru"
-msgstr ""
-
-msgid "Body za remízu"
-msgstr ""
-
-msgid "Body za prohru"
-msgstr ""
-
-msgid "Poslední místo. Ve hře 3 týmů je to 3. místo, ve hře čtyř týmů je to 4. místo."
-msgstr ""
-
-msgid "Body za druhé místo"
-msgstr ""
-
-msgid "Jen pro hru 3 a 4 týmů ve hře."
-msgstr ""
-
-msgid "Body za třetí místo"
-msgstr ""
-
-msgid "Jen pro hru 4 týmů ve hře."
-msgstr ""
-
-msgid "Turnajový herní mód"
-msgstr ""
-
-msgid "Přesný název herního módu, který se bude načítat při spouštění her přes modul turnaje."
-msgstr ""
-
-msgctxt "settings"
-msgid "Turnaje"
-msgstr ""
-
-msgctxt "game.modes"
-msgid "Zda je herní mód aktivní (zobrazí se ve výběru módu)"
-msgstr ""
-
 msgctxt "gameModes"
 msgid "SHADOW"
 msgstr ""
 
 msgctxt "gameModes"
 msgid "Týmový Survival"
-msgstr ""
-
-msgctxt "errors"
-msgid "Vyplňte název týmu"
-msgstr ""
-
-msgctxt "errors"
-msgid "Název týmu je moc dlouhý"
-msgstr ""
-
-msgid "Hudební módy se slučují do skupin. Při výběru hudební skupiny při zadávání hry se pak spustí jeden náhodně výbraný hudební mód."
-msgstr ""
-
-msgid "Hudební módy se slučují do skupin. Při zadávání hry se pak spustí jeden náhodně výbraný hudební mód z vybrané hudební skupiny."
-msgstr ""
-
-msgid "Slučovat hudební skupiny"
-msgstr ""
-
-msgid "Výsledky hry"
 msgstr ""
 
 msgctxt "pageTitles"
@@ -3983,9 +2396,6 @@ msgstr[3] ""
 msgid "%.2f zásahů na jednu smrt"
 msgstr ""
 
-msgid "Čas mrtvý"
-msgstr ""
-
 msgid "Zásahy:Smrti"
 msgstr ""
 
@@ -3995,9 +2405,6 @@ msgstr ""
 
 msgctxt "pageDescription"
 msgid "Popis zásad zpracování osobních údajů pro web LaserLiga.cz."
-msgstr ""
-
-msgid "Bezkonkurenční šampion"
 msgstr ""
 
 msgctxt "pageTitles"
@@ -4013,9 +2420,6 @@ msgstr ""
 
 msgctxt "errors"
 msgid "Požadavek vypršel, zkuste znovu načíst stránku."
-msgstr ""
-
-msgid "Mimoň"
 msgstr ""
 
 msgid "Tým byl úspěšně registrován."
@@ -4088,12 +2492,6 @@ msgstr ""
 msgid "Hráč"
 msgstr ""
 
-msgid "Ďábel"
-msgstr ""
-
-msgid "Nejúspornější střelec"
-msgstr ""
-
 msgid "Výsledky ze hry"
 msgstr ""
 
@@ -4117,142 +2515,6 @@ msgid "Hudební módy"
 msgstr ""
 
 msgid "Ikona"
-msgstr ""
-
-msgctxt "music"
-msgid "Albatraoz"
-msgstr ""
-
-msgctxt "music.group"
-msgid "Anime"
-msgstr ""
-
-msgctxt "music"
-msgid "Anime 1 (Heroyt)"
-msgstr ""
-
-msgctxt "music"
-msgid "Anime 2 (Vykyndr)"
-msgstr ""
-
-msgctxt "music"
-msgid "Anime 3 (Heroyt 2)"
-msgstr ""
-
-msgctxt "music"
-msgid "Doom"
-msgstr ""
-
-msgctxt "music"
-msgid "Dubstep"
-msgstr ""
-
-msgctxt "music.group"
-msgid "K-POP"
-msgstr ""
-
-msgctxt "music"
-msgid "K-POP"
-msgstr ""
-
-msgctxt "music"
-msgid "K-POP 2"
-msgstr ""
-
-msgctxt "music"
-msgid "K-POP 3"
-msgstr ""
-
-msgctxt "music.group"
-msgid "Lasermaxx"
-msgstr ""
-
-msgctxt "music"
-msgid "Standard"
-msgstr ""
-
-msgctxt "music"
-msgid "Military"
-msgstr ""
-
-msgctxt "music"
-msgid "Lollipopz"
-msgstr ""
-
-msgctxt "music"
-msgid "Requiem"
-msgstr ""
-
-msgctxt "music"
-msgid "Marvel"
-msgstr ""
-
-msgctxt "music"
-msgid "Matrix"
-msgstr ""
-
-msgctxt "music"
-msgid "Mortal kombat"
-msgstr ""
-
-msgctxt "music"
-msgid "Narozeniny"
-msgstr ""
-
-msgctxt "music"
-msgid "Piráti z karibiku"
-msgstr ""
-
-msgctxt "music"
-msgid "S3RL"
-msgstr ""
-
-msgctxt "music"
-msgid "StarWars"
-msgstr ""
-
-msgctxt "music"
-msgid "Trpasličí metal"
-msgstr ""
-
-msgctxt "music"
-msgid "Turnajový mix"
-msgstr ""
-
-msgctxt "music"
-msgid "Undertale"
-msgstr ""
-
-msgctxt "music.group"
-msgid "AI"
-msgstr ""
-
-msgctxt "music"
-msgid "Laser Showdown"
-msgstr ""
-
-msgctxt "music"
-msgid "Lidový hardbass"
-msgstr ""
-
-msgctxt "music"
-msgid "Horror"
-msgstr ""
-
-msgctxt "music.group"
-msgid "Halloween"
-msgstr ""
-
-msgctxt "music"
-msgid "Halloween 1"
-msgstr ""
-
-msgctxt "music"
-msgid "Halloween 2"
-msgstr ""
-
-msgctxt "music"
-msgid "Vlčí klan"
 msgstr ""
 
 msgid "Herní mód"
@@ -4291,13 +2553,7 @@ msgstr ""
 msgid "Výstřelů"
 msgstr ""
 
-msgid "Nula"
-msgstr ""
-
 msgid "Výstřely"
-msgstr ""
-
-msgid "Výstřely nenalezeny"
 msgstr ""
 
 msgid "Zadejte předzívku nebo kód hráče a vyberte ze seznamu."
@@ -4315,130 +2571,6 @@ msgstr ""
 msgid "Dnes"
 msgstr ""
 
-msgctxt "music"
-msgid "LaserMaxx"
-msgstr ""
-
-msgctxt "music"
-msgid "CRAZY MIX"
-msgstr ""
-
-msgctxt "music"
-msgid "CSR ROCK"
-msgstr ""
-
-msgctxt "music"
-msgid "DECHOVKA"
-msgstr ""
-
-msgctxt "music"
-msgid "DETI"
-msgstr ""
-
-msgctxt "music"
-msgid "DRUM AND BASE"
-msgstr ""
-
-msgctxt "music"
-msgid "DUBSTEP"
-msgstr ""
-
-msgctxt "music"
-msgid "ELECTRO"
-msgstr ""
-
-msgctxt "music.group"
-msgid "FILM"
-msgstr ""
-
-msgctxt "music"
-msgid "FILM 1"
-msgstr ""
-
-msgctxt "music"
-msgid "FILM 2"
-msgstr ""
-
-msgctxt "music"
-msgid "Film 1 by Pogánek"
-msgstr ""
-
-msgctxt "music"
-msgid "FIlm 2 by Pogánek"
-msgstr ""
-
-msgctxt "music"
-msgid "HANS ZIMMER"
-msgstr ""
-
-msgctxt "music"
-msgid "HARDSTYLE"
-msgstr ""
-
-msgctxt "music"
-msgid "HEAVY METAL"
-msgstr ""
-
-msgctxt "music"
-msgid "HERNÍ MIX"
-msgstr ""
-
-msgctxt "music"
-msgid "HOROR"
-msgstr ""
-
-msgctxt "music"
-msgid "HOUSETRANCE"
-msgstr ""
-
-msgctxt "music"
-msgid "OLDIES"
-msgstr ""
-
-msgctxt "music"
-msgid "ROCK"
-msgstr ""
-
-msgctxt "music"
-msgid "WESTERN"
-msgstr ""
-
-msgctxt "music"
-msgid "EuroBeat"
-msgstr ""
-
-msgctxt "music"
-msgid "J-pop"
-msgstr ""
-
-msgctxt "music"
-msgid "NCS pozadní hudba"
-msgstr ""
-
-msgctxt "music"
-msgid "Herní mix by Pogánek"
-msgstr ""
-
-msgctxt "music"
-msgid "DnB by Pogánek"
-msgstr ""
-
-msgctxt "music"
-msgid "White girl aesthetic"
-msgstr ""
-
-msgctxt "music"
-msgid "CZ HARDSTYLE"
-msgstr ""
-
-msgctxt "music"
-msgid "Nightcore"
-msgstr ""
-
-msgctxt "music"
-msgid "8-bit by Pogánek"
-msgstr ""
-
 msgid "Turnaje"
 msgstr ""
 
@@ -4451,9 +2583,6 @@ msgid "Registrace na turnaj %s v %s. Turnaj se odehrává %s od %s."
 msgstr ""
 
 msgid "Odeslat"
-msgstr ""
-
-msgid "%s strávil %s ve hře vypnutý."
 msgstr ""
 
 msgctxt "trvání"
@@ -4471,9 +2600,6 @@ msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
 msgstr[3] ""
-
-msgid "%s strávila %s ve hře vypnutá."
-msgstr ""
 
 msgid "Posun v žebříčku!"
 msgstr ""
@@ -4501,9 +2627,6 @@ msgstr ""
 msgid "E-mail si můžeš změnit v "
 msgstr ""
 
-msgid "Pronásledovaný"
-msgstr ""
-
 msgid "Remíza"
 msgstr ""
 
@@ -4520,9 +2643,6 @@ msgid "Výsledky turnaje"
 msgstr ""
 
 msgid "Tým"
-msgstr ""
-
-msgid "Férový hráč"
 msgstr ""
 
 msgid "Celkem se zúčastnilo 6 týmů. Týmy byli nakombinované z Píseckých mazáků, jednoho kroužkového týmu a dokonce přijel i tým z Říčanské arény.  Žádný tým nehrál špatně, i tým Říčany, přes neznalost vybavení, předvedli slušný výkon v naší nejsilnější kategorii."
@@ -4546,64 +2666,13 @@ msgstr ""
 msgid "Úvod"
 msgstr ""
 
-msgid "%s strávila %s ve hře vypnutá. To je víc než polovina hry!"
-msgstr ""
-
-msgid "%s strávil %s ve hře vypnutý. To je víc než polovina hry!"
-msgstr ""
-
 msgid "Umístění"
-msgstr ""
-
-msgid "%s strávilo %s ve hře vypnuté. To je víc než polovina hry!"
-msgstr ""
-
-msgid "Team deathmach"
-msgstr ""
-
-msgid "Deathmach"
-msgstr ""
-
-msgid "Základny"
-msgstr ""
-
-msgid "Marco polo"
-msgstr ""
-
-msgid "Zasedlý"
-msgstr ""
-
-msgid "Nedotknutelný"
-msgstr ""
-
-msgid "Bonusy"
-msgstr ""
-
-msgid "Agent"
-msgstr ""
-
-msgid "Neviditelnost"
-msgstr ""
-
-msgid "Samopal"
-msgstr ""
-
-msgid "Štít"
-msgstr ""
-
-msgid "Tahoun týmu"
-msgstr ""
-
-msgid "%s získala %.1fx tolik bonusů co ostatní."
 msgstr ""
 
 msgid "%s začal svou cestu laser game hráče registrací do Laser ligy %s."
 msgstr ""
 
 msgid "Od té doby bohužel ještě nehrál ani jednu hru."
-msgstr ""
-
-msgid "Zabiják"
 msgstr ""
 
 msgid "Turnaje hráče - %s"
@@ -4648,19 +2717,10 @@ msgctxt "avatar"
 msgid "Dylan"
 msgstr ""
 
-msgid "#LaserGamePardubice"
-msgstr ""
-
 msgid "Zadejte URL vašeho profilu ve formátu https://my.lasermaxx.com/profile/0000000000."
 msgstr ""
 
 msgid "Zadejte Váš kód hráče ve formátu 00-0-000."
-msgstr ""
-
-msgid "Vyrovnaný"
-msgstr ""
-
-msgid "%s jediné bylo zasaženo minou."
 msgstr ""
 
 msgctxt "pageTitles"
@@ -4705,12 +2765,6 @@ msgstr ""
 msgid "Vítěz"
 msgstr ""
 
-msgid "Nekonečná munice"
-msgstr ""
-
-msgid "T.M.A"
-msgstr ""
-
 msgid "Společné hry"
 msgstr ""
 
@@ -4747,37 +2801,12 @@ msgstr ""
 msgid "Nepodařilo se odeslat e-mail"
 msgstr ""
 
-msgid "Průzkumník"
-msgstr ""
-
-msgid "Drtič min"
-msgstr ""
-
-msgid "Hráč s nejlepší muškou"
-msgstr ""
-
-msgid "Největší vlastňák"
-msgstr ""
-
-msgid "Zabiják vlastního týmu"
-msgstr ""
-
-msgid "Absolutní vítěz"
-msgstr ""
-
-msgid "Největší terminátor"
-msgstr ""
-
 msgid "Podařilo se ti získat nové ocenění!"
 msgid_plural "Podařilo se ti získat nová ocenění!"
 msgstr[0] "Вы получили новую награду!"
 msgstr[1] "Вам удалось завоевать новые награды!"
 msgstr[2] "Вам удалось завоевать новые награды!"
 msgstr[3] "Вам удалось завоевать новые награды!"
-
-msgctxt "achievement"
-msgid "Hráč na misi"
-msgstr "Игрок на задании"
 
 msgid "Někdo tě přeskočil v žebříčku!"
 msgstr "Кто-то обошел вас в рейтинге!"
@@ -4788,10 +2817,6 @@ msgstr[0] "Вы прокрутили %d вниз и теперь находит�
 msgstr[1] "Вы прокрутили вниз %d мест и теперь вы %s."
 msgstr[2] "Вы прокрутили вниз %d мест и теперь вы %s."
 msgstr[3] "Вы прокрутили вниз %d мест и теперь вы %s."
-
-msgctxt "achievement"
-msgid "Infiltrátor"
-msgstr "Infiltrator"
 
 msgid "Ligy laser game"
 msgstr "Игра Лазерная лига"
@@ -4949,5 +2974,15 @@ msgid "Odeslalo"
 msgstr ""
 
 msgid "Vyberte fotky, které chcete od skupiny odebrat."
+msgstr ""
+
+msgid "Datum narození"
+msgstr ""
+
+msgid "Pokud vyplníte datum narození, mužete získat narozenové ocenění a některé zapojené arény mohou mít pro oslavence sleciální akce."
+msgstr ""
+
+msgctxt "actions"
+msgid "Upravit"
 msgstr ""
 

@@ -6,7 +6,7 @@ msgstr ""
 "Language-Team: German\n"
 "Last-Translator: Tomáš Vojík <vojik@wboy.cz>\n"
 "MIME-Version: 1.0\n"
-"PO-Revision-Date: 2025-03-28 13:33\n"
+"PO-Revision-Date: 2025-04-02 11:59\n"
 "POT-Creation-Date: 2021-12-01 12:05+0100\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Project-Id-Version: laserarenacontrol\n"
@@ -4282,7 +4282,7 @@ msgstr "Native"
 msgid "Narozeniny"
 msgstr "Geburtstag"
 
-
 msgctxt "settings"
 msgid "API URL"
-msgstr ""
+msgstr "API-URL"
+

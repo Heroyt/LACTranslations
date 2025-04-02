@@ -1,0 +1,282 @@
+msgid ""
+msgstr ""
+"Language: cs_CZ\n"
+"Plural-Forms: nplurals=4; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 3;\n"
+"X-Domain: titles\n"
+"X-Crowdin-Project: laserarenacontrol\n"
+"X-Crowdin-Project-ID: 515800\n"
+"X-Crowdin-Language: cs\n"
+"X-Crowdin-File: /master/titles.pot\n"
+"X-Crowdin-File-ID: 101\n"
+"Project-Id-Version: laserarenacontrol\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Czech\n"
+"PO-Revision-Date: 2025-04-02 14:57\n"
+
+msgid "Ďábel"
+msgstr "Ďábel"
+
+msgid "Nesmrtelný"
+msgstr "Nesmrtelný"
+
+msgid "Stínový střelec"
+msgstr "Stínový střelec"
+
+msgid "Nekompromisní vraždící stroj"
+msgstr "Nekompromisní vraždící stroj"
+
+msgid "Nejúspornější střelec"
+msgstr "Nejúspornější střelec"
+
+msgid "Drtič nepřátel"
+msgstr "Drtič nepřátel"
+
+msgid "Spray and Pray"
+msgstr "Spray and Pray"
+
+msgid "Postrach arény"
+msgstr "Postrach arény"
+
+msgid "Smrtonosný nadřazenec"
+msgstr "Smrtonosný nadřazenec"
+
+msgid "Bezkonkurenční šampion"
+msgstr "Bezkonkurenční šampion"
+
+msgid "Mistr sniper"
+msgstr "Mistr sniper"
+
+msgid "Laserový maratonista"
+msgstr "Laserový maratonista"
+
+msgid "Výstřely nenalezeny"
+msgstr "Výstřely nenalezeny"
+
+msgid "Profi oslavenec"
+msgstr "Profi oslavenec"
+
+msgid "Neúnavný"
+msgstr "Neúnavný"
+
+msgid "Nepřemožitelný střelec"
+msgstr "Nepřemožitelný střelec"
+
+msgid "Přesný sniper"
+msgstr "Přesný sniper"
+
+msgid "Legendární válečník"
+msgstr "Legendární válečník"
+
+msgid "Nedotknutelný"
+msgstr "Nedotknutelný"
+
+msgid "Vládce zásahů"
+msgstr "Vládce zásahů"
+
+msgid "Netrefitelný"
+msgstr "Netrefitelný"
+
+msgid "Seniorní oslavenec"
+msgstr "Seniorní oslavenec"
+
+msgid "Světaznalý"
+msgstr "Světaznalý"
+
+msgid "Oslavenec"
+msgstr "Oslavenec"
+
+msgid "Laserový maniak"
+msgstr "Laserový maniak"
+
+msgid "Ostrostřelec"
+msgstr "Ostrostřelec"
+
+msgid "Stříbro"
+msgstr "Stříbro"
+
+msgid "Hrdinský vytrvalec"
+msgstr "Hrdinský vytrvalec"
+
+msgid "Vytrvalec"
+msgstr "Vytrvalec"
+
+msgid "Pravidelný vítěz"
+msgstr "Pravidelný vítěz"
+
+msgid "Tahoun týmu"
+msgstr "Tahoun týmu"
+
+msgid "Exekutor"
+msgstr "Exekutor"
+
+msgid "Mistr sniperských taktik"
+msgstr "Mistr sniperských taktik"
+
+msgid "Průzkumník"
+msgstr "Průzkumník"
+
+msgid "Drtič min"
+msgstr "Drtič min"
+
+msgid "Hráč s nejlepší muškou"
+msgstr "Hráč s nejlepší muškou"
+
+msgid "Největší vlastňák"
+msgstr "Největší vlastňák"
+
+msgid "Na plný výkon"
+msgstr "Na plný výkon"
+
+msgid "Střelec z dálky"
+msgstr "Střelec z dálky"
+
+msgid "Zabiják vlastního týmu"
+msgstr "Zabiják vlastního týmu"
+
+msgid "Absolutní vítěz"
+msgstr "Absolutní vítěz"
+
+msgid "Nadšenec"
+msgstr "Nadšenec"
+
+msgid "Herní maratón"
+msgstr "Herní maratón"
+
+msgid "Zkušený střelec"
+msgstr "Zkušený střelec"
+
+msgid "Neporazitelný střelec"
+msgstr "Neporazitelný střelec"
+
+msgid "Stínový mistr"
+msgstr "Stínový mistr"
+
+msgid "Agent 47"
+msgstr "Agent 47"
+
+msgid "Vyrovnaný"
+msgstr "Vyrovnaný"
+
+msgid "Stínový chodec"
+msgstr "Stínový chodec"
+
+msgid "Pravidelný hráč"
+msgstr "Pravidelný hráč"
+
+msgid "Neporazitelný"
+msgstr "Neporazitelný"
+
+msgid "Maximální obrana"
+msgstr "Maximální obrana"
+
+msgid "Turnajový hráč"
+msgstr "Turnajový hráč"
+
+msgid "Nezastavitelná síla"
+msgstr "Nezastavitelná síla"
+
+msgid "Férový hráč"
+msgstr "Férový hráč"
+
+msgid "Kulometář"
+msgstr "Kulometář"
+
+msgid "Energický hráč"
+msgstr "Energický hráč"
+
+msgid "Zasedlý"
+msgstr "Zasedlý"
+
+msgid "Pronásledovaný"
+msgstr "Pronásledovaný"
+
+msgid "Přeživší"
+msgstr "Přeživší"
+
+msgid "Největší terminátor"
+msgstr "Největší terminátor"
+
+msgid "Vítěz"
+msgstr "Vítěz"
+
+msgid "Zabiják"
+msgstr "Zabiják"
+
+msgid "Hráč"
+msgstr "Hráč"
+
+msgid "Střelec"
+msgstr "Střelec"
+
+msgid "Don't give up"
+msgstr "Don't give up"
+
+msgid "Shoot to win"
+msgstr "Shoot to win"
+
+msgid "Používám nejlepší výherní taktiku"
+msgstr "Používám nejlepší výherní taktiku"
+
+msgid "#LaserArenaPísek"
+msgstr "#LaserArenaPísek"
+
+msgid "#FunSpaceČB"
+msgstr "#FunSpaceČB"
+
+msgid "#LaserGamePardubice"
+msgstr "#LaserGamePardubice"
+
+msgid "Nula"
+msgstr "Nula"
+
+msgid "Nezastavitelný klikač"
+msgstr "Nezastavitelný klikač"
+
+msgid "Mimoň"
+msgstr "Mimoň"
+
+msgid "Nekonečná munice"
+msgstr "Nekonečná munice"
+
+msgid "Laserový závislák"
+msgstr "Laserový závislák"
+
+msgid "Zlato"
+msgstr "Zlato"
+
+msgid "Bronz"
+msgstr "Bronz"
+
+msgid "Brambora"
+msgstr "Brambora"
+
+msgid "Ligový hráč"
+msgstr "Ligový hráč"
+
+msgid "Skoro nejlepší"
+msgstr "Skoro nejlepší"
+
+msgid "Na stupních vítězů"
+msgstr "Na stupních vítězů"
+
+msgid "Těsně pod vrcholem"
+msgstr "Těsně pod vrcholem"
+
+msgid "Šampión"
+msgstr "Šampión"
+
+msgid "Největší mimoň"
+msgstr "Největší mimoň"
+
+msgid "Objekt největšího zájmu"
+msgstr "Objekt největšího zájmu"
+
+msgid "Skóre nenalezeno"
+msgstr "Skóre nenalezeno"
+
+msgid "Laserslavenec"
+msgstr "Laserslavenec"
+
+msgid "Slavím narozeniny už jen v aréně"
+msgstr "Slavím narozeniny už jen v aréně"
+

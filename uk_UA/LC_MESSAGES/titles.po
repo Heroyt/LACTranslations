@@ -1,0 +1,282 @@
+msgid ""
+msgstr ""
+"Language: uk_UA\n"
+"Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
+"X-Domain: titles\n"
+"X-Crowdin-Project: laserarenacontrol\n"
+"X-Crowdin-Project-ID: 515800\n"
+"X-Crowdin-Language: uk\n"
+"X-Crowdin-File: /master/titles.pot\n"
+"X-Crowdin-File-ID: 101\n"
+"Project-Id-Version: laserarenacontrol\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Ukrainian\n"
+"PO-Revision-Date: 2025-04-02 14:57\n"
+
+msgid "Ďábel"
+msgstr "Диявол"
+
+msgid "Nesmrtelný"
+msgstr "Безсмертний"
+
+msgid "Stínový střelec"
+msgstr "Shadow Shooter"
+
+msgid "Nekompromisní vraždící stroj"
+msgstr "Безкомпромісна машина для вбивства"
+
+msgid "Nejúspornější střelec"
+msgstr "Найекономніший стрілець"
+
+msgid "Drtič nepřátel"
+msgstr "Дробарка ворога"
+
+msgid "Spray and Pray"
+msgstr "Розпилюй і молись"
+
+msgid "Postrach arény"
+msgstr "Арена Монстр"
+
+msgid "Smrtonosný nadřazenec"
+msgstr "Смертоносний повелитель"
+
+msgid "Bezkonkurenční šampion"
+msgstr "Неперевершений чемпіон"
+
+msgid "Mistr sniper"
+msgstr "Майстер-снайпер"
+
+msgid "Laserový maratonista"
+msgstr "Лазерний марафонець"
+
+msgid "Výstřely nenalezeny"
+msgstr "Постріли не знайдені"
+
+msgid "Profi oslavenec"
+msgstr "Профі-іменинник"
+
+msgid "Neúnavný"
+msgstr "Невтомний"
+
+msgid "Nepřemožitelný střelec"
+msgstr "Непереможний стрілець"
+
+msgid "Přesný sniper"
+msgstr "Точний снайпер"
+
+msgid "Legendární válečník"
+msgstr "Легендарний воїн"
+
+msgid "Nedotknutelný"
+msgstr "Недоторканний"
+
+msgid "Vládce zásahů"
+msgstr "Hit Master"
+
+msgid "Netrefitelný"
+msgstr "Невразливий"
+
+msgid "Seniorní oslavenec"
+msgstr "Старший ювіляр"
+
+msgid "Světaznalý"
+msgstr "Знавець світу"
+
+msgid "Oslavenec"
+msgstr "Іменинник"
+
+msgid "Laserový maniak"
+msgstr "Лазерний маніяк"
+
+msgid "Ostrostřelec"
+msgstr "Влучний стрілець"
+
+msgid "Stříbro"
+msgstr "Срібло"
+
+msgid "Hrdinský vytrvalec"
+msgstr "Героїчна витривалість"
+
+msgid "Vytrvalec"
+msgstr "Витривалість"
+
+msgid "Pravidelný vítěz"
+msgstr "Постійний переможець"
+
+msgid "Tahoun týmu"
+msgstr "Локомотив команди"
+
+msgid "Exekutor"
+msgstr "Виконавець"
+
+msgid "Mistr sniperských taktik"
+msgstr "Майстер снайперської тактики"
+
+msgid "Průzkumník"
+msgstr "Дослідник"
+
+msgid "Drtič min"
+msgstr "Сапер"
+
+msgid "Hráč s nejlepší muškou"
+msgstr "Гравець з найкращим прицілом"
+
+msgid "Největší vlastňák"
+msgstr "Найбільший стрілець по своїх"
+
+msgid "Na plný výkon"
+msgstr "На повну потужність"
+
+msgid "Střelec z dálky"
+msgstr "Дистанційний стрілець"
+
+msgid "Zabiják vlastního týmu"
+msgstr "Вбивця власної команди"
+
+msgid "Absolutní vítěz"
+msgstr "Абсолютний переможець"
+
+msgid "Nadšenec"
+msgstr "Ентузіаст"
+
+msgid "Herní maratón"
+msgstr "Ігровий марафон"
+
+msgid "Zkušený střelec"
+msgstr "Досвідчений стрілець"
+
+msgid "Neporazitelný střelec"
+msgstr "Непереможний стрілець"
+
+msgid "Stínový mistr"
+msgstr "Майстер тіней"
+
+msgid "Agent 47"
+msgstr "Агент 47"
+
+msgid "Vyrovnaný"
+msgstr "Збалансований"
+
+msgid "Stínový chodec"
+msgstr "Shadow Walker"
+
+msgid "Pravidelný hráč"
+msgstr "Аватар гравця буде відображатися разом з аватаром гравця, а аватар гравця буде обраний гравцем."
+
+msgid "Neporazitelný"
+msgstr "Непереможний"
+
+msgid "Maximální obrana"
+msgstr "Максимальний захист"
+
+msgid "Turnajový hráč"
+msgstr "Аватар гравця - це ім'я гравця, а аватар гравця - це титул, який він або вона бере з собою."
+
+msgid "Nezastavitelná síla"
+msgstr "Нестримна сила"
+
+msgid "Férový hráč"
+msgstr "Чесний гравець"
+
+msgid "Kulometář"
+msgstr "Кулеметник"
+
+msgid "Energický hráč"
+msgstr "Енергійний гравець"
+
+msgid "Zasedlý"
+msgstr "Сидить в засідці"
+
+msgid "Pronásledovaný"
+msgstr "Переслідуваний"
+
+msgid "Přeživší"
+msgstr "Ті, що вижили"
+
+msgid "Největší terminátor"
+msgstr "Найбільший термінатор"
+
+msgid "Vítěz"
+msgstr "Переможець"
+
+msgid "Zabiják"
+msgstr "Вбивця"
+
+msgid "Hráč"
+msgstr "Гравець"
+
+msgid "Střelec"
+msgstr "Шутер"
+
+msgid "Don't give up"
+msgstr "Не здавайся"
+
+msgid "Shoot to win"
+msgstr "Стріляй, щоб перемогти"
+
+msgid "Používám nejlepší výherní taktiku"
+msgstr "Я використовую найкращу тактику перемоги"
+
+msgid "#LaserArenaPísek"
+msgstr "#LaserArenaPísek"
+
+msgid "#FunSpaceČB"
+msgstr "#FunSpaceČB"
+
+msgid "#LaserGamePardubice"
+msgstr "#LaserGamePardubice"
+
+msgid "Nula"
+msgstr "Нуль"
+
+msgid "Nezastavitelný klikač"
+msgstr "Unstoppable Clicker"
+
+msgid "Mimoň"
+msgstr "Зовні"
+
+msgid "Nekonečná munice"
+msgstr "Нескінченні набої"
+
+msgid "Laserový závislák"
+msgstr "Laser Addict"
+
+msgid "Zlato"
+msgstr "Золото"
+
+msgid "Bronz"
+msgstr "Бронза"
+
+msgid "Brambora"
+msgstr "Картопля"
+
+msgid "Ligový hráč"
+msgstr "Аватар гравця - це ім'я гравця, який приймає титул зі своїм аватаром."
+
+msgid "Skoro nejlepší"
+msgstr "Майже найкращий"
+
+msgid "Na stupních vítězů"
+msgstr "На п'єдесталі пошани"
+
+msgid "Těsně pod vrcholem"
+msgstr "Аватар відображатиметься на аватарці гравця, а титул - на аватарці гравця."
+
+msgid "Šampión"
+msgstr "Чемпіон"
+
+msgid "Největší mimoň"
+msgstr "Найбільший посіпака"
+
+msgid "Objekt největšího zájmu"
+msgstr "Об'єкт найбільшого інтересу"
+
+msgid "Skóre nenalezeno"
+msgstr "Рахунок не знайдено"
+
+msgid "Laserslavenec"
+msgstr "Лазерславець"
+
+msgid "Slavím narozeniny už jen v aréně"
+msgstr "Я святкую свій день народження тільки на арені"
+
