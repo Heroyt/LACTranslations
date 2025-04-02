@@ -11,272 +11,272 @@ msgstr ""
 "Project-Id-Version: laserarenacontrol\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Czech\n"
-"PO-Revision-Date: 2025-04-02 13:16\n"
+"PO-Revision-Date: 2025-04-02 14:57\n"
 
 msgid "Ďábel"
-msgstr ""
+msgstr "Ďábel"
 
 msgid "Nesmrtelný"
-msgstr ""
+msgstr "Nesmrtelný"
 
 msgid "Stínový střelec"
-msgstr ""
+msgstr "Stínový střelec"
 
 msgid "Nekompromisní vraždící stroj"
-msgstr ""
+msgstr "Nekompromisní vraždící stroj"
 
 msgid "Nejúspornější střelec"
-msgstr ""
+msgstr "Nejúspornější střelec"
 
 msgid "Drtič nepřátel"
-msgstr ""
+msgstr "Drtič nepřátel"
 
 msgid "Spray and Pray"
-msgstr ""
+msgstr "Spray and Pray"
 
 msgid "Postrach arény"
-msgstr ""
+msgstr "Postrach arény"
 
 msgid "Smrtonosný nadřazenec"
-msgstr ""
+msgstr "Smrtonosný nadřazenec"
 
 msgid "Bezkonkurenční šampion"
-msgstr ""
+msgstr "Bezkonkurenční šampion"
 
 msgid "Mistr sniper"
-msgstr ""
+msgstr "Mistr sniper"
 
 msgid "Laserový maratonista"
-msgstr ""
+msgstr "Laserový maratonista"
 
 msgid "Výstřely nenalezeny"
-msgstr ""
+msgstr "Výstřely nenalezeny"
 
 msgid "Profi oslavenec"
-msgstr ""
+msgstr "Profi oslavenec"
 
 msgid "Neúnavný"
-msgstr ""
+msgstr "Neúnavný"
 
 msgid "Nepřemožitelný střelec"
-msgstr ""
+msgstr "Nepřemožitelný střelec"
 
 msgid "Přesný sniper"
-msgstr ""
+msgstr "Přesný sniper"
 
 msgid "Legendární válečník"
-msgstr ""
+msgstr "Legendární válečník"
 
 msgid "Nedotknutelný"
-msgstr ""
+msgstr "Nedotknutelný"
 
 msgid "Vládce zásahů"
-msgstr ""
+msgstr "Vládce zásahů"
 
 msgid "Netrefitelný"
-msgstr ""
+msgstr "Netrefitelný"
 
 msgid "Seniorní oslavenec"
-msgstr ""
+msgstr "Seniorní oslavenec"
 
 msgid "Světaznalý"
-msgstr ""
+msgstr "Světaznalý"
 
 msgid "Oslavenec"
-msgstr ""
+msgstr "Oslavenec"
 
 msgid "Laserový maniak"
-msgstr ""
+msgstr "Laserový maniak"
 
 msgid "Ostrostřelec"
-msgstr ""
+msgstr "Ostrostřelec"
 
 msgid "Stříbro"
-msgstr ""
+msgstr "Stříbro"
 
 msgid "Hrdinský vytrvalec"
-msgstr ""
+msgstr "Hrdinský vytrvalec"
 
 msgid "Vytrvalec"
-msgstr ""
+msgstr "Vytrvalec"
 
 msgid "Pravidelný vítěz"
-msgstr ""
+msgstr "Pravidelný vítěz"
 
 msgid "Tahoun týmu"
-msgstr ""
+msgstr "Tahoun týmu"
 
 msgid "Exekutor"
-msgstr ""
+msgstr "Exekutor"
 
 msgid "Mistr sniperských taktik"
-msgstr ""
+msgstr "Mistr sniperských taktik"
 
 msgid "Průzkumník"
-msgstr ""
+msgstr "Průzkumník"
 
 msgid "Drtič min"
-msgstr ""
+msgstr "Drtič min"
 
 msgid "Hráč s nejlepší muškou"
-msgstr ""
+msgstr "Hráč s nejlepší muškou"
 
 msgid "Největší vlastňák"
-msgstr ""
+msgstr "Největší vlastňák"
 
 msgid "Na plný výkon"
-msgstr ""
+msgstr "Na plný výkon"
 
 msgid "Střelec z dálky"
-msgstr ""
+msgstr "Střelec z dálky"
 
 msgid "Zabiják vlastního týmu"
-msgstr ""
+msgstr "Zabiják vlastního týmu"
 
 msgid "Absolutní vítěz"
-msgstr ""
+msgstr "Absolutní vítěz"
 
 msgid "Nadšenec"
-msgstr ""
+msgstr "Nadšenec"
 
 msgid "Herní maratón"
-msgstr ""
+msgstr "Herní maratón"
 
 msgid "Zkušený střelec"
-msgstr ""
+msgstr "Zkušený střelec"
 
 msgid "Neporazitelný střelec"
-msgstr ""
+msgstr "Neporazitelný střelec"
 
 msgid "Stínový mistr"
-msgstr ""
+msgstr "Stínový mistr"
 
 msgid "Agent 47"
-msgstr ""
+msgstr "Agent 47"
 
 msgid "Vyrovnaný"
-msgstr ""
+msgstr "Vyrovnaný"
 
 msgid "Stínový chodec"
-msgstr ""
+msgstr "Stínový chodec"
 
 msgid "Pravidelný hráč"
-msgstr ""
+msgstr "Pravidelný hráč"
 
 msgid "Neporazitelný"
-msgstr ""
+msgstr "Neporazitelný"
 
 msgid "Maximální obrana"
-msgstr ""
+msgstr "Maximální obrana"
 
 msgid "Turnajový hráč"
-msgstr ""
+msgstr "Turnajový hráč"
 
 msgid "Nezastavitelná síla"
-msgstr ""
+msgstr "Nezastavitelná síla"
 
 msgid "Férový hráč"
-msgstr ""
+msgstr "Férový hráč"
 
 msgid "Kulometář"
-msgstr ""
+msgstr "Kulometář"
 
 msgid "Energický hráč"
-msgstr ""
+msgstr "Energický hráč"
 
 msgid "Zasedlý"
-msgstr ""
+msgstr "Zasedlý"
 
 msgid "Pronásledovaný"
-msgstr ""
+msgstr "Pronásledovaný"
 
 msgid "Přeživší"
-msgstr ""
+msgstr "Přeživší"
 
 msgid "Největší terminátor"
-msgstr ""
+msgstr "Největší terminátor"
 
 msgid "Vítěz"
-msgstr ""
+msgstr "Vítěz"
 
 msgid "Zabiják"
-msgstr ""
+msgstr "Zabiják"
 
 msgid "Hráč"
-msgstr ""
+msgstr "Hráč"
 
 msgid "Střelec"
-msgstr ""
+msgstr "Střelec"
 
 msgid "Don't give up"
-msgstr ""
+msgstr "Don't give up"
 
 msgid "Shoot to win"
-msgstr ""
+msgstr "Shoot to win"
 
 msgid "Používám nejlepší výherní taktiku"
-msgstr ""
+msgstr "Používám nejlepší výherní taktiku"
 
 msgid "#LaserArenaPísek"
-msgstr ""
+msgstr "#LaserArenaPísek"
 
 msgid "#FunSpaceČB"
-msgstr ""
+msgstr "#FunSpaceČB"
 
 msgid "#LaserGamePardubice"
-msgstr ""
+msgstr "#LaserGamePardubice"
 
 msgid "Nula"
-msgstr ""
+msgstr "Nula"
 
 msgid "Nezastavitelný klikač"
-msgstr ""
+msgstr "Nezastavitelný klikač"
 
 msgid "Mimoň"
-msgstr ""
+msgstr "Mimoň"
 
 msgid "Nekonečná munice"
-msgstr ""
+msgstr "Nekonečná munice"
 
 msgid "Laserový závislák"
-msgstr ""
+msgstr "Laserový závislák"
 
 msgid "Zlato"
-msgstr ""
+msgstr "Zlato"
 
 msgid "Bronz"
-msgstr ""
+msgstr "Bronz"
 
 msgid "Brambora"
-msgstr ""
+msgstr "Brambora"
 
 msgid "Ligový hráč"
-msgstr ""
+msgstr "Ligový hráč"
 
 msgid "Skoro nejlepší"
-msgstr ""
+msgstr "Skoro nejlepší"
 
 msgid "Na stupních vítězů"
-msgstr ""
+msgstr "Na stupních vítězů"
 
 msgid "Těsně pod vrcholem"
-msgstr ""
+msgstr "Těsně pod vrcholem"
 
 msgid "Šampión"
-msgstr ""
+msgstr "Šampión"
 
 msgid "Největší mimoň"
-msgstr ""
+msgstr "Největší mimoň"
 
 msgid "Objekt největšího zájmu"
-msgstr ""
+msgstr "Objekt největšího zájmu"
 
 msgid "Skóre nenalezeno"
-msgstr ""
+msgstr "Skóre nenalezeno"
 
 msgid "Laserslavenec"
-msgstr ""
+msgstr "Laserslavenec"
 
 msgid "Slavím narozeniny už jen v aréně"
-msgstr ""
+msgstr "Slavím narozeniny už jen v aréně"
 
