@@ -6,7 +6,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "Last-Translator: Tomáš Vojík <vojik@wboy.cz>\n"
 "MIME-Version: 1.0\n"
-"PO-Revision-Date: 2025-03-30 14:47\n"
+"PO-Revision-Date: 2025-04-02 13:15\n"
 "POT-Creation-Date: 2021-12-01 12:05+0100\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Project-Id-Version: laserarenacontrol\n"
@@ -871,4 +871,19 @@ msgstr "Resultados del equipo"
 
 msgid "Zrušit zveřejnění fotek"
 msgstr "Cancelar la publicación de fotos"
+
+msgid "Čas mrtvý"
+msgstr "Tiempo muerto"
+
+msgid "Rozpad skóre a herní úrovně"
+msgstr "Desglose de la puntuación y el nivel de juego"
+
+msgid "Legenda"
+msgstr "Leyenda"
+
+msgid "Analýza hry - zajímavosti"
+msgstr "Análisis del juego - datos interesantes"
+
+msgid "Umístění v žebříčku"
+msgstr "Clasificación"
 
