@@ -6,7 +6,7 @@ msgstr ""
 "Language-Team: German\n"
 "Last-Translator: Tomáš Vojík <vojik@wboy.cz>\n"
 "MIME-Version: 1.0\n"
-"PO-Revision-Date: 2025-04-02 13:15\n"
+"PO-Revision-Date: 2025-04-02 15:56\n"
 "POT-Creation-Date: \n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Project-Id-Version: laserarenacontrol\n"
@@ -2593,7 +2593,7 @@ msgid "Atmosféra byla skvělá a my doufáme, že si to hráči užili, tak jak
 msgstr ""
 
 msgid "%s strávilo %s ve hře vypnuté."
-msgstr ""
+msgstr "%s Verbrachte %s aus im Spiel."
 
 msgid "Probíhá automatické odhlášení"
 msgstr ""
@@ -2673,7 +2673,7 @@ msgid "Zatím odehrála %d her."
 msgstr ""
 
 msgid "Laserový závislák"
-msgstr ""
+msgstr "Laser-Junkie"
 
 msgid "%d další hráč"
 msgid_plural "%d dalších hráčů"
