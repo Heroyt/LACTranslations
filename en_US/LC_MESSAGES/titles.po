@@ -11,272 +11,272 @@ msgstr ""
 "Project-Id-Version: laserarenacontrol\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: English\n"
-"PO-Revision-Date: 2025-04-02 13:16\n"
+"PO-Revision-Date: 2025-04-02 14:57\n"
 
 msgid "Ďábel"
-msgstr ""
+msgstr "The devil"
 
 msgid "Nesmrtelný"
-msgstr ""
+msgstr "Immortal"
 
 msgid "Stínový střelec"
-msgstr ""
+msgstr "Shooter from the shadows"
 
 msgid "Nekompromisní vraždící stroj"
-msgstr ""
+msgstr "Unstoppable killing machine"
 
 msgid "Nejúspornější střelec"
-msgstr ""
+msgstr "Most economical"
 
 msgid "Drtič nepřátel"
-msgstr ""
+msgstr "Enemy crusher"
 
 msgid "Spray and Pray"
-msgstr ""
+msgstr "Spray and Pray"
 
 msgid "Postrach arény"
-msgstr ""
+msgstr "Terror of the arena"
 
 msgid "Smrtonosný nadřazenec"
-msgstr ""
+msgstr "Deadly superior"
 
 msgid "Bezkonkurenční šampion"
-msgstr ""
+msgstr "Undisputable champion"
 
 msgid "Mistr sniper"
-msgstr ""
+msgstr "Master sniper"
 
 msgid "Laserový maratonista"
-msgstr ""
+msgstr "Laser marathonist"
 
 msgid "Výstřely nenalezeny"
-msgstr ""
+msgstr "Shots not found"
 
 msgid "Profi oslavenec"
-msgstr ""
+msgstr "Profi birthday boy"
 
 msgid "Neúnavný"
-msgstr ""
+msgstr "Restless"
 
 msgid "Nepřemožitelný střelec"
-msgstr ""
+msgstr "Unbeatable shooter"
 
 msgid "Přesný sniper"
-msgstr ""
+msgstr "Accurate sniper"
 
 msgid "Legendární válečník"
-msgstr ""
+msgstr "Legendary warrior"
 
 msgid "Nedotknutelný"
-msgstr ""
+msgstr "Untouchable"
 
 msgid "Vládce zásahů"
-msgstr ""
+msgstr "The ruler of hits"
 
 msgid "Netrefitelný"
-msgstr ""
+msgstr "Unhittable"
 
 msgid "Seniorní oslavenec"
-msgstr ""
+msgstr "Senior birthday boy"
 
 msgid "Světaznalý"
-msgstr ""
+msgstr "Arena nomad"
 
 msgid "Oslavenec"
-msgstr ""
+msgstr "Birthday boy"
 
 msgid "Laserový maniak"
-msgstr ""
+msgstr "Laser maniac"
 
 msgid "Ostrostřelec"
-msgstr ""
+msgstr "Sharpshooter"
 
 msgid "Stříbro"
-msgstr ""
+msgstr "Silver"
 
 msgid "Hrdinský vytrvalec"
-msgstr ""
+msgstr "Heroic endurance"
 
 msgid "Vytrvalec"
-msgstr ""
+msgstr "Perseverer"
 
 msgid "Pravidelný vítěz"
-msgstr ""
+msgstr "Regular winner"
 
 msgid "Tahoun týmu"
-msgstr ""
+msgstr "Team-carry"
 
 msgid "Exekutor"
-msgstr ""
+msgstr "Executioner"
 
 msgid "Mistr sniperských taktik"
-msgstr ""
+msgstr "Master of sniper tactics"
 
 msgid "Průzkumník"
-msgstr ""
+msgstr "Explorer"
 
 msgid "Drtič min"
-msgstr ""
+msgstr "Pod crusher"
 
 msgid "Hráč s nejlepší muškou"
-msgstr ""
+msgstr "The best sniper"
 
 msgid "Největší vlastňák"
-msgstr ""
+msgstr "Hated by allies"
 
 msgid "Na plný výkon"
-msgstr ""
+msgstr "Full throttle"
 
 msgid "Střelec z dálky"
-msgstr ""
+msgstr "Long distance shooter"
 
 msgid "Zabiják vlastního týmu"
-msgstr ""
+msgstr "Team-killer"
 
 msgid "Absolutní vítěz"
-msgstr ""
+msgstr "Absolute winner"
 
 msgid "Nadšenec"
-msgstr ""
+msgstr "Enthusiast"
 
 msgid "Herní maratón"
-msgstr ""
+msgstr "Game marathon"
 
 msgid "Zkušený střelec"
-msgstr ""
+msgstr "Experienced shooter"
 
 msgid "Neporazitelný střelec"
-msgstr ""
+msgstr "Unbeatable shooter"
 
 msgid "Stínový mistr"
-msgstr ""
+msgstr "Shadow master"
 
 msgid "Agent 47"
-msgstr ""
+msgstr "Agent 47"
 
 msgid "Vyrovnaný"
-msgstr ""
+msgstr "Balanced"
 
 msgid "Stínový chodec"
-msgstr ""
+msgstr "Shadow walker"
 
 msgid "Pravidelný hráč"
-msgstr ""
+msgstr "Regular player"
 
 msgid "Neporazitelný"
-msgstr ""
+msgstr "Unbeatable"
 
 msgid "Maximální obrana"
-msgstr ""
+msgstr "Maximum defense"
 
 msgid "Turnajový hráč"
-msgstr ""
+msgstr "Tournament player"
 
 msgid "Nezastavitelná síla"
-msgstr ""
+msgstr "Unstoppable force"
 
 msgid "Férový hráč"
-msgstr ""
+msgstr "Fair player"
 
 msgid "Kulometář"
-msgstr ""
+msgstr "Machinegunnist"
 
 msgid "Energický hráč"
-msgstr ""
+msgstr "Energetic player"
 
 msgid "Zasedlý"
-msgstr ""
+msgstr "Obsessed"
 
 msgid "Pronásledovaný"
-msgstr ""
+msgstr "Followed"
 
 msgid "Přeživší"
-msgstr ""
+msgstr "Survivor"
 
 msgid "Největší terminátor"
-msgstr ""
+msgstr "Terminator"
 
 msgid "Vítěz"
-msgstr ""
+msgstr "Winner"
 
 msgid "Zabiják"
-msgstr ""
+msgstr "Killer"
 
 msgid "Hráč"
-msgstr ""
+msgstr "Player"
 
 msgid "Střelec"
-msgstr ""
+msgstr "Marksman"
 
 msgid "Don't give up"
-msgstr ""
+msgstr "Don't give up"
 
 msgid "Shoot to win"
-msgstr ""
+msgstr "Shoot to win"
 
 msgid "Používám nejlepší výherní taktiku"
-msgstr ""
+msgstr "I use the best winning strategy"
 
 msgid "#LaserArenaPísek"
-msgstr ""
+msgstr "#LaserArenaPísek"
 
 msgid "#FunSpaceČB"
-msgstr ""
+msgstr "#FunSpaceČB"
 
 msgid "#LaserGamePardubice"
-msgstr ""
+msgstr "#LaserGamePardubice"
 
 msgid "Nula"
-msgstr ""
+msgstr "Zero"
 
 msgid "Nezastavitelný klikač"
-msgstr ""
+msgstr "Unstoppable clicker"
 
 msgid "Mimoň"
-msgstr ""
+msgstr "Minion"
 
 msgid "Nekonečná munice"
-msgstr ""
+msgstr "Infinite ammo"
 
 msgid "Laserový závislák"
-msgstr ""
+msgstr "Laser addict"
 
 msgid "Zlato"
-msgstr ""
+msgstr "Gold"
 
 msgid "Bronz"
-msgstr ""
+msgstr "Bronze"
 
 msgid "Brambora"
-msgstr ""
+msgstr "Potato"
 
 msgid "Ligový hráč"
-msgstr ""
+msgstr "League player"
 
 msgid "Skoro nejlepší"
-msgstr ""
+msgstr "Almost the best"
 
 msgid "Na stupních vítězů"
-msgstr ""
+msgstr "Top Finisher"
 
 msgid "Těsně pod vrcholem"
-msgstr ""
+msgstr "Just below the top"
 
 msgid "Šampión"
-msgstr ""
+msgstr "Champion"
 
 msgid "Největší mimoň"
-msgstr ""
+msgstr "Hates hitting players"
 
 msgid "Objekt největšího zájmu"
-msgstr ""
+msgstr "The biggest target"
 
 msgid "Skóre nenalezeno"
-msgstr ""
+msgstr "Score not found"
 
 msgid "Laserslavenec"
-msgstr ""
+msgstr "Laserday boy"
 
 msgid "Slavím narozeniny už jen v aréně"
-msgstr ""
+msgstr "I celebrate my birthday only in the arena"
 
