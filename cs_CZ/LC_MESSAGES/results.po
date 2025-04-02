@@ -886,3 +886,18 @@ msgstr ""
 msgid "Zrušit zveřejnění fotek"
 msgstr ""
 
+msgid "Čas mrtvý"
+msgstr "Čas mrtvý"
+
+msgid "Rozpad skóre a herní úrovně"
+msgstr "Rozpad skóre a herní úrovně"
+
+msgid "Legenda"
+msgstr "Legenda"
+
+msgid "Analýza hry - zajímavosti"
+msgstr "Analýza hry - zajímavosti"
+
+msgid "Umístění v žebříčku"
+msgstr "Umístění v žebříčku"
+

@@ -402,9 +402,6 @@ msgstr "100 nábojů"
 msgid "Bohužel tady nic není..."
 msgstr "Bohužel tady nic není..."
 
-msgid "Legenda"
-msgstr "Legenda"
-
 msgctxt "actions"
 msgid "Začít"
 msgstr "Začít"
@@ -1869,9 +1866,6 @@ msgstr "Informace o hře"
 msgid "Zobrazit stránku arény"
 msgstr "Zobrazit stránku arény"
 
-msgid "Analýza hry - zajímavosti"
-msgstr "Analýza hry - zajímavosti"
-
 msgid "Žádné zajímavosti"
 msgstr "Žádné zajímavosti"
 
@@ -2835,9 +2829,6 @@ msgstr "Don't give up"
 msgid "Vytrvalec"
 msgstr "Vytrvalec"
 
-msgid "Rozpad skóre a herní úrovně"
-msgstr "Rozpad skóre a herní úrovně"
-
 msgid "Smrti od min"
 msgstr "Smrti od min"
 
@@ -2861,9 +2852,6 @@ msgstr "Smrti od protihráčů"
 
 msgid "Smrti od spoluhráčů"
 msgstr "Smrti od spoluhráčů"
-
-msgid "Umístění v žebříčku"
-msgstr "Umístění v žebříčku"
 
 msgid "Nastavení profilu"
 msgstr "Nastavení profilu"
@@ -3981,9 +3969,6 @@ msgstr[2] ""
 msgstr[3] ""
 
 msgid "%.2f zásahů na jednu smrt"
-msgstr ""
-
-msgid "Čas mrtvý"
 msgstr ""
 
 msgid "Zásahy:Smrti"

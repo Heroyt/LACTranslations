@@ -396,9 +396,6 @@ msgstr "100 ammo"
 msgid "Bohužel tady nic není..."
 msgstr "Unfortunately there is nothing to see here…"
 
-msgid "Legenda"
-msgstr "Legend"
-
 msgctxt "actions"
 msgid "Začít"
 msgstr "Begin"
@@ -1853,9 +1850,6 @@ msgstr "Game information"
 msgid "Zobrazit stránku arény"
 msgstr "Show arena's page"
 
-msgid "Analýza hry - zajímavosti"
-msgstr "Game analysis - points of interest"
-
 msgid "Žádné zajímavosti"
 msgstr "Nothing interesting"
 
@@ -2813,9 +2807,6 @@ msgstr "Don't give up"
 msgid "Vytrvalec"
 msgstr "Perseverer"
 
-msgid "Rozpad skóre a herní úrovně"
-msgstr "Breakdown of score and game ranking"
-
 msgid "Smrti od min"
 msgstr "Deaths from pods"
 
@@ -2839,9 +2830,6 @@ msgstr "Deaths by opponents"
 
 msgid "Smrti od spoluhráčů"
 msgstr "Deaths by teammates"
-
-msgid "Umístění v žebříčku"
-msgstr "Leaderboard ranking"
 
 msgid "Nastavení profilu"
 msgstr "Profile Settings"
@@ -3920,9 +3908,6 @@ msgstr[1] "%.2f deaths per minute"
 
 msgid "%.2f zásahů na jednu smrt"
 msgstr "%.2f hits per one death"
-
-msgid "Čas mrtvý"
-msgstr "Time spent dead"
 
 msgid "Zásahy:Smrti"
 msgstr "Kills:Deaths"

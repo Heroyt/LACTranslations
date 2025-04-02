@@ -872,3 +872,18 @@ msgstr "Résultats de l'équipe"
 msgid "Zrušit zveřejnění fotek"
 msgstr "Annuler la publication de photos"
 
+msgid "Čas mrtvý"
+msgstr ""
+
+msgid "Rozpad skóre a herní úrovně"
+msgstr ""
+
+msgid "Legenda"
+msgstr "Légende"
+
+msgid "Analýza hry - zajímavosti"
+msgstr ""
+
+msgid "Umístění v žebříčku"
+msgstr ""
+
