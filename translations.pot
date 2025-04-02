@@ -2654,9 +2654,6 @@ msgstr ""
 msgid "Atmosféra byla skvělá a my doufáme, že si to hráči užili, tak jako my. Budeme se těšit v létě 17.9.2023 na další kolo mazáků. Přihlášky jsou už otevřené, týmy se zaplaceným startovným trénují za 50 Kč / Hráč a trénink se vyplácí!"
 msgstr ""
 
-msgid "%s strávilo %s ve hře vypnuté."
-msgstr ""
-
 msgid "Probíhá automatické odhlášení"
 msgstr ""
 
@@ -2732,9 +2729,6 @@ msgid "Nepodařilo se nám najít výsledky z této hry."
 msgstr ""
 
 msgid "Zatím odehrála %d her."
-msgstr ""
-
-msgid "Laserový závislák"
 msgstr ""
 
 msgid "%d další hráč"
@@ -2985,3 +2979,4 @@ msgstr ""
 msgctxt "actions"
 msgid "Upravit"
 msgstr ""
+
