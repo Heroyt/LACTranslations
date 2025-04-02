@@ -1,0 +1,755 @@
+msgid ""
+msgstr ""
+"Language: ru_RU\n"
+"Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
+"X-Domain: achievements\n"
+"X-Crowdin-Project: laserarenacontrol\n"
+"X-Crowdin-Project-ID: 515800\n"
+"X-Crowdin-Language: ru\n"
+"X-Crowdin-File: /master/achievements.pot\n"
+"X-Crowdin-File-ID: 99\n"
+"Project-Id-Version: laserarenacontrol\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Russian\n"
+"PO-Revision-Date: 2025-04-02 13:16\n"
+
+msgid "Začátek dobrodružství"
+msgstr ""
+
+msgctxt "Začátek dobrodružství"
+msgid "Odehraj svou první hru."
+msgstr ""
+
+msgid "Cesta za zkušeností"
+msgstr ""
+
+msgctxt "Cesta za zkušeností"
+msgid "Odehraj 10 her"
+msgstr ""
+
+msgid "Hráč na misi"
+msgstr ""
+
+msgctxt "Hráč na misi"
+msgid "Odehraj 50 her"
+msgstr ""
+
+msgid "Hrdina akce"
+msgstr ""
+
+msgctxt "Hrdina akce"
+msgid "Odehraj 100 her"
+msgstr ""
+
+msgid "Mistr boje"
+msgstr ""
+
+msgctxt "Mistr boje"
+msgid "Odehraj 200 her"
+msgstr ""
+
+msgid "Legendární válečník"
+msgstr ""
+
+msgctxt "Legendární válečník"
+msgid "Odehraj 500 her"
+msgstr ""
+
+msgid "Bezkonkurenční šampion"
+msgstr ""
+
+msgctxt "Bezkonkurenční šampion"
+msgid "Odehraj 1000 her"
+msgstr ""
+
+msgid "Energický hráč"
+msgstr ""
+
+msgctxt "Energický hráč"
+msgid "Odehraj 5 her v jeden den"
+msgstr ""
+
+msgid "Herní maratón"
+msgstr ""
+
+msgctxt "Herní maratón"
+msgid "Odehraj 10 her v jeden den"
+msgstr ""
+
+msgid "Hrdinský vytrvalec"
+msgstr ""
+
+msgctxt "Hrdinský vytrvalec"
+msgid "Odehraj 15 her v jeden den"
+msgstr ""
+
+msgid "Občas se i trefí"
+msgstr ""
+
+msgctxt "Občas se i trefí"
+msgid "Získej alespoň 10% přesnost v klasické hře."
+msgstr ""
+
+msgctxt "info"
+msgid "Počítá se jen z klasických her a jen pokud má hráč alespoň 3 výstřely za minutu (alespoň 45 výstřelů za 15 minut)."
+msgstr ""
+
+msgid "Průměrný střelec"
+msgstr ""
+
+msgctxt "Průměrný střelec"
+msgid "Získej alespoň 20% přesnost v klasické hře."
+msgstr ""
+
+msgid "Průměrný ostrostřelec"
+msgstr ""
+
+msgctxt "Průměrný ostrostřelec"
+msgid "Získej alespoň 30% přesnost v klasické hře."
+msgstr ""
+
+msgid "Zkušený střelec"
+msgstr ""
+
+msgctxt "Zkušený střelec"
+msgid "Získej alespoň 40% přesnost v klasické hře."
+msgstr ""
+
+msgid "Střelec z dálky"
+msgstr ""
+
+msgctxt "Střelec z dálky"
+msgid "Získej alespoň 50% přesnost v klasické hře."
+msgstr ""
+
+msgid "Ostrostřelec"
+msgstr ""
+
+msgctxt "Ostrostřelec"
+msgid "Získej alespoň 60% přesnost v klasické hře."
+msgstr ""
+
+msgid "Přesný sniper"
+msgstr ""
+
+msgctxt "Přesný sniper"
+msgid "Získej alespoň 70% přesnost v klasické hře."
+msgstr ""
+
+msgid "Nepřemožitelný střelec"
+msgstr ""
+
+msgctxt "Nepřemožitelný střelec"
+msgid "Získej alespoň 80% přesnost v klasické hře."
+msgstr ""
+
+msgid "Mistr sniper"
+msgstr ""
+
+msgctxt "Mistr sniper"
+msgid "Získej alespoň 90% přesnost v klasické hře."
+msgstr ""
+
+msgid "Do neznáma"
+msgstr ""
+
+msgctxt "Do neznáma"
+msgid "Zahraj si ve dvou různých arénách"
+msgstr ""
+
+msgid "Průzkumník"
+msgstr ""
+
+msgctxt "Průzkumník"
+msgid "Zahraj si ve třech různých arénách"
+msgstr ""
+
+msgid "Světaznalý"
+msgstr ""
+
+msgctxt "Světaznalý"
+msgid "Zahraj si v pěti různých arénách"
+msgstr ""
+
+msgid "První vítězství"
+msgstr ""
+
+msgctxt "První vítězství"
+msgid "Vyhraj svou první hru"
+msgstr ""
+
+msgid "Zkušený vítěz"
+msgstr ""
+
+msgctxt "Zkušený vítěz"
+msgid "Vyhraj 10 her"
+msgstr ""
+
+msgid "Pravidelný vítěz"
+msgstr ""
+
+msgctxt "Pravidelný vítěz"
+msgid "Vyhraj 50 her"
+msgstr ""
+
+msgid "Postrach arény"
+msgstr ""
+
+msgctxt "Postrach arény"
+msgid "Vyhraj 100 her"
+msgstr ""
+
+msgid "Zabiják"
+msgstr ""
+
+msgctxt "Zabiják"
+msgid "Měj alespoň 3 zásahy za minutu"
+msgstr ""
+
+msgid "Drtič nepřátel"
+msgstr ""
+
+msgctxt "Drtič nepřátel"
+msgid "Měj alespoň 5 zásahů za minutu"
+msgstr ""
+
+msgid "Exekutor"
+msgstr ""
+
+msgctxt "Exekutor"
+msgid "Měj alespoň 7 zásahů za minutu"
+msgstr ""
+
+msgid "Nekompromisní vraždící stroj"
+msgstr ""
+
+msgctxt "Nekompromisní vraždící stroj"
+msgid "Měj alespoň 10 zásahů za minutu"
+msgstr ""
+
+msgid "Přeživší"
+msgstr ""
+
+msgctxt "Přeživší"
+msgid "Měj méně než 4 smrti za minutu"
+msgstr ""
+
+msgid "Stínový mistr"
+msgstr ""
+
+msgctxt "Stínový mistr"
+msgid "Měj méně než 3 smrti za minutu"
+msgstr ""
+
+msgid "Netrefitelný"
+msgstr ""
+
+msgctxt "Netrefitelný"
+msgid "Měj méně než 2 smrti za minutu"
+msgstr ""
+
+msgid "Nesmrtelný"
+msgstr ""
+
+msgctxt "Nesmrtelný"
+msgid "Měj méně než 1 smrt za minutu"
+msgstr ""
+
+msgid "Vyrovnaný bojovník"
+msgstr ""
+
+msgctxt "Vyrovnaný bojovník"
+msgid "Měj alespoň tolik zásahů co smrtí"
+msgstr ""
+
+msgid "Střelecký nadstandard"
+msgstr ""
+
+msgctxt "Střelecký nadstandard"
+msgid "Měj o polovinu více zásahů než smrtí"
+msgstr ""
+
+msgid "Neporazitelný střelec"
+msgstr ""
+
+msgctxt "Neporazitelný střelec"
+msgid "Měj 2x tolik zásahů co smrtí"
+msgstr ""
+
+msgid "Smrtonosný nadřazenec"
+msgstr ""
+
+msgctxt "Smrtonosný nadřazenec"
+msgid "Měj 3x tolik zásahů co smrtí"
+msgstr ""
+
+msgid "Vládce zásahů"
+msgstr ""
+
+msgctxt "Vládce zásahů"
+msgid "Měj 4x tolik zásahů co smrtí"
+msgstr ""
+
+msgid "Zkušený odstřelovač"
+msgstr ""
+
+msgctxt "Zkušený odstřelovač"
+msgid "Měj méně jak 50 výstřelů za minutu"
+msgstr ""
+
+msgid "Taktický střelec"
+msgstr ""
+
+msgctxt "Taktický střelec"
+msgid "Měj méně jak 40 výstřelů za minutu"
+msgstr ""
+
+msgid "Chirurgická přesnost"
+msgstr ""
+
+msgctxt "Chirurgická přesnost"
+msgid "Měj méně jak 30 výstřelů za minutu"
+msgstr ""
+
+msgid "Mistr sniperských taktik"
+msgstr ""
+
+msgctxt "Mistr sniperských taktik"
+msgid "Měj méně jak 20 výstřelů za minutu"
+msgstr ""
+
+msgid "Stínový střelec"
+msgstr ""
+
+msgctxt "Stínový střelec"
+msgid "Měj méně jak 10 výstřelů za minutu"
+msgstr ""
+
+msgid "Střelec"
+msgstr ""
+
+msgctxt "Střelec"
+msgid "Měj více jak 50 výstřelů za minutu"
+msgstr ""
+
+msgid "Sekundový střelec"
+msgstr ""
+
+msgctxt "Sekundový střelec"
+msgid "Měj více jak 60 výstřelů za minutu"
+msgstr ""
+
+msgid "Samopalník"
+msgstr ""
+
+msgctxt "Samopalník"
+msgid "Měj více jak 70 výstřelů za minutu"
+msgstr ""
+
+msgid "Kulometář"
+msgstr ""
+
+msgctxt "Kulometář"
+msgid "Měj více jak 80 výstřelů za minutu"
+msgstr ""
+
+msgid "Mimoň"
+msgstr ""
+
+msgctxt "Mimoň"
+msgid "Měj více jak 90 výstřelů za minutu"
+msgstr ""
+
+msgid "Nekonečná munice"
+msgstr ""
+
+msgctxt "Nekonečná munice"
+msgid "Měj více jak 100 výstřelů za minutu"
+msgstr ""
+
+msgid "Nezastavitelný klikač"
+msgstr ""
+
+msgctxt "Nezastavitelný klikač"
+msgid "Měj více jak 150 výstřelů za minutu"
+msgstr ""
+
+msgid "Dvojitá dávka laseru"
+msgstr ""
+
+msgctxt "Dvojitá dávka laseru"
+msgid "Zahraj si laser game 2 dny po sobě"
+msgstr ""
+
+msgid "Trojitý laserový trénink"
+msgstr ""
+
+msgctxt "Trojitý laserový trénink"
+msgid "Zahraj si laser game 3 dny po sobě"
+msgstr ""
+
+msgid "Čtyři dny laserového maratonu"
+msgstr ""
+
+msgctxt "Čtyři dny laserového maratonu"
+msgid "Zahraj si laser game 4 dny po sobě"
+msgstr ""
+
+msgid "Pětidenní laserový rekord"
+msgstr ""
+
+msgctxt "Pětidenní laserový rekord"
+msgid "Zahraj si laser game 5 dní po sobě"
+msgstr ""
+
+msgid "Šestidenní laserová výzva"
+msgstr ""
+
+msgctxt "Šestidenní laserová výzva"
+msgid "Zahraj si laser game 6 dní po sobě"
+msgstr ""
+
+msgid "Sedmidenní laserový triumf"
+msgstr ""
+
+msgctxt "Sedmidenní laserový triumf"
+msgid "Zahraj si laser game 7 dní po sobě"
+msgstr ""
+
+msgid "Nadšenec"
+msgstr ""
+
+msgctxt "Nadšenec"
+msgid "Odehraj alespoň 10 her za jeden měsíc"
+msgstr ""
+
+msgid "Na plný výkon"
+msgstr ""
+
+msgctxt "Na plný výkon"
+msgid "Odehraj alespoň 30 her za jeden měsíc"
+msgstr ""
+
+msgid "Laserový maniak"
+msgstr ""
+
+msgctxt "Laserový maniak"
+msgid "Odehraj alespoň 50 her za jeden měsíc"
+msgstr ""
+
+msgid "Laserový závislák"
+msgstr ""
+
+msgctxt "Laserový závislák"
+msgid "Odehraj alespoň 100 her za jeden měsíc"
+msgstr ""
+
+msgid "Registrovaný hráč"
+msgstr ""
+
+msgctxt "Registrovaný hráč"
+msgid "Založ si účet na portálu Laser liga"
+msgstr ""
+
+msgctxt "info"
+msgid "Získán automaticky s první odehranou hrou."
+msgstr ""
+
+msgid "První krok na turnajové scéně"
+msgstr ""
+
+msgctxt "První krok na turnajové scéně"
+msgid "Zúčastni se turnaje"
+msgstr ""
+
+msgid "Jeden za druhým"
+msgstr ""
+
+msgctxt "Jeden za druhým"
+msgid "Zúčastni se dvou turnajů"
+msgstr ""
+
+msgid "Turnajový veterán"
+msgstr ""
+
+msgctxt "Turnajový veterán"
+msgid "Zúčastni se alespoň pěti turnajů"
+msgstr ""
+
+msgid "Bramborová"
+msgstr ""
+
+msgctxt "Bramborová"
+msgid "Umísti se čtvrtý na turnaji"
+msgstr ""
+
+msgid "Bronzová"
+msgstr ""
+
+msgctxt "Bronzová"
+msgid "Umísti se třetí na turnaji"
+msgstr ""
+
+msgid "Stříbrná"
+msgstr ""
+
+msgctxt "Stříbrná"
+msgid "Umísti se druhý na turnaji"
+msgstr ""
+
+msgid "Zlatá"
+msgstr ""
+
+msgctxt "Zlatá"
+msgid "Vyhraj turnaj"
+msgstr ""
+
+msgid "Skrytý potenciál"
+msgstr ""
+
+msgctxt "Skrytý potenciál"
+msgid "Získej libovolný bonus ve hře"
+msgstr ""
+
+msgid "Osvojení moci"
+msgstr ""
+
+msgctxt "Osvojení moci"
+msgid "Získej 5 bonusů v jedné hře"
+msgstr ""
+
+msgid "Nezastavitelná síla"
+msgstr ""
+
+msgctxt "Nezastavitelná síla"
+msgid "Získej 10 bonusů v jedné hře"
+msgstr ""
+
+msgid "Štít aktivován"
+msgstr ""
+
+msgctxt "Štít aktivován"
+msgid "Získej štít"
+msgstr ""
+
+msgid "Maximální obrana"
+msgstr ""
+
+msgctxt "Maximální obrana"
+msgid "Získej 5 štítů v jedné hře"
+msgstr ""
+
+msgid "Laserová salva"
+msgstr ""
+
+msgctxt "Laserová salva"
+msgid "Získej samopal"
+msgstr ""
+
+msgid "Spray and Pray"
+msgstr ""
+
+msgctxt "Spray and Pray"
+msgid "Získej 5 samopal v jedné hře"
+msgstr ""
+
+msgid "Pod rouškou noci"
+msgstr ""
+
+msgctxt "Pod rouškou noci"
+msgid "Získej neviditelnost"
+msgstr ""
+
+msgid "Stínový chodec"
+msgstr ""
+
+msgctxt "Stínový chodec"
+msgid "Získej 5 neviditelnosti v jedné hře"
+msgstr ""
+
+msgid "Infiltrátor"
+msgstr ""
+
+msgctxt "Infiltrátor"
+msgid "Získej agenta"
+msgstr ""
+
+msgid "Agent 47"
+msgstr ""
+
+msgctxt "Agent 47"
+msgid "Získej 5 agentů v jedné hře"
+msgstr ""
+
+msgid "Zasedlý"
+msgstr ""
+
+msgctxt "Zasedlý"
+msgid "V klasické hře získej trofej \"Zasedlý\"."
+msgstr ""
+
+msgid "Pronásledovaný"
+msgstr ""
+
+msgctxt "Pronásledovaný"
+msgid "V klasické hře získej trofej \"Pronásledovaný\"."
+msgstr ""
+
+msgid "Absolutní vítěz"
+msgstr ""
+
+msgctxt "Absolutní vítěz"
+msgid "Získej 20x trofej \"Absolutní vítěz\" v klasické hře."
+msgstr ""
+
+msgid "Největší terminátor"
+msgstr ""
+
+msgctxt "Největší terminátor"
+msgid "Získej 20x trofej \"Největší terminátor\" v klasické hře."
+msgstr ""
+
+msgid "Největší mimoň"
+msgstr ""
+
+msgctxt "Největší mimoň"
+msgid "Získej 20x trofej \"Největší mimoň\" v klasické hře."
+msgstr ""
+
+msgid "Hráč s nejlepší muškou"
+msgstr ""
+
+msgctxt "Hráč s nejlepší muškou"
+msgid "Získej 20x trofej \"Hráč s nejlepší muškou\" v klasické hře."
+msgstr ""
+
+msgid "Vyrovnaný"
+msgstr ""
+
+msgctxt "Vyrovnaný"
+msgid "Získej 20x trofej \"Vyrovnaný\" v klasické hře."
+msgstr ""
+
+msgid "Férový hráč"
+msgstr ""
+
+msgctxt "Férový hráč"
+msgid "Získej 20x trofej \"Férový hráč\" v klasické hře."
+msgstr ""
+
+msgid "Největší vlastňák"
+msgstr ""
+
+msgctxt "Největší vlastňák"
+msgid "Získej 20x trofej \"Největší vlastňák\" v klasické hře."
+msgstr ""
+
+msgid "Zabiják vlastního týmu"
+msgstr ""
+
+msgctxt "Zabiják vlastního týmu"
+msgid "Získej 20x trofej \"Zabiják vlastního týmu\" v klasické hře."
+msgstr ""
+
+msgid "Drtič min"
+msgstr ""
+
+msgctxt "Drtič min"
+msgid "Získej 20x trofej \"Drtič min\" v klasické hře."
+msgstr ""
+
+msgid "Nejúspornější střelec"
+msgstr ""
+
+msgctxt "Nejúspornější střelec"
+msgid "Získej 20x trofej \"Nejúspornější střelec\" v klasické hře."
+msgstr ""
+
+msgid "Objekt největšího zájmu"
+msgstr ""
+
+msgctxt "Objekt největšího zájmu"
+msgid "Získej 20x trofej \"Objekt největšího zájmu\" v klasické hře."
+msgstr ""
+
+msgid "Tahoun týmu"
+msgstr ""
+
+msgctxt "Tahoun týmu"
+msgid "Získej 20x trofej \"Tahoun týmu\" v klasické hře."
+msgstr ""
+
+msgid "Nula"
+msgstr ""
+
+msgctxt "Nula"
+msgid "Získej 10x trofej \"Nula\" v klasické hře."
+msgstr ""
+
+msgid "Nedotknutelný"
+msgstr ""
+
+msgctxt "Nedotknutelný"
+msgid "Získej 10x trofej \"Nedotknutelný\" v klasické hře."
+msgstr ""
+
+msgid "Výstřely nenalezeny"
+msgstr ""
+
+msgctxt "Výstřely nenalezeny"
+msgid "Získej trofej \"Výstřely nenalezeny\" v klasické hře."
+msgstr ""
+
+msgid "Ďábel"
+msgstr ""
+
+msgctxt "Ďábel"
+msgid "Získej trofej \"Ďábel\" v klasické hře."
+msgstr ""
+
+msgid "Skóre nenalezeno"
+msgstr ""
+
+msgctxt "Skóre nenalezeno"
+msgid "Získej trofej \"Skóre nenalezeno\" v klasické hře."
+msgstr ""
+
+msgid "Narozeniny v aréně"
+msgstr ""
+
+msgctxt "Narozeniny v aréně"
+msgid "Zahraj si hru na svoje narozeniny."
+msgstr ""
+
+msgctxt "info"
+msgid "Je třeba mít v nastavení profilu vyplněné datum narození."
+msgstr ""
+
+msgid "Druhé narozeniny v aréně"
+msgstr ""
+
+msgctxt "Druhé narozeniny v aréně"
+msgid "Zahraj si hru na svoje narozeniny 2 různé roky."
+msgstr ""
+
+msgid "Třetí narozeniny v aréně"
+msgstr ""
+
+msgctxt "Třetí narozeniny v aréně"
+msgid "Zahraj si hru na svoje narozeniny 3 různé roky."
+msgstr ""
+
+msgid "Čtvrté narozeniny v aréně"
+msgstr ""
+
+msgctxt "Čtvrté narozeniny v aréně"
+msgid "Zahraj si hru na svoje narozeniny 4 různé roky."
+msgstr ""
+
+msgid "Páté narozeniny v aréně"
+msgstr ""
+
+msgctxt "Páté narozeniny v aréně"
+msgid "Zahraj si hru na svoje narozeniny 4 různé roky."
+msgstr ""
+
