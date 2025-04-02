@@ -6,7 +6,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "Last-Translator: Tomáš Vojík <vojik@wboy.cz>\n"
 "MIME-Version: 1.0\n"
-"PO-Revision-Date: 2025-04-02 15:56\n"
+"PO-Revision-Date: 2025-04-02 17:06\n"
 "POT-Creation-Date: \n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Project-Id-Version: laserarenacontrol\n"
@@ -2592,9 +2592,6 @@ msgstr ""
 msgid "Atmosféra byla skvělá a my doufáme, že si to hráči užili, tak jako my. Budeme se těšit v létě 17.9.2023 na další kolo mazáků. Přihlášky jsou už otevřené, týmy se zaplaceným startovným trénují za 50 Kč / Hráč a trénink se vyplácí!"
 msgstr ""
 
-msgid "%s strávilo %s ve hře vypnuté."
-msgstr "%s pasó %s apagado en el partido."
-
 msgid "Probíhá automatické odhlášení"
 msgstr ""
 
@@ -2671,9 +2668,6 @@ msgstr ""
 
 msgid "Zatím odehrála %d her."
 msgstr ""
-
-msgid "Laserový závislák"
-msgstr "Adicto al láser"
 
 msgid "%d další hráč"
 msgid_plural "%d dalších hráčů"
