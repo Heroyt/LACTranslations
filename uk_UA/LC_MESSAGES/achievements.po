@@ -11,745 +11,745 @@ msgstr ""
 "Project-Id-Version: laserarenacontrol\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Ukrainian\n"
-"PO-Revision-Date: 2025-04-02 13:16\n"
+"PO-Revision-Date: 2025-04-02 14:56\n"
 
 msgid "Začátek dobrodružství"
-msgstr ""
+msgstr "Початок пригоди"
 
 msgctxt "Začátek dobrodružství"
 msgid "Odehraj svou první hru."
-msgstr ""
+msgstr "Зіграйте свою першу гру."
 
 msgid "Cesta za zkušeností"
-msgstr ""
+msgstr "Подорож до досвіду"
 
 msgctxt "Cesta za zkušeností"
 msgid "Odehraj 10 her"
-msgstr ""
+msgstr "Зіграти 10 ігор"
 
 msgid "Hráč na misi"
-msgstr ""
+msgstr "Гравець на місії"
 
 msgctxt "Hráč na misi"
 msgid "Odehraj 50 her"
-msgstr ""
+msgstr "Зіграти 50 ігор"
 
 msgid "Hrdina akce"
-msgstr ""
+msgstr "Герой бойовика"
 
 msgctxt "Hrdina akce"
 msgid "Odehraj 100 her"
-msgstr ""
+msgstr "Зіграти 100 ігор"
 
 msgid "Mistr boje"
-msgstr ""
+msgstr "Майстер бою"
 
 msgctxt "Mistr boje"
 msgid "Odehraj 200 her"
-msgstr ""
+msgstr "Зіграти 200 ігор"
 
 msgid "Legendární válečník"
-msgstr ""
+msgstr "Легендарний воїн"
 
 msgctxt "Legendární válečník"
 msgid "Odehraj 500 her"
-msgstr ""
+msgstr "Зіграти 500 ігор"
 
 msgid "Bezkonkurenční šampion"
-msgstr ""
+msgstr "Неперевершений чемпіон"
 
 msgctxt "Bezkonkurenční šampion"
 msgid "Odehraj 1000 her"
-msgstr ""
+msgstr "Зіграти 1000 ігор"
 
 msgid "Energický hráč"
-msgstr ""
+msgstr "Енергійний гравець"
 
 msgctxt "Energický hráč"
 msgid "Odehraj 5 her v jeden den"
-msgstr ""
+msgstr "Зіграти 5 ігор за один день"
 
 msgid "Herní maratón"
-msgstr ""
+msgstr "Ігровий марафон"
 
 msgctxt "Herní maratón"
 msgid "Odehraj 10 her v jeden den"
-msgstr ""
+msgstr "Зіграти 10 ігор за один день"
 
 msgid "Hrdinský vytrvalec"
-msgstr ""
+msgstr "Героїчна витривалість"
 
 msgctxt "Hrdinský vytrvalec"
 msgid "Odehraj 15 her v jeden den"
-msgstr ""
+msgstr "Зіграти 15 ігор за один день"
 
 msgid "Občas se i trefí"
-msgstr ""
+msgstr "Іноді й влучає"
 
 msgctxt "Občas se i trefí"
 msgid "Získej alespoň 10% přesnost v klasické hře."
-msgstr ""
+msgstr "Досягти принаймні 10% точності в класичній грі."
 
 msgctxt "info"
 msgid "Počítá se jen z klasických her a jen pokud má hráč alespoň 3 výstřely za minutu (alespoň 45 výstřelů za 15 minut)."
-msgstr ""
+msgstr "Зараховується тільки з класичних ігор і тільки якщо гравець робить щонайменше 3 постріли за хвилину (щонайменше 45 пострілів за 15 хвилин)."
 
 msgid "Průměrný střelec"
-msgstr ""
+msgstr "Середній стрілець"
 
 msgctxt "Průměrný střelec"
 msgid "Získej alespoň 20% přesnost v klasické hře."
-msgstr ""
+msgstr "Досягти принаймні 20% точності в класичній грі."
 
 msgid "Průměrný ostrostřelec"
-msgstr ""
+msgstr "Середній снайпер"
 
 msgctxt "Průměrný ostrostřelec"
 msgid "Získej alespoň 30% přesnost v klasické hře."
-msgstr ""
+msgstr "Досягти принаймні 30% точності в класичній грі."
 
 msgid "Zkušený střelec"
-msgstr ""
+msgstr "Досвідчений стрілець"
 
 msgctxt "Zkušený střelec"
 msgid "Získej alespoň 40% přesnost v klasické hře."
-msgstr ""
+msgstr "Досягти принаймні 40% точності в класичній грі."
 
 msgid "Střelec z dálky"
-msgstr ""
+msgstr "Дистанційний стрілець"
 
 msgctxt "Střelec z dálky"
 msgid "Získej alespoň 50% přesnost v klasické hře."
-msgstr ""
+msgstr "Досягти принаймні 50% точності в класичній грі."
 
 msgid "Ostrostřelec"
-msgstr ""
+msgstr "Влучний стрілець"
 
 msgctxt "Ostrostřelec"
 msgid "Získej alespoň 60% přesnost v klasické hře."
-msgstr ""
+msgstr "Досягти щонайменше 60% точності в класичній грі."
 
 msgid "Přesný sniper"
-msgstr ""
+msgstr "Точний снайпер"
 
 msgctxt "Přesný sniper"
 msgid "Získej alespoň 70% přesnost v klasické hře."
-msgstr ""
+msgstr "Досягти щонайменше 70% точності в класичній грі."
 
 msgid "Nepřemožitelný střelec"
-msgstr ""
+msgstr "Непереможний стрілець"
 
 msgctxt "Nepřemožitelný střelec"
 msgid "Získej alespoň 80% přesnost v klasické hře."
-msgstr ""
+msgstr "Досягти принаймні 80% точності в класичній грі."
 
 msgid "Mistr sniper"
-msgstr ""
+msgstr "Майстер-снайпер"
 
 msgctxt "Mistr sniper"
 msgid "Získej alespoň 90% přesnost v klasické hře."
-msgstr ""
+msgstr "Досягти щонайменше 90% точності в класичній грі."
 
 msgid "Do neznáma"
-msgstr ""
+msgstr "У невідоме"
 
 msgctxt "Do neznáma"
 msgid "Zahraj si ve dvou různých arénách"
-msgstr ""
+msgstr "Грайте на двох різних аренах"
 
 msgid "Průzkumník"
-msgstr ""
+msgstr "Дослідник"
 
 msgctxt "Průzkumník"
 msgid "Zahraj si ve třech různých arénách"
-msgstr ""
+msgstr "Грайте на трьох різних аренах"
 
 msgid "Světaznalý"
-msgstr ""
+msgstr "Знавець світу"
 
 msgctxt "Světaznalý"
 msgid "Zahraj si v pěti různých arénách"
-msgstr ""
+msgstr "Грайте на п'яти різних аренах"
 
 msgid "První vítězství"
-msgstr ""
+msgstr "Перша перемога"
 
 msgctxt "První vítězství"
 msgid "Vyhraj svou první hru"
-msgstr ""
+msgstr "Виграти свою першу гру"
 
 msgid "Zkušený vítěz"
-msgstr ""
+msgstr "Досвідчений переможець"
 
 msgctxt "Zkušený vítěz"
 msgid "Vyhraj 10 her"
-msgstr ""
+msgstr "Виграти 10 ігор"
 
 msgid "Pravidelný vítěz"
-msgstr ""
+msgstr "Постійний переможець"
 
 msgctxt "Pravidelný vítěz"
 msgid "Vyhraj 50 her"
-msgstr ""
+msgstr "Виграти 50 ігор"
 
 msgid "Postrach arény"
-msgstr ""
+msgstr "Арена Монстр"
 
 msgctxt "Postrach arény"
 msgid "Vyhraj 100 her"
-msgstr ""
+msgstr "Виграти 100 ігор"
 
 msgid "Zabiják"
-msgstr ""
+msgstr "Вбивця"
 
 msgctxt "Zabiják"
 msgid "Měj alespoň 3 zásahy za minutu"
-msgstr ""
+msgstr "Отримувати щонайменше 3 влучання за хвилину"
 
 msgid "Drtič nepřátel"
-msgstr ""
+msgstr "Дробарка ворога"
 
 msgctxt "Drtič nepřátel"
 msgid "Měj alespoň 5 zásahů za minutu"
-msgstr ""
+msgstr "Зробити щонайменше 5 влучень за хвилину."
 
 msgid "Exekutor"
-msgstr ""
+msgstr "Виконавець"
 
 msgctxt "Exekutor"
 msgid "Měj alespoň 7 zásahů za minutu"
-msgstr ""
+msgstr "Зробити щонайменше 7 влучень за хвилину."
 
 msgid "Nekompromisní vraždící stroj"
-msgstr ""
+msgstr "Безкомпромісна машина для вбивства"
 
 msgctxt "Nekompromisní vraždící stroj"
 msgid "Měj alespoň 10 zásahů za minutu"
-msgstr ""
+msgstr "Отримувати щонайменше 10 влучень за хвилину."
 
 msgid "Přeživší"
-msgstr ""
+msgstr "Ті, що вижили"
 
 msgctxt "Přeživší"
 msgid "Měj méně než 4 smrti za minutu"
-msgstr ""
+msgstr "Мати менше 4 смертей за хвилину"
 
 msgid "Stínový mistr"
-msgstr ""
+msgstr "Майстер тіней"
 
 msgctxt "Stínový mistr"
 msgid "Měj méně než 3 smrti za minutu"
-msgstr ""
+msgstr "Мати менше 3 смертей за хвилину"
 
 msgid "Netrefitelný"
-msgstr ""
+msgstr "Невразливий"
 
 msgctxt "Netrefitelný"
 msgid "Měj méně než 2 smrti za minutu"
-msgstr ""
+msgstr "Мати менше 2 смертей на хвилину"
 
 msgid "Nesmrtelný"
-msgstr ""
+msgstr "Безсмертний"
 
 msgctxt "Nesmrtelný"
 msgid "Měj méně než 1 smrt za minutu"
-msgstr ""
+msgstr "Мати менше 1 смерті за хвилину"
 
 msgid "Vyrovnaný bojovník"
-msgstr ""
+msgstr "Збалансований воїн"
 
 msgctxt "Vyrovnaný bojovník"
 msgid "Měj alespoň tolik zásahů co smrtí"
-msgstr ""
+msgstr "Отримати принаймні стільки ж влучень, скільки вбивств."
 
 msgid "Střelecký nadstandard"
-msgstr ""
+msgstr "Стрільба на вищому рівні"
 
 msgctxt "Střelecký nadstandard"
 msgid "Měj o polovinu více zásahů než smrtí"
-msgstr ""
+msgstr "Отримати вдвічі менше влучень, ніж вбивств."
 
 msgid "Neporazitelný střelec"
-msgstr ""
+msgstr "Непереможний стрілець"
 
 msgctxt "Neporazitelný střelec"
 msgid "Měj 2x tolik zásahů co smrtí"
-msgstr ""
+msgstr "Отримати вдвічі більше влучень, ніж вбивств."
 
 msgid "Smrtonosný nadřazenec"
-msgstr ""
+msgstr "Смертоносний повелитель"
 
 msgctxt "Smrtonosný nadřazenec"
 msgid "Měj 3x tolik zásahů co smrtí"
-msgstr ""
+msgstr "Отримати в 3 рази більше влучень, ніж вбивств."
 
 msgid "Vládce zásahů"
-msgstr ""
+msgstr "Hit Master"
 
 msgctxt "Vládce zásahů"
 msgid "Měj 4x tolik zásahů co smrtí"
-msgstr ""
+msgstr "Отримати в 4 рази більше влучень, ніж вбивств."
 
 msgid "Zkušený odstřelovač"
-msgstr ""
+msgstr "Досвідчений снайпер"
 
 msgctxt "Zkušený odstřelovač"
 msgid "Měj méně jak 50 výstřelů za minutu"
-msgstr ""
+msgstr "Зробити менше 50 пострілів за хвилину"
 
 msgid "Taktický střelec"
-msgstr ""
+msgstr "Тактичний шутер"
 
 msgctxt "Taktický střelec"
 msgid "Měj méně jak 40 výstřelů za minutu"
-msgstr ""
+msgstr "Зробити менше 40 пострілів за хвилину"
 
 msgid "Chirurgická přesnost"
-msgstr ""
+msgstr "Хірургічна точність"
 
 msgctxt "Chirurgická přesnost"
 msgid "Měj méně jak 30 výstřelů za minutu"
-msgstr ""
+msgstr "Зробити менше 30 пострілів за хвилину"
 
 msgid "Mistr sniperských taktik"
-msgstr ""
+msgstr "Майстер снайперської тактики"
 
 msgctxt "Mistr sniperských taktik"
 msgid "Měj méně jak 20 výstřelů za minutu"
-msgstr ""
+msgstr "Зробити менше 20 пострілів за хвилину"
 
 msgid "Stínový střelec"
-msgstr ""
+msgstr "Shadow Shooter"
 
 msgctxt "Stínový střelec"
 msgid "Měj méně jak 10 výstřelů za minutu"
-msgstr ""
+msgstr "Зробити менше 10 пострілів за хвилину"
 
 msgid "Střelec"
-msgstr ""
+msgstr "Шутер"
 
 msgctxt "Střelec"
 msgid "Měj více jak 50 výstřelů za minutu"
-msgstr ""
+msgstr "Зробити більше 50 пострілів за хвилину"
 
 msgid "Sekundový střelec"
-msgstr ""
+msgstr "Другий стрілець"
 
 msgctxt "Sekundový střelec"
 msgid "Měj více jak 60 výstřelů za minutu"
-msgstr ""
+msgstr "Зробити більше 60 пострілів за хвилину"
 
 msgid "Samopalník"
-msgstr ""
+msgstr "Самостійний старт"
 
 msgctxt "Samopalník"
 msgid "Měj více jak 70 výstřelů za minutu"
-msgstr ""
+msgstr "Зробити більше 70 пострілів за хвилину"
 
 msgid "Kulometář"
-msgstr ""
+msgstr "Кулеметник"
 
 msgctxt "Kulometář"
 msgid "Měj více jak 80 výstřelů za minutu"
-msgstr ""
+msgstr "Зробити більше 80 пострілів за хвилину"
 
 msgid "Mimoň"
-msgstr ""
+msgstr "Зовні"
 
 msgctxt "Mimoň"
 msgid "Měj více jak 90 výstřelů za minutu"
-msgstr ""
+msgstr "Зробити більше 90 пострілів за хвилину"
 
 msgid "Nekonečná munice"
-msgstr ""
+msgstr "Нескінченні набої"
 
 msgctxt "Nekonečná munice"
 msgid "Měj více jak 100 výstřelů za minutu"
-msgstr ""
+msgstr "Зробити більше 100 пострілів за хвилину"
 
 msgid "Nezastavitelný klikač"
-msgstr ""
+msgstr "Unstoppable Clicker"
 
 msgctxt "Nezastavitelný klikač"
 msgid "Měj více jak 150 výstřelů za minutu"
-msgstr ""
+msgstr "Зробити більше 150 пострілів за хвилину"
 
 msgid "Dvojitá dávka laseru"
-msgstr ""
+msgstr "Подвійна доза лазера"
 
 msgctxt "Dvojitá dávka laseru"
 msgid "Zahraj si laser game 2 dny po sobě"
-msgstr ""
+msgstr "Зіграти в лазерну гру 2 дні поспіль"
 
 msgid "Trojitý laserový trénink"
-msgstr ""
+msgstr "Потрійне лазерне тренування"
 
 msgctxt "Trojitý laserový trénink"
 msgid "Zahraj si laser game 3 dny po sobě"
-msgstr ""
+msgstr "Зіграти в лазерну гру 3 дні поспіль"
 
 msgid "Čtyři dny laserového maratonu"
-msgstr ""
+msgstr "Чотири дні лазерного марафону"
 
 msgctxt "Čtyři dny laserového maratonu"
 msgid "Zahraj si laser game 4 dny po sobě"
-msgstr ""
+msgstr "Зіграти в лазерну гру 4 дні поспіль"
 
 msgid "Pětidenní laserový rekord"
-msgstr ""
+msgstr "П'ятиденний лазерний рекорд"
 
 msgctxt "Pětidenní laserový rekord"
 msgid "Zahraj si laser game 5 dní po sobě"
-msgstr ""
+msgstr "Зіграти в лазерну гру 5 днів поспіль"
 
 msgid "Šestidenní laserová výzva"
-msgstr ""
+msgstr "Шестиденний лазерний челендж"
 
 msgctxt "Šestidenní laserová výzva"
 msgid "Zahraj si laser game 6 dní po sobě"
-msgstr ""
+msgstr "Зіграти в лазерну гру 6 днів поспіль"
 
 msgid "Sedmidenní laserový triumf"
-msgstr ""
+msgstr "Сім днів лазерного тріумфу"
 
 msgctxt "Sedmidenní laserový triumf"
 msgid "Zahraj si laser game 7 dní po sobě"
-msgstr ""
+msgstr "Зіграти в лазерну гру 7 днів поспіль"
 
 msgid "Nadšenec"
-msgstr ""
+msgstr "Ентузіаст"
 
 msgctxt "Nadšenec"
 msgid "Odehraj alespoň 10 her za jeden měsíc"
-msgstr ""
+msgstr "Зіграти щонайменше 10 ігор за один місяць"
 
 msgid "Na plný výkon"
-msgstr ""
+msgstr "На повну потужність"
 
 msgctxt "Na plný výkon"
 msgid "Odehraj alespoň 30 her za jeden měsíc"
-msgstr ""
+msgstr "Зіграти щонайменше 30 ігор за один місяць"
 
 msgid "Laserový maniak"
-msgstr ""
+msgstr "Лазерний маніяк"
 
 msgctxt "Laserový maniak"
 msgid "Odehraj alespoň 50 her za jeden měsíc"
-msgstr ""
+msgstr "Зіграти щонайменше 50 ігор за один місяць"
 
 msgid "Laserový závislák"
-msgstr ""
+msgstr "Laser Addict"
 
 msgctxt "Laserový závislák"
 msgid "Odehraj alespoň 100 her za jeden měsíc"
-msgstr ""
+msgstr "Зіграти щонайменше 100 ігор за один місяць"
 
 msgid "Registrovaný hráč"
-msgstr ""
+msgstr "Зареєстрований гравець"
 
 msgctxt "Registrovaný hráč"
 msgid "Založ si účet na portálu Laser liga"
-msgstr ""
+msgstr "Створіть обліковий запис на порталі Лазерної ліги"
 
 msgctxt "info"
 msgid "Získán automaticky s první odehranou hrou."
-msgstr ""
+msgstr "Нагорода присуджується автоматично з першою зіграною грою."
 
 msgid "První krok na turnajové scéně"
-msgstr ""
+msgstr "Перший крок на турнірній арені"
 
 msgctxt "První krok na turnajové scéně"
 msgid "Zúčastni se turnaje"
-msgstr ""
+msgstr "Взяти участь у турнірі"
 
 msgid "Jeden za druhým"
-msgstr ""
+msgstr "Один за одним."
 
 msgctxt "Jeden za druhým"
 msgid "Zúčastni se dvou turnajů"
-msgstr ""
+msgstr "Візьміть участь у двох турнірах"
 
 msgid "Turnajový veterán"
-msgstr ""
+msgstr "Ветеран турніру"
 
 msgctxt "Turnajový veterán"
 msgid "Zúčastni se alespoň pěti turnajů"
-msgstr ""
+msgstr "Взяти участь щонайменше в п'яти турнірах"
 
 msgid "Bramborová"
-msgstr ""
+msgstr "Картопля"
 
 msgctxt "Bramborová"
 msgid "Umísti se čtvrtý na turnaji"
-msgstr ""
+msgstr "Зайняти четверте місце в турнірі"
 
 msgid "Bronzová"
-msgstr ""
+msgstr "Бронза"
 
 msgctxt "Bronzová"
 msgid "Umísti se třetí na turnaji"
-msgstr ""
+msgstr "Посісти третє місце в турнірі"
 
 msgid "Stříbrná"
-msgstr ""
+msgstr "Срібло"
 
 msgctxt "Stříbrná"
 msgid "Umísti se druhý na turnaji"
-msgstr ""
+msgstr "Зайняти друге місце в турнірі"
 
 msgid "Zlatá"
-msgstr ""
+msgstr "Золото"
 
 msgctxt "Zlatá"
 msgid "Vyhraj turnaj"
-msgstr ""
+msgstr "Перемогти в турнірі"
 
 msgid "Skrytý potenciál"
-msgstr ""
+msgstr "Прихований потенціал"
 
 msgctxt "Skrytý potenciál"
 msgid "Získej libovolný bonus ve hře"
-msgstr ""
+msgstr "Отримати будь-який бонус у грі"
 
 msgid "Osvojení moci"
-msgstr ""
+msgstr "Майстерність влади"
 
 msgctxt "Osvojení moci"
 msgid "Získej 5 bonusů v jedné hře"
-msgstr ""
+msgstr "Отримати 5 бонусів в одній грі"
 
 msgid "Nezastavitelná síla"
-msgstr ""
+msgstr "Нестримна сила"
 
 msgctxt "Nezastavitelná síla"
 msgid "Získej 10 bonusů v jedné hře"
-msgstr ""
+msgstr "Отримати 10 бонусів в одній грі"
 
 msgid "Štít aktivován"
-msgstr ""
+msgstr "Щит активовано"
 
 msgctxt "Štít aktivován"
 msgid "Získej štít"
-msgstr ""
+msgstr "Отримати щит"
 
 msgid "Maximální obrana"
-msgstr ""
+msgstr "Максимальний захист"
 
 msgctxt "Maximální obrana"
 msgid "Získej 5 štítů v jedné hře"
-msgstr ""
+msgstr "Отримати 5 щитів в одній грі"
 
 msgid "Laserová salva"
-msgstr ""
+msgstr "Лазерний залп"
 
 msgctxt "Laserová salva"
 msgid "Získej samopal"
-msgstr ""
+msgstr "Отримати кулемет"
 
 msgid "Spray and Pray"
-msgstr ""
+msgstr "Розпилюй і молись"
 
 msgctxt "Spray and Pray"
 msgid "Získej 5 samopal v jedné hře"
-msgstr ""
+msgstr "Здобути 5 кулеметів в одній грі"
 
 msgid "Pod rouškou noci"
-msgstr ""
+msgstr "Під покровом ночі"
 
 msgctxt "Pod rouškou noci"
 msgid "Získej neviditelnost"
-msgstr ""
+msgstr "Отримати невидимість"
 
 msgid "Stínový chodec"
-msgstr ""
+msgstr "Shadow Walker"
 
 msgctxt "Stínový chodec"
 msgid "Získej 5 neviditelnosti v jedné hře"
-msgstr ""
+msgstr "Отримати 5 невидимок в одній грі"
 
 msgid "Infiltrátor"
-msgstr ""
+msgstr "Інфільтратор"
 
 msgctxt "Infiltrátor"
 msgid "Získej agenta"
-msgstr ""
+msgstr "Отримати агента"
 
 msgid "Agent 47"
-msgstr ""
+msgstr "Агент 47"
 
 msgctxt "Agent 47"
 msgid "Získej 5 agentů v jedné hře"
-msgstr ""
+msgstr "Отримати 5 агентів в одній грі"
 
 msgid "Zasedlý"
-msgstr ""
+msgstr "Сидить в засідці"
 
 msgctxt "Zasedlý"
 msgid "V klasické hře získej trofej \"Zasedlý\"."
-msgstr ""
+msgstr "У класичній грі отримайте трофей \"Зайнято\"."
 
 msgid "Pronásledovaný"
-msgstr ""
+msgstr "Переслідуваний"
 
 msgctxt "Pronásledovaný"
 msgid "V klasické hře získej trofej \"Pronásledovaný\"."
-msgstr ""
+msgstr "У класичній грі отримайте трофей \"Переслідуваний\"."
 
 msgid "Absolutní vítěz"
-msgstr ""
+msgstr "Абсолютний переможець"
 
 msgctxt "Absolutní vítěz"
 msgid "Získej 20x trofej \"Absolutní vítěz\" v klasické hře."
-msgstr ""
+msgstr "Отримайте 20-кратний трофей \"Абсолютний переможець\" у класичній грі."
 
 msgid "Největší terminátor"
-msgstr ""
+msgstr "Найбільший термінатор"
 
 msgctxt "Největší terminátor"
 msgid "Získej 20x trofej \"Největší terminátor\" v klasické hře."
-msgstr ""
+msgstr "Отримайте 20-кратний трофей \"Найкращий термінатор\" у класичній грі."
 
 msgid "Největší mimoň"
-msgstr ""
+msgstr "Найбільший посіпака"
 
 msgctxt "Největší mimoň"
 msgid "Získej 20x trofej \"Největší mimoň\" v klasické hře."
-msgstr ""
+msgstr "Отримайте 20-кратний трофей \"Найбільший фрік\" у класичній грі."
 
 msgid "Hráč s nejlepší muškou"
-msgstr ""
+msgstr "Гравець з найкращим прицілом"
 
 msgctxt "Hráč s nejlepší muškou"
 msgid "Získej 20x trofej \"Hráč s nejlepší muškou\" v klasické hře."
-msgstr ""
+msgstr "Отримайте 20 разів трофей \"Гравець з найкращою влучністю\" в класичній грі."
 
 msgid "Vyrovnaný"
-msgstr ""
+msgstr "Збалансований"
 
 msgctxt "Vyrovnaný"
 msgid "Získej 20x trofej \"Vyrovnaný\" v klasické hře."
-msgstr ""
+msgstr "Отримайте 20-кратний трофей \"Вирівняно\" у класичній грі."
 
 msgid "Férový hráč"
-msgstr ""
+msgstr "Чесний гравець"
 
 msgctxt "Férový hráč"
 msgid "Získej 20x trofej \"Férový hráč\" v klasické hře."
-msgstr ""
+msgstr "Отримати 20 разів трофей \"Чесний гравець\" у класичній грі."
 
 msgid "Největší vlastňák"
-msgstr ""
+msgstr "Найбільший стрілець по своїх"
 
 msgctxt "Největší vlastňák"
 msgid "Získej 20x trofej \"Největší vlastňák\" v klasické hře."
-msgstr ""
+msgstr "Отримайте 20-кратний трофей \"Найбільший патріот\" у класичній грі."
 
 msgid "Zabiják vlastního týmu"
-msgstr ""
+msgstr "Вбивця власної команди"
 
 msgctxt "Zabiják vlastního týmu"
 msgid "Získej 20x trofej \"Zabiják vlastního týmu\" v klasické hře."
-msgstr ""
+msgstr "Отримайте 20 разів трофей \"Вбивця власної команди\" в класичній грі."
 
 msgid "Drtič min"
-msgstr ""
+msgstr "Сапер"
 
 msgctxt "Drtič min"
 msgid "Získej 20x trofej \"Drtič min\" v klasické hře."
-msgstr ""
+msgstr "Отримайте 20-кратний трофей \"Мінний тральщик\" у класичній грі."
 
 msgid "Nejúspornější střelec"
-msgstr ""
+msgstr "Найекономніший стрілець"
 
 msgctxt "Nejúspornější střelec"
 msgid "Získej 20x trofej \"Nejúspornější střelec\" v klasické hře."
-msgstr ""
+msgstr "Отримайте 20 разів трофей \"Найефективніший стрілець\" у класичній грі."
 
 msgid "Objekt největšího zájmu"
-msgstr ""
+msgstr "Об'єкт найбільшого інтересу"
 
 msgctxt "Objekt největšího zájmu"
 msgid "Získej 20x trofej \"Objekt největšího zájmu\" v klasické hře."
-msgstr ""
+msgstr "Отримайте 20 разів трофей \"Найцікавіший об'єкт\" у класичній грі."
 
 msgid "Tahoun týmu"
-msgstr ""
+msgstr "Локомотив команди"
 
 msgctxt "Tahoun týmu"
 msgid "Získej 20x trofej \"Tahoun týmu\" v klasické hře."
-msgstr ""
+msgstr "Отримайте 20 разів трофей \"Team Mover\" у класичній грі."
 
 msgid "Nula"
-msgstr ""
+msgstr "Нуль"
 
 msgctxt "Nula"
 msgid "Získej 10x trofej \"Nula\" v klasické hře."
-msgstr ""
+msgstr "Отримайте 10-кратний трофей \"Зеро\" в класичній грі."
 
 msgid "Nedotknutelný"
-msgstr ""
+msgstr "Недоторканний"
 
 msgctxt "Nedotknutelný"
 msgid "Získej 10x trofej \"Nedotknutelný\" v klasické hře."
-msgstr ""
+msgstr "Отримайте 10-кратний трофей \"Недоторканний\" у класичній грі."
 
 msgid "Výstřely nenalezeny"
-msgstr ""
+msgstr "Постріли не знайдені"
 
 msgctxt "Výstřely nenalezeny"
 msgid "Získej trofej \"Výstřely nenalezeny\" v klasické hře."
-msgstr ""
+msgstr "Отримати трофей \"Пострілів не знайдено\" в класичній грі."
 
 msgid "Ďábel"
-msgstr ""
+msgstr "Диявол"
 
 msgctxt "Ďábel"
 msgid "Získej trofej \"Ďábel\" v klasické hře."
-msgstr ""
+msgstr "Отримайте трофей \"Диявол\" у класичній грі."
 
 msgid "Skóre nenalezeno"
-msgstr ""
+msgstr "Рахунок не знайдено"
 
 msgctxt "Skóre nenalezeno"
 msgid "Získej trofej \"Skóre nenalezeno\" v klasické hře."
-msgstr ""
+msgstr "Отримайте трофей \"Оцінка не знайдена\" в класичній грі."
 
 msgid "Narozeniny v aréně"
-msgstr ""
+msgstr "День народження на арені"
 
 msgctxt "Narozeniny v aréně"
 msgid "Zahraj si hru na svoje narozeniny."
-msgstr ""
+msgstr "Зіграти гру на свій день народження."
 
 msgctxt "info"
 msgid "Je třeba mít v nastavení profilu vyplněné datum narození."
-msgstr ""
+msgstr "У налаштуваннях профілю необхідно вказати дату народження."
 
 msgid "Druhé narozeniny v aréně"
-msgstr ""
+msgstr "Другий день народження на арені"
 
 msgctxt "Druhé narozeniny v aréně"
 msgid "Zahraj si hru na svoje narozeniny 2 různé roky."
-msgstr ""
+msgstr "Зіграти в гру на свій день народження 2 різні роки."
 
 msgid "Třetí narozeniny v aréně"
-msgstr ""
+msgstr "Третій день народження на арені"
 
 msgctxt "Třetí narozeniny v aréně"
 msgid "Zahraj si hru na svoje narozeniny 3 různé roky."
-msgstr ""
+msgstr "Зіграти в гру на свій день народження 3 різні роки."
 
 msgid "Čtvrté narozeniny v aréně"
-msgstr ""
+msgstr "Четвертий день народження на арені"
 
 msgctxt "Čtvrté narozeniny v aréně"
 msgid "Zahraj si hru na svoje narozeniny 4 různé roky."
-msgstr ""
+msgstr "Зіграти в гру на свій день народження 4 різні роки."
 
 msgid "Páté narozeniny v aréně"
-msgstr ""
+msgstr "П'ятий день народження на арені"
 
 msgctxt "Páté narozeniny v aréně"
 msgid "Zahraj si hru na svoje narozeniny 4 různé roky."
-msgstr ""
+msgstr "Зіграти в гру на свій день народження 4 різні роки."
 
