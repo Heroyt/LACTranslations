@@ -4733,3 +4733,7 @@ msgstr ""
 
 msgid "Narozeniny"
 msgstr ""
+
+msgctxt "settings"
+msgid "API URL"
+msgstr ""
