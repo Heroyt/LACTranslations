@@ -11,272 +11,272 @@ msgstr ""
 "Project-Id-Version: laserarenacontrol\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Ukrainian\n"
-"PO-Revision-Date: 2025-04-02 13:16\n"
+"PO-Revision-Date: 2025-04-02 14:57\n"
 
 msgid "Ďábel"
-msgstr ""
+msgstr "Диявол"
 
 msgid "Nesmrtelný"
-msgstr ""
+msgstr "Безсмертний"
 
 msgid "Stínový střelec"
-msgstr ""
+msgstr "Shadow Shooter"
 
 msgid "Nekompromisní vraždící stroj"
-msgstr ""
+msgstr "Безкомпромісна машина для вбивства"
 
 msgid "Nejúspornější střelec"
-msgstr ""
+msgstr "Найекономніший стрілець"
 
 msgid "Drtič nepřátel"
-msgstr ""
+msgstr "Дробарка ворога"
 
 msgid "Spray and Pray"
-msgstr ""
+msgstr "Розпилюй і молись"
 
 msgid "Postrach arény"
-msgstr ""
+msgstr "Арена Монстр"
 
 msgid "Smrtonosný nadřazenec"
-msgstr ""
+msgstr "Смертоносний повелитель"
 
 msgid "Bezkonkurenční šampion"
-msgstr ""
+msgstr "Неперевершений чемпіон"
 
 msgid "Mistr sniper"
-msgstr ""
+msgstr "Майстер-снайпер"
 
 msgid "Laserový maratonista"
-msgstr ""
+msgstr "Лазерний марафонець"
 
 msgid "Výstřely nenalezeny"
-msgstr ""
+msgstr "Постріли не знайдені"
 
 msgid "Profi oslavenec"
-msgstr ""
+msgstr "Профі-іменинник"
 
 msgid "Neúnavný"
-msgstr ""
+msgstr "Невтомний"
 
 msgid "Nepřemožitelný střelec"
-msgstr ""
+msgstr "Непереможний стрілець"
 
 msgid "Přesný sniper"
-msgstr ""
+msgstr "Точний снайпер"
 
 msgid "Legendární válečník"
-msgstr ""
+msgstr "Легендарний воїн"
 
 msgid "Nedotknutelný"
-msgstr ""
+msgstr "Недоторканний"
 
 msgid "Vládce zásahů"
-msgstr ""
+msgstr "Hit Master"
 
 msgid "Netrefitelný"
-msgstr ""
+msgstr "Невразливий"
 
 msgid "Seniorní oslavenec"
-msgstr ""
+msgstr "Старший ювіляр"
 
 msgid "Světaznalý"
-msgstr ""
+msgstr "Знавець світу"
 
 msgid "Oslavenec"
-msgstr ""
+msgstr "Іменинник"
 
 msgid "Laserový maniak"
-msgstr ""
+msgstr "Лазерний маніяк"
 
 msgid "Ostrostřelec"
-msgstr ""
+msgstr "Влучний стрілець"
 
 msgid "Stříbro"
-msgstr ""
+msgstr "Срібло"
 
 msgid "Hrdinský vytrvalec"
-msgstr ""
+msgstr "Героїчна витривалість"
 
 msgid "Vytrvalec"
-msgstr ""
+msgstr "Витривалість"
 
 msgid "Pravidelný vítěz"
-msgstr ""
+msgstr "Постійний переможець"
 
 msgid "Tahoun týmu"
-msgstr ""
+msgstr "Локомотив команди"
 
 msgid "Exekutor"
-msgstr ""
+msgstr "Виконавець"
 
 msgid "Mistr sniperských taktik"
-msgstr ""
+msgstr "Майстер снайперської тактики"
 
 msgid "Průzkumník"
-msgstr ""
+msgstr "Дослідник"
 
 msgid "Drtič min"
-msgstr ""
+msgstr "Сапер"
 
 msgid "Hráč s nejlepší muškou"
-msgstr ""
+msgstr "Гравець з найкращим прицілом"
 
 msgid "Největší vlastňák"
-msgstr ""
+msgstr "Найбільший стрілець по своїх"
 
 msgid "Na plný výkon"
-msgstr ""
+msgstr "На повну потужність"
 
 msgid "Střelec z dálky"
-msgstr ""
+msgstr "Дистанційний стрілець"
 
 msgid "Zabiják vlastního týmu"
-msgstr ""
+msgstr "Вбивця власної команди"
 
 msgid "Absolutní vítěz"
-msgstr ""
+msgstr "Абсолютний переможець"
 
 msgid "Nadšenec"
-msgstr ""
+msgstr "Ентузіаст"
 
 msgid "Herní maratón"
-msgstr ""
+msgstr "Ігровий марафон"
 
 msgid "Zkušený střelec"
-msgstr ""
+msgstr "Досвідчений стрілець"
 
 msgid "Neporazitelný střelec"
-msgstr ""
+msgstr "Непереможний стрілець"
 
 msgid "Stínový mistr"
-msgstr ""
+msgstr "Майстер тіней"
 
 msgid "Agent 47"
-msgstr ""
+msgstr "Агент 47"
 
 msgid "Vyrovnaný"
-msgstr ""
+msgstr "Збалансований"
 
 msgid "Stínový chodec"
-msgstr ""
+msgstr "Shadow Walker"
 
 msgid "Pravidelný hráč"
-msgstr ""
+msgstr "Аватар гравця буде відображатися разом з аватаром гравця, а аватар гравця буде обраний гравцем."
 
 msgid "Neporazitelný"
-msgstr ""
+msgstr "Непереможний"
 
 msgid "Maximální obrana"
-msgstr ""
+msgstr "Максимальний захист"
 
 msgid "Turnajový hráč"
-msgstr ""
+msgstr "Аватар гравця - це ім'я гравця, а аватар гравця - це титул, який він або вона бере з собою."
 
 msgid "Nezastavitelná síla"
-msgstr ""
+msgstr "Нестримна сила"
 
 msgid "Férový hráč"
-msgstr ""
+msgstr "Чесний гравець"
 
 msgid "Kulometář"
-msgstr ""
+msgstr "Кулеметник"
 
 msgid "Energický hráč"
-msgstr ""
+msgstr "Енергійний гравець"
 
 msgid "Zasedlý"
-msgstr ""
+msgstr "Сидить в засідці"
 
 msgid "Pronásledovaný"
-msgstr ""
+msgstr "Переслідуваний"
 
 msgid "Přeživší"
-msgstr ""
+msgstr "Ті, що вижили"
 
 msgid "Největší terminátor"
-msgstr ""
+msgstr "Найбільший термінатор"
 
 msgid "Vítěz"
-msgstr ""
+msgstr "Переможець"
 
 msgid "Zabiják"
-msgstr ""
+msgstr "Вбивця"
 
 msgid "Hráč"
-msgstr ""
+msgstr "Гравець"
 
 msgid "Střelec"
-msgstr ""
+msgstr "Шутер"
 
 msgid "Don't give up"
-msgstr ""
+msgstr "Не здавайся"
 
 msgid "Shoot to win"
-msgstr ""
+msgstr "Стріляй, щоб перемогти"
 
 msgid "Používám nejlepší výherní taktiku"
-msgstr ""
+msgstr "Я використовую найкращу тактику перемоги"
 
 msgid "#LaserArenaPísek"
-msgstr ""
+msgstr "#LaserArenaPísek"
 
 msgid "#FunSpaceČB"
-msgstr ""
+msgstr "#FunSpaceČB"
 
 msgid "#LaserGamePardubice"
-msgstr ""
+msgstr "#LaserGamePardubice"
 
 msgid "Nula"
-msgstr ""
+msgstr "Нуль"
 
 msgid "Nezastavitelný klikač"
-msgstr ""
+msgstr "Unstoppable Clicker"
 
 msgid "Mimoň"
-msgstr ""
+msgstr "Зовні"
 
 msgid "Nekonečná munice"
-msgstr ""
+msgstr "Нескінченні набої"
 
 msgid "Laserový závislák"
-msgstr ""
+msgstr "Laser Addict"
 
 msgid "Zlato"
-msgstr ""
+msgstr "Золото"
 
 msgid "Bronz"
-msgstr ""
+msgstr "Бронза"
 
 msgid "Brambora"
-msgstr ""
+msgstr "Картопля"
 
 msgid "Ligový hráč"
-msgstr ""
+msgstr "Аватар гравця - це ім'я гравця, який приймає титул зі своїм аватаром."
 
 msgid "Skoro nejlepší"
-msgstr ""
+msgstr "Майже найкращий"
 
 msgid "Na stupních vítězů"
-msgstr ""
+msgstr "На п'єдесталі пошани"
 
 msgid "Těsně pod vrcholem"
-msgstr ""
+msgstr "Аватар відображатиметься на аватарці гравця, а титул - на аватарці гравця."
 
 msgid "Šampión"
-msgstr ""
+msgstr "Чемпіон"
 
 msgid "Největší mimoň"
-msgstr ""
+msgstr "Найбільший посіпака"
 
 msgid "Objekt největšího zájmu"
-msgstr ""
+msgstr "Об'єкт найбільшого інтересу"
 
 msgid "Skóre nenalezeno"
-msgstr ""
+msgstr "Рахунок не знайдено"
 
 msgid "Laserslavenec"
-msgstr ""
+msgstr "Лазерславець"
 
 msgid "Slavím narozeniny už jen v aréně"
-msgstr ""
+msgstr "Я святкую свій день народження тільки на арені"
 
