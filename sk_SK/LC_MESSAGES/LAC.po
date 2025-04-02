@@ -4330,3 +4330,7 @@ msgstr "Native"
 msgid "Narozeniny"
 msgstr "Narodeniny"
 
+
+msgctxt "settings"
+msgid "API URL"
+msgstr ""

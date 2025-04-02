@@ -4282,3 +4282,7 @@ msgstr "Native"
 msgid "Narozeniny"
 msgstr "Geburtstag"
 
+
+msgctxt "settings"
+msgid "API URL"
+msgstr ""
