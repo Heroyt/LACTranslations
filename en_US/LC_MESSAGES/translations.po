@@ -6,7 +6,7 @@ msgstr ""
 "Language-Team: English\n"
 "Last-Translator: Tomáš Vojík <vojik@wboy.cz>\n"
 "MIME-Version: 1.0\n"
-"PO-Revision-Date: 2025-04-02 13:16\n"
+"PO-Revision-Date: 2025-04-02 14:56\n"
 "POT-Creation-Date: \n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Project-Id-Version: laserarenacontrol\n"
@@ -181,15 +181,15 @@ msgstr "Survival"
 
 msgctxt "vests.status"
 msgid "V pořádku"
-msgstr ""
+msgstr "OK"
 
 msgctxt "vests.status"
 msgid "Nefunkční"
-msgstr ""
+msgstr "Broken"
 
 msgctxt "vests.status"
 msgid "Hratelná"
-msgstr ""
+msgstr "Playable"
 
 msgctxt "gameModes"
 msgid "T.M.A - solo"
@@ -2909,12 +2909,12 @@ msgid "Vyberte fotky, které chcete od skupiny odebrat."
 msgstr "Select the photos you want to remove from the group."
 
 msgid "Datum narození"
-msgstr ""
+msgstr "Date of birth"
 
 msgid "Pokud vyplníte datum narození, mužete získat narozenové ocenění a některé zapojené arény mohou mít pro oslavence sleciální akce."
-msgstr ""
+msgstr "If you fill in a birth date, you can get a birthday award and some participating arenas may have special events for the birthday celebrant."
 
 msgctxt "actions"
 msgid "Upravit"
-msgstr ""
+msgstr "Edit"
 
