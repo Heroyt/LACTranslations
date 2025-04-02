@@ -6,7 +6,7 @@ msgstr ""
 "Language-Team: English\n"
 "Last-Translator: Tomáš Vojík <vojik@wboy.cz>\n"
 "MIME-Version: 1.0\n"
-"PO-Revision-Date: 2025-04-02 14:56\n"
+"PO-Revision-Date: 2025-04-02 17:07\n"
 "POT-Creation-Date: \n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Project-Id-Version: laserarenacontrol\n"
@@ -2592,9 +2592,6 @@ msgstr "Each team will be credited points for the year-long competition based on
 msgid "Atmosféra byla skvělá a my doufáme, že si to hráči užili, tak jako my. Budeme se těšit v létě 17.9.2023 na další kolo mazáků. Přihlášky jsou už otevřené, týmy se zaplaceným startovným trénují za 50 Kč / Hráč a trénink se vyplácí!"
 msgstr "The atmosphere was great and we hope the players enjoyed it as much as we did. We will look forward to the next round of greasers in the summer of September 17, 2023. Entries are now open, teams with paid entry fees train for 50 CZK / Player and training pays!"
 
-msgid "%s strávilo %s ve hře vypnuté."
-msgstr "%s spent %s in the game turned off."
-
 msgid "Probíhá automatické odhlášení"
 msgstr "Logging out automatically"
 
@@ -2671,9 +2668,6 @@ msgstr "Failed to find results of this game."
 
 msgid "Zatím odehrála %d her."
 msgstr "Has played %d games so far."
-
-msgid "Laserový závislák"
-msgstr "Laser addict"
 
 msgid "%d další hráč"
 msgid_plural "%d dalších hráčů"
