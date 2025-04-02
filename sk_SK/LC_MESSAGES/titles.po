@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: laserarenacontrol\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Slovak\n"
-"PO-Revision-Date: 2025-04-02 13:16\n"
+"PO-Revision-Date: 2025-04-02 14:57\n"
 
 msgid "Ďábel"
 msgstr "Diabol"
@@ -32,10 +32,10 @@ msgid "Drtič nepřátel"
 msgstr "Drvič nepriateľov"
 
 msgid "Spray and Pray"
-msgstr "Sprej a modlitba"
+msgstr "Spray and Pray"
 
 msgid "Postrach arény"
-msgstr "Bič arény"
+msgstr "Postrach arény"
 
 msgid "Smrtonosný nadřazenec"
 msgstr "Smrtiaci vládca"
@@ -53,7 +53,7 @@ msgid "Výstřely nenalezeny"
 msgstr "Nenašli sa žiadne zábery"
 
 msgid "Profi oslavenec"
-msgstr "Profesionálny narodeninový chlapec"
+msgstr "Profesionálny oslávenec"
 
 msgid "Neúnavný"
 msgstr "Neúnavný"
@@ -77,13 +77,13 @@ msgid "Netrefitelný"
 msgstr "Nečitateľný"
 
 msgid "Seniorní oslavenec"
-msgstr "Senior narodeninový chlapec"
+msgstr "Seniorný oslávenec"
 
 msgid "Světaznalý"
 msgstr "Znalý sveta"
 
 msgid "Oslavenec"
-msgstr "Celebrant"
+msgstr "Oslávenec"
 
 msgid "Laserový maniak"
 msgstr "Laserový maniak"
@@ -92,13 +92,13 @@ msgid "Ostrostřelec"
 msgstr "Ostrostrelec"
 
 msgid "Stříbro"
-msgstr "Silver"
+msgstr "Striebro"
 
 msgid "Hrdinský vytrvalec"
-msgstr "Hrdinský vytrvalostný jazdec"
+msgstr "Hrdinský vytrvalostný bojovník"
 
 msgid "Vytrvalec"
-msgstr "Trvalka"
+msgstr "Vytrvalec"
 
 msgid "Pravidelný vítěz"
 msgstr "Pravidelný víťaz"
@@ -116,7 +116,7 @@ msgid "Průzkumník"
 msgstr "Prieskumník"
 
 msgid "Drtič min"
-msgstr "Drvič baní"
+msgstr "Drvič min"
 
 msgid "Hráč s nejlepší muškou"
 msgstr "Hráč s najlepšou muškou"
@@ -164,7 +164,7 @@ msgid "Pravidelný hráč"
 msgstr "Pravidelný hráč"
 
 msgid "Neporazitelný"
-msgstr "Bezkonkurenčné"
+msgstr "Neporaziteľný"
 
 msgid "Maximální obrana"
 msgstr "Maximálna obrana"
@@ -185,10 +185,10 @@ msgid "Energický hráč"
 msgstr "Energický hráč"
 
 msgid "Zasedlý"
-msgstr "Zaneprázdnený"
+msgstr "Zasadnutý"
 
 msgid "Pronásledovaný"
-msgstr "Strašidelná stránka"
+msgstr "Prenasledovaný"
 
 msgid "Přeživší"
 msgstr "Pozostalí"
@@ -200,7 +200,7 @@ msgid "Vítěz"
 msgstr "Víťaz"
 
 msgid "Zabiják"
-msgstr "Killer"
+msgstr "Zabijak"
 
 msgid "Hráč"
 msgstr "Hráč"
@@ -209,10 +209,10 @@ msgid "Střelec"
 msgstr "Strelec"
 
 msgid "Don't give up"
-msgstr "Nevzdávajte sa"
+msgstr "Don't give up"
 
 msgid "Shoot to win"
-msgstr "Strieľajte na víťaza"
+msgstr "Shoot to win"
 
 msgid "Používám nejlepší výherní taktiku"
 msgstr "Používam najlepšie víťazné taktiky"
@@ -227,10 +227,10 @@ msgid "#LaserGamePardubice"
 msgstr "#LaserGamePardubice"
 
 msgid "Nula"
-msgstr "Zero"
+msgstr "Nula"
 
 msgid "Nezastavitelný klikač"
-msgstr "Nezastaviteľný kliker"
+msgstr "Nezastaviteľný klikač"
 
 msgid "Mimoň"
 msgstr "Mimoň"
@@ -248,7 +248,7 @@ msgid "Bronz"
 msgstr "Bronz"
 
 msgid "Brambora"
-msgstr "Zemiaky"
+msgstr "Zemiak"
 
 msgid "Ligový hráč"
 msgstr "Hráč ligy"
@@ -266,7 +266,7 @@ msgid "Šampión"
 msgstr "Šampión"
 
 msgid "Největší mimoň"
-msgstr "Najväčší čudák"
+msgstr "Najväčšia mimoň"
 
 msgid "Objekt největšího zájmu"
 msgstr "Predmet najväčšieho záujmu"
