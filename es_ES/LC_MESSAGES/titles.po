@@ -1,0 +1,282 @@
+msgid ""
+msgstr ""
+"Language: es_ES\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Domain: titles\n"
+"X-Crowdin-Project: laserarenacontrol\n"
+"X-Crowdin-Project-ID: 515800\n"
+"X-Crowdin-Language: es-ES\n"
+"X-Crowdin-File: /master/titles.pot\n"
+"X-Crowdin-File-ID: 101\n"
+"Project-Id-Version: laserarenacontrol\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Spanish\n"
+"PO-Revision-Date: 2025-04-02 13:16\n"
+
+msgid "Ďábel"
+msgstr "El Diablo"
+
+msgid "Nesmrtelný"
+msgstr "Inmortal"
+
+msgid "Stínový střelec"
+msgstr "Tirador en la sombra"
+
+msgid "Nekompromisní vraždící stroj"
+msgstr "La inflexible máquina de matar"
+
+msgid "Nejúspornější střelec"
+msgstr "El tirador más económico"
+
+msgid "Drtič nepřátel"
+msgstr "Aplastador de enemigos"
+
+msgid "Spray and Pray"
+msgstr "Rociar y rezar"
+
+msgid "Postrach arény"
+msgstr "El azote de la arena"
+
+msgid "Smrtonosný nadřazenec"
+msgstr "El señor de la muerte"
+
+msgid "Bezkonkurenční šampion"
+msgstr "El campeón sin rival"
+
+msgid "Mistr sniper"
+msgstr "Maestro francotirador"
+
+msgid "Laserový maratonista"
+msgstr "Maratonista láser"
+
+msgid "Výstřely nenalezeny"
+msgstr "No se han encontrado disparos"
+
+msgid "Profi oslavenec"
+msgstr "Cumpleaños profesional"
+
+msgid "Neúnavný"
+msgstr "Incansable"
+
+msgid "Nepřemožitelný střelec"
+msgstr "El tirador invencible"
+
+msgid "Přesný sniper"
+msgstr "Francotirador de precisión"
+
+msgid "Legendární válečník"
+msgstr "Guerrero legendario"
+
+msgid "Nedotknutelný"
+msgstr "Intocable"
+
+msgid "Vládce zásahů"
+msgstr "Regla de intervención"
+
+msgid "Netrefitelný"
+msgstr "Indescifrable"
+
+msgid "Seniorní oslavenec"
+msgstr "Cumpleaños senior"
+
+msgid "Světaznalý"
+msgstr "Conocedor del mundo"
+
+msgid "Oslavenec"
+msgstr "Celebrante"
+
+msgid "Laserový maniak"
+msgstr "Maníaco del láser"
+
+msgid "Ostrostřelec"
+msgstr "Tirador"
+
+msgid "Stříbro"
+msgstr "Plata"
+
+msgid "Hrdinský vytrvalec"
+msgstr "Heroico piloto de resistencia"
+
+msgid "Vytrvalec"
+msgstr "La perenne"
+
+msgid "Pravidelný vítěz"
+msgstr "Ganador regular"
+
+msgid "Tahoun týmu"
+msgstr "El motor del equipo"
+
+msgid "Exekutor"
+msgstr "Ejecutor"
+
+msgid "Mistr sniperských taktik"
+msgstr "Maestro en tácticas de francotirador"
+
+msgid "Průzkumník"
+msgstr "Explorador"
+
+msgid "Drtič min"
+msgstr "Trituradora de minas"
+
+msgid "Hráč s nejlepší muškou"
+msgstr "El jugador con mejor puntería"
+
+msgid "Největší vlastňák"
+msgstr "El mayor patriota"
+
+msgid "Na plný výkon"
+msgstr "A plena potencia"
+
+msgid "Střelec z dálky"
+msgstr "Tirador a distancia"
+
+msgid "Zabiják vlastního týmu"
+msgstr "Asesino de su propio equipo"
+
+msgid "Absolutní vítěz"
+msgstr "Ganador absoluto"
+
+msgid "Nadšenec"
+msgstr "Entusiastas"
+
+msgid "Herní maratón"
+msgstr "Maratón de juegos"
+
+msgid "Zkušený střelec"
+msgstr "Tirador experimentado"
+
+msgid "Neporazitelný střelec"
+msgstr "El tirador imbatible"
+
+msgid "Stínový mistr"
+msgstr "Maestro de las Sombras"
+
+msgid "Agent 47"
+msgstr "Agente 47"
+
+msgid "Vyrovnaný"
+msgstr "Equilibrado"
+
+msgid "Stínový chodec"
+msgstr "Caminante en la sombra"
+
+msgid "Pravidelný hráč"
+msgstr "Jugador habitual"
+
+msgid "Neporazitelný"
+msgstr "Inmejorable"
+
+msgid "Maximální obrana"
+msgstr "Defensa máxima"
+
+msgid "Turnajový hráč"
+msgstr "Jugador de torneos"
+
+msgid "Nezastavitelná síla"
+msgstr "Fuerza imparable"
+
+msgid "Férový hráč"
+msgstr "Buen jugador"
+
+msgid "Kulometář"
+msgstr "Ametrallador"
+
+msgid "Energický hráč"
+msgstr "Jugador enérgico"
+
+msgid "Zasedlý"
+msgstr "Ocupado"
+
+msgid "Pronásledovaný"
+msgstr "Embrujada"
+
+msgid "Přeživší"
+msgstr "Supervivientes"
+
+msgid "Největší terminátor"
+msgstr "El mejor Terminator"
+
+msgid "Vítěz"
+msgstr "Ganador"
+
+msgid "Zabiják"
+msgstr "Asesino"
+
+msgid "Hráč"
+msgstr "Jugador"
+
+msgid "Střelec"
+msgstr "Tirador"
+
+msgid "Don't give up"
+msgstr "No te rindas"
+
+msgid "Shoot to win"
+msgstr "Tira a ganar"
+
+msgid "Používám nejlepší výherní taktiku"
+msgstr "Utilizo las mejores tácticas para ganar"
+
+msgid "#LaserArenaPísek"
+msgstr "#LaserArenaPisek"
+
+msgid "#FunSpaceČB"
+msgstr "#FunSpaceCB"
+
+msgid "#LaserGamePardubice"
+msgstr "#LaserGamePardubice"
+
+msgid "Nula"
+msgstr "Cero"
+
+msgid "Nezastavitelný klikač"
+msgstr "Clicker imparable"
+
+msgid "Mimoň"
+msgstr "Mimoň"
+
+msgid "Nekonečná munice"
+msgstr "Munición infinita"
+
+msgid "Laserový závislák"
+msgstr "Adicto al láser"
+
+msgid "Zlato"
+msgstr "Oro"
+
+msgid "Bronz"
+msgstr "Bronce"
+
+msgid "Brambora"
+msgstr "Patata"
+
+msgid "Ligový hráč"
+msgstr "Jugador de la Liga"
+
+msgid "Skoro nejlepší"
+msgstr "Casi el mejor"
+
+msgid "Na stupních vítězů"
+msgstr "En el podio"
+
+msgid "Těsně pod vrcholem"
+msgstr "Justo debajo de la parte superior"
+
+msgid "Šampión"
+msgstr "Campeón"
+
+msgid "Největší mimoň"
+msgstr "El mayor monstruo"
+
+msgid "Objekt největšího zájmu"
+msgstr "Objeto de mayor interés"
+
+msgid "Skóre nenalezeno"
+msgstr "Puntuación no encontrada"
+
+msgid "Laserslavenec"
+msgstr "Laserslavenec"
+
+msgid "Slavím narozeniny už jen v aréně"
+msgstr "Celebro mi cumpleaños sólo en la arena"
+
