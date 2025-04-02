@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: laserarenacontrol\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
-"PO-Revision-Date: 2025-04-02 13:16\n"
+"PO-Revision-Date: 2025-04-02 14:56\n"
 
 msgid "Začátek dobrodružství"
 msgstr ""
@@ -28,7 +28,7 @@ msgid "Odehraj 10 her"
 msgstr ""
 
 msgid "Hráč na misi"
-msgstr ""
+msgstr "Игрок на задании"
 
 msgctxt "Hráč na misi"
 msgid "Odehraj 50 her"
@@ -568,7 +568,7 @@ msgid "Získej 5 neviditelnosti v jedné hře"
 msgstr ""
 
 msgid "Infiltrátor"
-msgstr ""
+msgstr "Infiltrator"
 
 msgctxt "Infiltrátor"
 msgid "Získej agenta"
