@@ -6,7 +6,7 @@ msgstr ""
 "Language-Team: French\n"
 "Last-Translator: Tomáš Vojík <vojik@wboy.cz>\n"
 "MIME-Version: 1.0\n"
-"PO-Revision-Date: 2025-03-28 12:14\n"
+"PO-Revision-Date: 2025-04-03 16:41\n"
 "POT-Creation-Date: 2021-12-01 12:05+0100\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "Project-Id-Version: laserarenacontrol\n"
@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-Project-ID: 515800\n"
 
 msgid "Jak se v aréně střílí, tak se v aréně umírá..."
-msgstr ""
+msgstr "Comme on tire dans l'arène, on meurt dans l'arène..."
 
 msgid "Trénink se vyplácí!"
 msgstr "Entraînement est rentable!"
@@ -41,10 +41,10 @@ msgid "Pro vyřízení osobních sporů je aréna ideální."
 msgstr "L'arène est le meilleur endroit pour régler les différends personnels."
 
 msgid "Dobití protihráče pažbou, vám žádné body nepřidá."
-msgstr ""
+msgstr "Frapper un adversaire avec la crosse d'une arme à feu ne vous rapportera aucun point."
 
 msgid "Zabiják vlastního týmu, či největší vlasťnák... To je oč tu běží!"
-msgstr ""
+msgstr "Le tueur de sa propre équipe, ou le plus grand patriote... C'est de cela qu'il s'agit !"
 
 msgid "Vestu si oblečte vždy zbraní dobředu."
 msgstr "Portez toujours le gilet avec le pistolet devant."
@@ -53,19 +53,19 @@ msgid "Při týmové hře není výhodné střílet do hráčů se stejnou barvo
 msgstr "Dans un jeu d'équipe, il n'est pas avantageux de tirer sur des joueurs de la même couleur."
 
 msgid "Jen Chuck Norris vás může zastřelit baterkou na svém mobilu."
-msgstr ""
+msgstr "Seul Chuck Norris peut vous tirer dessus avec la lampe de poche de son téléphone portable."
 
 msgid "Nejlepší výherní taktika je strílet do protihráčů."
 msgstr "La meilleure tactique gagnante est de tirer sur les adversaires."
 
 msgid "Nemá cenu umírat na tom samém místě. Když to nejde, uteč jinam!"
-msgstr ""
+msgstr "Il ne sert à rien de mourir au même endroit. Si vous ne pouvez pas, courez ailleurs !"
 
 msgid "Všechny bonusy, kromě štítu, trvají 30s."
 msgstr "Tous les bonus, sauf le bouclier, durent 30s."
 
 msgid "Držení zbraně v obou rukách je přesnější."
-msgstr ""
+msgstr "Tenir l'arme à deux mains est plus précis."
 
 msgid "Měl bys radši hrát laser game a být úžasný!"
 msgstr "Tu ferais mieux de jouer à un jeu laser et d'être génial !"
@@ -92,7 +92,7 @@ msgid "Na displeji vesty po zásahu vidíte kdo vás zasáhl do jakého čidla. 
 msgstr "Sur l'écran du gilet, vous pouvez voir qui vous a frappé dans quel capteur. Cela aide à l'orientation."
 
 msgid "Při výstupu z arény vždy připni zbraň k vestě."
-msgstr ""
+msgstr "Attachez toujours votre arme à votre veste lorsque vous sortez de l'arène."
 
 msgid "LASER TAG - SUIT UP!"
 msgstr "LASER TAG - SUIT UP!"
