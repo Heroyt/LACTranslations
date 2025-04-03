@@ -6,7 +6,7 @@ msgstr ""
 "Language-Team: German\n"
 "Last-Translator: Tomáš Vojík <vojik@wboy.cz>\n"
 "MIME-Version: 1.0\n"
-"PO-Revision-Date: 2025-03-28 12:15\n"
+"PO-Revision-Date: 2025-04-03 11:39\n"
 "POT-Creation-Date: 2021-12-01 12:05+0100\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Project-Id-Version: laserarenacontrol\n"
@@ -40,7 +40,7 @@ msgid "Skupina"
 msgstr ""
 
 msgid "Týmy"
-msgstr ""
+msgstr "Teams"
 
 msgid "Rozlosování"
 msgstr ""
@@ -58,10 +58,10 @@ msgid "Pořadí"
 msgstr ""
 
 msgid "Tým"
-msgstr ""
+msgstr "Team"
 
 msgid "Skóre"
-msgstr ""
+msgstr "Ergebnis"
 
 msgid "Body"
 msgstr ""
@@ -143,7 +143,7 @@ msgstr ""
 
 msgctxt "team.player"
 msgid "Jméno"
-msgstr ""
+msgstr "Name"
 
 msgctxt "team.player"
 msgid "Příjmení"
@@ -225,7 +225,7 @@ msgid "Individální"
 msgstr ""
 
 msgid "Hráč"
-msgstr ""
+msgstr "Spieler"
 
 msgid "Nejpřesnější hráči"
 msgstr ""
@@ -234,7 +234,7 @@ msgid "Největší mimoňi"
 msgstr ""
 
 msgid "Výstřely"
-msgstr ""
+msgstr "Schüsse"
 
 msgid "Zabijáci vlastních"
 msgstr ""

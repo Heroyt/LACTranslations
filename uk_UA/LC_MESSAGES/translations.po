@@ -6,7 +6,7 @@ msgstr ""
 "Language-Team: Ukrainian\n"
 "Last-Translator: Tomáš Vojík <vojik@wboy.cz>\n"
 "MIME-Version: 1.0\n"
-"PO-Revision-Date: 2025-04-02 15:56\n"
+"PO-Revision-Date: 2025-04-03 11:53\n"
 "POT-Creation-Date: \n"
 "Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
 "Project-Id-Version: laserarenacontrol\n"
@@ -19,165 +19,165 @@ msgstr ""
 
 msgctxt "pageTitles"
 msgid "404"
-msgstr ""
+msgstr "404"
 
 msgctxt "errors"
 msgid "stránka nenalezena"
-msgstr ""
+msgstr "сторінку не знайдено"
 
 msgctxt "debugPanel"
 msgid "Rows"
-msgstr ""
+msgstr "Рядки"
 
 msgctxt "debugPanel"
 msgid "Takes"
-msgstr ""
+msgstr "Приймаються"
 
 msgctxt "debugPanel"
 msgid "Translations"
-msgstr ""
+msgstr "Переклади"
 
 msgctxt "debugPanel"
 msgid "Translated strings"
-msgstr ""
+msgstr "Перекладені рядки"
 
 msgctxt "debugPanel"
 msgid "Added a new string"
-msgstr ""
+msgstr "Додано новий рядок"
 
 msgctxt "debugPanel"
 msgid "String"
-msgstr ""
+msgstr "Рядок"
 
 msgctxt "debugPanel"
 msgid "Context"
-msgstr ""
+msgstr "Контекст"
 
 msgctxt "pageTitles"
 msgid "Dashboard"
-msgstr ""
+msgstr "Інформаційна панель"
 
 msgid "Toggle navigation"
-msgstr ""
+msgstr "Перемикання навігації"
 
 msgctxt "pageTitles"
 msgid "Results"
-msgstr ""
+msgstr "Результати"
 
 msgctxt "pageTitles"
 msgid "Games list"
-msgstr ""
+msgstr "Список ігор"
 
 msgid "Hra neexistuje!"
-msgstr ""
+msgstr "Гра не існує!"
 
 msgctxt "gameModes"
 msgid "Team deathmach"
-msgstr ""
+msgstr "Команда deathmach"
 
 msgctxt "gameModes"
 msgid "Základny"
-msgstr ""
+msgstr "База"
 
 msgctxt "gameModes"
 msgid "CSGO"
-msgstr ""
+msgstr "ОГС"
 
 msgctxt "gameModes"
 msgid "Deathmach"
-msgstr ""
+msgstr "Deathmach"
 
 msgctxt "errors"
 msgid "Uploaded file is too large"
-msgstr ""
+msgstr "Завантажений файл занадто великий"
 
 msgctxt "errors"
 msgid "Database error occurred."
-msgstr ""
+msgstr "Виникла помилка в базі даних."
 
 msgctxt "actions"
 msgid "Zavřít"
-msgstr ""
+msgstr "Закрити"
 
 msgctxt "leaderboard"
 msgid "Hráč"
-msgstr ""
+msgstr "Гравець"
 
 msgctxt "leaderboard"
 msgid "Mód"
-msgstr ""
+msgstr "Режим"
 
 msgctxt "leaderboard"
 msgid "Čas"
-msgstr ""
+msgstr "Час"
 
 msgctxt "leaderboard"
 msgid "Score"
-msgstr ""
+msgstr "Оцінка"
 
 msgctxt "leaderboard"
 msgid "Accuracy"
-msgstr ""
+msgstr "Точність"
 
 msgctxt "leaderboard"
 msgid "Hits"
-msgstr ""
+msgstr "Хіти"
 
 msgctxt "leaderboard"
 msgid "Deaths"
-msgstr ""
+msgstr "Смерті"
 
 msgctxt "leaderboard"
 msgid "Shots"
-msgstr ""
+msgstr "Постріли"
 
 msgctxt "gameModes"
 msgid "100 nábojů"
-msgstr ""
+msgstr "100 куль"
 
 msgctxt "actions"
 msgid "Začít"
-msgstr ""
+msgstr "Почати"
 
 msgctxt "action"
 msgid "Zobrazit později"
-msgstr ""
+msgstr "Переглянути пізніше"
 
 msgctxt "action"
 msgid "Nezobrazovat"
-msgstr ""
+msgstr "Не відображати"
 
 msgctxt "actions"
 msgid "Předchozí"
-msgstr ""
+msgstr "Попередні переклади"
 
 msgctxt "action"
 msgid "Další"
-msgstr ""
+msgstr "Читати далі"
 
 msgctxt "actions"
 msgid "Načítání"
-msgstr ""
+msgstr "Завантаження"
 
 msgctxt "action"
 msgid "Dokončit"
-msgstr ""
+msgstr "Закінчити"
 
 msgctxt "action"
 msgid "Zavřít"
-msgstr ""
+msgstr "Закрити"
 
 msgctxt "form.errors"
 msgid "Toto pole je povinné"
-msgstr ""
+msgstr "Це поле є обов'язковим для заповнення."
 
 msgctxt "gameModes"
 msgid "Barvičky"
-msgstr ""
+msgstr "Ви можете знайти"
 
 msgctxt "gameModes"
 msgid "Survival"
-msgstr ""
+msgstr "Виживання"
 
 msgctxt "vests.status"
 msgid "V pořádku"
@@ -193,2613 +193,2607 @@ msgstr "Можна відтворити"
 
 msgctxt "gameModes"
 msgid "T.M.A - solo"
-msgstr ""
+msgstr "T.M.A - соло"
 
 msgctxt "gameModes"
 msgid "Apokalypsa"
-msgstr ""
+msgstr "Апокаліпсис"
 
 msgid "Filtry"
-msgstr ""
+msgstr "Фільтри"
 
 msgctxt "actions"
 msgid "Filtrovat"
-msgstr ""
+msgstr "Фільтр"
 
 msgctxt "actions"
 msgid "Smazat"
-msgstr ""
+msgstr "Видалити"
 
 msgid "Průměrné ohodnocení hráče"
-msgstr ""
+msgstr "Середній рейтинг гравця"
 
 msgid "Oblíbená vesta"
-msgstr ""
+msgstr "Інші категорії, які не входять до каталогу цього сайту."
 
 msgid "Průměrné skóre"
-msgstr ""
+msgstr "Середній бал"
 
 msgid "Celkové skóre"
-msgstr ""
+msgstr "Загальна кількість балів"
 
 msgid "Průměrný počet výstřelů"
-msgstr ""
+msgstr "Середня кількість пострілів"
 
 msgid "Celkem výstřelů"
-msgstr ""
+msgstr "Всього пострілів"
 
 msgid "Průměrný počet zásahů"
-msgstr ""
+msgstr "Середня кількість переглядів"
 
 msgid "Celkem zásahů"
-msgstr ""
+msgstr "Загальна кількість переглядів"
 
 msgid "Průměrný počet smrtí"
-msgstr ""
+msgstr "Середня кількість смертей"
 
 msgid "Celkem smrtí"
-msgstr ""
+msgstr "Загальна кількість смертей"
 
 msgid "Výsledky"
-msgstr ""
+msgstr "Результати"
 
 msgid "Hry"
-msgstr ""
+msgstr "Ігри"
 
 msgctxt "gameModes"
 msgid "T.M.A"
-msgstr ""
+msgstr "T.M.A"
 
 msgctxt "gameModes"
 msgid "Team Survival"
-msgstr ""
+msgstr "Командне виживання"
 
 msgctxt "gameModes"
 msgid "Marco Polo"
-msgstr ""
+msgstr "Марко Поло"
 
 msgctxt "gameModes"
 msgid "Zombie"
-msgstr ""
+msgstr "Зомбі"
 
 msgctxt "team.names"
 msgid "Red team"
-msgstr ""
+msgstr "Інші категорії, які не є частиною цього сайту."
 
 msgctxt "team.names"
 msgid "Green team"
-msgstr ""
+msgstr "Інші категорії, які не є частиною цього сайту."
 
 msgctxt "team.names"
 msgid "Blue team"
-msgstr ""
+msgstr "Синя команда"
 
 msgctxt "team.names"
 msgid "Pink team"
-msgstr ""
+msgstr "Рожева команда"
 
 msgctxt "team.names"
 msgid "Yellow team"
-msgstr ""
+msgstr "Жовта команда"
 
 msgctxt "team.names"
 msgid "Ocean team"
-msgstr ""
+msgstr "Інші категорії, які не є частиною цього сайту."
 
 msgctxt "form"
 msgid "Saved successfully"
-msgstr ""
+msgstr "Збережено успішно"
 
 msgctxt "errors"
 msgid "No file uploaded"
-msgstr ""
+msgstr "Файл не завантажено"
 
 msgctxt "errors"
 msgid "Error while uploading a file."
-msgstr ""
+msgstr "Помилка при завантаженні файлу."
 
 msgctxt "actions"
 msgid "Uložit"
-msgstr ""
+msgstr "Зберегти"
 
 msgctxt "actions"
 msgid "Přehrát"
-msgstr ""
+msgstr "Отримано з"
 
 msgctxt "actions"
 msgid "Zastavit"
-msgstr ""
+msgstr "Стоп"
 
 msgid "Název"
-msgstr ""
+msgstr "Назва"
 
 msgctxt "actions"
 msgid "Odeslat"
-msgstr ""
+msgstr "Надсилати на адресу"
 
 msgctxt "actions"
 msgid "Přidat"
-msgstr ""
+msgstr "Додати"
 
 msgctxt "actions"
 msgid "Vytvořit"
-msgstr ""
+msgstr "Створити"
 
 msgid "Nápověda"
-msgstr ""
+msgstr "Допомога"
 
 msgid "Pozice"
-msgstr ""
+msgstr "Посади"
 
 msgid "Úspěšně uloženo"
-msgstr ""
+msgstr "Успішно збережено"
 
 msgctxt "actions"
 msgid "Zobrazit"
-msgstr ""
+msgstr "Переглянути"
 
 msgctxt "errors"
 msgid "Nebyla nalezena žádná hra"
-msgstr ""
+msgstr "Гру не знайдено"
 
 msgid "Přihlásit"
-msgstr ""
+msgstr "Увійдіть"
 
 msgid "E-mail"
-msgstr ""
+msgstr "Електронна пошта"
 
 msgid "Heslo"
-msgstr ""
+msgstr "Пароль:"
 
 msgid "Nemáte ještě účet?"
-msgstr ""
+msgstr "Ще не маєте облікового запису?"
 
 msgid "Vytvořit účet"
-msgstr ""
+msgstr "Створити обліковий запис"
 
 msgctxt "errors"
 msgid "Pro přístup na tuto stránku se musíte přihlásit!"
-msgstr ""
+msgstr "Ви повинні увійти, щоб отримати доступ до цієї сторінки!"
 
 msgid "Přihlášení bylo úspěšné."
-msgstr ""
+msgstr "Вхід пройшов успішно."
 
 msgid "Profil"
-msgstr ""
+msgstr "Профіль"
 
 msgid "Nastavení"
-msgstr ""
+msgstr "Налаштування"
 
 msgid "Odhlásit"
-msgstr ""
+msgstr "Відмовитися від підписки"
 
 msgid "Profil uživatele"
-msgstr ""
+msgstr "Профіль користувача"
 
 msgid "Domovská aréna"
-msgstr ""
+msgstr "Головна арена"
 
 msgid "Navštíveno arén"
-msgstr ""
+msgstr "Відвідані арени"
 
 msgid "Úroveň"
-msgstr ""
+msgstr "Рівень"
 
 msgid "Období"
-msgstr ""
+msgstr "Крапка"
 
 msgid "Den"
-msgstr ""
+msgstr "День"
 
 msgid "Týden"
-msgstr ""
+msgstr "Тиждень"
 
 msgid "Měsíc"
-msgstr ""
+msgstr "Місяць"
 
 msgid "3 měsíce"
-msgstr ""
+msgstr "3 місяці"
 
 msgid "6 měsíců"
-msgstr ""
+msgstr "6 місяців"
 
 msgid "Rok"
-msgstr ""
+msgstr "Рік"
 
 msgid "Historie úrovně"
-msgstr ""
+msgstr "Історія рівня"
 
 msgid "Herní módy"
-msgstr ""
+msgstr "Режими гри"
 
 msgid "Aréna"
-msgstr ""
+msgstr "Арена"
 
 msgid "Všechny hry hráče"
-msgstr ""
+msgstr "Всі ігри гравця"
 
 msgid "Kód není platný"
-msgstr ""
+msgstr "Код не дійсний"
 
 msgid "Uživatel neexistuje"
-msgstr ""
+msgstr "Користувач не існує"
 
 msgid "Kód"
-msgstr ""
+msgstr "Код"
 
 msgid "Výstřelů za minutu"
-msgstr ""
+msgstr "Пострілів за хвилину"
 
 msgid "Čas ve hře"
-msgstr ""
+msgstr "Час у грі"
 
 msgid "Průměry"
-msgstr ""
+msgstr "Середні показники"
 
 msgid "Maxima"
-msgstr ""
+msgstr "Maxima"
 
 msgid "Sumy"
-msgstr ""
+msgstr "Суми"
 
 msgid "Skočit na aktuálního uživatele"
-msgstr ""
+msgstr "Перейти до поточного користувача"
 
 msgid "Jméno nebo kód hráče"
-msgstr ""
+msgstr "Ім'я або код гравця"
 
 msgid "Navigace"
-msgstr ""
+msgstr "Навігація"
 
 msgid "Zobrazeno %s z %d hráčů"
-msgstr ""
+msgstr "Доступ до %s з %d players"
 
 msgid "%d den"
 msgid_plural "%d dní"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
+msgstr[0] "%d День"
+msgstr[1] "%d Інші категорії, які не входять до цієї категорії."
+msgstr[2] "%d Інші категорії, які не входять до цієї категорії."
+msgstr[3] "%d Інші категорії, які не входять до цієї категорії."
 
 msgid "%d hodina"
 msgid_plural "%d hodin"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
+msgstr[0] "%d The Hour"
+msgstr[1] "%d Години"
+msgstr[2] "%d Години"
+msgstr[3] "%d Години"
 
 msgid "%d minuta"
 msgid_plural "%d minut"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
+msgstr[0] "%d Інші категорії, не призначені для цього сайту."
+msgstr[1] "%d Інші категорії, які не входять до цієї категорії."
+msgstr[2] "%d Інші категорії, які не входять до цієї категорії."
+msgstr[3] "%d Інші категорії, які не входять до цієї категорії."
 
 msgid "Moje hry"
-msgstr ""
+msgstr "Мої ігри"
 
 msgid "Profil hráče"
-msgstr ""
+msgstr "Профіль гравця"
 
 msgid "Historie her hráče %s"
-msgstr ""
+msgstr "Ігрова історія гравця %s"
 
 msgid "Zobrazeno %s z %d her"
-msgstr ""
+msgstr "Отримано %s з %d games"
 
 msgid "Statistiky"
-msgstr ""
+msgstr "Статистика"
 
 msgid "Grafy"
-msgstr ""
+msgstr "Графіки"
 
 msgid "Trendy"
-msgstr ""
+msgstr "Тенденції"
 
 msgid "Následující statistiky se počítají pouze z klasických herních módů."
-msgstr ""
+msgstr "Наведені нижче статистичні дані розраховані лише з класичних ігрових режимів."
 
 msgid "Vystřeleno nábojů"
-msgstr ""
+msgstr "Випущені снаряди"
 
 msgid "Zasaženo hráčů"
-msgstr ""
+msgstr "Постраждав гравець"
 
 msgid "Průměrná pozice"
-msgstr ""
+msgstr "Середня позиція"
 
 msgid "Průměrná přesnost"
-msgstr ""
+msgstr "Середня точність"
 
 msgid "Průměrný počet výstřelů za minutu"
-msgstr ""
+msgstr "Середня кількість пострілів за хвилину"
 
 msgid "Průměrný počet zásahů za minutu"
-msgstr ""
+msgstr "Середня кількість переглядів за хвилину"
 
 msgid "Průměrný počet smrtí za minutu"
-msgstr ""
+msgstr "Середня кількість смертей за хвилину"
 
 msgid "Nejlepší přesnost"
-msgstr ""
+msgstr "Найкраща точність"
 
 msgid "Nejlepší skóre"
-msgstr ""
+msgstr "Найкращі результати"
 
 msgid "Nejlepší hodnocení hráče ve hře"
-msgstr ""
+msgstr "Рейтинг найкращих гравців у грі"
 
 msgid "Další statistiky"
-msgstr ""
+msgstr "Інша статистика"
 
 msgid "Počet her"
-msgstr ""
+msgstr "Кількість ігор"
 
 msgid "Trendy za posledních 10 her"
-msgstr ""
+msgstr "Тенденції за останні 10 ігор"
 
 msgid "Za posledních 10 her se ti podařilo zvýšit svojí herní úroveň."
-msgstr ""
+msgstr "За останні 10 ігор вам вдалося підвищити свій ігровий рівень."
 
 msgid "Za posledních 10 her se ti bohužel herní úroveň snížila. Z toho si ale nic nedělej, příští hry se musíš trochu víc snažit!"
-msgstr ""
+msgstr "За останні 10 ігор, на жаль, ваш рівень гри знизився. Але не хвилюйтеся, в наступній грі вам доведеться постаратися трохи більше!"
 
 msgid "Tvoje herní úroveň se nezměnila."
-msgstr ""
+msgstr "Ваш рівень гри не змінився."
 
 msgid "Za posledních 10 her si měl vyšší přesnost, než dříve."
-msgstr ""
+msgstr "В останніх 10 іграх ви мали вищу точність, ніж раніше."
 
 msgid "Za posledních 10 her si měl horší přesnost než dříve."
-msgstr ""
+msgstr "Протягом останніх 10 ігор ваша точність стала гіршою, ніж раніше."
 
 msgid "Za posledních 10 her se ti nijak výrazně nezměnila tvá průměrná přesnost."
-msgstr ""
+msgstr "Ваша середня точність за останні 10 ігор майже не змінилася."
 
 msgid "Za posledních 10 her si střílel/a více než je tvůj průměr."
-msgstr ""
+msgstr "За останні 10 ігор ви вистрілили більше, ніж у середньому."
 
 msgid "Za posledních 10 her si střílel/a méně než je tvůj průměr."
-msgstr ""
+msgstr "В останніх 10 іграх ви вистрілили менше, ніж у середньому."
 
 msgid "Za posledních 10 her si střílel/a průměrně stejně."
-msgstr ""
+msgstr "В останніх 10 іграх ви стріляли з однаковим середнім показником."
 
 msgid "Průměrný počet výstřelů za hru"
-msgstr ""
+msgstr "Середня кількість пострілів за гру"
 
 msgid "Trendy za posledních 30 dní"
-msgstr ""
+msgstr "Тенденції за останні 30 днів"
 
 msgid "Za posledních 30 dní si odehrál/a více her, než předchozí měsíc. Jen tak dál!"
-msgstr ""
+msgstr "За останні 30 днів ви зіграли більше ігор, ніж за попередній місяць. Продовжуйте в тому ж дусі!"
 
 msgid "Za posledních 30 dní si odehrál/a méně her, než předchozí měsíc. Nechceš si jít zahrát?"
-msgstr ""
+msgstr "За останні 30 днів ви зіграли менше ігор, ніж за попередній місяць. Хочеш піти пограти?"
 
 msgid "Za posledních 30 dní si odehrál/a stejně her, jako předchozí měsíc."
-msgstr ""
+msgstr "За останні 30 днів ви зіграли стільки ж ігор, скільки за попередній місяць."
 
 msgid "Za posledních 30 dní si odehrál/a více klasických her, než předchozí měsíc. Jen tak dál!"
-msgstr ""
+msgstr "За останні 30 днів ви зіграли більше класичних ігор, ніж за попередній місяць. Продовжуйте в тому ж дусі!"
 
 msgid "Za posledních 30 dní si odehrál/a méně klasických her, než předchozí měsíc. Nechceš si jít zahrát?"
-msgstr ""
+msgstr "За останні 30 днів ви зіграли менше класичних ігор, ніж за попередній місяць. Хочеш піти пограти?"
 
 msgid "Za posledních 30 dní si odehrál/a stejně klasických her, jako předchozí měsíc."
-msgstr ""
+msgstr "За останні 30 днів ви зіграли стільки ж класичних ігор, скільки за попередній місяць."
 
 msgid "Počet klasických her"
-msgstr ""
+msgstr "Кількість класичних ігор"
 
 msgid "Za posledních 30 dní si vystřelil/a vícekrát, než předchozí měsíc."
-msgstr ""
+msgstr "За останні 30 днів ви стріляли більше разів, ніж за попередній місяць."
 
 msgid "Za posledních 30 dní si vystřelil/a méněkrát, než předchozí měsíc."
-msgstr ""
+msgstr "За останні 30 днів ви зробили менше пострілів, ніж за попередній місяць."
 
 msgid "Za posledních 30 dní si vystřelil/a stejně, jako předchozí měsíc."
-msgstr ""
+msgstr "За останні 30 днів ви відзняли стільки ж, скільки за попередній місяць."
 
 msgid "Za posledních 30 dní si zastřelil/a víc protihráčů, než předchozí měsíc."
-msgstr ""
+msgstr "За останні 30 днів ви застрелили більше супротивників, ніж за попередній місяць."
 
 msgid "Za posledních 30 dní si zastřelil/a méně protihráčů, než předchozí měsíc."
-msgstr ""
+msgstr "За останні 30 днів ви застрелили менше супротивників, ніж за попередній місяць."
 
 msgid "Za posledních 30 dní si zastřelil/a stejně protihráčů, jako předchozí měsíc."
-msgstr ""
+msgstr "За останні 30 днів ви застрелили стільки ж супротивників, скільки за попередній місяць."
 
 msgid "Počet zásahů"
-msgstr ""
+msgstr "Кількість переглядів"
 
 msgid "Za posledních 30 dní jsi byl/a zastřelen/a vícekrát, než předchozí měsíc."
-msgstr ""
+msgstr "За останні 30 днів у вас стріляли більше разів, ніж за попередній місяць."
 
 msgid "Za posledních 30 dní jsi byl/a zastřelen/a méněkrát, než předchozí měsíc."
-msgstr ""
+msgstr "За останні 30 днів у вас стріляли менше разів, ніж за попередній місяць."
 
 msgid "Za posledních 30 dní jsi byl/a zastřelen/a stejněkrát, jako předchozí měsíc."
-msgstr ""
+msgstr "За останні 30 днів у вас стріляли стільки ж разів, скільки за попередній місяць."
 
 msgid "Počet smrtí"
-msgstr ""
+msgstr "Кількість смертей"
 
 msgid "Prihlásit"
-msgstr ""
+msgstr "Увійдіть"
 
 msgid "Zapomenuté heslo"
-msgstr ""
+msgstr "Забули пароль"
 
 msgctxt "login"
 msgid "Pamatovat si mě"
-msgstr ""
+msgstr "Запам'ятати мене"
 
 msgid "Friday"
-msgstr ""
+msgstr "П'ятниця"
 
 msgid "Saturday"
-msgstr ""
+msgstr "Субота"
 
 msgid "Sunday"
-msgstr ""
+msgstr "Неділя"
 
 msgid "Monday"
-msgstr ""
+msgstr "Понеділок"
 
 msgid "Tuesday"
-msgstr ""
+msgstr "Вівторок"
 
 msgid "Wednesday"
-msgstr ""
+msgstr "Середа"
 
 msgid "Thursday"
-msgstr ""
+msgstr "Четвер"
 
 msgid "March"
-msgstr ""
+msgstr "Березень"
 
 msgid "April"
-msgstr ""
+msgstr "квітень"
 
 msgid "May"
-msgstr ""
+msgstr "Травень"
 
 msgid "June"
-msgstr ""
+msgstr "Червень"
 
 msgid "July"
-msgstr ""
+msgstr "Липень"
 
 msgid "August"
-msgstr ""
+msgstr "Серпень"
 
 msgid "September"
-msgstr ""
+msgstr "вересень"
 
 msgid "October"
-msgstr ""
+msgstr "жовтень"
 
 msgid "November"
-msgstr ""
+msgstr "листопад"
 
 msgid "December"
-msgstr ""
+msgstr "грудень"
 
 msgid "January"
-msgstr ""
+msgstr "Січень"
 
 msgid "February"
-msgstr ""
+msgstr "лютий"
 
 msgid "Výsledky laser game v %s z dne %s v herním módu %s."
-msgstr ""
+msgstr "Лазерна гра призводить до %s з %s в ігровому режимі %s."
 
 msgid "Hry se účastnilo %d tým: %s"
 msgid_plural "Hry se účastnilo %d týmů: %s"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
+msgstr[0] "Ігри, в яких брала участь команда %d : %s"
+msgstr[1] "У грі брали участь %d команд: %s"
+msgstr[2] "У грі брали участь %d команд: %s"
+msgstr[3] "У грі брали участь %d команд: %s"
 
 msgid "Vyhrál tým: %s."
-msgstr ""
+msgstr "Команда перемогла: %s."
 
 msgid "%d. se umístil %s s celkovým skóre %s."
-msgstr ""
+msgstr "%d. займає %s місце в рейтингу, з загальною кількістю балів %s."
 
 msgid "%d. se umístilo %s s celkovým skóre %s."
-msgstr ""
+msgstr "%d. є %s із загальною оцінкою %s."
 
 msgid "Arény"
-msgstr ""
+msgstr "Арени"
 
 msgid "Výsledky ze hry - %s"
-msgstr ""
+msgstr "Результати гри - %s"
 
 msgctxt "pageTitles"
 msgid "Výsledky laser game - %s %s (%s)"
-msgstr ""
+msgstr "Результати лазерної гри - %s %s (%s)"
 
 msgctxt "pageDescription"
 msgid "Výsledky ze hry laser game z data %s z arény %s v herním módu %s."
-msgstr ""
+msgstr "Результати лазерної гри від дати %s з арени %s в ігровому режимі %s."
 
 msgid "Close navigation"
-msgstr ""
+msgstr "Ближча навігація"
 
 msgid "Výsledky laser game"
-msgstr ""
+msgstr "Результати лазерної гри"
 
 msgid "Informace o hře"
-msgstr ""
+msgstr "Інформація про гру"
 
 msgid "Zobrazit stránku arény"
-msgstr ""
+msgstr "Показати сторінку арени"
 
 msgid "Žádné zajímavosti"
-msgstr ""
+msgstr "Інші категорії, які не є частиною цього сайту."
 
 msgid "více"
-msgstr ""
+msgstr "Читати далі"
 
 msgid "méně"
-msgstr ""
+msgstr "Менше"
 
 msgid "Výsledky ze hry - %s %s"
-msgstr ""
+msgstr "Результати гри - %s %s"
 
 msgid "Sdílet"
-msgstr ""
+msgstr "Поділіться цим"
 
 msgid "Trofej"
-msgstr ""
+msgstr "Трофей"
 
 msgid "Vysvětlení hodnocení"
-msgstr ""
+msgstr "Пояснення оцінки"
 
 msgid "Počet hráčů, který je lepší/horší než vy. Např. pokud jste v %s 10%%, znamená to, že 90%% hráčů mělo nižší hodnotu, než vy. %s 10 %% znamená, že 90 %% hráčů mělo vyšší hodnotu, než vy."
-msgstr ""
+msgstr "Кількість гравців, які кращі/гірші за вас. Наприклад, якщо ви знаходитесь в рейтингу %s 10%%, це означає, що 90%% гравців мають нижчу цінність, ніж ви. %s 10%% означає, що 90% гравців мають більше значення, ніж ви."
 
 msgctxt "distribution"
 msgid "Nejlepší"
-msgstr ""
+msgstr "Найкраще з"
 
 msgctxt "distribution"
 msgid "Nejhorší"
-msgstr ""
+msgstr "Найгірші"
 
 msgid "Od počátku věků"
-msgstr ""
+msgstr "Від початку часів"
 
 msgid "Tento rok"
-msgstr ""
+msgstr "Цього року"
 
 msgid "Tento měsíc"
-msgstr ""
+msgstr "Цього місяця"
 
 msgid "Tento týden"
-msgstr ""
+msgstr "Цього тижня"
 
 msgid "Tento den"
-msgstr ""
+msgstr "Цього дня"
 
 msgid "Počet"
-msgstr ""
+msgstr "Кількість"
 
 msgid "Kontakt"
-msgstr ""
+msgstr "Зв'язатися з нами"
 
 msgid "Formát a bodování"
-msgstr ""
+msgstr "Формат і оцінка"
 
 msgid "Podle počtu týmů může být turnaj rozdělen do dvou skupin, kde každá skupina hraje ve formátu každý s každým. Po odehrání kvalifikačního kola postoupí nejlepší týmy do finále a ostatní týmy do druhé skupiny, kde si opět zahrají každý s každým. Body do celkového pořadí se počítají ze všech her (i z kvalifikační skupiny)."
-msgstr ""
+msgstr "Залежно від кількості команд, турнір може бути розділений на дві групи, кожна з яких грає у форматі один на один. Після відбіркових турів кращі команди вийдуть до фіналу, а решта команд перейдуть до другої групи, де знову зіграють між собою. Очки для загального заліку підраховуються з усіх ігор (включаючи відбіркову групу)."
 
 msgid "Hodnocení"
-msgstr ""
+msgstr "Рейтинг"
 
 msgid "Výhra"
-msgstr ""
+msgstr "Перемога"
 
 msgid "%d bod"
 msgid_plural "%d body"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
+msgstr[0] "%d Інші категорії не мають відношення до цього сайту."
+msgstr[1] "%d Тіла"
+msgstr[2] "%d Тіла"
+msgstr[3] "%d Тіла"
 
 msgid "Prohra"
-msgstr ""
+msgstr "Загублено"
 
 msgid "Postup do finále"
-msgstr ""
+msgstr "Просування до фіналу"
 
 msgid "Nastavení hry"
-msgstr ""
+msgstr "Налаштування гри"
 
 msgid "Délka hry"
-msgstr ""
+msgstr "Тривалість гри"
 
 msgid "5-15 minut (podle počtu týmů)"
-msgstr ""
+msgstr "5-15 хвилин (залежно від кількості команд)"
 
 msgid "Oživení hráče"
-msgstr ""
+msgstr "Відродження гравця"
 
 msgid "5 sekund"
-msgstr ""
+msgstr "5 секунд"
 
 msgid "Vypnuto"
-msgstr ""
+msgstr "Вимкнено"
 
 msgid "Brány"
-msgstr ""
+msgstr "Брама"
 
 msgid "Zapnuto"
-msgstr ""
+msgstr "Увімкнено"
 
 msgid "1s nesmrtelnosti"
-msgstr ""
+msgstr "1с безсмертя"
 
 msgid "Nutnost držet tlačítko na zbrani"
-msgstr ""
+msgstr "Необхідність утримувати кнопку на зброї"
 
 msgid "Čidlo na zbrani"
-msgstr ""
+msgstr "Датчик на зброї"
 
 msgid "Barvy týmů"
-msgstr ""
+msgstr "Командні кольори"
 
 msgid "Zelená a modrá"
-msgstr ""
+msgstr "Зелений і синій"
 
 msgid "Zásah do soupeže"
-msgstr ""
+msgstr "Втручання у змагання"
 
 msgid "Zásah od soupeže (smrt)"
-msgstr ""
+msgstr "Удар суперника (смерть)"
 
 msgid "Zásah od spoluhráče (smrt)"
-msgstr ""
+msgstr "Удар товариша по команді (смерть)"
 
 msgid "Zásah od brány"
-msgstr ""
+msgstr "Удар від воріт"
 
 msgid "Pravidla hry"
-msgstr ""
+msgstr "Правила гри"
 
 msgid "Bezkontaktní hra mezi soupeři."
-msgstr ""
+msgstr "Безконтактна гра між опонентами."
 
 msgid "Nevystrčený loket (nezvednutý) při pohybu - nesmí ohrozit bezpečnost protihráče."
-msgstr ""
+msgstr "Лікоть не витягнутий (не піднятий) при русі - не повинен загрожувати безпеці суперника."
 
 msgid "Zakázané úmyslné naskakování na soupeře (cílený skok ve směru protihráče, který by mohl ohrozit jeho bezpečnost)."
-msgstr ""
+msgstr "Заборонено навмисне стрибання на суперника (цілеспрямований стрибок у напрямку суперника, який може загрожувати його безпеці)."
 
 msgid "Žádný fyzický kontakt."
-msgstr ""
+msgstr "Без фізичного контакту."
 
 msgid "Žádné nadávky mezi soupeři."
-msgstr ""
+msgstr "Без лайки між опонентами."
 
 msgid "Za tým jedná kapitán."
-msgstr ""
+msgstr "Команду представляє капітан."
 
 msgid "Fair play chování v rámci celého turnaje."
-msgstr ""
+msgstr "Поведінка чесної гри протягом усього турніру."
 
 msgid "V případě vážnějšího zranění nebo technických problémů bude hra ukončena a později opakována."
-msgstr ""
+msgstr "У разі серйозних травм або технічних проблем гра буде припинена і продовжена пізніше."
 
 msgid "Během hry při opakovaném a vážném porušování pravidel, nevhodném chování týmu daný tým kontumačně prohrává bez ohledu na jeho skóre (jen ve velmi vážných případech)"
-msgstr ""
+msgstr "У процесі гри, у разі неодноразових і серйозних порушень правил, неналежної поведінки команди, відповідна команда програє за замовчуванням незалежно від її рахунку (тільки в дуже серйозних випадках)"
 
 msgid "Diskvalifikace – opakované porušování pravidel a nevhodné chování týmu i mimo herní prostor"
-msgstr ""
+msgstr "Дискваліфікація - повторне порушення правил і неналежна поведінка команди за межами ігрового майданчика"
 
 msgid "Zakázané taktiky během hry"
-msgstr ""
+msgstr "Заборонені тактики під час гри"
 
 msgid "Fyzický kontakt mezi protihráči"
-msgstr ""
+msgstr "Фізичний контакт між гравцями-суперниками"
 
 msgid "Nadávky mezi soupeři"
-msgstr ""
+msgstr "Лайка між опонентами"
 
 msgid "Nefér chování (držení zbraně, blokování soupeřovi únikové cesty, střelba do hráče na zemi – pád…"
-msgstr ""
+msgstr "Нечесна поведінка (тримання зброї, блокування шляху втечі суперника, стрілянина в гравця на землі - падіння…"
 
 msgid "Úmyslné ohrožení zdraví (loket ve výši obličeje, naskakování na soupeře, úder zbraní, rukou, nebezpečné točení s otočnou překážkou…)"
-msgstr ""
+msgstr "Навмисна загроза здоров'ю (лікоть на рівні обличчя, стрибок на суперника, удар зброєю, рукою, небезпечна перешкода, що обертається…)"
 
 msgid "Nedodržování všeobecných základních herních, bezpečnostních a provozních pravidel (např. špatné zacházení se zbraní, ležení na zemi, přeskakování překážek, nerespektování váhových, věkových a výškových rozdílů hráčů (děti a dospělý)..."
-msgstr ""
+msgstr "Недотримання загальних базових правил гри, безпеки та експлуатації (наприклад, неправильне поводження зі зброєю, лежання на землі, перестрибування через перешкоди, ігнорування різниці у вазі, віці та зрості гравців (дітей та дорослих)..."
 
 msgid "Výrazné naklánění z cílem krytí čidel na vestě (po dobu delší, než je nutná k úhybu = hráč musí zůstat v pohybu)."
-msgstr ""
+msgstr "Це не текст цього сайту."
 
 msgid "Povolené taktiky"
-msgstr ""
+msgstr "Дозволені тактики"
 
 msgid "Taktika skupiny či jednotlivce, která není v rozporu s výše uvedenými pravidly a možnost ji využít či se naučit má každý, není zakázána."
-msgstr ""
+msgstr "Не забороняються групові або індивідуальні тактики, які не суперечать вищезазначеним правилам, і кожен має можливість їх використовувати або вивчити."
 
 msgid "Kempení"
-msgstr ""
+msgstr "Кемпінг"
 
 msgid "Lehké náklony, úhyby, krčení,.."
-msgstr ""
+msgstr "Легкі нахили, вигини, присідання,..."
 
 msgid "Skákání, které neohrožuje protihráče"
-msgstr ""
+msgstr "Стрибки, які не загрожують супернику"
 
 msgid "Pronásledování protihráče (není úplně fér, ale není zakázáno)"
-msgstr ""
+msgstr "Переслідування суперника (не зовсім чесно, але не заборонено)"
 
 msgid "Nekontaktní (neúmyslné) krytí se spoluhráčů navzájem"
-msgstr ""
+msgstr "Безконтактне (ненавмисне) перекриття членів команди один з одним"
 
 msgid "Vytvoření návnady z vlastního hráče"
-msgstr ""
+msgstr "Створення приманки з власного гравця"
 
 msgid "Rozhodčí a penalizace"
-msgstr ""
+msgstr "Судді та покарання"
 
 msgid "Během her budou v aréně dva rozhodčí. V případě kategorie mazáků můžou být jako rozhodčí působit i hráči z ostatních týmů."
-msgstr ""
+msgstr "Під час ігор на арені буде два судді. У випадку категорії greasers, гравці з інших команд також можуть виступати в ролі арбітрів."
 
 msgid "Posouzení situace vždy závisí na rozhodčím. Pokud hráč ve hře vidí nějaký přestupek, musí ho nahlásit rozhodčímu během hry, aby rozhodčí mohl daného hráče více hlídat."
-msgstr ""
+msgstr "Оцінка ситуації завжди залежить від судді. Якщо гравець бачить порушення в грі, він повинен повідомити про це судді під час гри, щоб суддя міг уважніше стежити за гравцем."
 
 msgid "Po hře již není možné řešit situaci, která se ve hře děla, jen na ní upozornit. V případě vyšího počtu stížností se může situace řešit s kapitány týmů."
-msgstr ""
+msgstr "Після гри вже неможливо вирішити ситуацію, яка відбувалася в грі, тільки привернути до неї увагу. У разі більшої кількості скарг, ситуацію можна вирішити з капітанами команд."
 
 msgid "První napomenutí"
-msgstr ""
+msgstr "Перше застереження"
 
 msgid "Bez sankce"
-msgstr ""
+msgstr "Без штрафних санкцій"
 
 msgid "Každý další přestupek"
-msgstr ""
+msgstr "Кожне інше порушення"
 
 msgid "%s bodů"
-msgstr ""
+msgstr "%s Бали"
 
 msgctxt "pageTitles"
 msgid "Turnaj %s %s - %s"
-msgstr ""
+msgstr "Турнір %s %s - %s"
 
 msgctxt "pageDescription"
 msgid "Turnaj %s v %s. Turnaj se odehrává %s od %s."
-msgstr ""
+msgstr "Турнір %s в %s. Турнір проходить %s з %s."
 
 msgid "Moje turnaje"
-msgstr ""
+msgstr "Мої турніри"
 
 msgid "Uživatel"
-msgstr ""
+msgstr "Користувач"
 
 msgid "Zpět na ligu"
-msgstr ""
+msgstr "Повернутися до ліги"
 
 msgid "Zpět na arénu"
-msgstr ""
+msgstr "Повернутися на арену"
 
 msgid "Informace o turnaji laser game, který se bude odehrávat %s v %s."
-msgstr ""
+msgstr "Інформація про турнір з лазерної гри, який відбудеться %s в %s."
 
 msgid "Laser game turnaj: %s"
-msgstr ""
+msgstr "Турнір з лазерної гри: %s"
 
 msgid "Informace"
-msgstr ""
+msgstr "Інформація"
 
 msgid "Pravidla turnaje"
-msgstr ""
+msgstr "Правила турніру"
 
 msgid "Začátek"
-msgstr ""
+msgstr "Почати"
 
 msgid "Konec"
-msgstr ""
+msgstr "Кінець"
 
 msgid "Maximum týmů"
-msgstr ""
+msgstr "Максимум команд"
 
 msgid "Formát"
-msgstr ""
+msgstr "Формат"
 
 msgid "Počet hráčů v týmu"
-msgstr ""
+msgstr "Кількість гравців у команді"
 
 msgid "Náhradníků"
-msgstr ""
+msgstr "Замінники"
 
 msgid "Cena"
-msgstr ""
+msgstr "Ціна"
 
 msgid "Seznam přihlášených týmů na turnaj laser game."
-msgstr ""
+msgstr "Список команд, зареєстрованих на турнір з лазерної гри."
 
 msgid "Průměrná herní úroveň registrovaných hráčů"
-msgstr ""
+msgstr "Середній рівень гри зареєстрованих гравців"
 
 msgid "Začátečník"
-msgstr ""
+msgstr "Початківець"
 
 msgid "Upravit přihlášku"
-msgstr ""
+msgstr "Редагувати форму заявки"
 
 msgid "Často kladené dotazy"
-msgstr ""
+msgstr "Часті запитання"
 
 msgctxt "tournament.faq"
 msgid "Co je to turnaj laser game?"
-msgstr ""
+msgstr "Що таке турнір з лазерної гри?"
 
 msgctxt "tournament.faq"
 msgid "Laser game je sport. A jako v každém jiném sportu se i zde organizují turnaje. Turnaj laser game je většinou jednodenní akce, kdy proti sobě soupeří několik hráčů / týmů. Turnaje laser game mohou být organizovány na několik způsobů v závislosti na herním módu, typu rozlosování, aréně, ap."
-msgstr ""
+msgstr "Лазерна гра - це спорт. І, як і в будь-якому іншому виді спорту, існують турніри. Турнір з лазерної гри - це, як правило, одноденна подія, де кілька гравців/команд змагаються один проти одного. Турніри з лазерних ігор можуть бути організовані кількома способами, залежно від режиму гри, типу жеребкування, арени тощо."
 
 msgctxt "tournament.faq"
 msgid "Co je to liga laser game?"
-msgstr ""
+msgstr "Що таке лазерна ігрова ліга?"
 
 msgctxt "tournament.faq"
 msgid "Liga laser game je dlouhodobá soutěž skládající se z několika turnajů. Výsledky jsou vyhodnocovány z každého turnaje zvlášť, ale zároveň mezi turnaji. Na konci ligového období jsou vyhlášeny celkové výsledky."
-msgstr ""
+msgstr "Лазерна ігрова ліга - це довгострокове змагання, що складається з декількох турнірів. Результати оцінюються з кожного турніру окремо, але одночасно між турнірами. В кінці періоду ліги оголошуються загальні результати."
 
 msgctxt "tournament.faq"
 msgid "Jak se zaregistruji na turnaj?"
-msgstr ""
+msgstr "Як зареєструватися на турнір?"
 
 msgctxt "tournament.faq"
 msgid "Pro registraci na turnaj si stačí otevřít stránku konkrétního turnaje v laser lize a přes tlačítko „registrovat” vyplnit přihlášku. Pokud máte (vy nebo vaši spoluhráči) hráčský účet v laser lize, bude pro vás celý proces snazší, jelikož nemusíte zadávat všechny údaje a navíc se vám turnaj propíše do vašeho profilu."
-msgstr ""
+msgstr "Щоб зареєструватися на турнір, просто відкрийте сторінку конкретного турніру Лазерної ліги і заповніть реєстраційну форму за допомогою кнопки \"зареєструватися\". Якщо ви (або ваші товариші по команді) маєте обліковий запис гравця Лазерної ліги, весь процес буде простішим для вас, оскільки вам не потрібно буде вводити всі дані, плюс турнір буде записаний у ваш профіль."
 
 msgctxt "tournament.faq"
 msgid "Jsem přihlášený na turnaj, ale potřeboval bych změnit přihlášku."
-msgstr ""
+msgstr "Я зареєстрований на турнір, але мені потрібно змінити реєстрацію."
 
 msgctxt "tournament.faq"
 msgid "Po registraci vám na e-mail přide odkaz, přes který můžete svou přihlášku měnit. Pokud jste registrovaný v laser lize, můžete svou přihlášku najít a upravit i ve vašem profilu."
-msgstr ""
+msgstr "Після реєстрації ви отримаєте на електронну пошту посилання, за яким зможете змінити свою заявку. Якщо ви зареєстровані в Лазерній лізі, ви також можете знайти і відредагувати свою заявку у своєму профілі."
 
 msgctxt "pageTitles"
 msgid "Detail %s"
-msgstr ""
+msgstr "Детальніше %s"
 
 msgctxt "pageDescription"
 msgid "Souhrnné statistiky a informace o aréně - %s"
-msgstr ""
+msgstr "Зведена статистика та інформація про арену - %s"
 
 msgid "Stránka s informacemi o laser game aréně - %s."
-msgstr ""
+msgstr "Сторінка з інформацією про лазерну ігрову арену - %s."
 
 msgid "Registrováno hráčů"
-msgstr ""
+msgstr "Зареєстровані гравці"
 
 msgid "Dnes odehráno her"
-msgstr ""
+msgstr "Ігри, в які грали сьогодні"
 
 msgid "Dnes odehráno hráčů"
-msgstr ""
+msgstr "Гравці грали сьогодні"
 
 msgid "Všechny hry"
-msgstr ""
+msgstr "Усі ігри"
 
 msgid "Plánované turnaje"
-msgstr ""
+msgstr "Заплановані турніри"
 
 msgid "Informace a kontakty"
-msgstr ""
+msgstr "Інформація та контакти"
 
 msgid "Zajímavé statistiky o hrách laser game z této arény."
-msgstr ""
+msgstr "Цікава статистика про лазерні ігри з цієї арени."
 
 msgid "Dnešní nejlepší hráči"
-msgstr ""
+msgstr "Найкращі гравці сьогодення"
 
 msgid "Nejlepší dnešní hráči laser game podle jejich herní úrovně."
-msgstr ""
+msgstr "Найкращі гравці в лазерні ігри сьогодні відповідно до їхнього рівня гри."
 
 msgctxt "leaderboard"
 msgid "Herní úroveň"
-msgstr ""
+msgstr "Ігровий рівень"
 
 msgid "Za celou dobu"
-msgstr ""
+msgstr "За весь час"
 
 msgid "Období dat pro následující grafy."
-msgstr ""
+msgstr "Періоди даних для наступних графіків."
 
 msgid "Souhrn herních módů laser game, které se hráli v této aréně."
-msgstr ""
+msgstr "Короткий опис режимів лазерної гри, в які грали на цій арені."
 
 msgid "Počet her s daným hudebním módem v této aréně."
-msgstr ""
+msgstr "Кількість ігор з певним музичним режимом на цій арені."
 
 msgid "Seznam a ukázky hudebních módů nabízených do hry."
-msgstr ""
+msgstr "Перелік і приклади музичних режимів, пропонованих у грі."
 
 msgid "Hudební mód dokáže úplně změnit zážitek z laser game. Vybírejte proto tak, aby vás co nejvíce nabudil a vy si svou hru co nejvíce užili."
-msgstr ""
+msgstr "Музичний режим може повністю змінити враження від лазерної гри. Тому обирайте той, який максимально прокачає вас, і ви отримаєте максимальне задоволення від гри."
 
 msgid "Historie her arény %s"
-msgstr ""
+msgstr "Ігрова історія арени %s"
 
 msgid "Všechny výsledky laser game z arény."
-msgstr ""
+msgstr "Всі результати лазерної гри з арени."
 
 msgid "Upravit zobrazené sloupce"
-msgstr ""
+msgstr "Редагування відображуваних стовпців"
 
 msgid "Vše"
-msgstr ""
+msgstr "Всі"
 
 msgid "Klasické módy"
-msgstr ""
+msgstr "Класичні режими"
 
 msgctxt "gameModes"
 msgid "TTT"
-msgstr ""
+msgstr "TTT"
 
 msgctxt "gameModes"
 msgid "Rambo"
-msgstr ""
+msgstr "Рембо"
 
 msgctxt "gameModes"
 msgid "Chraň VIP"
-msgstr ""
+msgstr "Захистити VIP"
 
 msgctxt "gameModes"
 msgid "Revolver"
-msgstr ""
+msgstr "Револьвер"
 
 msgctxt "gameModes"
 msgid "Marco polo"
-msgstr ""
+msgstr "Марко Поло"
 
 msgctxt "gameModes"
 msgid "Ulov medvídka"
-msgstr ""
+msgstr "Зловити ведмедя"
 
 msgctxt "gameModes"
 msgid "Schovka"
-msgstr ""
+msgstr "Коробка"
 
 msgctxt "gameModes"
 msgid "Last man standing"
-msgstr ""
+msgstr "Останній, хто залишився"
 
 msgctxt "gameModes"
 msgid "Slepá bába"
-msgstr ""
+msgstr "Сліпа бабуся"
 
 msgid "Smazat filtr"
-msgstr ""
+msgstr "Видалити фільтр"
 
 msgid "Zobrazit výsledky ze hry %s"
-msgstr ""
+msgstr "Переглянути результати можна на сайті %s"
 
 msgid "Řazení"
-msgstr ""
+msgstr "Замовлення"
 
 msgid "Další stránka"
-msgstr ""
+msgstr "Інші сайти не відносяться до цих категорій."
 
 msgid "Liga"
-msgstr ""
+msgstr "Лазерна ліга"
 
 msgid "Informace o aréně"
-msgstr ""
+msgstr "Інформація про арену"
 
 msgid "Web"
-msgstr ""
+msgstr "Веб"
 
 msgid "Telefon"
-msgstr ""
+msgstr "Телефон"
 
 msgid "Adresa"
-msgstr ""
+msgstr "Адреса"
 
 msgid "Hráči hráli všichni proti všem."
-msgstr ""
+msgstr "Гравці грали всі проти всіх."
 
 msgid "Celkem hrál %d hráč."
 msgid_plural "Celkem hrálo %d hráčů."
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
+msgstr[0] "Всього відтворено %d плеєром."
+msgstr[1] "Всього зіграло %d гравців."
+msgstr[2] "Всього зіграло %d гравців."
+msgstr[3] "Всього зіграло %d гравців."
 
 msgctxt "pageTitles"
 msgid "Žebříček - %s"
-msgstr ""
+msgstr "Рейтинг - %s"
 
 msgctxt "pageDescription"
 msgid "Žebříček všech hráčů laser game podle různých statistik. Žebříček arény: %s"
-msgstr ""
+msgstr "Рейтинг усіх гравців лазерної гри за різними статистичними даними. Рейтинг арен: %s"
 
 msgid "Zpět na stránku arény"
-msgstr ""
+msgstr "Повернутися до сторінки арени"
 
 msgid "Zpět na celkový žebříček"
-msgstr ""
+msgstr "Повернутися до загального рейтингу"
 
 msgid "Pořadí hráčů"
-msgstr ""
+msgstr "Рейтинг гравців"
 
 msgid "Žebříček všech registrovaných hráčů laser ligy."
-msgstr ""
+msgstr "Рейтинг всіх зареєстрованих гравців лазерної ліги."
 
 msgid "Základní zobrazení. Hráči jsou seřazeni podle jejich herní úrovně."
-msgstr ""
+msgstr "Основний вигляд. Гравці відсортовані за рівнем гри."
 
 msgid "Řazení podle průměrných hodnot hráčů ze všech jejich her."
-msgstr ""
+msgstr "Рейтинг базується на середніх показниках гравців з усіх їхніх ігор."
 
 msgid "Řazení podle nejlepších výkonů hráčů v jedné hře."
-msgstr ""
+msgstr "Це не пов'язані з цим сайтом сайти."
 
 msgid "Řazení podle součtů statistik hráčů."
-msgstr ""
+msgstr "Сортування за підсумками статистики гравців."
 
 msgid "Hledat"
-msgstr ""
+msgstr "Пошук"
 
 msgid "Profil uživatele %s"
-msgstr ""
+msgstr "Профіль користувача %s"
 
 msgid "Řadit vzestupně"
-msgstr ""
+msgstr "Ці посилання не належать до жодної іншої категорії."
 
 msgid "Řadit sestupně"
-msgstr ""
+msgstr "Сортувати за спаданням"
 
 msgid "Zobrazit profil hráče %s"
-msgstr ""
+msgstr "Переглянути профіль гравця %s"
 
 msgid "her"
-msgstr ""
+msgstr "ігри"
 
 msgctxt "pageTitles"
 msgid "Plánované akce"
-msgstr ""
+msgstr "Заплановані події"
 
 msgctxt "pageDescription"
 msgid "Akce plánované v laser arénách, které budou probíhat v následujících měsících."
-msgstr ""
+msgstr "Події, заплановані на лазерних аренах у найближчі місяці."
 
 msgid "Plánované akce laser game"
-msgstr ""
+msgstr "Заплановані події лазерної гри"
 
 msgid "Poměřte síly s dalšími hráči laser game! Následující akce jsou organizovány v arénách využívající Laser Ligu."
-msgstr ""
+msgstr "Поміряйтеся силами з іншими гравцями лазерної гри! Наступні події організовані на аренах з використанням Laser League."
 
 msgid "Ligy / turnaje laser game"
-msgstr ""
+msgstr "Ліги / турніри лазерна гра"
 
 msgid "Turnaje laser game"
-msgstr ""
+msgstr "Турніри з лазерних ігор"
 
 msgid "%d. se umístila %s s celkovým skóre %s."
-msgstr ""
+msgstr "%d. займає %s місце в рейтингу, з загальною кількістю балів %s."
 
 msgctxt "pageTitles"
 msgid "Ligy laser game"
-msgstr ""
+msgstr "Лазерна ліга гра"
 
 msgctxt "pageDescription"
 msgid "Organizované laser game ligy - skupiny turnajů, které na sebe navazují."
-msgstr ""
+msgstr "Організовані лазерні ігрові ліги - групи турнірів, які спираються один на одного."
 
 msgid "Organizované ligy laser game"
-msgstr ""
+msgstr "Організовані ліги лазерної гри"
 
 msgctxt "pageTitles"
 msgid "Liga %s"
-msgstr ""
+msgstr "Лазерна ліга %s"
 
 msgctxt "pageDescription"
 msgid "Liga %s v %s, aneb několik na sebe navazujících turnajů."
-msgstr ""
+msgstr "Ліга %s в %s, або кілька турнірів поспіль."
 
 msgid "Liga turnajů laser game"
-msgstr ""
+msgstr "Лазерна ігрова турнірна ліга"
 
 msgid "Liga laser game v %s rozdělená do %d kategorie"
 msgid_plural "Liga laser game v aréně: %s rozdělená do %d kategorií"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
+msgstr[0] "Лазерна ігрова ліга в %s розділена на %d категорії"
+msgstr[1] "Лазерна ігрова ліга на арені: %s розділена на %d категорії"
+msgstr[2] "Лазерна ігрова ліга на арені: %s розділена на %d категорії"
+msgstr[3] "Лазерна ігрова ліга на арені: %s розділена на %d категорії"
 
 msgid "Zpět na ligy"
-msgstr ""
+msgstr "Повернутися до ліг"
 
 msgid "Registrace náhradníka"
-msgstr ""
+msgstr "Замінити реєстрацію"
 
 msgid "Akce"
-msgstr ""
+msgstr "Події"
 
 msgid "Začátečníci"
-msgstr ""
+msgstr "Початківці"
 
 msgid "Pokročilí"
-msgstr ""
+msgstr "Розширений"
 
 msgid "Mazáci"
-msgstr ""
+msgstr "Ви можете знайти цю категорію в інших категоріях."
 
 msgid "Ostatní akce"
-msgstr ""
+msgstr "Інші події не класифікуються в цих категоріях."
 
 msgid "Informace o lize"
-msgstr ""
+msgstr "Інформація про лігу"
 
 msgid "Organizuje"
-msgstr ""
+msgstr "Організатори"
 
 msgid "Seznam turnajů ligy."
-msgstr ""
+msgstr "Список турнірів ліги."
 
 msgid "Seznam turnajů ligy v kategorii %s."
-msgstr ""
+msgstr "Список турнірів ліги в категорії %s."
 
 msgid "Seznam dalších akcí pořádaných jako součást ligy."
-msgstr ""
+msgstr "Список інших подій, організованих в рамках ліги."
 
 msgid "Celkové výsledky ze všech turnajů v kategorii."
-msgstr ""
+msgstr "Сумарні результати з усіх турнірів категорії."
 
 msgid "Výhry"
-msgstr ""
+msgstr "Виграш"
 
 msgid "Remízy"
-msgstr ""
+msgstr "Зв'язки"
 
 msgid "Prohry"
-msgstr ""
+msgstr "Втрати"
 
 msgid "Body"
-msgstr ""
+msgstr "Тексти, які не належать до інших категорій."
 
 msgid "Průměrná herní úroveň"
-msgstr ""
+msgstr "Середній рівень гри"
 
 msgid "Statistiky týmu %s"
-msgstr ""
+msgstr "Статистика команд %s"
 
 msgid "Individuální výsledky"
-msgstr ""
+msgstr "Індивідуальні результати"
 
 msgctxt "pageTitles"
 msgid "%s - Registrace na ligu"
-msgstr ""
+msgstr "%s - Реєстрація в лізі"
 
 msgctxt "pageDescription"
 msgid "Registrace na ligu %s v %s."
-msgstr ""
+msgstr "Реєстрація на лігу %s в %s."
 
 msgid "Zpět"
-msgstr ""
+msgstr "Назад"
 
 msgid "Registrace týmu"
-msgstr ""
+msgstr "Реєстрація команд"
 
 msgid "Kategorie"
-msgstr ""
+msgstr "Категорія"
 
 msgid "Registrovat předchozí tým"
-msgstr ""
+msgstr "Зареєструвати попередню команду"
 
 msgid "Nový tým"
-msgstr ""
+msgstr "Інші категорії, які не є частиною цього сайту."
 
 msgid "Název týmu"
-msgstr ""
+msgstr "Назва команди"
 
 msgid "Logo týmu"
-msgstr ""
+msgstr "Логотип команди Лазерної ліги не відноситься до інших категорій."
 
 msgid "Kapitán"
-msgstr ""
+msgstr "Капітан"
 
 msgid "Kdo je kapitán?"
-msgstr ""
+msgstr "Хто такий капітан?"
 
 msgid "Kapitán je velmi důležitá část týmu. On bude pravděpodobně ten, který bude za tým všechno řešit a komunikovat.<br>Proto bývají jeho kontaktní údaje vyžadovány více než u ostatních hráčů."
-msgstr ""
+msgstr "Капітан - дуже важлива частина команди. Ймовірно, саме він буде тим, хто буде керувати всім і спілкуватися від імені команди.<br>Ось чому його контактна інформація зазвичай потрібна більше, ніж інших гравців."
 
 msgid "Registrovaný hráč"
-msgstr ""
+msgstr "Зареєстрований гравець"
 
 msgid "Co je to registrovaný hráč?"
-msgstr ""
+msgstr "Що таке зареєстрований гравець?"
 
 msgid "Registrovaný hráč, je takový boží tvor, který má založený účet v portálu LaserLiga a čerpá jeho výhody (jako například souhrnné statistiky, historii her...).<br>Registrovaný hráč, ale nebyl vždy registrovaným hráčem.<br>Stal se jím pomocí <a href=\"%s\" target=\"_blank\">odkazu</a> v právém horním rohu v menu."
-msgstr ""
+msgstr "Зареєстрований гравець - богоподібна істота, яка створила обліковий запис на порталі LaserLiga і користується його перевагами (такими як зведена статистика, історія ігор...).<br>Зареєстрований гравець, але не завжди зареєстрований гравець.<br>Він став ним, скориставшись <a href=\"%s\" target=\"_blank\">посиланням</a> у правому верхньому куті меню."
 
 msgid "Hledat hráče"
-msgstr ""
+msgstr "Пошук гравців"
 
 msgid "Hledat..."
-msgstr ""
+msgstr "Шукати..."
 
 msgid "Příjmení"
-msgstr ""
+msgstr "Прізвище"
 
 msgid "Přezdívka"
-msgstr ""
+msgstr "Нікнейм"
 
 msgid "Jak poznat dobrou přezdívku?"
-msgstr ""
+msgstr "Як вибрати гарний нікнейм?"
 
 msgid "Dobrá přezdívka je klíčovou součástí každého hráče.<br>Pokud přezdívku ještě nemáte, je dobré myslet na následující body:<ol><li><strong>Unikátní</strong> - Přezdívka není křestní jméno. Je jen vaše. Snažte se vyvarovat běžným přezdívkám jako <i>Terminátor</i>, ale i jménům jako <i>Honza</i>.</li><li><strong>Dobře vyslovitelná</strong> - Náhodná směť čísel a písmen také není ideální.</li><li><strong>Osobní</strong> - Přezdívka se vám musí líbit. Přemýšlejte nad tím, že vás ostatní hráči budou přezdívkou oslovovat.</li></ol>"
-msgstr ""
+msgstr "<br>Якщо у вас ще немає псевдоніма, варто пам'ятати про наступні пункти:<ol><li><strong>Унікальність</strong> - нікнейм - це не ім'я. Він ваш. Намагайтеся уникати поширених ніків на кшталт \" <i>Термінатор</i>\", а також імен на кшталт \" <i>Гонза</i>\".</li><li><strong>Добре вимовляється</strong> - випадкове поєднання цифр і букв також не є ідеальним.</li><li><strong>Особистий</strong> - нік повинен бути таким, який вам подобається. Подумайте про те, що інші гравці будуть називати вас за ніком.</li></ol>"
 
 msgid "E-mail zákonného zástupce"
-msgstr ""
+msgstr "E-mail законного представника"
 
 msgid "Vyplňte v případě, že hráč je mladší 15&nbsp;let."
-msgstr ""
+msgstr "Заповніть, якщо гравцеві менше 15&nbsp;років."
 
 msgid "Telefon zákonného zástupce"
-msgstr ""
+msgstr "Телефон законного представника"
 
 msgid "Herní úroveň hráče"
-msgstr ""
+msgstr "Ігровий рівень гравця"
 
 msgid "Jak poznám svou herní úroveň?"
-msgstr ""
+msgstr "Як дізнатися свій ігровий рівень?"
 
 msgid "Herní úroveň označuje odhadovanou schopnost hráče v aréně.<br>Pro registrované hráče se snaží odhadnout sama na základě jejich hodnocení."
-msgstr ""
+msgstr "Рівень гри - це оціночна здатність гравця на арені.<br>Для зареєстрованих гравців гра намагається оцінити себе на основі їхнього рейтингу."
 
 msgid "<strong>Začátečník</strong> je někdo, kdo má většinou odehráno jen pár her a v aréně se stále rozkoukává."
-msgstr ""
+msgstr "<strong>Початківець</strong> - це той, хто зазвичай зіграв лише кілька ігор і все ще вивчає арену."
 
 msgid "<strong>Částečně pokročilý</strong> už má pár her za sebou. Zvládá lépe střílet a neběhá jen slepě po aréně."
-msgstr ""
+msgstr "<strong>Напівпросунутий</strong> вже має кілька ігор за плечима. Він може краще стріляти і не просто бігає наосліп по арені."
 
 msgid "<strong>Pokročilý hráč</strong> většinou hraje alespoň trochu pravidelně. Nad svou hrou přemýšlí a nemá problém svůj cíl trefit i na větší vzdálenost."
-msgstr ""
+msgstr "<strong>Просунуті гравці</strong> зазвичай грають принаймні дещо регулярно. Він думає про свою гру і без проблем влучає в ціль навіть на великих відстанях."
 
 msgid "<strong>Profík</strong> je ztělesněním laseru samotného. Své cíle trefuje s chirurgicou přesností a aréna je jeho domovem. Někteří legendární střelcí prý ohýbají laser i za roh.<br>Každopádně je to pravidelný hráč s bohatou zkušeností."
-msgstr ""
+msgstr "<strong>Профі</strong> - це втілення самого лазера. Він вражає свої цілі з хірургічною точністю, а арена - його дім. Кажуть, що деякі легендарні стрільці огинають лазером кути.<br>Так чи інакше, він звичайний гравець з багатим досвідом."
 
 msgid "Částečně pokročilý"
-msgstr ""
+msgstr "Частково просунуті"
 
 msgid "Pokročilý"
-msgstr ""
+msgstr "Розширений"
 
 msgid "Profík"
-msgstr ""
+msgstr "Profík"
 
 msgid "Speciální tréninková akce"
-msgstr ""
+msgstr "Спеціальний навчальний захід"
 
 msgid "Informace o akci"
-msgstr ""
+msgstr "Інформація про подію"
 
 msgid "Automatické přihlášení na propojenou akci."
-msgstr ""
+msgstr "Автоматичний вхід на пов'язану подію."
 
 msgid "Náhradníci"
-msgstr ""
+msgstr "Замінники"
 
 msgid "nepovinné"
-msgstr ""
+msgstr "Необов'язково"
 
 msgid "Souhlasím se <a href=\"%s\" target=\"_blank\">zpracováním osobních údajů</a>"
-msgstr ""
+msgstr "Я даю згоду на <a href=\"%s\" target=\"_blank\">обробку персональних даних</a>"
 
 msgid "Nemáš tým, ale rád by sis zahrál? Nech nám na sebe kontakt a pokud pro tebe budeme mít tým, tak se ti ozveme."
-msgstr ""
+msgstr "Не маєте команди, але хотіли б грати? Залиште нам свою контактну інформацію, і якщо у нас є команда для вас, ми зв'яжемося з вами."
 
 msgid "Náhradník"
-msgstr ""
+msgstr "Альтернатива"
 
 msgctxt "pageTitles"
 msgid "Nástěnka hráče - %s"
-msgstr ""
+msgstr "Дошка гравців - %s"
 
 msgctxt "pageDescription"
 msgid "Profil a statistiky všech laser game her hráče %s"
-msgstr ""
+msgstr "Профіль і статистика всіх ігор лазерної гри, зіграних %s"
 
 msgid "Profil hráče %s na portálu Laser liga"
-msgstr ""
+msgstr "Профіль гравця %s на Laser liga"
 
 msgid "Herní kód hráče"
-msgstr ""
+msgstr "Ігровий код гравця"
 
 msgid "Tvůj kód %s je unikátní identifikátor, pod kterým tě aréna vždy při zadávání hry najde."
-msgstr ""
+msgstr "Ваш код %s - це унікальний ідентифікатор, за яким арена завжди знаходить вас, коли ви входите в гру."
 
 msgid "Upravit"
-msgstr ""
+msgstr "Редагувати"
 
 msgid "%s začal svou cestu laser game hráče svou první hrou %s."
-msgstr ""
+msgstr "%s Розпочав свій шлях гравця в лазерні ігри зі своєї першої гри %s."
 
 msgid "Od té doby má za sebou neuvěřitelných %d her!"
-msgstr ""
+msgstr "Відтоді він зіграв неймовірну кількість %d ігор!"
 
 msgid "Základní statistiky"
-msgstr ""
+msgstr "Основна статистика"
 
 msgid "Pozice v žebříčku"
-msgstr ""
+msgstr "Позиції в рейтингах"
 
 msgid "Herní úroveň se zvyšuje a klesá s každou odehranou klasickou hrou. Při výpočtu se přihlíží k úrovni protihráčů - pokud hrajete schválně se slabšími spoluhráči, herní úroveň roste pomalu."
-msgstr ""
+msgstr "Рівень гри збільшується і зменшується з кожною зіграною класичною грою. При розрахунку враховується рівень ваших опонентів - якщо ви навмисно граєте зі слабшими товаришами по команді, рівень гри зростає повільніше."
 
 msgid "Zobrazit statistiky domovské arény"
-msgstr ""
+msgstr "Переглянути статистику домашньої арени"
 
 msgid "Ocenění"
-msgstr ""
+msgstr "Нагороди"
 
 msgid "Souhrnné statistiky"
-msgstr ""
+msgstr "Зведена статистика"
 
 msgid "Poměr zabití a smrtí. Např. hodnota 2 znamená, že máš 2x tolik zásahů než smrtí."
-msgstr ""
+msgstr "Співвідношення вбивств до смертей. Наприклад, значення 2 означає, що у вас вдвічі більше вбивств, ніж смертей."
 
 msgid "Vývoj pozice v žebříčku"
-msgstr ""
+msgstr "Еволюція позиції в рейтингу"
 
 msgid "Souhrn herních schopností"
-msgstr ""
+msgstr "Короткий опис ігрових здібностей"
 
 msgid "Data v tomto grafu jsou uváděna v rozmezí 0-100."
-msgstr ""
+msgstr "Дані на цій діаграмі подано в діапазоні 0-100."
 
 msgid "K:D a počet zásahů je relativní. Hodnota 50 na grafu odpovídá obecnému průměru."
-msgstr ""
+msgstr "K:D та кількість переглядів є відносними. Значення 50 на графіку відповідає загальному середньому показнику."
 
 msgid "Výstřely za minutu"
-msgstr ""
+msgstr "Пострілів за хвилину"
 
 msgid "%s trendy zobrazují posun za poslední hry a měsíc."
-msgstr ""
+msgstr "%s Тренди показують зміну за останню гру та місяць."
 
 msgid "Za posledních 30 dní si se v žebříčku posunul/a nahoru. Jen tak dál!"
-msgstr ""
+msgstr "За останні 30 днів ви піднялися в рейтингу. Продовжуйте в тому ж дусі!"
 
 msgid "Za posledních 30 dní tě v žebříčku někdo přeskočil. Co takhle si jít zahrát?"
-msgstr ""
+msgstr "За останні 30 днів хтось випередив вас у рейтингу. Чому б тобі не піти пограти?"
 
 msgid "Za posledních 30 dní si se v žebříčku vůbec neposunul/a. Co takhle si jít zahrát a změnit to?"
-msgstr ""
+msgstr "За останні 30 днів ви зовсім не просунулися в рейтингу. Чому б вам не піти пограти і не змінити це?"
 
 msgid "Trofeje, které %s získal ve svých hrách. Trofeje jsou speciální ohodnocení, které vyjadřují úspěchy, kterých %s během hry dosáhl."
-msgstr ""
+msgstr "Трофеї, виграні %s у своїх іграх. Трофеї - це спеціальні нагороди, які представляють досягнення, яких %s досягнув під час гри."
 
 msgid "Všechny módy"
-msgstr ""
+msgstr "Усі режими"
 
 msgid "Jen klasické módy"
-msgstr ""
+msgstr "Тільки класичні режими"
 
 msgid "Ocenění jsou úspěchy získané během celé %s laser-hráčské kariéry. Odemčením většiny ocenění získá hráč nový titul na profil."
-msgstr ""
+msgstr "Нагороди - це досягнення, отримані протягом %s лазерної кар'єри гравця. Розблокувавши більшість нагород, гравець отримає новий титул у своєму профілі."
 
 msgid "Ocenění, která odemykají titul jsou označená:"
-msgstr ""
+msgstr "Нагороди, які розблоковують звання, позначені:"
 
 msgid "Získáno"
-msgstr ""
+msgstr "Отримано з"
 
 msgid "Ocenění získáno"
-msgstr ""
+msgstr "Отримані нагороди"
 
 msgid "Ocenění získalo %s hráčů"
-msgstr ""
+msgstr "Нагороду отримали гравці %s"
 
 msgid "Zbývající ocenění"
-msgstr ""
+msgstr "Решта нагород"
 
 msgid "Najít další hry"
-msgstr ""
+msgstr "Знайдіть інші ігри, які не належать до цих категорій."
 
 msgid "Sdílet profil hráče"
-msgstr ""
+msgstr "Поділитися профілем гравця"
 
 msgid "Statistiky hráče"
-msgstr ""
+msgstr "Статистика гравців"
 
 msgid "Kliknutím na tlačítko níže můžete stáhnout obrázek profilu, nebo profil sdílet."
-msgstr ""
+msgstr "Натисніть на кнопку нижче, щоб завантажити зображення профілю або поділитися профілем."
 
 msgid "Stáhnout obrázek"
-msgstr ""
+msgstr "Завантажити зображення"
 
 msgid "Nápověda?"
-msgstr ""
+msgstr "Допоможіть."
 
 msgid "Jak dostanu své hry do Laser ligy?"
-msgstr ""
+msgstr "Як мені додати свої ігри до Лазерної ліги?"
 
 msgid "Nové hry"
-msgstr ""
+msgstr "Нові ігри"
 
 msgid "Pokud jdu hrát v podporované aréně a mám registrovaný účet v Laser lize, můžu obsluze nahlásit své jméno (%s) nebo hráčský kód (%s). Obsluha si mě najde v systému a jakmile skončí hra, mám výsledky uložené na svém účtu."
-msgstr ""
+msgstr "Якщо я йду грати на підтримувану арену і маю зареєстрований акаунт Laser League, я можу повідомити оператору своє ім'я (%s) або код гравця (%s). Оператор знайде мене в системі, і після завершення гри результати будуть збережені в моєму акаунті."
 
 msgid "Staré hry"
-msgstr ""
+msgstr "Старі ігри"
 
 msgid "Mé staré hry si můžu také přiřadit na svůj účet v Laser lize."
-msgstr ""
+msgstr "Мої старі ігри також можуть бути приписані до мого акаунту Laser League."
 
 msgid "Potřebuji ale 2 věci:"
-msgstr ""
+msgstr "Але мені потрібні 2 речі:"
 
 msgid "Být přihlášený v aplikaci Laser liga"
-msgstr ""
+msgstr "Увійшовши в додаток Laser League"
 
 msgid "Najít své online výsledky"
-msgstr ""
+msgstr "Знайдіть свої онлайн-результати"
 
 msgid "Výsledky můžete mít naskenované přes QR kód na tištěných výsledcích, nebo můžete své výsledky najít na podle data na <a href=\"%s\">stránce arény</a> v záložce \"Všechny hry.\""
-msgstr ""
+msgstr "Результати можна відсканувати за допомогою QR-коду на роздрукованих результатах, або ви можете знайти свої результати за датою на <a href=\"%s\">сторінці арени</a> в розділі \"Всі ігри\"."
 
 msgid "Pokud otevřu výsledky ve kterých je hráč s mým jménem, zobrazí se vedle jména hráče tlačítko přiřadit. Po kliknutí na tlačítko se mi hra přiřadí do profilu."
-msgstr ""
+msgstr "Якщо я відкриваю результати з гравцем з моїм ім'ям, поруч з іменем гравця з'являється кнопка \"Призначити\". Коли я натискаю цю кнопку, гра призначається моєму профілю."
 
 msgid "Smrti od min"
-msgstr ""
+msgstr "Смерть від мін"
 
 msgid "%s k herní úrovni hráče"
-msgstr ""
+msgstr "%s до ігрового рівня гравця"
 
 msgid "Zohlednění vašich protihráčů. Pokud hrajete proti slabším, vaše herní úroveň se sníží. Naopak, pokud hrajete proti silným hráčům, vaše herní úroveň se zvýší."
-msgstr ""
+msgstr "Зображення ваших суперників. Якщо граєте проти слабших, ваш ігровий рівень знизиться. Навпаки, якщо граєте проти сильніших гравців, ваш ігровий рівень підвищиться."
 
 msgid "Srovnání s protihráči"
-msgstr ""
+msgstr "Порівняння із противниками"
 
 msgid "Zásahy protihráčů"
-msgstr ""
+msgstr "Інші категорії, які не є частиною цього сайту."
 
 msgid "Zásahy spoluhráčů"
-msgstr ""
+msgstr "Влучання напарників"
 
 msgid "Smrti od protihráčů"
-msgstr ""
+msgstr "Смерть від гравців суперника"
 
 msgid "Smrti od spoluhráčů"
-msgstr ""
+msgstr "Смерть від товаришів по команді"
 
 msgid "Nastavení profilu"
-msgstr ""
+msgstr "Налаштування профілю"
 
 msgctxt "pageTitles"
 msgid "Nastavení profilu hráče - %s"
-msgstr ""
+msgstr "Налаштування профілю гравця - %s"
 
 msgctxt "pageDescription"
 msgid "Nastavení osobních údajů a profilu hráče laser game - %s."
-msgstr ""
+msgstr "Налаштування персональних даних та профілю гравця лазерної гри - %s."
 
 msgid "Nastavení hráče"
-msgstr ""
+msgstr "Налаштування програвача"
 
 msgid "Unikátní kód hráče"
-msgstr ""
+msgstr "Унікальний код гравця"
 
 msgid "Avatar"
-msgstr ""
+msgstr "Аватар"
 
 msgid "Typ avatara"
-msgstr ""
+msgstr "Тип аватара"
 
 msgid "Vyberte"
-msgstr ""
+msgstr "Виберіть"
 
 msgctxt "avatar"
 msgid "Dobrodruh"
-msgstr ""
+msgstr "Вас не вказано в жодній категорії."
 
 msgctxt "avatar"
 msgid "Dobrodruh - obličej"
-msgstr ""
+msgstr "Шукач пригод - обличчя"
 
 msgctxt "avatar"
 msgid "Avataaar"
-msgstr ""
+msgstr "Avataaar"
 
 msgctxt "avatar"
 msgid "Avataaar - obličej"
-msgstr ""
+msgstr "Avataaar - обличчя"
 
 msgctxt "avatar"
 msgid "Ušáci"
-msgstr ""
+msgstr "Вуха"
 
 msgctxt "avatar"
 msgid "Ušáci - obličej"
-msgstr ""
+msgstr "Вуха - обличчя"
 
 msgctxt "avatar"
 msgid "Vysmátý"
-msgstr ""
+msgstr "Ви не віднесені до жодної категорії книг."
 
 msgctxt "avatar"
 msgid "Roboti"
-msgstr ""
+msgstr "Роботи"
 
 msgctxt "avatar"
 msgid "Roboti - obličej"
-msgstr ""
+msgstr "Роботи - обличчя"
 
 msgctxt "avatar"
 msgid "Čmáranice"
-msgstr ""
+msgstr "Каракулі"
 
 msgctxt "avatar"
 msgid "Čmáranice - obličej"
-msgstr ""
+msgstr "Каракулі - обличчя"
 
 msgctxt "avatar"
 msgid "Emoji"
-msgstr ""
+msgstr "Емодзі"
 
 msgctxt "avatar"
 msgid "Lorelei"
-msgstr ""
+msgstr "Лорелея"
 
 msgctxt "avatar"
 msgid "Lorelei - obličej"
-msgstr ""
+msgstr "Лорелей - обличчя"
 
 msgctxt "avatar"
 msgid "Micah"
-msgstr ""
+msgstr "Михей"
 
 msgctxt "avatar"
 msgid "Mini avataři"
-msgstr ""
+msgstr "Міні-аватари"
 
 msgctxt "avatar"
 msgid "Notionist"
-msgstr ""
+msgstr "Нонконформістський"
 
 msgctxt "avatar"
 msgid "Notionist - obličej"
-msgstr ""
+msgstr "Нонконформіст - обличчя"
 
 msgctxt "avatar"
 msgid "Lidičky"
-msgstr ""
+msgstr "Інші категорії не є частиною цього сайту."
 
 msgctxt "avatar"
 msgid "Persony"
-msgstr ""
+msgstr "Персоналії"
 
 msgctxt "avatar"
 msgid "Pixel art"
-msgstr ""
+msgstr "Піксельне мистецтво"
 
 msgctxt "avatar"
 msgid "Pixel art - obličej"
-msgstr ""
+msgstr "Піксельне мистецтво - обличчя"
 
 msgctxt "avatar"
 msgid "Palečky"
-msgstr ""
+msgstr "Ви можете знайти цю категорію в інших категоріях."
 
 msgid "Seed"
-msgstr ""
+msgstr "Посівний матеріал"
 
 msgid "Podle čeho se avatar generuje. Ideálně tvůj kód hráče, nebo přezdívka."
-msgstr ""
+msgstr "Те, на основі чого генерується аватар. В ідеалі - ваш код гравця або нікнейм."
 
 msgid "Uložit avatar"
-msgstr ""
+msgstr "Зберегти аватар"
 
 msgid "Titul"
-msgstr ""
+msgstr "Назва"
 
 msgctxt "rarity"
 msgid "Mýtický"
-msgstr ""
+msgstr "Міфічні"
 
 msgctxt "rarity"
 msgid "Vzácný"
-msgstr ""
+msgstr "Рідкісні"
 
 msgctxt "rarity"
 msgid "Legendární"
-msgstr ""
+msgstr "Легендарні"
 
 msgctxt "rarity"
 msgid "Epický"
-msgstr ""
+msgstr "Епос"
 
 msgctxt "rarity"
 msgid "Běžný"
-msgstr ""
+msgstr "Звичайні"
 
 msgctxt "rarity"
 msgid "Neobvyklý"
-msgstr ""
+msgstr "Незвичайні"
 
 msgid "Údaje"
-msgstr ""
+msgstr "Дані"
 
 msgid "Vaše jméno/přezdívka do hry."
-msgstr ""
+msgstr "Ваше ім'я/займенник у грі."
 
 msgid "Domovskou arénu sice vyplňovat nemusíte, ale pokud je na seznamu, doporučujeme jí vyplnit."
-msgstr ""
+msgstr "Домашню арену заповнювати не обов'язково, але якщо вона є у списку, рекомендуємо її заповнити."
 
 msgid "Změna hesla"
-msgstr ""
+msgstr "Змінити пароль"
 
 msgid "Aktuální heslo"
-msgstr ""
+msgstr "Поточний пароль"
 
 msgid "Nové heslo"
-msgstr ""
+msgstr "Новий пароль"
 
 msgid "Notifikace"
-msgstr ""
+msgstr "Сповіщення"
 
 msgid "Zapnout notifikace"
-msgstr ""
+msgstr "Увімкнути сповіщення"
 
 msgid "Obnovit notifikace"
-msgstr ""
+msgstr "Оновити сповіщення"
 
 msgid "Odeslat testovací notifikaci"
-msgstr ""
+msgstr "Надіслати сповіщення про перевірку"
 
 msgid "Ostatní"
-msgstr ""
+msgstr "Інше"
 
 msgctxt "pageTitles"
 msgid "Skupina - %s %s"
-msgstr ""
+msgstr "Група - %s %s"
 
 msgctxt "pageDescription"
 msgid "Všechny výsledky laser game skupiny %s v aréně - %s."
-msgstr ""
+msgstr "Всі результати лазерної гри в групі %s на арені - %s."
 
 msgid "Skupina - %s"
-msgstr ""
+msgstr "Група - %s"
 
 msgid "Průměrný počet výstřelů mimo"
-msgstr ""
+msgstr "Середня кількість пострілів"
 
 msgid "Celkem výstřelů mimo"
-msgstr ""
+msgstr "Загальна кількість пострілів"
 
 msgid "Průměrný počet zásahů do spoluhráčů"
-msgstr ""
+msgstr "Середня кількість наїздів на товаришів по команді"
 
 msgid "Celkem zásahů do spoluhráčů"
-msgstr ""
+msgstr "Загальна кількість наїздів на товаришів по команді"
 
 msgid "Průměrný počet smrtí od spoluhráčů"
-msgstr ""
+msgstr "Середня кількість смертей від товаришів по команді"
 
 msgid "Celkem smrtí od spoluhráčů"
-msgstr ""
+msgstr "Загальна кількість смертей від товаришів по команді"
 
 msgid "zásah proti sobě"
 msgid_plural "zásahů proti sobě"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
+msgstr[0] "битися з самим собою"
+msgstr[1] "удари один об одного"
+msgstr[2] "удари один об одного"
+msgstr[3] "удари один об одного"
 
 msgid "hře"
 msgid_plural "hrách"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
+msgstr[0] "Гра"
+msgstr[1] "Горох"
+msgstr[2] "Горох"
+msgstr[3] "Горох"
 
 msgid "zásah spolu"
 msgid_plural "zásahů spolu"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
+msgstr[0] "зіткнутися"
+msgstr[1] "збіги"
+msgstr[2] "збіги"
+msgstr[3] "збіги"
 
 msgid "smrt proti sobě"
 msgid_plural "smrtí proti sobě"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
+msgstr[0] "смерть проти самої себе"
+msgstr[1] "Смерть проти себе"
+msgstr[2] "Смерть проти себе"
+msgstr[3] "Смерть проти себе"
 
 msgid "smrt spolu"
 msgid_plural "smrtí spolu"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
+msgstr[0] "Смерть разом"
+msgstr[1] "Це не пов'язані категорії, але мають спільні смерті"
+msgstr[2] "Це не пов'язані категорії, але мають спільні смерті"
+msgstr[3] "Це не пов'язані категорії, але мають спільні смерті"
 
 msgid "Počet výher / Remíz / Proher"
-msgstr ""
+msgstr "Кількість перемог / нічиїх / поразок"
 
 msgid "Průměrné ohodnocení týmu"
-msgstr ""
+msgstr "Середній рейтинг команди"
 
 msgid "hra proti týmu"
 msgid_plural "her proti týmu"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
+msgstr[0] "Гра проти команди"
+msgstr[1] "ігри проти команди"
+msgstr[2] "ігри проти команди"
+msgstr[3] "ігри проти команди"
 
 msgid "zásah"
 msgid_plural "zásahů"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
+msgstr[0] "Хіт"
+msgstr[1] "влучань"
+msgstr[2] "влучань"
+msgstr[3] "влучань"
 
 msgid "smrt"
 msgid_plural "smrtí"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
+msgstr[0] "Смерть"
+msgstr[1] "смертністю"
+msgstr[2] "смертністю"
+msgstr[3] "смертністю"
 
 msgid "výhra"
 msgid_plural "výher"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
+msgstr[0] "Перемога"
+msgstr[1] "Перемога"
+msgstr[2] "Перемога"
+msgstr[3] "Перемога"
 
 msgid "remíza"
 msgid_plural "remíz"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
+msgstr[0] "нічия"
+msgstr[1] "Жеребкування"
+msgstr[2] "Жеребкування"
+msgstr[3] "Жеребкування"
 
 msgid "prohra"
 msgid_plural "proher"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
+msgstr[0] "Втрата"
+msgstr[1] "Інші категорії, які не входять до цієї категорії. proher"
+msgstr[2] "Інші категорії, які не входять до цієї категорії. proher"
+msgstr[3] "Інші категорії, які не входять до цієї категорії. proher"
 
 msgid "Logo"
-msgstr ""
+msgstr "Логотип"
 
 msgid "Pozadí"
-msgstr ""
+msgstr "Фон"
 
 msgid "Turnaj"
-msgstr ""
+msgstr "Турнір"
 
 msgid "Rozlosování"
-msgstr ""
+msgstr "З розкладом можна ознайомитися за посиланням"
 
 msgid "Domácí"
-msgstr ""
+msgstr "Головна сторінка"
 
 msgid "Hosté"
-msgstr ""
+msgstr "Гості"
 
 msgid "Tým %s"
-msgstr ""
+msgstr "Команда %s"
 
 msgid "%d. tým ze skupiny: %s"
-msgstr ""
+msgstr "%d. команда з групи: %s"
 
 msgid "Hra"
-msgstr ""
+msgstr "Гра"
 
 msgid "Žádná"
-msgstr ""
+msgstr "Ні"
 
 msgid "Nejlepší hráči"
-msgstr ""
+msgstr "Найкращі гравці"
 
 msgid "Nejpřesnější hráči"
-msgstr ""
+msgstr "Найточніші гравці"
 
 msgid "Největší mimoňi"
-msgstr ""
+msgstr "Інші категорії, які не є частиною цього сайту."
 
 msgid "Zabijáci vlastních"
-msgstr ""
+msgstr "Вбивці своїх же"
 
 msgid "Odehrané turnaje"
-msgstr ""
+msgstr "Зіграні турніри"
 
 msgid "Počet vzájemných her"
-msgstr ""
+msgstr "Кількість взаємних ігор"
 
 msgid "Tým 1"
-msgstr ""
+msgstr "Команда 1"
 
 msgid "Tým 2"
-msgstr ""
+msgstr "Команда 2"
 
 msgid "Tým 3"
-msgstr ""
+msgstr "Команда 3"
 
 msgctxt "gameModes"
 msgid "SHADOW"
-msgstr ""
+msgstr "ТІНЬ"
 
 msgctxt "gameModes"
 msgid "Týmový Survival"
-msgstr ""
+msgstr "Командне виживання"
 
 msgctxt "pageTitles"
 msgid "Portál pro hráče laser game"
-msgstr ""
+msgstr "Портал для гравців у лазерні ігри"
 
 msgctxt "pageDescription"
 msgid "Portál pro hráče laser game. Výsledky ze hry, turnaje, statistiky..."
-msgstr ""
+msgstr "Портал для гравців у лазерні ігри. Результати ігор, турніри, статистика..."
 
 msgid "Portál pro hráče laser game."
-msgstr ""
+msgstr "Портал для гравців у лазерні ігри."
 
 msgid "Registrovat"
-msgstr ""
+msgstr "Зареєструватися"
 
 msgid "Registrovaných hráčů"
-msgstr ""
+msgstr "Зареєстровані гравці"
 
 msgid "Zapojených arén"
-msgstr ""
+msgstr "Це не категорії інших сфер."
 
 msgid "Odehraných her"
-msgstr ""
+msgstr "Зіграні ігри"
 
 msgid "Organizovaných turnajů"
-msgstr ""
+msgstr "Організовані турніри"
 
 msgid "Obrázek ze hry laser game. Hráč skrčený za překážkou a nad ním laser jiného hráče, který po něm střílel."
-msgstr ""
+msgstr "Зображення з лазерної гри. Гравець присів за перешкодою, а над ним - лазер іншого гравця, який стріляє в нього."
 
 msgid "Co je to Laser liga?"
-msgstr ""
+msgstr "Що таке Laser League?"
 
 msgid "Laser liga je portál pro hráče laser game. Sjednocuje výsledky a poskytuje statistiky z několika arén po celém česku."
-msgstr ""
+msgstr "Лазерна ліга - це портал для гравців у лазерні ігри. Він консолідує результати та надає статистику з кількох арен по всій Чеській Республіці."
 
 msgid "Hráči soupeří o pozice v globálním žebříčku. Laser liga zároveň umožňuje arénám pořádat turnaje na kterých hráči poměřují své dovednosti s laserem."
-msgstr ""
+msgstr "Гравці змагаються за місця у світовому рейтингу. Laser League також дозволяє аренам проводити турніри, де гравці вимірюють свої навички за допомогою лазера."
 
 msgid "Tak na co čekáš?"
-msgstr ""
+msgstr "То на що ж ви чекаєте?"
 
 msgid "Zaregistruj se a hraj!"
-msgstr ""
+msgstr "Реєструйтеся та грайте!"
 
 msgid "Obrázek ze hry laser game. Dva hráči ve vestách, které svítí modře."
-msgstr ""
+msgstr "Зображення з лазерної гри. Двоє гравців у жилетах, що світяться синім кольором."
 
 msgid "Zapojené arény"
-msgstr ""
+msgstr "Споріднені сфери"
 
 msgid "Ačkoliv bychom chtěli, Laser ligu zatím nepodporují úplně všechny laser arény v česku. Snažíme se, ale naši komunitu hráčů laser game rozšířit."
-msgstr ""
+msgstr "Хоча ми хотіли б цього, Laser League ще не підтримується всіма лазерними аренами в Чеській Республіці. Ми намагаємося розширити нашу спільноту гравців у лазерні ігри."
 
 msgid "Chybí tu Vaše aréna? Řekněte jí, ať nás kontaktuje na e-mail: %s"
-msgstr ""
+msgstr "Ваша арена відсутня? Напишіть нам на адресу: %s"
 
 msgid "Jak to funguje?"
-msgstr ""
+msgstr "Як це працює?"
 
 msgid "Registruješ se"
-msgstr ""
+msgstr "Ви реєструєтесь"
 
 msgid "Při registraci si vybereš domovskou arénu, přezdívku a dostaneš přiřazený tvůj unikátní kód."
-msgstr ""
+msgstr "Під час реєстрації ви обираєте домашню арену, нікнейм і вам буде присвоєно унікальний код."
 
 msgid "Registrovat se"
-msgstr ""
+msgstr "Зареєструватися зараз"
 
 msgid "Hraješ ve tvé laser aréně"
-msgstr ""
+msgstr "Грайте на своїй лазерній арені"
 
 msgid "Obsluze nahlásíš, že jsi registrovaný a ona si tě najde pomocí tvé přezdívky, nebo kódu."
-msgstr ""
+msgstr "Ви повідомляєте оператору, що ви зареєстровані, і він знаходить вас за ніком або кодом."
 
 msgid "Podporované arény"
-msgstr ""
+msgstr "Підтримувані арени"
 
 msgid "Sbíráš statistiky"
-msgstr ""
+msgstr "Ви збираєте статистику"
 
 msgid "Hned po hře vidíš výsledky na svém profilu! Z her sbíráš body, které tě posouvají v žebříčku všech hráčů laser game."
-msgstr ""
+msgstr "Одразу після гри ви можете побачити результати у своєму профілі! З ігор ви збираєте бали, які просувають вас вгору в рейтингу всіх гравців лазерних ігор."
 
 msgid "Turnaje hráče"
-msgstr ""
+msgstr "Гравці турніру"
 
 msgctxt "pageTitles"
 msgid "Turnaje hráče - %s"
-msgstr ""
+msgstr "Гравці турніру - %s"
 
 msgctxt "pageTitles"
 msgid "Přihlášení"
-msgstr ""
+msgstr "Увійдіть"
 
 msgctxt "pageDescription"
 msgid "Přihlášení do systému Laser ligy."
-msgstr ""
+msgstr "Увійдіть до системи Лазерної ліги."
 
 msgid "Zatím odehrál %d her."
-msgstr ""
+msgstr "Поки що він грав у ігри %d ."
 
 msgid "Bronz"
-msgstr ""
+msgstr "Бронза"
 
 msgctxt "pageTitles"
 msgid "Žebříček"
-msgstr ""
+msgstr "Рейтинги"
 
 msgctxt "pageDescription"
 msgid "Žebříček všech hráčů laser game podle různých statistik."
-msgstr ""
+msgstr "Рейтинг усіх гравців лазерних ігор за різними статистичними даними."
 
 msgctxt "pageTitles"
 msgid "Seznam arén"
-msgstr ""
+msgstr "Список арен"
 
 msgctxt "pageDescription"
 msgid "Seznam všech laser game arén, registrovaných v LaserLize."
-msgstr ""
+msgstr "Список всіх лазерних ігрових арен, зареєстрованих в LaserLiga."
 
 msgid "Seznam laser arén"
-msgstr ""
+msgstr "Список лазерних арен"
 
 msgid "Laser arény zapojené v laser lize. Ve všech těchto arénách sbíráte výsledky do svého profilu."
-msgstr ""
+msgstr "Лазерні арени, що беруть участь у Лазерній лізі. На всіх цих аренах ви збираєте результати для свого профілю."
 
 msgid "Hry hráče"
-msgstr ""
+msgstr "Гравці в ігри"
 
 msgctxt "pageTitles"
 msgid "Hry hráče - %s"
-msgstr ""
+msgstr "Гравці в ігри - %s"
 
 msgctxt "pageDescription"
 msgid "Seznam všech her laser game hráče %s."
-msgstr ""
+msgstr "Список усіх гравців лазерної гри %s."
 
 msgid "Opravdu chcete hru odstranit z profilu?"
-msgstr ""
+msgstr "Ви дійсно хочете видалити гру зі свого профілю?"
 
 msgid "To nejsem já"
-msgstr ""
+msgstr "Це не я"
 
 msgid "%s zasáhli nejvíce spoluhráčů (%d)."
-msgstr ""
+msgstr "%s%dВони не віднесені до жодної іншої категорії."
 
 msgctxt "spojka"
 msgid "a"
-msgstr ""
+msgstr "a"
 
 msgid "%s začalo svou cestu laser game hráče svou první hrou %s."
-msgstr ""
+msgstr "%s %sЦе не пов'язано з жодною іншою категорією."
 
 msgid "Od té doby ještě nemá odehráno tolik her, ale každá cesta někde začíná."
-msgstr ""
+msgstr "З тих пір він зіграв не так багато ігор, але кожна подорож десь починається."
 
 msgid "Trofeje, které %s získalo ve svých hrách. Trofeje jsou speciální ohodnocení, které vyjadřují úspěchy, kterých %s během hry dosáhlo."
-msgstr ""
+msgstr "Трофеї, які %s виграв у своїх іграх. Трофеї - це спеціальні нагороди, які представляють досягнення, яких %s досягнув під час гри."
 
 msgid "Předchozí stránka"
-msgstr ""
+msgstr "Попередня сторінка"
 
 msgctxt "pageTitles"
 msgid "Statistiky týmu - %s"
-msgstr ""
+msgstr "Статистика команд - %s"
 
 msgctxt "pageDescription"
 msgid "Statistiky týmu %s hrající v lize %s."
-msgstr ""
+msgstr "Статистика команд %s , що грають у лізі %s."
 
 msgid "Tým %s se účastnil celkem %d turnaje"
 msgid_plural "Tým %s se účastnil celkem %d turnajů"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
+msgstr[0] "Команда %s брала участь у загальному турнірі %d"
+msgstr[1] "Команда %s взяла участь у загалом %d турнірах"
+msgstr[2] "Команда %s взяла участь у загалом %d турнірах"
+msgstr[3] "Команда %s взяла участь у загалом %d турнірах"
 
 msgid "odehrál %d hru"
 msgid_plural "odehrál %d her"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
+msgstr[0] "Зіграв у гру %d"
+msgstr[1] "Грали в ігри %d"
+msgstr[2] "Грали в ігри %d"
+msgstr[3] "Грали в ігри %d"
 
 msgid "a do celkové tabulky získal %d bod"
 msgid_plural "a do celkové tabulky získal %d bodů"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
+msgstr[0] "і %d зараховується бал у загальну таблицю"
+msgstr[1] "і %d зараховуються бали в загальну таблицю"
+msgstr[2] "і %d зараховуються бали в загальну таблицю"
+msgstr[3] "і %d зараховуються бали в загальну таблицю"
 
 msgid "Celkem skóre"
-msgstr ""
+msgstr "Загальна кількість балів"
 
 msgid "%s začala svou cestu laser game hráčky svou první hrou %s."
-msgstr ""
+msgstr "%s Гравці лазерної гри розпочали свій шлях з першої гри %s."
 
 msgid "Už stihla odehrát %d her."
-msgstr ""
+msgstr "Він вже встиг пограти в ігри %d ."
 
 msgid "Trofeje, které %s získala ve svých hrách. Trofeje jsou speciální ohodnocení, které vyjadřují úspěchy, kterých %s během hry dosáhla."
-msgstr ""
+msgstr "Трофеї, виграні %s у своїх іграх. Трофеї - це спеціальні нагороди, які представляють досягнення, яких %s досягнув під час гри."
 
 msgid "%s začalo svou cestu laser game hráče registrací do Laser ligy %s."
-msgstr ""
+msgstr "%s Я розпочав свій шлях гравця в лазерні ігри, зареєструвавшись на Laser League %s."
 
 msgid "Od té doby bohužel ještě nehrálo ani jednu hru."
-msgstr ""
+msgstr "На жаль, відтоді в ньому не було зіграно жодної гри."
 
 msgid "Hráč nemá zatím žádné hry"
-msgstr ""
+msgstr "У гравця ще немає ігор"
 
 msgid "Informace o turnaji laser game, který se odehrál %s v %s."
-msgstr ""
+msgstr "Інформація про турнір з лазерної гри, що відбувся %s в %s."
 
 msgid "Průměr"
-msgstr ""
+msgstr "Середній розмір"
 
 msgid "Maximum"
-msgstr ""
+msgstr "Максимум"
 
 msgid "Součet"
-msgstr ""
+msgstr "Джерело"
 
 msgid "Hry turnaje"
-msgstr ""
+msgstr "Ігрові турніри"
 
 msgctxt "pageDescription"
 msgid "Page not found"
-msgstr ""
+msgstr "Сторінку не знайдено"
 
 msgid "Žádné hry neodpovídají filtrům"
-msgstr ""
+msgstr "Немає фільтрів, що відповідають іграм"
 
 msgid "Algoritmus nepracuje se skórem, ale s herní úrovní hráče z dané hry."
-msgstr ""
+msgstr "Алгоритм працює не з рахунком, а з рівнем гри гравця у грі."
 
 msgid "Rozdíl k herní úrovni se počítá upraveným ELO algoritmem, který vyhodnocuje výsledky jednotlivých hráčů mezi sebou. Pro každého protihráče a spoluhráče vypočítá pravděpodobnost, že daného hráče porazíte a poté podle skutečných výsledků vás ohodnotí body. Porovnání se spoluhráči navíc nemá takovou váhu jako protihráči."
-msgstr ""
+msgstr "Різниця з ігровим рівнем обчислюється за допомогою модифікованого алгоритму ELO, який оцінює результати кожного гравця проти кожного. Для кожного опонента і товариша по команді він обчислює ймовірність перемоги над цим гравцем, а потім виставляє вам бали, виходячи з фактичних результатів. Причому порівняння з партнерами по команді не має такої ваги, як з опонентами."
 
 msgid "Algoritmus zároveň přihlíží k vyrovnání týmů a pokud jsou týmy nevyrovnané, upraví své hodnoty."
-msgstr ""
+msgstr "Алгоритм також враховує вирівнювання команд і коригує свої значення, якщо команди не вирівняні."
 
 msgid "V následujícím srovnání je několik hodnot. Nejdůležitější je ale šance na výhru a reálný výsledek. Pokud je reálný výsledek větší než šance na výhru, body získáváte. Pokud je menší, body ztrácíte. Jak moc bodů ztratíte určuje rozdíl v hodnotách šance na výhru a výsledku, ale i koeficient výhry."
-msgstr ""
+msgstr "У наведеному нижче порівнянні є кілька значень. Але найважливішими є шанс на перемогу та реальний результат. Якщо реальний результат більший за шанс на перемогу, ви отримуєте бали. Якщо менше - ви втрачаєте бали. Скільки балів ви втрачаєте, визначається різницею значень шансів на перемогу і результату, а також коефіцієнтом виграшу."
 
 msgid "Srovnání s jednotlivými hráči"
-msgstr ""
+msgstr "Порівняння з окремими гравцями"
 
 msgid "Šance na výhru nad hráčem"
-msgstr ""
+msgstr "Шанси на перемогу над гравцем"
 
 msgid "Reálný výsledek"
-msgstr ""
+msgstr "Реальний результат"
 
 msgid "Co to znamená?"
-msgstr ""
+msgstr "Що це означає?"
 
 msgid "Hodnota blízká 100% znamená definitivní výhru.<br>Hodnota blízká 50% je remíza (totožná herní úroveň).<br>Hodnota 0% je definitivní prohra."
-msgstr ""
+msgstr "Значення, близьке до 100%, означає однозначну перемогу.<br>Значення, близьке до 50%, означає нічию (однаковий рівень гри).<br>Значення 0% означає однозначну поразку."
 
 msgid "Koeficient výhry"
-msgstr ""
+msgstr "Коефіцієнт виграшу"
 
 msgid "Hodnota vypočítaná podle toho, jak jsou hráči vyrovnaní. Výsledná hodnota násobí počet bodů."
-msgstr ""
+msgstr "Значення, розраховане відповідно до того, наскільки збалансовані гравці. Отримане значення множиться на кількість балів."
 
 msgid "Získáno bodů z hráče"
-msgstr ""
+msgstr "Очки, отримані від гравців"
 
 msgid "aréna"
 msgid_plural "arén"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
+msgstr[0] "Арена"
+msgstr[1] "Арени"
+msgstr[2] "Арени"
+msgstr[3] "Арени"
 
 msgid "Najít hry"
-msgstr ""
+msgstr "Знайти ігри"
 
 msgctxt "pageTitles"
 msgid "Najít hry - %s"
-msgstr ""
+msgstr "Знайти ігри - %s"
 
 msgctxt "pageDescription"
 msgid "Najít další hry hráče pro přiřazení."
-msgstr ""
+msgstr "Знайдіть інших гравців для виконання завдання."
 
 msgid "Najít mé hry"
-msgstr ""
+msgstr "Знайти мої ігри"
 
 msgid "Zde se zobrazují všechny hry, které nemáte přiřazené k účtu, ale mohli by být vaše. Hry se párují podle domovské arény a přezdívky."
-msgstr ""
+msgstr "Тут показані всі ігри, які не прив'язані до вашого акаунту, але можуть бути вашими. Ігри підібрані за домашньою ареною та ніком."
 
 msgid "Opravdu chcete všechny hry přiřadit do profilu? Hry, které nechcete přiřadit musíte nejprve manuálně označit jako \"To nejsem já.\""
-msgstr ""
+msgstr "Ви дійсно хочете призначити всі ігри до профілю? Ігри, які ви не хочете призначати, повинні бути позначені вручну як \"Не я\"."
 
 msgid "Přivlastnit vše"
-msgstr ""
+msgstr "Підходять усі"
 
 msgid "Přivlastnit"
-msgstr ""
+msgstr "Запозичено у"
 
 msgid "Další Laser game účty"
-msgstr ""
+msgstr "Інші ігрові акаунти Лазерної ліги"
 
 msgid "Data v tomto grafu jsou uváděna v rozmezí 0-100%."
-msgstr ""
+msgstr "Дані на цьому графіку подано в діапазоні 0-100%."
 
 msgid "Umístění na grafu je relativní vůči ostatním hráčům a vyjadřuje váš percentil (kolik % hráčů je lepší, nebo horší, než váš průměr)."
-msgstr ""
+msgstr "Місце на графіку відносно інших гравців і являє собою ваш процентиль (на скільки % гравці кращі або гірші за вас у середньому)."
 
 msgid "Percentil"
-msgstr ""
+msgstr "Процентиль"
 
 msgid "Nejlepší %d %%"
 msgid_plural "Nejlepších %d %%"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
+msgstr[0] "Найкращий %d%%"
+msgstr[1] "Найкращі %d%%"
+msgstr[2] "Найкращі %d%%"
+msgstr[3] "Найкращі %d%%"
 
 msgid "%d výstřel za minutu"
 msgid_plural "%d výstřelů za minutu"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
+msgstr[0] "%d Це, зокрема, не споріднені категорії."
+msgstr[1] "%d Пострілів за хвилину"
+msgstr[2] "%d Пострілів за хвилину"
+msgstr[3] "%d Пострілів за хвилину"
 
 msgid "Nejhorší %d %%"
 msgid_plural "Nejhorších %d %%"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
+msgstr[0] "Найгірший %d%%"
+msgstr[1] "Найгірший %d%%"
+msgstr[2] "Найгірший %d%%"
+msgstr[3] "Найгірший %d%%"
 
 msgid "%.2f zásah za minutu"
 msgid_plural "%.2f zásahů za minutu"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
+msgstr[0] "%.2f переглядів за хвилину"
+msgstr[1] "%.2f переглядів за хвилину"
+msgstr[2] "%.2f переглядів за хвилину"
+msgstr[3] "%.2f переглядів за хвилину"
 
 msgid "%.2f smrt za minutu"
 msgid_plural "%.2f smrtí za minutu"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
+msgstr[0] "%.2f Смерть за хвилину"
+msgstr[1] "%.2f Смерть за хвилину"
+msgstr[2] "%.2f Смерть за хвилину"
+msgstr[3] "%.2f Смерть за хвилину"
 
 msgid "%.2f zásahů na jednu smrt"
-msgstr ""
+msgstr "%.2f удари до смерті"
 
 msgid "Zásahy:Smrti"
-msgstr ""
+msgstr "Влучання:Смерті"
 
 msgctxt "pageTitles"
 msgid "Zásady zpracování osobních údajů"
-msgstr ""
+msgstr "Політика обробки персональних даних"
 
 msgctxt "pageDescription"
 msgid "Popis zásad zpracování osobních údajů pro web LaserLiga.cz."
-msgstr ""
+msgstr "Опис політики обробки персональних даних для веб-сайту LaserLiga.cz."
 
 msgctxt "pageTitles"
 msgid "Registrace"
-msgstr ""
+msgstr "Реєстрація"
 
 msgctxt "pageDescription"
 msgid "Vytvořte si nový hráčský účet v systému Laser liga."
-msgstr ""
+msgstr "Створіть новий акаунт гравця в системі Laser League."
 
 msgid "Máte již účet?"
-msgstr ""
+msgstr "Ви вже маєте обліковий запис?"
 
 msgctxt "errors"
 msgid "Požadavek vypršel, zkuste znovu načíst stránku."
-msgstr ""
+msgstr "Термін дії запиту закінчився, спробуйте перезавантажити сторінку."
 
 msgid "Tým byl úspěšně registrován."
-msgstr ""
+msgstr "Команда успішно зареєстрована."
 
 msgid "Registrace týmu na turnaj - %s %s"
-msgstr ""
+msgstr "Реєстрація команд на турнір - %s %s"
 
 msgid "Nová registrace týmu na turnaj - %s %s"
-msgstr ""
+msgstr "Нова реєстрація команд на турнір - %s %s"
 
 msgid "Vaše registrace na turnaj"
-msgstr ""
+msgstr "Ваша реєстрація на турнір"
 
 msgid "Zákonný zástupce:"
-msgstr ""
+msgstr "Законний представник:"
 
 msgid "Platba"
-msgstr ""
+msgstr "Оплата"
 
 msgid "Upravit registraci"
-msgstr ""
+msgstr "Редагувати реєстрацію"
 
 msgid "Na turnaj:"
-msgstr ""
+msgstr "На турнір:"
 
 msgid "Úprava registrace"
-msgstr ""
+msgstr "Редагувати реєстрацію"
 
 msgctxt "pageTitles"
 msgid "%s - Úprava registrace na turnaj"
-msgstr ""
+msgstr "%s - Редагувати реєстрацію на турнір"
 
 msgid "Plánované akce"
-msgstr ""
+msgstr "Заплановані події"
 
 msgid "Žebříček"
-msgstr ""
+msgstr "Рейтинги"
 
 msgid "Herní úroveň"
-msgstr ""
+msgstr "Ігровий рівень"
 
 msgid "Zobrazit"
-msgstr ""
+msgstr "Переглянути"
 
 msgid "Hráči"
-msgstr ""
+msgstr "Гравці"
 
 msgid "Týmy"
-msgstr ""
+msgstr "Команди"
 
 msgid "Výsledky týmů"
-msgstr ""
+msgstr "Результати команд"
 
 msgid "Výsledky hráčů"
-msgstr ""
+msgstr "Результати гравців"
 
 msgid "Skóre"
-msgstr ""
+msgstr "Рахунок"
 
 msgid "Registrace"
-msgstr ""
+msgstr "Реєстрація"
 
 msgid "Jméno"
-msgstr ""
+msgstr "Ім'я"
 
 msgid "Skupina"
-msgstr ""
+msgstr "Група"
 
 msgid "Hráč"
-msgstr ""
+msgstr "Гравець"
 
 msgid "Výsledky ze hry"
-msgstr ""
+msgstr "Результати гри"
 
 msgid "%d místo"
 msgid_plural "%d místo"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
+msgstr[0] "%d Сайт"
+msgstr[1] "%d Сайт"
+msgstr[2] "%d Сайт"
+msgstr[3] "%d Сайт"
 
 msgid "%d skóre"
-msgstr ""
+msgstr "%d Оцінка"
 
 msgid "%.2f k herní úrovni"
-msgstr ""
+msgstr "%.2f до ігрового рівня"
 
 msgid "Datum"
-msgstr ""
+msgstr "Дата"
 
 msgid "Hudební módy"
-msgstr ""
+msgstr "Музичні режими"
 
 msgid "Ikona"
-msgstr ""
+msgstr "Іконка"
 
 msgid "Herní mód"
-msgstr ""
+msgstr "Ігровий режим"
 
 msgid "Filtrovat"
-msgstr ""
+msgstr "Фільтр"
 
 msgid "Odehráno her"
-msgstr ""
+msgstr "Зіграно ігор"
 
 msgid "Trofeje"
-msgstr ""
+msgstr "Трофеї"
 
 msgid "Smrtí"
-msgstr ""
+msgstr "Смертністю"
 
 msgid "K:D"
-msgstr ""
+msgstr "K:D"
 
 msgid "Přesnost"
-msgstr ""
+msgstr "Влучність"
 
 msgid "Zásahy"
-msgstr ""
+msgstr "Влучання"
 
 msgid "Smrti"
-msgstr ""
+msgstr "Смертність"
 
 msgid "Počet výstřelů"
-msgstr ""
+msgstr "Кількість пострілів"
 
 msgid "Poslední hry"
-msgstr ""
+msgstr "Останні ігри"
 
 msgid "Výstřelů"
-msgstr ""
+msgstr "Пострілами"
 
 msgid "Výstřely"
-msgstr ""
+msgstr "Постріли"
 
 msgid "Zadejte předzívku nebo kód hráče a vyberte ze seznamu."
-msgstr ""
+msgstr "Введіть нікнейм або код гравця і виберіть зі списку."
 
 msgid "Globální žebříček"
-msgstr ""
+msgstr "Глобальні рейтинги"
 
 msgid "Žebříček hráčů"
-msgstr ""
+msgstr "Рейтинг гравців"
 
 msgid "Zobrazit další"
-msgstr ""
+msgstr "Переглянути більше"
 
 msgid "Dnes"
-msgstr ""
+msgstr "Сьогодні"
 
 msgid "Turnaje"
-msgstr ""
+msgstr "Турніри"
 
 msgctxt "pageTitles"
 msgid "%s - Registrace na turnaj"
-msgstr ""
+msgstr "%s - Реєстрація на турнір"
 
 msgctxt "pageDescription"
 msgid "Registrace na turnaj %s v %s. Turnaj se odehrává %s od %s."
-msgstr ""
+msgstr "Реєстрація на турнір %s в %s. Турнір %s з %s."
 
 msgid "Odeslat"
-msgstr ""
+msgstr "Надсилати на адресу"
 
 msgctxt "trvání"
 msgid "%d minutu"
 msgid_plural "%d minut"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
+msgstr[0] "%d Щохвилини"
+msgstr[1] "%d Інші категорії, які не входять до цієї категорії."
+msgstr[2] "%d Інші категорії, які не входять до цієї категорії."
+msgstr[3] "%d Інші категорії, які не входять до цієї категорії."
 
 msgctxt "trvání"
 msgid "%d sekundu"
 msgid_plural "%d sekund"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
+msgstr[0] "%d Другий"
+msgstr[1] "%d Інші категорії, не призначені для цього сайту."
+msgstr[2] "%d Інші категорії, не призначені для цього сайту."
+msgstr[3] "%d Інші категорії, не призначені для цього сайту."
 
 msgid "Posun v žebříčku!"
-msgstr ""
+msgstr "Просуваємося в рейтингу!"
 
 msgid "Posunul si se o %d místo nahoru a teď jsi %s."
 msgid_plural "Posunul si se o %d míst nahoru a teď jsi %s"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
+msgstr[0] "Ви перемістилися на один %d замість вгору, і тепер ви %s."
+msgstr[1] "Ви піднялися на %d позицій і тепер ви %s"
+msgstr[2] "Ви піднялися на %d позицій і тепер ви %s"
+msgstr[3] "Ви піднялися на %d позицій і тепер ви %s"
 
 msgid "Přihlášení"
-msgstr ""
+msgstr "Увійдіть"
 
 msgctxt "errors"
 msgid "Jste člověk? Prosím načtěte stránku a vyplňte formulář znovu."
-msgstr ""
+msgstr "Ви людина? Будь ласка, перезавантажте сторінку і заповніть форму ще раз."
 
 msgid "Tvůj e-mail, není potvrzený. Zkontroluj svou schránku, nebo si nech potvrzovací e-mail"
-msgstr ""
+msgstr "Ваш e-mail не підтверджено. Перевірте свою поштову скриньку або залиште лист для підтвердження"
 
 msgid "Poslat znovu"
-msgstr ""
+msgstr "Надіслати ще раз"
 
 msgid "E-mail si můžeš změnit v "
-msgstr ""
+msgstr "Ви можете змінити свою електронну пошту в розділі "
 
 msgid "Remíza"
-msgstr ""
+msgstr "Нічия"
 
 msgid "Miny"
-msgstr ""
+msgstr "Мій"
 
 msgid "Zásah spoluhráče"
-msgstr ""
+msgstr "Влучання у напарника"
 
 msgid "Popis"
-msgstr ""
+msgstr "Опис"
 
 msgid "Výsledky turnaje"
-msgstr ""
+msgstr "Результати турніру"
 
 msgid "Tým"
-msgstr ""
+msgstr "Команда"
 
 msgid "Celkem se zúčastnilo 6 týmů. Týmy byli nakombinované z Píseckých mazáků, jednoho kroužkového týmu a dokonce přijel i tým z Říčanské arény.  Žádný tým nehrál špatně, i tým Říčany, přes neznalost vybavení, předvedli slušný výkon v naší nejsilnější kategorii."
-msgstr ""
+msgstr "Загалом у конкурсі взяло участь 6 команд. Були об'єднані команди з Пісека Мазака, одна кільцева команда і навіть команда з Ржичанської арени.  Жодна з команд не зіграла погано, навіть команда з Ржічани, незважаючи на відсутність обладнання, гідно виступила в нашій найсильнішій категорії."
 
 msgid "Do celoroční soutěže se každému týmu započítají body podle jejich celkového umístění na jednotlivých turnajích. Ještě nás čekají 2, takže o vítězi poháru stále není rozhodnuto a může se stát cokoliv."
-msgstr ""
+msgstr "У річному змаганні кожній команді нараховуватимуться бали відповідно до загального заліку в кожному турнірі. Попереду ще 2 турніри, тож володар кубка ще не визначений і все може статися."
 
 msgid "Atmosféra byla skvělá a my doufáme, že si to hráči užili, tak jako my. Budeme se těšit v létě 17.9.2023 na další kolo mazáků. Přihlášky jsou už otevřené, týmy se zaplaceným startovným trénují za 50 Kč / Hráč a trénink se vyplácí!"
-msgstr ""
-
-msgid "%s strávilo %s ve hře vypnuté."
-msgstr "%s Витратив %s у грі."
+msgstr "Атмосфера була чудовою, і ми сподіваємося, що гравцям сподобалося так само, як і нам. Будемо з нетерпінням чекати наступного раунду грізерів влітку 17.9.2023. Прийом заявок відкрито, команди з оплаченими вступними внесками тренуються за 50 крон / гравець і тренування оплачуються!"
 
 msgid "Probíhá automatické odhlášení"
-msgstr ""
+msgstr "Відбувається автоматичний вихід з системи"
 
 msgid "Odhlášení po 2 minutách neaktivity."
-msgstr ""
+msgstr "Вихід через 2 хвилини бездіяльності."
 
 msgid "Úvod"
-msgstr ""
+msgstr "Головна сторінка"
 
 msgid "Umístění"
-msgstr ""
+msgstr "Розташування"
 
 msgid "%s začal svou cestu laser game hráče registrací do Laser ligy %s."
-msgstr ""
+msgstr "%s Я розпочав свій шлях гравця в лазерні ігри, зареєструвавшись на Laser League %s."
 
 msgid "Od té doby bohužel ještě nehrál ani jednu hru."
-msgstr ""
+msgstr "На жаль, відтоді я не зіграв жодної гри."
 
 msgid "Turnaje hráče - %s"
-msgstr ""
+msgstr "Гравці турніру - %s"
 
 msgctxt "pageTitles"
 msgid "Zapomenuté heslo"
-msgstr ""
+msgstr "Забули пароль"
 
 msgctxt "pageDescription"
 msgid "Formulář pro obnovení zapomenutého hesla."
-msgstr ""
+msgstr "Форма відновлення забутого пароля."
 
 msgid "Pokud uživatel existuje, odeslali jsme vám e-mail s odkazem obnovu hesla."
-msgstr ""
+msgstr "Якщо користувач існує, ми надіслали вам лист із посиланням для відновлення пароля."
 
 msgid "LaserLiga ještě není připravená na 100%, proto se může stát, že email spadne do spamu."
-msgstr ""
+msgstr "LaserLiga ще не готова на 100%, тому може статися так, що лист потрапить до спаму."
 
 msgid "Zatím odehrálo %d her."
-msgstr ""
+msgstr "Наразі %d зіграних ігор."
 
 msgid "Už stihl odehrát %d her."
-msgstr ""
+msgstr "Вже встигли пограти в ігри %d ."
 
 msgid "Už stihlo odehrát %d her."
-msgstr ""
+msgstr "Вже встигли пограти в ігри %d ."
 
 msgid "Statistiky týmu - %s"
-msgstr ""
+msgstr "Статистика команд - %s"
 
 msgid "Avatara si nemůžeš přímo vybrat, ale generují se náhodně. Můžeš si vybrat z několika různých stylů a pokud chceš ovlivnit jaký avatar se vygeneruje, můžeš zkusit měnit seed."
-msgstr ""
+msgstr "Ви не можете безпосередньо вибрати аватар, але вони генеруються випадковим чином. Ви можете вибрати один з декількох різних стилів, і якщо ви хочете вплинути на те, який аватар буде згенеровано, ви можете спробувати змінити насіння."
 
 msgid "Oficiální zdroj stylu"
-msgstr ""
+msgstr "Офіційне джерело стилю"
 
 msgid "Další tituly odemkneš získáním ocenění."
-msgstr ""
+msgstr "Інші назви розблоковуються після отримання нагород."
 
 msgctxt "avatar"
 msgid "Dylan"
-msgstr ""
+msgstr "Ділан"
 
 msgid "Zadejte URL vašeho profilu ve formátu https://my.lasermaxx.com/profile/0000000000."
-msgstr ""
+msgstr "Введіть URL-адресу вашого профілю у форматі https://my.lasermaxx.com/profile/0000000000."
 
 msgid "Zadejte Váš kód hráče ve formátu 00-0-000."
-msgstr ""
+msgstr "Введіть код вашого плеєра у форматі 00-0-000."
 
 msgctxt "pageTitles"
 msgid "Hra nenalezena"
-msgstr ""
+msgstr "Гру не знайдено"
 
 msgctxt "pageDescription"
 msgid "Nepodařilo se nám najít výsledky z této hry."
-msgstr ""
+msgstr "Ми не змогли знайти результати цієї гри."
 
 msgid "Zatím odehrála %d her."
-msgstr ""
-
-msgid "Laserový závislák"
-msgstr "Laser Addict"
+msgstr "Наразі %d зіграних ігор."
 
 msgid "%d další hráč"
 msgid_plural "%d dalších hráčů"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
+msgstr[0] "%d Інші категорії, які не є частиною цього сайту."
+msgstr[1] "%d Інші категорії, які не є частиною цього сайту."
+msgstr[2] "%d Інші категорії, які не є частиною цього сайту."
+msgstr[3] "%d Інші категорії, які не є частиною цього сайту."
 
 msgid "První hra"
-msgstr ""
+msgstr "Перша гра"
 
 msgid "Poslední hra"
-msgstr ""
+msgstr "Остання гра"
 
 msgid "Odhlášený"
-msgstr ""
+msgstr "Вийшли з системи"
 
 msgid "Celkem se turnaje zůčastnilo 7 týmů, kteří se utkali často ve velmi vyrovnaných soubojích o medaile a body do celoroční soutěže. Do té se každému týmu započítají body podle jejich celkového umístění na jednotlivých turnajích. Ještě nás čekají 2, takže o vítězi poháru stále není rozhodnuto a může se stát cokoliv."
-msgstr ""
+msgstr "Загалом у турнірі взяли участь 7 команд, які змагалися у часто дуже запеклій боротьбі за медалі та бали за річний залік. Кожній команді будуть нараховані бали відповідно до їх загального місця в окремих турнірах. Попереду ще 2 турніри, тому переможець кубка ще не визначений і все може статися."
 
 msgid "Atmosféra byla skvělá a my doufáme, že si to hráči užili, tak jako my. Budeme se těšit v létě 30.7.2023 na další kolo začátečníků. Přihlášky jsou už otevřené, týmy se zaplaceným startovným trénují za 50 Kč / Hráč a trénink se vyplácí!"
-msgstr ""
+msgstr "Атмосфера була чудовою, і ми сподіваємося, що гравцям сподобалося так само, як і нам. Будемо з нетерпінням чекати наступного раунду новачків влітку 30.7.2023. Прийом заявок відкрито, команди з оплаченими вступними внесками тренуються за 50 крон / гравець і тренування оплачуються!"
 
 msgid "Turnaj se ještě nehrál"
-msgstr ""
+msgstr "Турнір ще не був зіграний"
 
 msgid "Vítěz"
-msgstr ""
+msgstr "Переможець"
 
 msgid "Společné hry"
-msgstr ""
+msgstr "Загальні ігри"
 
 msgid "Porovnat se mnou"
-msgstr ""
+msgstr "Порівняйте зі мною"
 
 msgid "Žádné společné hry"
-msgstr ""
+msgstr "Немає загальних ігор"
 
 msgid "Vzájmené hry %s a %s. Je zde vidět, kolik her spolu odehráli a jak moc proti sobě vyhrávají / prohrávají."
-msgstr ""
+msgstr "Споріднені ігри %s та %s. Тут показано, скільки ігор вони зіграли разом і скільки виграли/програли один одному."
 
 msgid "Spolu v týmu"
-msgstr ""
+msgstr "Разом у команді"
 
 msgid "Proti sobě - týmy"
-msgstr ""
+msgstr "Інші категорії, які не є частиною цього сайту."
 
 msgid "Proti sobě - solo"
-msgstr ""
+msgstr "Один проти одного - соло"
 
 msgid "Hry proti sobě"
-msgstr ""
+msgstr "Ігри один проти одного"
 
 msgid "Hry spolu v týmu"
-msgstr ""
+msgstr "Ігри разом у команді"
 
 msgid "Zásahy proti sobě"
-msgstr ""
+msgstr "Інтерференція один проти одного"
 
 msgid "Zásahy spolu v týmu"
-msgstr ""
+msgstr "Втручання разом у команді"
 
 msgid "Nepodařilo se odeslat e-mail"
-msgstr ""
+msgstr "Не вдалося надіслати електронного листа"
 
 msgid "Podařilo se ti získat nové ocenění!"
 msgid_plural "Podařilo se ti získat nová ocenění!"
@@ -2951,7 +2945,7 @@ msgstr "Надсилати електронні листи"
 
 msgctxt "results"
 msgid "Umístění"
-msgstr ""
+msgstr "Розташування"
 
 msgctxt "gameModes"
 msgid "Team Revolver"
