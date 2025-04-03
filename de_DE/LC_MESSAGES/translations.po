@@ -6,7 +6,7 @@ msgstr ""
 "Language-Team: German\n"
 "Last-Translator: Tomáš Vojík <vojik@wboy.cz>\n"
 "MIME-Version: 1.0\n"
-"PO-Revision-Date: 2025-04-02 17:06\n"
+"PO-Revision-Date: 2025-04-03 11:39\n"
 "POT-Creation-Date: \n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Project-Id-Version: laserarenacontrol\n"
@@ -101,7 +101,7 @@ msgstr "Schließen"
 
 msgctxt "leaderboard"
 msgid "Hráč"
-msgstr ""
+msgstr "Spieler"
 
 msgctxt "leaderboard"
 msgid "Mód"
@@ -109,7 +109,7 @@ msgstr ""
 
 msgctxt "leaderboard"
 msgid "Čas"
-msgstr ""
+msgstr "Zeit"
 
 msgctxt "leaderboard"
 msgid "Score"
@@ -165,7 +165,7 @@ msgstr ""
 
 msgctxt "action"
 msgid "Zavřít"
-msgstr ""
+msgstr "Schließen"
 
 msgctxt "form.errors"
 msgid "Toto pole je povinné"
@@ -208,7 +208,7 @@ msgstr ""
 
 msgctxt "actions"
 msgid "Smazat"
-msgstr ""
+msgstr "löschen"
 
 msgid "Průměrné ohodnocení hráče"
 msgstr ""
@@ -244,7 +244,7 @@ msgid "Výsledky"
 msgstr ""
 
 msgid "Hry"
-msgstr ""
+msgstr "Spiele"
 
 msgctxt "gameModes"
 msgid "T.M.A"
@@ -745,10 +745,10 @@ msgid "Sdílet"
 msgstr ""
 
 msgid "Trofej"
-msgstr ""
+msgstr "Trophäe"
 
 msgid "Vysvětlení hodnocení"
-msgstr ""
+msgstr "Erläuterung der Bewertung"
 
 msgid "Počet hráčů, který je lepší/horší než vy. Např. pokud jste v %s 10%%, znamená to, že 90%% hráčů mělo nižší hodnotu, než vy. %s 10 %% znamená, že 90 %% hráčů mělo vyšší hodnotu, než vy."
 msgstr ""
@@ -1040,7 +1040,7 @@ msgstr ""
 
 msgctxt "tournament.faq"
 msgid "Liga laser game je dlouhodobá soutěž skládající se z několika turnajů. Výsledky jsou vyhodnocovány z každého turnaje zvlášť, ale zároveň mezi turnaji. Na konci ligového období jsou vyhlášeny celkové výsledky."
-msgstr ""
+msgstr "Die Laser Game League ist ein Langzeitwettbewerb, der aus mehreren Turnieren besteht. Die Ergebnisse werden von jedem Turnier separat, aber gleichzeitig zwischen den Turnieren ausgewertet. Am Ende der Ligaperiode werden die Gesamtergebnisse bekannt gegeben."
 
 msgctxt "tournament.faq"
 msgid "Jak se zaregistruji na turnaj?"
@@ -1098,7 +1098,7 @@ msgstr ""
 
 msgctxt "leaderboard"
 msgid "Herní úroveň"
-msgstr ""
+msgstr "Ebene des Spiels"
 
 msgid "Za celou dobu"
 msgstr ""
@@ -1279,7 +1279,7 @@ msgstr ""
 
 msgctxt "pageTitles"
 msgid "Ligy laser game"
-msgstr ""
+msgstr "Laser League Spiel"
 
 msgctxt "pageDescription"
 msgid "Organizované laser game ligy - skupiny turnajů, které na sebe navazují."
@@ -1403,7 +1403,7 @@ msgid "Kapitán je velmi důležitá část týmu. On bude pravděpodobně ten, 
 msgstr ""
 
 msgid "Registrovaný hráč"
-msgstr ""
+msgstr "Registrierter Spieler"
 
 msgid "Co je to registrovaný hráč?"
 msgstr ""
@@ -1510,7 +1510,7 @@ msgid "Tvůj kód %s je unikátní identifikátor, pod kterým tě aréna vždy 
 msgstr ""
 
 msgid "Upravit"
-msgstr ""
+msgstr "Bearbeiten durch"
 
 msgid "%s začal svou cestu laser game hráče svou první hrou %s."
 msgstr ""
@@ -1648,16 +1648,16 @@ msgid "%s k herní úrovni hráče"
 msgstr ""
 
 msgid "Zohlednění vašich protihráčů. Pokud hrajete proti slabším, vaše herní úroveň se sníží. Naopak, pokud hrajete proti silným hráčům, vaše herní úroveň se zvýší."
-msgstr ""
+msgstr "Nehmen Sie Rücksicht auf Ihre Gegner. Wenn Sie gegen schwächere Spieler spielen, wird Ihr Spielniveau sinken. Umgekehrt wird Ihr Spielniveau steigen, wenn Sie gegen starke Spieler spielen."
 
 msgid "Srovnání s protihráči"
-msgstr ""
+msgstr "Vergleich mit Gegnern"
 
 msgid "Zásahy protihráčů"
 msgstr ""
 
 msgid "Zásahy spoluhráčů"
-msgstr ""
+msgstr "Einmischung von Mitspielern"
 
 msgid "Smrti od protihráčů"
 msgstr ""
@@ -1920,7 +1920,7 @@ msgstr[1] ""
 msgid "zásah"
 msgid_plural "zásahů"
 msgstr[0] ""
-msgstr[1] ""
+msgstr[1] "treffer"
 
 msgid "smrt"
 msgid_plural "smrtí"
@@ -2109,7 +2109,7 @@ msgid "Zatím odehrál %d her."
 msgstr ""
 
 msgid "Bronz"
-msgstr ""
+msgstr "Bronze"
 
 msgctxt "pageTitles"
 msgid "Žebříček"
@@ -2343,7 +2343,7 @@ msgid "%.2f zásahů na jednu smrt"
 msgstr ""
 
 msgid "Zásahy:Smrti"
-msgstr ""
+msgstr "Treffer:Todesfälle"
 
 msgctxt "pageTitles"
 msgid "Zásady zpracování osobních údajů"
@@ -2406,37 +2406,37 @@ msgid "Žebříček"
 msgstr ""
 
 msgid "Herní úroveň"
-msgstr ""
+msgstr "Ebene des Spiels"
 
 msgid "Zobrazit"
 msgstr ""
 
 msgid "Hráči"
-msgstr ""
+msgstr "Spieler"
 
 msgid "Týmy"
-msgstr ""
+msgstr "Teams"
 
 msgid "Výsledky týmů"
-msgstr ""
+msgstr "Team-Ergebnisse"
 
 msgid "Výsledky hráčů"
 msgstr ""
 
 msgid "Skóre"
-msgstr ""
+msgstr "Ergebnis"
 
 msgid "Registrace"
 msgstr ""
 
 msgid "Jméno"
-msgstr ""
+msgstr "Name"
 
 msgid "Skupina"
 msgstr ""
 
 msgid "Hráč"
-msgstr ""
+msgstr "Spieler"
 
 msgid "Výsledky ze hry"
 msgstr ""
@@ -2447,13 +2447,13 @@ msgstr[0] ""
 msgstr[1] ""
 
 msgid "%d skóre"
-msgstr ""
+msgstr "%d score"
 
 msgid "%.2f k herní úrovni"
 msgstr ""
 
 msgid "Datum"
-msgstr ""
+msgstr "Datum"
 
 msgid "Hudební módy"
 msgstr ""
@@ -2462,7 +2462,7 @@ msgid "Ikona"
 msgstr ""
 
 msgid "Herní mód"
-msgstr ""
+msgstr "Spielmodus"
 
 msgid "Filtrovat"
 msgstr ""
@@ -2477,28 +2477,28 @@ msgid "Smrtí"
 msgstr ""
 
 msgid "K:D"
-msgstr ""
+msgstr "K:D"
 
 msgid "Přesnost"
-msgstr ""
+msgstr "Genauigkeit"
 
 msgid "Zásahy"
-msgstr ""
+msgstr "Interventionen"
 
 msgid "Smrti"
-msgstr ""
+msgstr "Todesfälle"
 
 msgid "Počet výstřelů"
-msgstr ""
+msgstr "Anzahl der Schüsse"
 
 msgid "Poslední hry"
 msgstr ""
 
 msgid "Výstřelů"
-msgstr ""
+msgstr "Schüsse"
 
 msgid "Výstřely"
-msgstr ""
+msgstr "Schüsse"
 
 msgid "Zadejte předzívku nebo kód hráče a vyberte ze seznamu."
 msgstr ""
@@ -2572,7 +2572,7 @@ msgid "Miny"
 msgstr ""
 
 msgid "Zásah spoluhráče"
-msgstr ""
+msgstr "Mitspieler getroffen"
 
 msgid "Popis"
 msgstr ""
@@ -2581,7 +2581,7 @@ msgid "Výsledky turnaje"
 msgstr ""
 
 msgid "Tým"
-msgstr ""
+msgstr "Team"
 
 msgid "Celkem se zúčastnilo 6 týmů. Týmy byli nakombinované z Píseckých mazáků, jednoho kroužkového týmu a dokonce přijel i tým z Říčanské arény.  Žádný tým nehrál špatně, i tým Říčany, přes neznalost vybavení, předvedli slušný výkon v naší nejsilnější kategorii."
 msgstr ""
@@ -2693,7 +2693,7 @@ msgid "Turnaj se ještě nehrál"
 msgstr ""
 
 msgid "Vítěz"
-msgstr ""
+msgstr "Gewinner"
 
 msgid "Společné hry"
 msgstr ""
