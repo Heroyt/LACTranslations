@@ -3,7 +3,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language: uk_UA\n"
 "Language-Team: Ukrainian\n"
-"PO-Revision-Date: 2025-04-03 09:46\n"
+"PO-Revision-Date: 2025-04-03 11:53\n"
 "Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
 "Project-Id-Version: laserarenacontrol\n"
 "X-Crowdin-File: /master/highlights.pot\n"
@@ -15,71 +15,71 @@ msgstr ""
 
 msgctxt "hits"
 msgid "Hráči %s a %s se oba navzájem zasáhli %dx."
-msgstr ""
+msgstr "Гравці %s та %s обидва вдарили один одного %dx."
 
 msgctxt "trophy"
 msgid "%s si zasedl na %s"
-msgstr ""
+msgstr "%s сів на місце %s"
 
 msgctxt "hits"
 msgid "%s zasáhlo nejvíce spoluhráčů (%d)."
-msgstr ""
+msgstr "%s влучив у найбільшу кількість товаришів по команді (%d)."
 
 msgctxt "hits"
 msgid "%s bylo zasaženo nejvíce spoluhráči (%d)."
-msgstr ""
+msgstr "%s отримав найбільше ударів від товаришів по команді (%d)."
 
 msgctxt "hits"
 msgid "%s zasáhlo více spoluhráčů (%d), než protihráčů (%d)"
-msgstr ""
+msgstr "%s влучив у більше товаришів по команді (%d), ніж суперників (%d)"
 
 msgctxt "deaths"
 msgid "%s strávilo %s ve hře vypnuté."
-msgstr ""
+msgstr "%s Витратив %s у грі."
 
 msgctxt "hits"
 msgid "%s byli zasaženi nejvíce spoluhráči (%d)."
-msgstr ""
+msgstr "%s найбільше гравців у команді отримали по голові (%d)."
 
 msgctxt "trophy"
 msgid "%s byla pronásledovaná od %s"
-msgstr ""
+msgstr "%s його переслідували з %s"
 
 msgctxt "trophy"
 msgid "%s si zasedla na %s"
-msgstr ""
+msgstr "%s сів на %s"
 
 msgctxt "hits"
 msgid "%s zasáhl nejvíce spoluhráčů (%d)."
-msgstr ""
+msgstr "%s влучив у найбільшу кількість товаришів по команді (%d)."
 
 msgctxt "trophy"
 msgid "%s získává trofej: %s"
-msgstr ""
+msgstr "%s отримав трофей: %s"
 
 msgctxt "trophy"
 msgid "%s si zasedlo na %s"
-msgstr ""
+msgstr "%s %s"
 
 msgctxt "trophy"
 msgid "%s bylo pronásledováno od %s"
-msgstr ""
+msgstr "%s його переслідували з %s"
 
 msgctxt "deaths"
 msgid "%s strávila %s ve hře vypnutá. To je víc než polovina hry!"
-msgstr ""
+msgstr "%s Витратив %s у грі. Це більше половини гри!"
 
 msgctxt "hits"
 msgid "%s zasáhli nejvíce spoluhráčů (%d)."
-msgstr ""
+msgstr "%s влучив у найбільшу кількість товаришів по команді (%d)."
 
 msgctxt "deaths"
 msgid "%s strávil %s ve hře vypnutý."
-msgstr ""
+msgstr "%s Витратив %s у грі."
 
 msgctxt "trophy"
 msgid "%s byl pronásledovaný od %s"
-msgstr ""
+msgstr "%s його переслідували %s"
 
 msgctxt "hits"
 msgid "%s byla zasažena nejvíce spoluhráči (%d)."
@@ -87,131 +87,131 @@ msgstr "%s отримав найбільше ударів від товариш�
 
 msgctxt "deaths"
 msgid "%s strávila %s ve hře vypnutá."
-msgstr ""
+msgstr "%s Витратив %s у грі."
 
 msgctxt "hits"
 msgid "%s byl zasažen nejvíce spoluhráči (%d)."
-msgstr ""
+msgstr "%s отримав найбільше ударів від товаришів по команді (%d)."
 
 msgctxt "hits"
 msgid "%s zasáhlo svého spoluhráče %s vícekrát (%d), než kteréhokoliv protihráče"
-msgstr ""
+msgstr "%s вдарив свого товариша по команді %s більше разів (%d), ніж будь-який інший гравець суперника"
 
 msgctxt "hits"
 msgid "%s zasáhla nejvíce spoluhráčů (%d)."
-msgstr ""
+msgstr "%s влучив у найбільшу кількість товаришів по команді (%d)."
 
 msgctxt "hits"
 msgid "%s zasáhla více spoluhráčů (%d), než protihráčů (%d)"
-msgstr ""
+msgstr "%s влучив у більше товаришів по команді (%d), ніж суперників (%d)"
 
 msgctxt "deaths"
 msgid "%s zasáhlo více spoluhráčů, než protihráčů"
-msgstr ""
+msgstr "%s влучив у більше товаришів по команді, ніж суперників"
 
 msgctxt "deaths"
 msgid "%s strávil %s ve hře vypnutý. To je víc než polovina hry!"
-msgstr ""
+msgstr "%s Витратив %s у грі. Це більше половини гри!"
 
 msgctxt "evo5"
 msgid "%s získalo %.1fx tolik bonusů co ostatní."
-msgstr ""
+msgstr "%s отримав %.1fx більше бонусів, ніж інші."
 
 msgctxt "evo5"
 msgid "%s získal %.1fx tolik bonusů co ostatní."
-msgstr ""
+msgstr "%s отримав %.1fx більше бонусів, ніж інші."
 
 msgctxt "hits"
 msgid "%s zasáhlo hráče %s a %s stejněkrát (%d)"
-msgstr ""
+msgstr "%s вдарив гравців %s та %s однакову кількість разів (%d)"
 
 msgctxt "hits"
 msgid "%s zasáhla hráče %s a %s stejněkrát (%d)"
-msgstr ""
+msgstr "%s вдарив гравців %s та %s однакову кількість разів (%d)"
 
 msgctxt "hits"
 msgid "%s zasáhl hráče %s a %s stejněkrát (%d)"
-msgstr ""
+msgstr "%s вдарив гравців %s та %s однакову кількість разів (%d)"
 
 msgctxt "results"
 msgid "%s byl zasažen nejvíce spoluhráči (%d)."
-msgstr ""
+msgstr "%s отримав найбільше ударів від товаришів по команді (%d)."
 
 msgctxt "user"
 msgid "%s má %0.2fx lepší přesnost, než obvykle"
-msgstr ""
+msgstr "%s має %0.2fx кращу точність, ніж зазвичай."
 
 msgctxt "user"
 msgid "%s má %0.2fx více výstřelů za minutu, než obvykle"
-msgstr ""
+msgstr "%s робить у %0.2fразів більше пострілів за хвилину, ніж зазвичай"
 
 msgctxt "results"
 msgid "%s zasáhl nejvíce spoluhráčů (%d)."
-msgstr ""
+msgstr "%s влучив у найбільшу кількість товаришів по команді (%d)."
 
 msgctxt "results"
 msgid "%s bylo zasaženo nejvíce spoluhráči (%d)."
-msgstr ""
+msgstr "%s отримав найбільше ударів від товаришів по команді (%d)."
 
 msgctxt "pod"
 msgid "%s získalo %.1fx tolik bonusů co ostatní."
-msgstr ""
+msgstr "%s отримав %.1fx більше бонусів, ніж інші."
 
 msgctxt "results"
 msgid "%s zasáhlo nejvíce spoluhráčů (%d)."
-msgstr ""
+msgstr "%s влучив у найбільшу кількість товаришів по команді (%d)."
 
 msgctxt "deaths"
 msgid "%s strávilo %s ve hře vypnuté. To je víc než polovina hry!"
-msgstr ""
+msgstr "%s Витратив %s у грі. Це більше половини гри!"
 
 msgctxt "user"
 msgid "%s proti %s většinou prohrává, ale teď ho porazilo."
-msgstr ""
+msgstr "%s проти %s зазвичай програє, але зараз він його переміг."
 
 msgctxt "user"
 msgid "Týmové skóre"
-msgstr ""
+msgstr "Командні бали"
 
 msgctxt "user"
 msgid "%s proti %s většinou prohrává, ale teď jí porazilo."
-msgstr ""
+msgstr "%s Проти %s зазвичай програє, але зараз він її переміг."
 
 msgctxt "user"
 msgid "%s proti %s většinou prohrává, ale teď to porazilo."
-msgstr ""
+msgstr "%s проти %s зазвичай програє, але зараз він його переміг."
 
 msgctxt "results"
 msgid "%s byli zasaženi nejvíce spoluhráči (%d)."
-msgstr ""
+msgstr "%s найбільше гравців у команді отримали по голові (%d)."
 
 msgctxt "results"
 msgid "%s zasáhla nejvíce spoluhráčů (%d)."
-msgstr ""
+msgstr "%s влучив у найбільшу кількість товаришів по команді (%d)."
 
 msgctxt "user"
 msgid "%s a %s mají stejné skóre."
-msgstr ""
+msgstr "%s і %s мають однакову кількість балів."
 
 msgctxt "user"
 msgid "%s proti %s většinou prohrává, ale teď ho porazil."
-msgstr ""
+msgstr "%s проти %s зазвичай програє, але зараз він його переміг."
 
 msgctxt "user"
 msgid "%s proti %s většinou prohrává, ale teď to porazil."
-msgstr ""
+msgstr "%s Проти %s зазвичай програє, але зараз він його переміг."
 
 msgctxt "user"
 msgid "%s proti %s většinou prohrává, ale teď to porazila."
-msgstr ""
+msgstr "%s Проти %s зазвичай програє, але зараз вона перемогла."
 
 msgctxt "user"
 msgid "%s proti %s většinou prohrává, ale teď jí porazil."
-msgstr ""
+msgstr "%s проти %s зазвичай програє, але зараз він переміг її."
 
 msgctxt "pod"
 msgid "%s získala %.1fx tolik bonusů co ostatní."
-msgstr ""
+msgstr "%s отримав %.1fx більше бонусів, ніж інші."
 
 msgctxt "results"
 msgid "%s byla zasažena nejvíce spoluhráči (%d)."
