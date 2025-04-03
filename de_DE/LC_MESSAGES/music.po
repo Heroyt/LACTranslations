@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: laserarenacontrol\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
-"PO-Revision-Date: 2025-03-28 12:15\n"
+"PO-Revision-Date: 2025-04-03 11:39\n"
 
 msgid "Anime 2 (Vykyndr)"
 msgstr ""
@@ -74,7 +74,7 @@ msgid "Mortal kombat"
 msgstr ""
 
 msgid "Narozeniny"
-msgstr ""
+msgstr "Geburtstag"
 
 msgid "Piráti z karibiku"
 msgstr ""
