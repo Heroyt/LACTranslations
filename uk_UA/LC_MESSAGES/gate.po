@@ -6,7 +6,7 @@ msgstr ""
 "Language-Team: Ukrainian\n"
 "Last-Translator: Tomáš Vojík <vojik@wboy.cz>\n"
 "MIME-Version: 1.0\n"
-"PO-Revision-Date: 2025-04-03 09:46\n"
+"PO-Revision-Date: 2025-04-04 09:37\n"
 "POT-Creation-Date: 2021-12-01 12:05+0100\n"
 "Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
 "Project-Id-Version: laserarenacontrol\n"
@@ -44,7 +44,7 @@ msgstr ""
 
 msgctxt "screens.groups"
 msgid "Výsledky"
-msgstr ""
+msgstr "Результати"
 
 msgctxt "screens.description"
 msgid "Obrazovka zobrazující přiřazené vesty před hrou."
@@ -92,11 +92,11 @@ msgstr ""
 
 msgctxt "screens"
 msgid "Výsledky ze hry"
-msgstr ""
+msgstr "Результати гри"
 
 msgctxt "screens"
 msgid "Výsledky turnaje"
-msgstr ""
+msgstr "Результати турніру"
 
 msgctxt "screens.description"
 msgid "Obrazovka zobrazující dnešní nejlepší hráče a počet odehraných her."
@@ -223,7 +223,7 @@ msgstr ""
 
 msgctxt "settings"
 msgid "Název"
-msgstr ""
+msgstr "Назва"
 
 msgctxt "settings"
 msgid "URL název"
@@ -305,14 +305,14 @@ msgid "Nedostatečná data"
 msgstr ""
 
 msgid "Nejlepší hráči"
-msgstr ""
+msgstr "Найкращі гравці"
 
 msgid "Nejlepší skóre měsíce"
 msgstr ""
 
 msgctxt "topPlayers"
 msgid "Nejlepší skóre"
-msgstr ""
+msgstr "Найкращі результати"
 
 msgctxt "topPlayers"
 msgid "Nejlepší herní úroveň"
@@ -328,7 +328,7 @@ msgstr ""
 
 msgctxt "topPlayers"
 msgid "Nejlepší přesnost"
-msgstr ""
+msgstr "Найкраща точність"
 
 msgctxt "topPlayers"
 msgid "Nejvíc výstřelů"
