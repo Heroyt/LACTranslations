@@ -751,7 +751,7 @@ msgid "Vysvětlení hodnocení"
 msgstr "Explication de l'évaluation"
 
 msgid "Počet hráčů, který je lepší/horší než vy. Např. pokud jste v %s 10%%, znamená to, že 90%% hráčů mělo nižší hodnotu, než vy. %s 10 %% znamená, že 90 %% hráčů mělo vyšší hodnotu, než vy."
-msgstr "Le nombre de joueurs qui sont meilleurs/pires que vous. Par exemple, si vous êtes dans le %s 10%%, cela signifie que 90% des joueurs ont une valeur inférieure à la vôtre. %s 10%% signifie que 90% des joueurs avaient une valeur supérieure à la vôtre."
+msgstr "Le nombre de joueurs qui sont meilleurs/pires que vous. Par exemple, si vous êtes dans le %s 10%%, cela signifie que 90%% des joueurs ont une valeur inférieure à la vôtre. %s 10%% signifie que 90%% des joueurs avaient une valeur supérieure à la vôtre."
 
 msgctxt "distribution"
 msgid "Nejlepší"
