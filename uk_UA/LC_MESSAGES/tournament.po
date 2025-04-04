@@ -6,7 +6,7 @@ msgstr ""
 "Language-Team: Ukrainian\n"
 "Last-Translator: Tomáš Vojík <vojik@wboy.cz>\n"
 "MIME-Version: 1.0\n"
-"PO-Revision-Date: 2025-04-03 09:46\n"
+"PO-Revision-Date: 2025-04-04 09:37\n"
 "POT-Creation-Date: 2021-12-01 12:05+0100\n"
 "Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
 "Project-Id-Version: laserarenacontrol\n"
@@ -25,16 +25,16 @@ msgid "Všechny"
 msgstr ""
 
 msgid "Turnaj"
-msgstr ""
+msgstr "Турнір"
 
 msgid "Začátek"
-msgstr ""
+msgstr "Почати"
 
 msgid "Domácí"
-msgstr ""
+msgstr "Головна сторінка"
 
 msgid "Hosté"
-msgstr ""
+msgstr "Гості"
 
 msgid "Skupina"
 msgstr "Група"
@@ -43,13 +43,13 @@ msgid "Týmy"
 msgstr "Команди"
 
 msgid "Rozlosování"
-msgstr ""
+msgstr "З розкладом можна ознайомитися за посиланням"
 
 msgid "Hrát"
 msgstr ""
 
 msgid "Výsledky"
-msgstr ""
+msgstr "Результати"
 
 msgid "Výsledková tabule"
 msgstr ""
@@ -64,7 +64,7 @@ msgid "Skóre"
 msgstr "Рахунок"
 
 msgid "Body"
-msgstr ""
+msgstr "Тексти, які не належать до інших категорій."
 
 msgid "Nový turnaj"
 msgstr ""
@@ -76,7 +76,7 @@ msgid "Turnaj XYZ"
 msgstr ""
 
 msgid "Formát"
-msgstr ""
+msgstr "Формат"
 
 msgid "Týmový"
 msgstr ""
@@ -121,25 +121,25 @@ msgid "Synchronizovat"
 msgstr ""
 
 msgid "Plánované turnaje"
-msgstr ""
+msgstr "Заплановані турніри"
 
 msgid "Týmů ve hře: %d"
 msgstr ""
 
 msgid "Výhry"
-msgstr ""
+msgstr "Виграш"
 
 msgid "Remízy"
-msgstr ""
+msgstr "Зв'язки"
 
 msgid "Prohry"
-msgstr ""
+msgstr "Втрати"
 
 msgid "Odehrané turnaje"
-msgstr ""
+msgstr "Зіграні турніри"
 
 msgid "Název týmu"
-msgstr ""
+msgstr "Назва команди"
 
 msgctxt "team.player"
 msgid "Jméno"
@@ -147,15 +147,15 @@ msgstr "Ім'я"
 
 msgctxt "team.player"
 msgid "Příjmení"
-msgstr ""
+msgstr "Прізвище"
 
 msgctxt "team.player"
 msgid "Přezdívka"
-msgstr ""
+msgstr "Нікнейм"
 
 msgctxt "team.player"
 msgid "Náhradník"
-msgstr ""
+msgstr "Альтернатива"
 
 msgid "Přidat tým"
 msgstr ""
@@ -164,10 +164,10 @@ msgid "Typ turnaje"
 msgstr ""
 
 msgid "Počet vzájemných her"
-msgstr ""
+msgstr "Кількість взаємних ігор"
 
 msgid "Délka hry"
-msgstr ""
+msgstr "Тривалість гри"
 
 msgctxt "game_length"
 msgid "v minutách"
@@ -186,7 +186,7 @@ msgid "Maximální počet kol baráže"
 msgstr ""
 
 msgid "Počet her"
-msgstr ""
+msgstr "Кількість ігор"
 
 msgid "Předpokládaná délka turnaje"
 msgstr ""
@@ -204,16 +204,16 @@ msgid "Smazat rozlosování"
 msgstr ""
 
 msgid "Tým 1"
-msgstr ""
+msgstr "Команда 1"
 
 msgid "Tým 2"
-msgstr ""
+msgstr "Команда 2"
 
 msgid "Tým 3"
-msgstr ""
+msgstr "Команда 3"
 
 msgid "Tým 4"
-msgstr ""
+msgstr "Команда 4"
 
 msgid "Celkem her"
 msgstr ""
@@ -228,14 +228,14 @@ msgid "Hráč"
 msgstr "Гравець"
 
 msgid "Nejpřesnější hráči"
-msgstr ""
+msgstr "Найточніші гравці"
 
 msgid "Největší mimoňi"
-msgstr ""
+msgstr "Інші категорії, які не є частиною цього сайту."
 
 msgid "Výstřely"
 msgstr "Постріли"
 
 msgid "Zabijáci vlastních"
-msgstr ""
+msgstr "Вбивці своїх же"
 

@@ -6,7 +6,7 @@ msgstr ""
 "Language-Team: French\n"
 "Last-Translator: Tomáš Vojík <vojik@wboy.cz>\n"
 "MIME-Version: 1.0\n"
-"PO-Revision-Date: 2025-03-28 12:14\n"
+"PO-Revision-Date: 2025-04-03 16:41\n"
 "POT-Creation-Date: 2021-12-01 12:05+0100\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "Project-Id-Version: laserarenacontrol\n"
@@ -30,7 +30,7 @@ msgstr "Arguments"
 
 msgctxt "help.arguments"
 msgid "A command to get information about."
-msgstr ""
+msgstr "Une commande pour obtenir des informations sur."
 
 msgctxt "messages"
 msgid "Examples"
@@ -38,7 +38,7 @@ msgstr "Exemples"
 
 msgctxt "help.arguments"
 msgid "A valid results directory"
-msgstr ""
+msgstr "Un répertoire de résultats valide"
 
 msgctxt "messages"
 msgid "Information"
@@ -70,17 +70,17 @@ msgstr "Impossible de trouver des fichiers de traduction dans \"%s\" pour la lan
 
 msgctxt "help.arguments"
 msgid "If set, only the records with specified tags will be removed"
-msgstr ""
+msgstr "Si cette option est activée, seuls les enregistrements contenant les balises spécifiées seront supprimés."
 
 msgctxt "help.arguments"
 msgid "A language directory from the other project."
-msgstr ""
+msgstr "Un répertoire de langues de l'autre projet."
 
 msgctxt "help.arguments"
 msgid "A comma separated list of context names to skip while merging."
-msgstr ""
+msgstr "Une liste de noms de contexte séparés par des virgules à ignorer lors de la fusion."
 
 msgctxt "errors"
 msgid "Insufficient data for game mode: %s (#%d)"
-msgstr ""
+msgstr "Données insuffisantes pour le mode de jeu : %s (#%d)"
 

@@ -6,7 +6,7 @@ msgstr ""
 "Language-Team: French\n"
 "Last-Translator: Tomáš Vojík <vojik@wboy.cz>\n"
 "MIME-Version: 1.0\n"
-"PO-Revision-Date: 2025-03-28 12:14\n"
+"PO-Revision-Date: 2025-04-03 16:41\n"
 "POT-Creation-Date: 2021-12-01 12:05+0100\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "Project-Id-Version: laserarenacontrol\n"
@@ -18,224 +18,224 @@ msgstr ""
 
 msgctxt "vests"
 msgid "Přerozdělit"
-msgstr ""
+msgstr "Redistribuer"
 
 msgctxt "vests"
 msgid "Všechny"
-msgstr ""
+msgstr "Tous"
 
 msgid "Turnaj"
-msgstr ""
+msgstr "Tournoi"
 
 msgid "Začátek"
-msgstr ""
+msgstr "Début à"
 
 msgid "Domácí"
-msgstr ""
+msgstr "Accueil"
 
 msgid "Hosté"
-msgstr ""
+msgstr "Invités"
 
 msgid "Skupina"
-msgstr ""
+msgstr "Groupe"
 
 msgid "Týmy"
-msgstr ""
+msgstr "Équipes"
 
 msgid "Rozlosování"
-msgstr ""
+msgstr "Dessin"
 
 msgid "Hrát"
-msgstr ""
+msgstr "Jouer"
 
 msgid "Výsledky"
-msgstr ""
+msgstr "Résultats"
 
 msgid "Výsledková tabule"
-msgstr ""
+msgstr "Tableau des résultats"
 
 msgid "Pořadí"
-msgstr ""
+msgstr "Commande"
 
 msgid "Tým"
-msgstr ""
+msgstr "Équipe"
 
 msgid "Skóre"
-msgstr ""
+msgstr "Score"
 
 msgid "Body"
-msgstr ""
+msgstr "Corps du texte"
 
 msgid "Nový turnaj"
-msgstr ""
+msgstr "Nouveau tournoi"
 
 msgid "Název turnaje"
-msgstr ""
+msgstr "Nom du tournoi"
 
 msgid "Turnaj XYZ"
-msgstr ""
+msgstr "Tournoi XYZ"
 
 msgid "Formát"
-msgstr ""
+msgstr "Format"
 
 msgid "Týmový"
-msgstr ""
+msgstr "En équipe"
 
 msgid "Sólo"
-msgstr ""
+msgstr "En solo"
 
 msgid "Začátek turnaje"
-msgstr ""
+msgstr "Début du tournoi"
 
 msgid "Velikost týmu"
-msgstr ""
+msgstr "Taille de l'équipe"
 
 msgid "Týmů ve hře"
-msgstr ""
+msgstr "Les équipes dans le jeu"
 
 msgid "Body za výhru"
-msgstr ""
+msgstr "Points pour la victoire"
 
 msgid "Body za remízu"
-msgstr ""
+msgstr "Points en cas d'égalité"
 
 msgid "Body za prohru"
-msgstr ""
+msgstr "Points à perdre"
 
 msgid "Poslední místo. Ve hře 3 týmů je to 3. místo, ve hře čtyř týmů je to 4. místo."
-msgstr ""
+msgstr "Dernier message. Dans une partie à 3 équipes, c'est la 3e place, dans une partie à 4 équipes, c'est la 4e place."
 
 msgid "Body za druhé místo"
-msgstr ""
+msgstr "Points pour la deuxième place"
 
 msgid "Jen pro hru 3 a 4 týmů ve hře."
-msgstr ""
+msgstr "Uniquement pour le jeu à 3 et 4 équipes."
 
 msgid "Body za třetí místo"
-msgstr ""
+msgstr "Points pour la troisième place"
 
 msgid "Jen pro hru 4 týmů ve hře."
-msgstr ""
+msgstr "Uniquement pour un jeu de 4 équipes dans le jeu."
 
 msgid "Synchronizovat"
-msgstr ""
+msgstr "Synchronisation"
 
 msgid "Plánované turnaje"
-msgstr ""
+msgstr "Tournois programmés"
 
 msgid "Týmů ve hře: %d"
-msgstr ""
+msgstr "Équipes en jeu : %d"
 
 msgid "Výhry"
-msgstr ""
+msgstr "Tiré de"
 
 msgid "Remízy"
-msgstr ""
+msgstr "Dessins"
 
 msgid "Prohry"
-msgstr ""
+msgstr "Tiré de"
 
 msgid "Odehrané turnaje"
-msgstr ""
+msgstr "Tournois joués"
 
 msgid "Název týmu"
-msgstr ""
+msgstr "Nom de l'équipe"
 
 msgctxt "team.player"
 msgid "Jméno"
-msgstr ""
+msgstr "Nom"
 
 msgctxt "team.player"
 msgid "Příjmení"
-msgstr ""
+msgstr "Nom de famille"
 
 msgctxt "team.player"
 msgid "Přezdívka"
-msgstr ""
+msgstr "Surnom"
 
 msgctxt "team.player"
 msgid "Náhradník"
-msgstr ""
+msgstr "Alternatif"
 
 msgid "Přidat tým"
-msgstr ""
+msgstr "Ajouter une équipe"
 
 msgid "Typ turnaje"
-msgstr ""
+msgstr "Type de tournoi"
 
 msgid "Počet vzájemných her"
-msgstr ""
+msgstr "Nombre de parties entre pairs"
 
 msgid "Délka hry"
-msgstr ""
+msgstr "Durée du jeu"
 
 msgctxt "game_length"
 msgid "v minutách"
-msgstr ""
+msgstr "en minutes"
 
 msgid "Přestávka mezi hrami"
-msgstr ""
+msgstr "Pause entre les jeux"
 
 msgid "Čas na začátku turnaje"
-msgstr ""
+msgstr "Heure de début du tournoi"
 
 msgid "Počet her na tým v základní skupině"
-msgstr ""
+msgstr "Nombre de matchs par équipe dans le groupe de base"
 
 msgid "Maximální počet kol baráže"
-msgstr ""
+msgstr "Nombre maximal de tirs de barrage"
 
 msgid "Počet her"
-msgstr ""
+msgstr "Nombre de jeux"
 
 msgid "Předpokládaná délka turnaje"
-msgstr ""
+msgstr "Durée estimée du tournoi"
 
 msgid "Předpokládaný počet her na tým"
-msgstr ""
+msgstr "Estimation du nombre de matchs par équipe"
 
 msgid "Předpokládaný čas ve hře na tým"
-msgstr ""
+msgstr "Temps de jeu estimé par équipe"
 
 msgid "Turnaj už byl rozlosován"
-msgstr ""
+msgstr "Le tournoi a déjà été tiré au sort"
 
 msgid "Smazat rozlosování"
-msgstr ""
+msgstr "Supprimer le dessin"
 
 msgid "Tým 1"
-msgstr ""
+msgstr "Équipe 1"
 
 msgid "Tým 2"
-msgstr ""
+msgstr "Équipe 2"
 
 msgid "Tým 3"
-msgstr ""
+msgstr "Équipe 3"
 
 msgid "Tým 4"
-msgstr ""
+msgstr "Équipe 4"
 
 msgid "Celkem her"
-msgstr ""
+msgstr "Total des jeux"
 
 msgid "Celkové"
-msgstr ""
+msgstr "Dans l'ensemble"
 
 msgid "Individální"
-msgstr ""
+msgstr "Individuel"
 
 msgid "Hráč"
-msgstr ""
+msgstr "Joueur"
 
 msgid "Nejpřesnější hráči"
-msgstr ""
+msgstr "Les joueurs les plus précis"
 
 msgid "Největší mimoňi"
-msgstr ""
+msgstr "Les plus grandes valeurs aberrantes"
 
 msgid "Výstřely"
-msgstr ""
+msgstr "Tirs"
 
 msgid "Zabijáci vlastních"
-msgstr ""
+msgstr "Des tueurs à leur solde"
 
