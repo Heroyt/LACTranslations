@@ -75,10 +75,6 @@ msgctxt "leaderboard"
 msgid "Shots"
 msgstr "Tirs"
 
-msgctxt "gameModes"
-msgid "100 nábojů"
-msgstr "100 munitions"
-
 msgctxt "actions"
 msgid "Začít"
 msgstr "Commencer"
