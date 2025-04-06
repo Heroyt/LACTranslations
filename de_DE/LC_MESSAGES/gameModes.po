@@ -1,0 +1,105 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: de_DE\n"
+"Language-Team: German\n"
+"Last-Translator: Tomáš Vojík <vojik@wboy.cz>\n"
+"MIME-Version: 1.0\n"
+"PO-Revision-Date: 2025-04-06 12:13\n"
+"POT-Creation-Date: 2025-04-06 12:13\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: laserarenacontrol\n"
+"X-Crowdin-File: /master/gameModes.pot\n"
+"X-Crowdin-File-ID: 96\n"
+"X-Crowdin-Language: de\n"
+"X-Crowdin-Project: laserarenacontrol\n"
+"X-Crowdin-Project-ID: 515800\n"
+"X-Generator: Poedit 3.0.1\n"
+
+msgid "Team deathmach"
+msgstr "Mannschaft deathmatch"
+
+msgid "Základny"
+msgstr "Basis"
+
+msgid "CSGO"
+msgstr "CSGO"
+
+msgid "Deathmach"
+msgstr "Deathmatch"
+
+msgid "100 nábojů"
+msgstr "100 Kugeln"
+
+msgid "Barvičky"
+msgstr "Sie können finden"
+
+msgid "Survival"
+msgstr "Überleben"
+
+msgid "T.M.A - solo"
+msgstr "T.M.A - solo"
+
+msgid "Apokalypsa"
+msgstr "Apokalypse"
+
+msgid "T.M.A"
+msgstr "T.M.A"
+
+msgid "Team Survival"
+msgstr "Team Überleben"
+
+msgid "Marco Polo"
+msgstr "Marco Polo"
+
+msgid "Zombie"
+msgstr "Zombie"
+
+msgid "TTT"
+msgstr "TTT"
+
+msgid "Rambo"
+msgstr "Rambo"
+
+msgid "Chraň VIP"
+msgstr "VIP beschützen"
+
+msgid "Revolver"
+msgstr "Revolver"
+
+msgid "Marco polo"
+msgstr "Marco Polo"
+
+msgid "Ulov medvídka"
+msgstr "Einen Bären fangen"
+
+msgid "Schovka"
+msgstr "Die Box"
+
+msgid "Last man standing"
+msgstr "Der letzte Mann im Ring"
+
+msgid "Slepá bába"
+msgstr "Blinde Oma"
+
+msgid "SHADOW"
+msgstr "SCHATTEN"
+
+msgid "Týmový Survival"
+msgstr "Team Überleben"
+
+msgid "Team deathmatch"
+msgstr "Team Deathmatch"
+
+msgid "Deathmatch"
+msgstr "Deathmatch"
+
+msgid "Kámen, Nůžky, Papír"
+msgstr "Stein, Schere, Papier"
+
+msgid "Team Revolver"
+msgstr "Team Revolver"
+
+msgid "Gladiátor"
+msgstr "Gladiator"

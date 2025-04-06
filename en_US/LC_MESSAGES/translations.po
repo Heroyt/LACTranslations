@@ -71,22 +71,6 @@ msgstr "Games list"
 msgid "Hra neexistuje!"
 msgstr "Game does not exist!"
 
-msgctxt "gameModes"
-msgid "Team deathmach"
-msgstr "Team deathmach"
-
-msgctxt "gameModes"
-msgid "Základny"
-msgstr "Base defence"
-
-msgctxt "gameModes"
-msgid "CSGO"
-msgstr "CSGO"
-
-msgctxt "gameModes"
-msgid "Deathmach"
-msgstr "Deathmach"
-
 msgctxt "errors"
 msgid "Uploaded file is too large"
 msgstr "Uploaded file is too large"
@@ -131,10 +115,6 @@ msgctxt "leaderboard"
 msgid "Shots"
 msgstr "Shots"
 
-msgctxt "gameModes"
-msgid "100 nábojů"
-msgstr "100 ammo"
-
 msgctxt "actions"
 msgid "Začít"
 msgstr "Begin"
@@ -171,14 +151,6 @@ msgctxt "form.errors"
 msgid "Toto pole je povinné"
 msgstr "This field is required"
 
-msgctxt "gameModes"
-msgid "Barvičky"
-msgstr "Color madness"
-
-msgctxt "gameModes"
-msgid "Survival"
-msgstr "Survival"
-
 msgctxt "vests.status"
 msgid "V pořádku"
 msgstr "OK"
@@ -190,14 +162,6 @@ msgstr "Broken"
 msgctxt "vests.status"
 msgid "Hratelná"
 msgstr "Playable"
-
-msgctxt "gameModes"
-msgid "T.M.A - solo"
-msgstr "T.M.A - solo"
-
-msgctxt "gameModes"
-msgid "Apokalypsa"
-msgstr "Apocalypse"
 
 msgid "Filtry"
 msgstr "Filters"
@@ -245,22 +209,6 @@ msgstr "Results"
 
 msgid "Hry"
 msgstr "Games"
-
-msgctxt "gameModes"
-msgid "T.M.A"
-msgstr "T.M.A"
-
-msgctxt "gameModes"
-msgid "Team Survival"
-msgstr "Team Survival"
-
-msgctxt "gameModes"
-msgid "Marco Polo"
-msgstr "Marco Polo"
-
-msgctxt "gameModes"
-msgid "Zombie"
-msgstr "Zombie"
 
 msgctxt "team.names"
 msgid "Red team"
@@ -1133,42 +1081,6 @@ msgstr "All"
 msgid "Klasické módy"
 msgstr "Classic modes"
 
-msgctxt "gameModes"
-msgid "TTT"
-msgstr "TTT"
-
-msgctxt "gameModes"
-msgid "Rambo"
-msgstr "Rambo"
-
-msgctxt "gameModes"
-msgid "Chraň VIP"
-msgstr "Protect the VIP"
-
-msgctxt "gameModes"
-msgid "Revolver"
-msgstr "Revolver"
-
-msgctxt "gameModes"
-msgid "Marco polo"
-msgstr "Marco Polo"
-
-msgctxt "gameModes"
-msgid "Ulov medvídka"
-msgstr "Catch a teddy"
-
-msgctxt "gameModes"
-msgid "Schovka"
-msgstr "Hide and seek"
-
-msgctxt "gameModes"
-msgid "Last man standing"
-msgstr "Last man standing"
-
-msgctxt "gameModes"
-msgid "Slepá bába"
-msgstr "Blind man's buff"
-
 msgid "Smazat filtr"
 msgstr "Clear filter"
 
@@ -1999,14 +1911,6 @@ msgstr "2nd team"
 msgid "Tým 3"
 msgstr "3rd team"
 
-msgctxt "gameModes"
-msgid "SHADOW"
-msgstr "SHADOW"
-
-msgctxt "gameModes"
-msgid "Týmový Survival"
-msgstr "Team Survival"
-
 msgctxt "pageTitles"
 msgid "Portál pro hráče laser game"
 msgstr "Portal for laser game players"
@@ -2788,18 +2692,6 @@ msgstr "I agree to the <a href=\"%s\" target=\"_blank\">privacy policy</a>."
 msgid "Správa arény"
 msgstr "Arena admin"
 
-msgctxt "gameModes"
-msgid "Team deathmatch"
-msgstr "Team deathmatch"
-
-msgctxt "gameModes"
-msgid "Deathmatch"
-msgstr "Deathmatch"
-
-msgctxt "gameModes"
-msgid "Kámen, Nůžky, Papír"
-msgstr "Rock, Paper, Scissors"
-
 msgid "Fotky"
 msgstr "Photos"
 
@@ -2878,14 +2770,6 @@ msgstr "Send Emails"
 msgctxt "results"
 msgid "Umístění"
 msgstr "Ranking"
-
-msgctxt "gameModes"
-msgid "Team Revolver"
-msgstr "Team Revolver"
-
-msgctxt "gameModes"
-msgid "Gladiátor"
-msgstr "Gladiator"
 
 msgctxt "gender-male"
 msgid "Odeslal"

@@ -1,0 +1,105 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: es_ES\n"
+"Language-Team: Spanish\n"
+"Last-Translator: Tomáš Vojík <vojik@wboy.cz>\n"
+"MIME-Version: 1.0\n"
+"PO-Revision-Date: 2025-04-06 12:13\n"
+"POT-Creation-Date: 2025-04-06 12:13\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: laserarenacontrol\n"
+"X-Crowdin-File: /master/gameModes.pot\n"
+"X-Crowdin-File-ID: 96\n"
+"X-Crowdin-Language: es-ES\n"
+"X-Crowdin-Project: laserarenacontrol\n"
+"X-Crowdin-Project-ID: 515800\n"
+"X-Generator: Poedit 3.0.1\n"
+
+msgid "Team deathmach"
+msgstr ""
+
+msgid "Základny"
+msgstr "Bases"
+
+msgid "CSGO"
+msgstr "CSGO"
+
+msgid "Deathmach"
+msgstr ""
+
+msgid "100 nábojů"
+msgstr ""
+
+msgid "Barvičky"
+msgstr ""
+
+msgid "Survival"
+msgstr "Survival"
+
+msgid "T.M.A - solo"
+msgstr ""
+
+msgid "Apokalypsa"
+msgstr ""
+
+msgid "T.M.A"
+msgstr ""
+
+msgid "Team Survival"
+msgstr ""
+
+msgid "Marco Polo"
+msgstr ""
+
+msgid "Zombie"
+msgstr ""
+
+msgid "TTT"
+msgstr ""
+
+msgid "Rambo"
+msgstr ""
+
+msgid "Chraň VIP"
+msgstr ""
+
+msgid "Revolver"
+msgstr ""
+
+msgid "Marco polo"
+msgstr ""
+
+msgid "Ulov medvídka"
+msgstr ""
+
+msgid "Schovka"
+msgstr ""
+
+msgid "Last man standing"
+msgstr ""
+
+msgid "Slepá bába"
+msgstr ""
+
+msgid "SHADOW"
+msgstr ""
+
+msgid "Týmový Survival"
+msgstr ""
+
+msgid "Team deathmatch"
+msgstr "Team deathmatch"
+
+msgid "Deathmatch"
+msgstr "Deathmatch"
+
+msgid "Kámen, Nůžky, Papír"
+msgstr "Piedra, tijera, papel"
+
+msgid "Team Revolver"
+msgstr "Equipo Revolver"
+
+msgid "Gladiátor"
+msgstr "Gladiador"

@@ -71,22 +71,6 @@ msgstr "Liste des jeux"
 msgid "Hra neexistuje!"
 msgstr "Le jeu n'existe pas!"
 
-msgctxt "gameModes"
-msgid "Team deathmach"
-msgstr "Match à mort en équipe"
-
-msgctxt "gameModes"
-msgid "Základny"
-msgstr "Défense de Base"
-
-msgctxt "gameModes"
-msgid "CSGO"
-msgstr "CSGO"
-
-msgctxt "gameModes"
-msgid "Deathmach"
-msgstr "Match à mort"
-
 msgctxt "errors"
 msgid "Uploaded file is too large"
 msgstr "Le fichier téléversé est trop volumineux"
@@ -131,10 +115,6 @@ msgctxt "leaderboard"
 msgid "Shots"
 msgstr "Tirs"
 
-msgctxt "gameModes"
-msgid "100 nábojů"
-msgstr "100 munitions"
-
 msgctxt "actions"
 msgid "Začít"
 msgstr "Commencer"
@@ -171,14 +151,6 @@ msgctxt "form.errors"
 msgid "Toto pole je povinné"
 msgstr "Ce champ est obligatoire"
 
-msgctxt "gameModes"
-msgid "Barvičky"
-msgstr "Conquête des couleurs"
-
-msgctxt "gameModes"
-msgid "Survival"
-msgstr "Survie"
-
 msgctxt "vests.status"
 msgid "V pořádku"
 msgstr "Ce n'est pas grave."
@@ -190,14 +162,6 @@ msgstr "Ne fonctionne pas"
 msgctxt "vests.status"
 msgid "Hratelná"
 msgstr "Jouable"
-
-msgctxt "gameModes"
-msgid "T.M.A - solo"
-msgstr "T.M.A - solo"
-
-msgctxt "gameModes"
-msgid "Apokalypsa"
-msgstr "Apocalypse"
 
 msgid "Filtry"
 msgstr "Filtres"
@@ -245,22 +209,6 @@ msgstr "Résultats"
 
 msgid "Hry"
 msgstr "Jeux"
-
-msgctxt "gameModes"
-msgid "T.M.A"
-msgstr "T.M.A"
-
-msgctxt "gameModes"
-msgid "Team Survival"
-msgstr "Survie en équipe"
-
-msgctxt "gameModes"
-msgid "Marco Polo"
-msgstr "Marco Polo"
-
-msgctxt "gameModes"
-msgid "Zombie"
-msgstr "Zombie"
 
 msgctxt "team.names"
 msgid "Red team"
@@ -1133,42 +1081,6 @@ msgstr "Toutes les"
 msgid "Klasické módy"
 msgstr "Modes classiques"
 
-msgctxt "gameModes"
-msgid "TTT"
-msgstr "TTT"
-
-msgctxt "gameModes"
-msgid "Rambo"
-msgstr "Rambo"
-
-msgctxt "gameModes"
-msgid "Chraň VIP"
-msgstr "Protéger VIP"
-
-msgctxt "gameModes"
-msgid "Revolver"
-msgstr "Revolver"
-
-msgctxt "gameModes"
-msgid "Marco polo"
-msgstr "Marco polo"
-
-msgctxt "gameModes"
-msgid "Ulov medvídka"
-msgstr "Attraper un ours"
-
-msgctxt "gameModes"
-msgid "Schovka"
-msgstr "Masquer"
-
-msgctxt "gameModes"
-msgid "Last man standing"
-msgstr "Dernier homme debout"
-
-msgctxt "gameModes"
-msgid "Slepá bába"
-msgstr "Grand-mère aveugle"
-
 msgid "Smazat filtr"
 msgstr "Supprimer le filtre"
 
@@ -1999,14 +1911,6 @@ msgstr "Équipe 2"
 msgid "Tým 3"
 msgstr "Équipe 3"
 
-msgctxt "gameModes"
-msgid "SHADOW"
-msgstr "OMBRE"
-
-msgctxt "gameModes"
-msgid "Týmový Survival"
-msgstr "Équipe de survie"
-
 msgctxt "pageTitles"
 msgid "Portál pro hráče laser game"
 msgstr "Portail pour les joueurs de laser game"
@@ -2788,18 +2692,6 @@ msgstr "J'accepte la <a href=\"%s\" target=\"_blank\">politique de confidentiali
 msgid "Správa arény"
 msgstr "Gestion des arènes"
 
-msgctxt "gameModes"
-msgid "Team deathmatch"
-msgstr "Match à mort en équipe"
-
-msgctxt "gameModes"
-msgid "Deathmatch"
-msgstr "Deathmatch"
-
-msgctxt "gameModes"
-msgid "Kámen, Nůžky, Papír"
-msgstr "Pierre, ciseaux, papier"
-
 msgid "Fotky"
 msgstr "Photos"
 
@@ -2878,14 +2770,6 @@ msgstr "Envoyer des e-mails"
 msgctxt "results"
 msgid "Umístění"
 msgstr "Position"
-
-msgctxt "gameModes"
-msgid "Team Revolver"
-msgstr "Équipe Revolver"
-
-msgctxt "gameModes"
-msgid "Gladiátor"
-msgstr "Gladiateur"
 
 msgctxt "gender-male"
 msgid "Odeslal"

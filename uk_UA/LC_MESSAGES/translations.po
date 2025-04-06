@@ -71,22 +71,6 @@ msgstr "Список ігор"
 msgid "Hra neexistuje!"
 msgstr "Гра не існує!"
 
-msgctxt "gameModes"
-msgid "Team deathmach"
-msgstr "Команда deathmach"
-
-msgctxt "gameModes"
-msgid "Základny"
-msgstr "База"
-
-msgctxt "gameModes"
-msgid "CSGO"
-msgstr "ОГС"
-
-msgctxt "gameModes"
-msgid "Deathmach"
-msgstr "Deathmach"
-
 msgctxt "errors"
 msgid "Uploaded file is too large"
 msgstr "Завантажений файл занадто великий"
@@ -131,10 +115,6 @@ msgctxt "leaderboard"
 msgid "Shots"
 msgstr "Постріли"
 
-msgctxt "gameModes"
-msgid "100 nábojů"
-msgstr "100 куль"
-
 msgctxt "actions"
 msgid "Začít"
 msgstr "Почати"
@@ -171,14 +151,6 @@ msgctxt "form.errors"
 msgid "Toto pole je povinné"
 msgstr "Це поле є обов'язковим для заповнення."
 
-msgctxt "gameModes"
-msgid "Barvičky"
-msgstr "Ви можете знайти"
-
-msgctxt "gameModes"
-msgid "Survival"
-msgstr "Виживання"
-
 msgctxt "vests.status"
 msgid "V pořádku"
 msgstr "Нічого страшного."
@@ -190,14 +162,6 @@ msgstr "Не працює"
 msgctxt "vests.status"
 msgid "Hratelná"
 msgstr "Можна відтворити"
-
-msgctxt "gameModes"
-msgid "T.M.A - solo"
-msgstr "T.M.A - соло"
-
-msgctxt "gameModes"
-msgid "Apokalypsa"
-msgstr "Апокаліпсис"
 
 msgid "Filtry"
 msgstr "Фільтри"
@@ -245,22 +209,6 @@ msgstr "Результати"
 
 msgid "Hry"
 msgstr "Ігри"
-
-msgctxt "gameModes"
-msgid "T.M.A"
-msgstr "T.M.A"
-
-msgctxt "gameModes"
-msgid "Team Survival"
-msgstr "Командне виживання"
-
-msgctxt "gameModes"
-msgid "Marco Polo"
-msgstr "Марко Поло"
-
-msgctxt "gameModes"
-msgid "Zombie"
-msgstr "Зомбі"
 
 msgctxt "team.names"
 msgid "Red team"
@@ -1143,42 +1091,6 @@ msgstr "Всі"
 msgid "Klasické módy"
 msgstr "Класичні режими"
 
-msgctxt "gameModes"
-msgid "TTT"
-msgstr "TTT"
-
-msgctxt "gameModes"
-msgid "Rambo"
-msgstr "Рембо"
-
-msgctxt "gameModes"
-msgid "Chraň VIP"
-msgstr "Захистити VIP"
-
-msgctxt "gameModes"
-msgid "Revolver"
-msgstr "Револьвер"
-
-msgctxt "gameModes"
-msgid "Marco polo"
-msgstr "Марко Поло"
-
-msgctxt "gameModes"
-msgid "Ulov medvídka"
-msgstr "Зловити ведмедя"
-
-msgctxt "gameModes"
-msgid "Schovka"
-msgstr "Коробка"
-
-msgctxt "gameModes"
-msgid "Last man standing"
-msgstr "Останній, хто залишився"
-
-msgctxt "gameModes"
-msgid "Slepá bába"
-msgstr "Сліпа бабуся"
-
 msgid "Smazat filtr"
 msgstr "Видалити фільтр"
 
@@ -2035,14 +1947,6 @@ msgstr "Команда 2"
 msgid "Tým 3"
 msgstr "Команда 3"
 
-msgctxt "gameModes"
-msgid "SHADOW"
-msgstr "ТІНЬ"
-
-msgctxt "gameModes"
-msgid "Týmový Survival"
-msgstr "Командне виживання"
-
 msgctxt "pageTitles"
 msgid "Portál pro hráče laser game"
 msgstr "Портал для гравців у лазерні ігри"
@@ -2856,18 +2760,6 @@ msgstr "Я згоден з <a href=\"%s\" target=\"_blank\">політикою �
 msgid "Správa arény"
 msgstr "Управління ареною"
 
-msgctxt "gameModes"
-msgid "Team deathmatch"
-msgstr "Командний матч на виживання"
-
-msgctxt "gameModes"
-msgid "Deathmatch"
-msgstr "Deathmatch"
-
-msgctxt "gameModes"
-msgid "Kámen, Nůžky, Papír"
-msgstr "Камінь, ножиці, папір"
-
 msgid "Fotky"
 msgstr "Фото"
 
@@ -2946,14 +2838,6 @@ msgstr "Надсилати електронні листи"
 msgctxt "results"
 msgid "Umístění"
 msgstr "Розташування"
-
-msgctxt "gameModes"
-msgid "Team Revolver"
-msgstr "Команда \"Револьвер"
-
-msgctxt "gameModes"
-msgid "Gladiátor"
-msgstr "Гладіатор"
 
 msgctxt "gender-male"
 msgid "Odeslal"

@@ -1,0 +1,108 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: fr_FR\n"
+"Language-Team: French\n"
+"Last-Translator: Tomáš Vojík <vojik@wboy.cz>\n"
+"MIME-Version: 1.0\n"
+"PO-Revision-Date: 2025-04-06 12:13\n"
+"POT-Creation-Date: 2025-04-06 12:13\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Project-Id-Version: laserarenacontrol\n"
+"X-Crowdin-File: /master/gameModes.pot\n"
+"X-Crowdin-File-ID: 96\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-Project: laserarenacontrol\n"
+"X-Crowdin-Project-ID: 515800\n"
+"X-Generator: Poedit 3.0.1\n"
+
+msgid "Team deathmach"
+msgstr "Match à mort en équipe"
+
+msgid "Základny"
+msgstr "Défense de Base"
+
+msgid "CSGO"
+msgstr "CSGO"
+
+msgid "Deathmach"
+msgstr "Match à mort"
+
+msgid "100 nábojů"
+msgstr "100 munitions"
+
+msgid "100 nábojů"
+msgstr "100 munitions"
+
+msgid "Barvičky"
+msgstr "Conquête des couleurs"
+
+msgid "Survival"
+msgstr "Survie"
+
+msgid "T.M.A - solo"
+msgstr "T.M.A - solo"
+
+msgid "Apokalypsa"
+msgstr "Apocalypse"
+
+msgid "T.M.A"
+msgstr "T.M.A"
+
+msgid "Team Survival"
+msgstr "Survie en équipe"
+
+msgid "Marco Polo"
+msgstr "Marco Polo"
+
+msgid "Zombie"
+msgstr "Zombie"
+
+msgid "TTT"
+msgstr "TTT"
+
+msgid "Rambo"
+msgstr "Rambo"
+
+msgid "Chraň VIP"
+msgstr "Protéger VIP"
+
+msgid "Revolver"
+msgstr "Revolver"
+
+msgid "Marco polo"
+msgstr "Marco polo"
+
+msgid "Ulov medvídka"
+msgstr "Attraper un ours"
+
+msgid "Schovka"
+msgstr "Masquer"
+
+msgid "Last man standing"
+msgstr "Dernier homme debout"
+
+msgid "Slepá bába"
+msgstr "Grand-mère aveugle"
+
+msgid "SHADOW"
+msgstr "OMBRE"
+
+msgid "Týmový Survival"
+msgstr "Équipe de survie"
+
+msgid "Team deathmatch"
+msgstr "Match à mort en équipe"
+
+msgid "Deathmatch"
+msgstr "Deathmatch"
+
+msgid "Kámen, Nůžky, Papír"
+msgstr "Pierre, ciseaux, papier"
+
+msgid "Team Revolver"
+msgstr "Équipe Revolver"
+
+msgid "Gladiátor"
+msgstr "Gladiateur"

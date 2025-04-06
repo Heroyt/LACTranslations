@@ -1,0 +1,105 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: uk_UA\n"
+"Language-Team: Ukrainian\n"
+"Last-Translator: Tomáš Vojík <vojik@wboy.cz>\n"
+"MIME-Version: 1.0\n"
+"PO-Revision-Date: 2025-04-06 12:13\n"
+"POT-Creation-Date: 2025-04-06 12:13\n"
+"Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
+"Project-Id-Version: laserarenacontrol\n"
+"X-Crowdin-File: /master/gameModes.pot\n"
+"X-Crowdin-File-ID: 96\n"
+"X-Crowdin-Language: uk\n"
+"X-Crowdin-Project: laserarenacontrol\n"
+"X-Crowdin-Project-ID: 515800\n"
+"X-Generator: Poedit 3.0.1\n"
+
+msgid "Team deathmach"
+msgstr "Команда deathmatch"
+
+msgid "Základny"
+msgstr "База"
+
+msgid "CSGO"
+msgstr "ОГС"
+
+msgid "Deathmach"
+msgstr "Deathmatch"
+
+msgid "100 nábojů"
+msgstr "100 куль"
+
+msgid "Barvičky"
+msgstr "Ви можете знайти"
+
+msgid "Survival"
+msgstr "Виживання"
+
+msgid "T.M.A - solo"
+msgstr "T.M.A - соло"
+
+msgid "Apokalypsa"
+msgstr "Апокаліпсис"
+
+msgid "T.M.A"
+msgstr "T.M.A"
+
+msgid "Team Survival"
+msgstr "Командне виживання"
+
+msgid "Marco Polo"
+msgstr "Марко Поло"
+
+msgid "Zombie"
+msgstr "Зомбі"
+
+msgid "TTT"
+msgstr "TTT"
+
+msgid "Rambo"
+msgstr "Рембо"
+
+msgid "Chraň VIP"
+msgstr "Захистити VIP"
+
+msgid "Revolver"
+msgstr "Револьвер"
+
+msgid "Marco polo"
+msgstr "Марко Поло"
+
+msgid "Ulov medvídka"
+msgstr "Зловити ведмедя"
+
+msgid "Schovka"
+msgstr "Коробка"
+
+msgid "Last man standing"
+msgstr "Останній, хто залишився"
+
+msgid "Slepá bába"
+msgstr "Сліпа бабуся"
+
+msgid "SHADOW"
+msgstr "ТІНЬ"
+
+msgid "Týmový Survival"
+msgstr "Командне виживання"
+
+msgid "Team deathmatch"
+msgstr "Командний матч на виживання"
+
+msgid "Deathmatch"
+msgstr "Deathmatch"
+
+msgid "Kámen, Nůžky, Papír"
+msgstr "Камінь, ножиці, папір"
+
+msgid "Team Revolver"
+msgstr "Команда \"Револьвер"
+
+msgid "Gladiátor"
+msgstr "Гладіатор"
