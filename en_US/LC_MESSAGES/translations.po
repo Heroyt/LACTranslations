@@ -31,22 +31,6 @@ msgstr "Toggle navigation"
 msgid "Hra neexistuje!"
 msgstr "Game does not exist!"
 
-msgctxt "gameModes"
-msgid "Team deathmach"
-msgstr "Team deathmach"
-
-msgctxt "gameModes"
-msgid "Základny"
-msgstr "Base defence"
-
-msgctxt "gameModes"
-msgid "CSGO"
-msgstr "CSGO"
-
-msgctxt "gameModes"
-msgid "Deathmach"
-msgstr "Deathmach"
-
 msgctxt "errors"
 msgid "Uploaded file is too large"
 msgstr "Uploaded file is too large"
@@ -90,10 +74,6 @@ msgstr "Deaths"
 msgctxt "leaderboard"
 msgid "Shots"
 msgstr "Shots"
-
-msgctxt "gameModes"
-msgid "100 nábojů"
-msgstr "100 ammo"
 
 msgctxt "actions"
 msgid "Začít"

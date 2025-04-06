@@ -31,22 +31,6 @@ msgstr "Changer la navigation"
 msgid "Hra neexistuje!"
 msgstr "Le jeu n'existe pas!"
 
-msgctxt "gameModes"
-msgid "Team deathmach"
-msgstr "Match à mort en équipe"
-
-msgctxt "gameModes"
-msgid "Základny"
-msgstr "Défense de Base"
-
-msgctxt "gameModes"
-msgid "CSGO"
-msgstr "CSGO"
-
-msgctxt "gameModes"
-msgid "Deathmach"
-msgstr "Match à mort"
-
 msgctxt "errors"
 msgid "Uploaded file is too large"
 msgstr "Le fichier téléversé est trop volumineux"

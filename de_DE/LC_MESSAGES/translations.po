@@ -31,22 +31,6 @@ msgstr "Navigation umschalten"
 msgid "Hra neexistuje!"
 msgstr "Das Spiel existiert nicht!"
 
-msgctxt "gameModes"
-msgid "Team deathmach"
-msgstr "Mannschaft deathmach"
-
-msgctxt "gameModes"
-msgid "Základny"
-msgstr "Basis"
-
-msgctxt "gameModes"
-msgid "CSGO"
-msgstr "CSGO"
-
-msgctxt "gameModes"
-msgid "Deathmach"
-msgstr "Deathmach"
-
 msgctxt "errors"
 msgid "Uploaded file is too large"
 msgstr "Hochgeladene Datei ist zu groß"
@@ -90,10 +74,6 @@ msgstr "Tode"
 msgctxt "leaderboard"
 msgid "Shots"
 msgstr "Schüsse"
-
-msgctxt "gameModes"
-msgid "100 nábojů"
-msgstr "100 Kugeln"
 
 msgctxt "actions"
 msgid "Začít"

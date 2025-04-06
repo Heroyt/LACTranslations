@@ -31,22 +31,6 @@ msgstr "Prepnúť navigáciu"
 msgid "Hra neexistuje!"
 msgstr "Hra neexistuje!"
 
-msgctxt "gameModes"
-msgid "Team deathmach"
-msgstr "Team deathmach"
-
-msgctxt "gameModes"
-msgid "Základny"
-msgstr "Základne"
-
-msgctxt "gameModes"
-msgid "CSGO"
-msgstr "CSGO"
-
-msgctxt "gameModes"
-msgid "Deathmach"
-msgstr "Deathmach"
-
 msgctxt "errors"
 msgid "Uploaded file is too large"
 msgstr "Nahraný súbor je príliš veľký"

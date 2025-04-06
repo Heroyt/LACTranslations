@@ -31,22 +31,6 @@ msgstr ""
 msgid "Hra neexistuje!"
 msgstr ""
 
-msgctxt "gameModes"
-msgid "Team deathmach"
-msgstr ""
-
-msgctxt "gameModes"
-msgid "Základny"
-msgstr ""
-
-msgctxt "gameModes"
-msgid "CSGO"
-msgstr ""
-
-msgctxt "gameModes"
-msgid "Deathmach"
-msgstr ""
-
 msgctxt "errors"
 msgid "Uploaded file is too large"
 msgstr ""
