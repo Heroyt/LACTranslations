@@ -6,7 +6,7 @@ msgstr ""
 "Language-Team: English\n"
 "Last-Translator: Tomáš Vojík <vojik@wboy.cz>\n"
 "MIME-Version: 1.0\n"
-"PO-Revision-Date: 2025-04-06 10:15\n"
+"PO-Revision-Date: 2025-04-06 13:13\n"
 "POT-Creation-Date: \n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Project-Id-Version: laserarenacontrol\n"
@@ -1971,9 +1971,6 @@ msgstr "Login to the Laser Liga system."
 
 msgid "Zatím odehrál %d her."
 msgstr "Has played %d games so far."
-
-msgid "Bronz"
-msgstr "Bronze"
 
 msgctxt "pageTitles"
 msgid "Žebříček"
