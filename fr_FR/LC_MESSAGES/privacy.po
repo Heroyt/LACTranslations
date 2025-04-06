@@ -3,7 +3,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language: fr_FR\n"
 "Language-Team: French\n"
-"PO-Revision-Date: 2025-04-03 16:41\n"
+"PO-Revision-Date: 2025-04-06 10:15\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "Project-Id-Version: laserarenacontrol\n"
 "X-Crowdin-File: /master/privacy.pot\n"
@@ -67,7 +67,7 @@ msgstr "Marketing (par exemple, réductions d'anniversaire), trophée d'annivers
 
 msgctxt "section_title"
 msgid "Účely a právní základ zpracování osobních údajů"
-msgstr "Finalités et base juridique du traitement des données à caractère personnel"
+msgstr "Finalités et base juridique du traitement des données personnel"
 
 msgctxt "table_header"
 msgid "Právní základ"
@@ -83,7 +83,7 @@ msgstr "Consentement"
 
 msgctxt "purpose"
 msgid "Marketingové akce (narozeninová sleva, achievementy)"
-msgstr "Promotions marketing (réduction pour anniversaire, réalisation)"
+msgstr "Manifestations de marketing (réduction d'anniversaire, succès)"
 
 msgctxt "legal_basis"
 msgid "Souhlas / oprávněný zájem"
