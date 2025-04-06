@@ -6,7 +6,7 @@ msgstr ""
 "Language-Team: German\n"
 "Last-Translator: Tomáš Vojík <vojik@wboy.cz>\n"
 "MIME-Version: 1.0\n"
-"PO-Revision-Date: 2025-04-04 13:09\n"
+"PO-Revision-Date: 2025-04-06 10:15\n"
 "POT-Creation-Date: \n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Project-Id-Version: laserarenacontrol\n"
@@ -25,48 +25,8 @@ msgctxt "errors"
 msgid "stránka nenalezena"
 msgstr "Seite nicht gefunden"
 
-msgctxt "debugPanel"
-msgid "Rows"
-msgstr "Reihen"
-
-msgctxt "debugPanel"
-msgid "Takes"
-msgstr "Nimmt"
-
-msgctxt "debugPanel"
-msgid "Translations"
-msgstr "Übersetzungen"
-
-msgctxt "debugPanel"
-msgid "Translated strings"
-msgstr "Übersetzte Strings"
-
-msgctxt "debugPanel"
-msgid "Added a new string"
-msgstr "Eine neue Zeichenfolge hinzugefügt"
-
-msgctxt "debugPanel"
-msgid "String"
-msgstr "Zeichenfolge"
-
-msgctxt "debugPanel"
-msgid "Context"
-msgstr "Kontext"
-
-msgctxt "pageTitles"
-msgid "Dashboard"
-msgstr "Armaturenbrett"
-
 msgid "Toggle navigation"
 msgstr "Navigation umschalten"
-
-msgctxt "pageTitles"
-msgid "Results"
-msgstr "Ergebnisse"
-
-msgctxt "pageTitles"
-msgid "Games list"
-msgstr "Spiele-Liste"
 
 msgid "Hra neexistuje!"
 msgstr "Das Spiel existiert nicht!"
@@ -87,14 +47,6 @@ msgctxt "gameModes"
 msgid "Deathmach"
 msgstr "Deathmach"
 
-msgctxt "errors"
-msgid "Uploaded file is too large"
-msgstr "Hochgeladene Datei ist zu groß"
-
-msgctxt "errors"
-msgid "Database error occurred."
-msgstr "Es ist ein Datenbankfehler aufgetreten."
-
 msgctxt "actions"
 msgid "Zavřít"
 msgstr "Schließen"
@@ -110,26 +62,6 @@ msgstr "Der Modus"
 msgctxt "leaderboard"
 msgid "Čas"
 msgstr "Zeit"
-
-msgctxt "leaderboard"
-msgid "Score"
-msgstr "Spielstand"
-
-msgctxt "leaderboard"
-msgid "Accuracy"
-msgstr "Genauigkeit"
-
-msgctxt "leaderboard"
-msgid "Hits"
-msgstr "Treffer"
-
-msgctxt "leaderboard"
-msgid "Deaths"
-msgstr "Tode"
-
-msgctxt "leaderboard"
-msgid "Shots"
-msgstr "Schüsse"
 
 msgctxt "gameModes"
 msgid "100 nábojů"
