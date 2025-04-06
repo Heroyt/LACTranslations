@@ -3,7 +3,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language: fr_FR\n"
 "Language-Team: French\n"
-"PO-Revision-Date: 2025-04-06 10:15\n"
+"PO-Revision-Date: 2025-04-06 10:42\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "Project-Id-Version: laserarenacontrol\n"
 "X-Crowdin-File: /master/privacy.pot\n"
@@ -103,31 +103,31 @@ msgstr "Communication marketing et choix des utilisateurs"
 
 msgctxt "marketing_options"
 msgid "Uživatelé mohou nastavit, zda chtějí svůj e-mail poskytovat pro marketingové účely:"
-msgstr "Les utilisateurs peuvent indiquer s'ils souhaitent fournir leur adresse électronique à des fins de marketing :"
+msgstr "Les utilisateurs peuvent indiquer s'ils souhaitent fournir leur courrier électronique à des fins de marketing :"
 
 msgctxt "marketing_choice"
 msgid "Všem zapojeným arénám a Laser Lize."
-msgstr "A toutes les arènes concernées et à la Laser League."
+msgstr "A toutes les arènes concernées et à la Laser Liga."
 
 msgctxt "marketing_choice"
 msgid "Jen své domovské aréně a Laser Lize."
-msgstr "Il s'agit uniquement de l'arène nationale et de la Laser League."
+msgstr "A mon arène d'origine et à la Laser Liga uniquement."
 
 msgctxt "marketing_choice"
 msgid "Pouze Laser Lize."
-msgstr "Laser League uniquement."
+msgstr "A Laser Liga uniquement."
 
 msgctxt "marketing_choice"
 msgid "Nikomu."
-msgstr "Personne."
+msgstr "A personne."
 
 msgctxt "section_title"
 msgid "Uchovávání osobních údajů"
-msgstr "Conservation des données à caractère personnel"
+msgstr "Conservation des données"
 
 msgctxt "data_retention"
 msgid "Osobní údaje uchováváme po dobu aktivního účtu uživatele nebo do odvolání souhlasu."
-msgstr "Nous conservons les données à caractère personnel aussi longtemps que le compte de l'utilisateur est actif ou jusqu'à ce que le consentement soit retiré."
+msgstr "Nous conservons les données personnelles pour la durée de validité du compte de l'utilisateur ou jusqu'à ce que le consentement soit retiré."
 
 msgctxt "section_title"
 msgid "Kdo má přístup k osobním údajům"
@@ -139,7 +139,7 @@ msgstr "<strong>Webmaster</strong>"
 
 msgctxt "access"
 msgid "<strong>Zapojené arény</strong>: Mají přístup pouze k e-mailovým adrésám hráčů, kteří si je vybrali jako domovskou arénu nebo v nich hráli. Tyto arény mohou adresy využívat k zasílání marketingových sdělení."
-msgstr "<strong>Arènes concernées</strong>: Elles n'ont accès qu'aux adresses électroniques des joueurs qui les ont choisies comme domicile ou qui y ont joué. Ces arènes peuvent utiliser ces adresses pour envoyer des messages marketing."
+msgstr "<strong>Arènes concernées</strong>: Ces établissements n'ont accès qu'aux adresses électroniques des joueurs qui les ont choisies comme leur arène d'origine ou qui y ont joué. Ces arènes peuvent utiliser ces adresses pour envoyer des annonces publicitaires."
 
 msgctxt "access"
 msgid "<strong>Osobní údaje nejsou poskytovány třetím stranám</strong> ani předávány mimo EU."
@@ -159,7 +159,7 @@ msgstr "Droits de l'utilisateur"
 
 msgctxt "user_rights"
 msgid "Podle GDPR máte právo:"
-msgstr "En vertu du GDPR, vous avez le droit de :"
+msgstr "En vertu du RGPD, vous avez le droit de :"
 
 msgctxt "user_right"
 msgid "Právo na přístup ke svým údajům."
@@ -183,15 +183,15 @@ msgstr "Protection des données personnelles"
 
 msgctxt "contact_dpa"
 msgid "Web %s implementuje vhodná technická a organizační opatření k ochraně osobních údajů proti neoprávněnému přístupu, změně, ztrátě či zničení."
-msgstr "Le site %s met en œuvre des mesures techniques et organisationnelles appropriées pour protéger les données personnelles contre l'accès non autorisé, l'altération, la perte ou la destruction."
+msgstr "Le site web %s met en œuvre des mesures techniques et organisationnelles appropriées pour protéger les données personnelles contre l'accès non autorisé, l'altération, la perte ou la destruction."
 
 msgctxt "section_title"
 msgid "Kontakt na dozorový úřad"
-msgstr "Contact avec l'autorité de contrôle"
+msgstr "Contact à l'autorité de contrôle"
 
 msgctxt "contact_dpa"
 msgid "Pokud nejste spokojeni se zpracováním, máte právo se obrátit na dozorový úřad."
-msgstr "Si vous n'êtes pas satisfait du traitement, vous avez le droit de contacter l'autorité de contrôle."
+msgstr "Si vous n'êtes pas convaincu par le traitement, vous avez le droit de contacter l'autorité de contrôle."
 
 msgctxt "dpa_link"
 msgid "Úřad pro ochranu osobních údajů"
@@ -211,11 +211,11 @@ msgstr "Dernière mise à jour : %s"
 
 msgctxt "security_turnstile"
 msgid "Pro ochranu formulářů na webu používáme službu <a href=\"https://www.cloudflare.com/application-services/products/turnstile/\" target=\"_blank\">Cloudflare Turnstile Captcha</a>, která chrání proti automatizovaným útokům a zajišťuje bezpečnost webu."
-msgstr "Nous utilisons <a href=\"https://www.cloudflare.com/application-services/products/turnstile/\" target=\"_blank\">Cloudflare Turnstile Captcha</a> pour protéger les formulaires sur le site, ce qui protège contre les attaques automatisées et assure la sécurité du site."
+msgstr "Nous utilisons <a href=\"https://www.cloudflare.com/application-services/products/turnstile/\" target=\"_blank\">Cloudflare Turnstile Captcha</a> pour protéger les formulaires sur le web, ce qui protège contre les attaques automatisées et assure la sécurité du site."
 
 msgctxt "security_turnstile_anonymity"
 msgid "Cloudflare Turnstile nezpracovává osobní údaje uživatelů a veškeré ověřování probíhá anonymně."
-msgstr "Cloudflare Turnstile ne traite pas les données personnelles des utilisateurs et toute l'authentification se fait de manière anonyme."
+msgstr "Cloudflare Turnstile ne traite pas les données des utilisateurs et toute l'authentification se fait de manière anonyme."
 
 msgctxt "data_processing"
 msgid "Jméno a příjmení"
