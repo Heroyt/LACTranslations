@@ -3,7 +3,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language: fr_FR\n"
 "Language-Team: French\n"
-"PO-Revision-Date: 2025-04-03 16:41\n"
+"PO-Revision-Date: 2025-04-06 13:38\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "Project-Id-Version: laserarenacontrol\n"
 "X-Crowdin-File: /master/highlights.pot\n"
@@ -260,3 +260,4 @@ msgstr "%s frappé son coéquipier %s plus de fois (%d) que n'importe quel joueu
 msgctxt "hits"
 msgid "%s zasáhl svou spoluhráčku %s vícekrát (%d), než kteréhokoliv protihráče"
 msgstr "%s a touché son coéquipier %s plus de fois (%d) que n'importe lequel de ses adversaires"
+
