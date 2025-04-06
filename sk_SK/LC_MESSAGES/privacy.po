@@ -308,4 +308,3 @@ msgstr "Používatelia s prístupom k fotografiám si ich môžu stiahnuť, pož
 msgctxt "photos_retention"
 msgid "Fotografie, které aréna pořídila, ale nepřiřadila ke hře, budou odstraněny po jednom týdnu; fotografie přiřazené ke hře budou automaticky odstraněny typicky po 2 měsících."
 msgstr "Fotografie z arény, ktoré neboli priradené k hre, budú odstránené po jednom týždni; fotografie priradené k hre budú automaticky odstránené zvyčajne po 2 mesiacoch."
-

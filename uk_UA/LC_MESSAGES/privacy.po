@@ -308,4 +308,3 @@ msgstr "Користувачі, які мають доступ до фотогр
 msgctxt "photos_retention"
 msgid "Fotografie, které aréna pořídila, ale nepřiřadila ke hře, budou odstraněny po jednom týdnu; fotografie přiřazené ke hře budou automaticky odstraněny typicky po 2 měsících."
 msgstr "Фотографії, зроблені на арені, але не пов'язані з матчем, будуть видалені через тиждень; фотографії, пов'язані з матчем, будуть автоматично видалені, як правило, через 2 місяці."
-

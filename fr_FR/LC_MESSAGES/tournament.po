@@ -238,4 +238,3 @@ msgstr "Tirs"
 
 msgid "Zabijáci vlastních"
 msgstr "Des tueurs à leur solde"
-

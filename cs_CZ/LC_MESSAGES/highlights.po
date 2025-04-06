@@ -260,4 +260,3 @@ msgstr ""
 msgctxt "hits"
 msgid "%s zasáhl svou spoluhráčku %s vícekrát (%d), než kteréhokoliv protihráče"
 msgstr ""
-

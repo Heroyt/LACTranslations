@@ -238,4 +238,3 @@ msgstr "Постріли"
 
 msgid "Zabijáci vlastních"
 msgstr "Вбивці своїх же"
-

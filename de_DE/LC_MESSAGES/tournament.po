@@ -238,4 +238,3 @@ msgstr "Schüsse"
 
 msgid "Zabijáci vlastních"
 msgstr ""
-

@@ -2824,3 +2824,13 @@ msgctxt "actions"
 msgid "Upravit"
 msgstr "Upraviť podľa"
 
+msgctxt "notification"
+msgid "Nové fotky!"
+msgstr ""
+
+msgctxt "notification"
+msgid "Na tvé hře z %s přibyly fotky!"
+msgstr ""
+
+msgid "%s score"
+msgstr ""

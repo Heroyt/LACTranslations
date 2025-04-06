@@ -238,4 +238,3 @@ msgstr "Výstrely"
 
 msgid "Zabijáci vlastních"
 msgstr "Vlastné zabijaky"
-
