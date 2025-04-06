@@ -6,15 +6,15 @@ msgstr ""
 "Language-Team: Spanish\n"
 "Last-Translator: Tomáš Vojík <vojik@wboy.cz>\n"
 "MIME-Version: 1.0\n"
-"PO-Revision-Date: 2025-04-06 10:42\n"
+"PO-Revision-Date: 2025-04-06 13:39\n"
 "POT-Creation-Date: 2025-04-06 12:13\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Project-Id-Version: laserarenacontrol\n"
 "X-Crowdin-File: /master/gameModes.pot\n"
+"X-Crowdin-File-ID: 103\n"
 "X-Crowdin-Language: es-ES\n"
 "X-Crowdin-Project: laserarenacontrol\n"
 "X-Crowdin-Project-ID: 515800\n"
-"X-Crowdin-File-ID: 103\n"
 
 msgid "Team deathmach"
 msgstr "Equipo deathmach"
@@ -102,4 +102,10 @@ msgstr "Equipo Revolver"
 
 msgid "Gladiátor"
 msgstr "Gladiador"
+
+msgid "Týmový revolver"
+msgstr "Equipo Revolver"
+
+msgid "Test"
+msgstr "Prueba"
 
