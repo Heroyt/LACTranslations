@@ -25,50 +25,26 @@ msgctxt "errors"
 msgid "stránka nenalezena"
 msgstr ""
 
-msgctxt "debugPanel"
-msgid "Rows"
-msgstr ""
-
-msgctxt "debugPanel"
-msgid "Takes"
-msgstr ""
-
-msgctxt "debugPanel"
-msgid "Translations"
-msgstr ""
-
-msgctxt "debugPanel"
-msgid "Translated strings"
-msgstr ""
-
-msgctxt "debugPanel"
-msgid "Added a new string"
-msgstr ""
-
-msgctxt "debugPanel"
-msgid "String"
-msgstr ""
-
-msgctxt "debugPanel"
-msgid "Context"
-msgstr ""
-
-msgctxt "pageTitles"
-msgid "Dashboard"
-msgstr ""
-
 msgid "Toggle navigation"
 msgstr ""
 
-msgctxt "pageTitles"
-msgid "Results"
-msgstr ""
-
-msgctxt "pageTitles"
-msgid "Games list"
-msgstr ""
-
 msgid "Hra neexistuje!"
+msgstr ""
+
+msgctxt "gameModes"
+msgid "Team deathmach"
+msgstr ""
+
+msgctxt "gameModes"
+msgid "Základny"
+msgstr ""
+
+msgctxt "gameModes"
+msgid "CSGO"
+msgstr ""
+
+msgctxt "gameModes"
+msgid "Deathmach"
 msgstr ""
 
 msgctxt "errors"
@@ -113,6 +89,10 @@ msgstr ""
 
 msgctxt "leaderboard"
 msgid "Shots"
+msgstr ""
+
+msgctxt "gameModes"
+msgid "100 nábojů"
 msgstr ""
 
 msgctxt "actions"

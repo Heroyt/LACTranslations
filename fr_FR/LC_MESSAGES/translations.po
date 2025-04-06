@@ -6,7 +6,7 @@ msgstr ""
 "Language-Team: French\n"
 "Last-Translator: Tomáš Vojík <vojik@wboy.cz>\n"
 "MIME-Version: 1.0\n"
-"PO-Revision-Date: 2025-04-03 16:41\n"
+"PO-Revision-Date: 2025-04-06 10:15\n"
 "POT-Creation-Date: \n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "Project-Id-Version: laserarenacontrol\n"
@@ -25,51 +25,27 @@ msgctxt "errors"
 msgid "stránka nenalezena"
 msgstr "page non trouvée"
 
-msgctxt "debugPanel"
-msgid "Rows"
-msgstr "Lignes"
-
-msgctxt "debugPanel"
-msgid "Takes"
-msgstr "Durée"
-
-msgctxt "debugPanel"
-msgid "Translations"
-msgstr "Traductions"
-
-msgctxt "debugPanel"
-msgid "Translated strings"
-msgstr "Chaînes traduites"
-
-msgctxt "debugPanel"
-msgid "Added a new string"
-msgstr "Nouvelle chaîne ajoutée"
-
-msgctxt "debugPanel"
-msgid "String"
-msgstr "Chaîne"
-
-msgctxt "debugPanel"
-msgid "Context"
-msgstr "Contexte"
-
-msgctxt "pageTitles"
-msgid "Dashboard"
-msgstr "Tableau de bord"
-
 msgid "Toggle navigation"
 msgstr "Changer la navigation"
 
-msgctxt "pageTitles"
-msgid "Results"
-msgstr "Résultats"
-
-msgctxt "pageTitles"
-msgid "Games list"
-msgstr "Liste des jeux"
-
 msgid "Hra neexistuje!"
 msgstr "Le jeu n'existe pas!"
+
+msgctxt "gameModes"
+msgid "Team deathmach"
+msgstr "Match à mort en équipe"
+
+msgctxt "gameModes"
+msgid "Základny"
+msgstr "Défense de Base"
+
+msgctxt "gameModes"
+msgid "CSGO"
+msgstr "CSGO"
+
+msgctxt "gameModes"
+msgid "Deathmach"
+msgstr "Match à mort"
 
 msgctxt "errors"
 msgid "Uploaded file is too large"
@@ -114,6 +90,10 @@ msgstr "Morts"
 msgctxt "leaderboard"
 msgid "Shots"
 msgstr "Tirs"
+
+msgctxt "gameModes"
+msgid "100 nábojů"
+msgstr "100 munitions"
 
 msgctxt "actions"
 msgid "Začít"

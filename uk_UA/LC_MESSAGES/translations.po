@@ -6,7 +6,7 @@ msgstr ""
 "Language-Team: Ukrainian\n"
 "Last-Translator: Tomáš Vojík <vojik@wboy.cz>\n"
 "MIME-Version: 1.0\n"
-"PO-Revision-Date: 2025-04-03 11:53\n"
+"PO-Revision-Date: 2025-04-06 10:15\n"
 "POT-Creation-Date: \n"
 "Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
 "Project-Id-Version: laserarenacontrol\n"
@@ -25,51 +25,27 @@ msgctxt "errors"
 msgid "stránka nenalezena"
 msgstr "сторінку не знайдено"
 
-msgctxt "debugPanel"
-msgid "Rows"
-msgstr "Рядки"
-
-msgctxt "debugPanel"
-msgid "Takes"
-msgstr "Приймаються"
-
-msgctxt "debugPanel"
-msgid "Translations"
-msgstr "Переклади"
-
-msgctxt "debugPanel"
-msgid "Translated strings"
-msgstr "Перекладені рядки"
-
-msgctxt "debugPanel"
-msgid "Added a new string"
-msgstr "Додано новий рядок"
-
-msgctxt "debugPanel"
-msgid "String"
-msgstr "Рядок"
-
-msgctxt "debugPanel"
-msgid "Context"
-msgstr "Контекст"
-
-msgctxt "pageTitles"
-msgid "Dashboard"
-msgstr "Інформаційна панель"
-
 msgid "Toggle navigation"
 msgstr "Перемикання навігації"
 
-msgctxt "pageTitles"
-msgid "Results"
-msgstr "Результати"
-
-msgctxt "pageTitles"
-msgid "Games list"
-msgstr "Список ігор"
-
 msgid "Hra neexistuje!"
 msgstr "Гра не існує!"
+
+msgctxt "gameModes"
+msgid "Team deathmach"
+msgstr "Команда deathmach"
+
+msgctxt "gameModes"
+msgid "Základny"
+msgstr "База"
+
+msgctxt "gameModes"
+msgid "CSGO"
+msgstr "ОГС"
+
+msgctxt "gameModes"
+msgid "Deathmach"
+msgstr "Deathmach"
 
 msgctxt "errors"
 msgid "Uploaded file is too large"
@@ -114,6 +90,10 @@ msgstr "Смерті"
 msgctxt "leaderboard"
 msgid "Shots"
 msgstr "Постріли"
+
+msgctxt "gameModes"
+msgid "100 nábojů"
+msgstr "100 куль"
 
 msgctxt "actions"
 msgid "Začít"
