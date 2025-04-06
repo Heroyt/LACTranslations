@@ -6,7 +6,7 @@ msgstr ""
 "Language-Team: English\n"
 "Last-Translator: Tomáš Vojík <vojik@wboy.cz>\n"
 "MIME-Version: 1.0\n"
-"PO-Revision-Date: 2025-04-02 17:07\n"
+"PO-Revision-Date: 2025-04-06 10:15\n"
 "POT-Creation-Date: \n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Project-Id-Version: laserarenacontrol\n"
@@ -25,48 +25,8 @@ msgctxt "errors"
 msgid "stránka nenalezena"
 msgstr "page not found"
 
-msgctxt "debugPanel"
-msgid "Rows"
-msgstr "Rows"
-
-msgctxt "debugPanel"
-msgid "Takes"
-msgstr "Takes"
-
-msgctxt "debugPanel"
-msgid "Translations"
-msgstr "Translations"
-
-msgctxt "debugPanel"
-msgid "Translated strings"
-msgstr "Translated strings"
-
-msgctxt "debugPanel"
-msgid "Added a new string"
-msgstr "Added a new string"
-
-msgctxt "debugPanel"
-msgid "String"
-msgstr "String"
-
-msgctxt "debugPanel"
-msgid "Context"
-msgstr "Context"
-
-msgctxt "pageTitles"
-msgid "Dashboard"
-msgstr "Dashboard"
-
 msgid "Toggle navigation"
 msgstr "Toggle navigation"
-
-msgctxt "pageTitles"
-msgid "Results"
-msgstr "Results"
-
-msgctxt "pageTitles"
-msgid "Games list"
-msgstr "Games list"
 
 msgid "Hra neexistuje!"
 msgstr "Game does not exist!"
@@ -87,14 +47,6 @@ msgctxt "gameModes"
 msgid "Deathmach"
 msgstr "Deathmach"
 
-msgctxt "errors"
-msgid "Uploaded file is too large"
-msgstr "Uploaded file is too large"
-
-msgctxt "errors"
-msgid "Database error occurred."
-msgstr "Database error occurred."
-
 msgctxt "actions"
 msgid "Zavřít"
 msgstr "Close"
@@ -110,26 +62,6 @@ msgstr "Mode"
 msgctxt "leaderboard"
 msgid "Čas"
 msgstr "Time"
-
-msgctxt "leaderboard"
-msgid "Score"
-msgstr "Score"
-
-msgctxt "leaderboard"
-msgid "Accuracy"
-msgstr "Accuracy"
-
-msgctxt "leaderboard"
-msgid "Hits"
-msgstr "Hits"
-
-msgctxt "leaderboard"
-msgid "Deaths"
-msgstr "Deaths"
-
-msgctxt "leaderboard"
-msgid "Shots"
-msgstr "Shots"
 
 msgctxt "gameModes"
 msgid "100 nábojů"
