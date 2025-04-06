@@ -6,7 +6,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "Last-Translator: Tomáš Vojík <vojik@wboy.cz>\n"
 "MIME-Version: 1.0\n"
-"PO-Revision-Date: 2025-04-06 13:13\n"
+"PO-Revision-Date: 2025-04-06 13:38\n"
 "POT-Creation-Date: \n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Project-Id-Version: laserarenacontrol\n"
@@ -2752,4 +2752,15 @@ msgstr "Si rellenas tu fecha de nacimiento, puedes conseguir un premio de cumple
 msgctxt "actions"
 msgid "Upravit"
 msgstr "Editado por"
+
+msgctxt "notification"
+msgid "Nové fotky!"
+msgstr "¡Nuevas fotos!"
+
+msgctxt "notification"
+msgid "Na tvé hře z %s přibyly fotky!"
+msgstr "¡Su juego de %s añadido fotos!"
+
+msgid "%s score"
+msgstr "%s Puntuación"
 
