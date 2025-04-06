@@ -6,7 +6,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "Last-Translator: Tomáš Vojík <vojik@wboy.cz>\n"
 "MIME-Version: 1.0\n"
-"PO-Revision-Date: 2025-04-06 10:42\n"
+"PO-Revision-Date: 2025-04-06 11:57\n"
 "POT-Creation-Date: 2021-12-01 12:05+0100\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Project-Id-Version: laserarenacontrol\n"
@@ -79,6 +79,10 @@ msgctxt "pageTitles"
 msgid "Výsledky"
 msgstr "Resultados"
 
+msgctxt "gameModes"
+msgid "Základny"
+msgstr "Bases"
+
 msgctxt "debugPanel"
 msgid "Plural"
 msgstr "Plural"
@@ -89,6 +93,18 @@ msgstr "Introducción"
 
 msgid "Tento den se nehrály žádné hry."
 msgstr ""
+
+msgctxt "gameModes"
+msgid "CSGO"
+msgstr "CSGO"
+
+msgctxt "gameModes"
+msgid "Team deathmatch"
+msgstr "Team deathmatch"
+
+msgctxt "gameModes"
+msgid "Deathmatch"
+msgstr "Deathmatch"
 
 msgid "Jazyk"
 msgstr "Idioma"
@@ -173,6 +189,10 @@ msgctxt "errors"
 msgid "Database error occurred."
 msgstr ""
 
+msgctxt "gameModes"
+msgid "Survival"
+msgstr "Survival"
+
 msgctxt "settings"
 msgid "API klíč"
 msgstr ""
@@ -212,8 +232,16 @@ msgctxt "errors"
 msgid "Failed to save settings."
 msgstr ""
 
+msgctxt "gameModes"
+msgid "T.M.A - solo"
+msgstr "T.M.A - solo"
+
 msgid "Výsledky on-line"
 msgstr ""
+
+msgctxt "gameModes"
+msgid "100 nábojů"
+msgstr "100 cartuchos"
 
 msgid "Zobrazit vesty na výsledkové tabuli"
 msgstr ""
@@ -241,6 +269,10 @@ msgstr ""
 msgctxt "settings"
 msgid "Nastavení"
 msgstr ""
+
+msgctxt "gameModes"
+msgid "Barvičky"
+msgstr "Colores"
 
 msgid "Datum"
 msgstr "Fecha"
@@ -348,6 +380,10 @@ msgstr ""
 msgid "Domluv si trénink s profíky!"
 msgstr ""
 
+msgctxt "gameModes"
+msgid "Apokalypsa"
+msgstr "Apocalipsis"
+
 msgctxt "debugPanel"
 msgid "Invalid cache class"
 msgstr ""
@@ -380,6 +416,54 @@ msgstr ""
 msgctxt "game"
 msgid "Herní mód"
 msgstr "Modo del partido"
+
+msgctxt "gameModes"
+msgid "Classic team game."
+msgstr "Clásico juego de equipo."
+
+msgctxt "gameModes"
+msgid "Classic free for all game."
+msgstr "Clásico juego libre para todos."
+
+msgctxt "gameModes"
+msgid "Náročná hra o přežití se 3mi životy."
+msgstr "Un desafiante juego de supervivencia con 3 vidas."
+
+msgctxt "gameModes"
+msgid "Strategická hra, kdy 2 týmy bojují proti sobě o zničení základny druhého týmu."
+msgstr "Un juego de estrategia en el que 2 equipos luchan entre sí para destruir la base del otro equipo."
+
+msgctxt "gameModes"
+msgid "Rychlá, šílená hra. Po pár smrtích se přebarvíš na barvu toho, kdo tě trefil."
+msgstr "Juego rápido y loco. Después de unas cuantas muertes, cambias al color de la persona que te golpeó."
+
+msgctxt "gameModes"
+msgid "Klasická hra, ale tentokrát bez světel."
+msgstr "Juego clásico, pero sin luces esta vez."
+
+msgctxt "gameModes"
+msgid "T.M.A"
+msgstr "T.M.A"
+
+msgctxt "gameModes"
+msgid "Hra na zombíky! Vybraní hráči jsou zombie, kteří se snaží infikovat ostatní hráče."
+msgstr "¡Un juego de zombis! Los jugadores seleccionados son zombis que intentan infectar a otros jugadores."
+
+msgctxt "gameModes"
+msgid "Strategická hra s omezeným počtem životů a nábojů."
+msgstr "Juego de estrategia con vidas y balas limitadas."
+
+msgctxt "gameModes"
+msgid "Team Survival"
+msgstr "Supervivencia en equipo"
+
+msgctxt "gameModes"
+msgid "Marco Polo"
+msgstr "Marco Polo"
+
+msgctxt "gameModes"
+msgid "Zombie"
+msgstr "Zombie"
 
 msgctxt "game"
 msgid "Hudební mód"
@@ -854,6 +938,18 @@ msgctxt "game.modes"
 msgid "Popis"
 msgstr ""
 
+msgctxt "gameModes"
+msgid "Klasická týmová hra."
+msgstr "Clásico juego de equipo."
+
+msgctxt "gameModes"
+msgid "Klasická hra všichni proti všem."
+msgstr "Clásico juego de todos contra todos."
+
+msgctxt "gameModes"
+msgid "Klasická hra. Jeden Marco má zavázané oči a hledá na vybrané části arény ostatní hráče. Kdykoliv může zakřičet \"Marco\", kdy potom musí ostatní hráči ztuhnout na místě, kde byly a zakřičet \"Polo\". Marco poté může udělat 3 kroky a vystřelit. Jakmile vystřelí, hráči se můžou zase pohybovat. Hra končí po vypršení času, pokud Marco chytí všechny hráče, nebo Marcovi dojdou náboje."
+msgstr "Juego clásico. Un Marco tiene los ojos vendados y busca a otros jugadores en una parte seleccionada de la arena. En cualquier momento puede gritar \"Marco\", momento en el que los otros jugadores deben quedarse quietos donde estaban y gritar \"Polo\". Marco puede entonces dar 3 pasos y disparar. Una vez que dispara, los jugadores pueden volver a moverse. El juego termina cuando se acaba el tiempo si Marco atrapa a todos los jugadores o si Marco se queda sin balas."
+
 msgctxt "actions"
 msgid "Přidat týmový mód"
 msgstr ""
@@ -876,6 +972,18 @@ msgstr "Tipo"
 msgctxt "game.modes"
 msgid "Opravdu chcete herní mód vymazat? Akce nepůjde vrátit."
 msgstr ""
+
+msgctxt "gameModes"
+msgid "Nový mód"
+msgstr "Nuevo modo"
+
+msgctxt "gameModes"
+msgid "Test"
+msgstr "Prueba"
+
+msgctxt "gameModes"
+msgid "Test - solo"
+msgstr "Prueba - solo"
 
 msgid "Variace herních módů označují malé změny v nastavení hry, jako například délku hry. Při načtení hry do konzole se vybírá mód, jehož jméno se získá přidáním potřebných přípon za nastavený základní název v konzoli. Pokud je tedy mód \"TeamDeathmatch\" a má vybranou variaci délky 15 minut, která má příponu \"-10\", výsledný vybraný mód z konzole bude mít název \"TeamDeathmatch-15\"."
 msgstr ""
@@ -1578,6 +1686,14 @@ msgstr ""
 msgctxt "game.modes"
 msgid "Zda je herní mód aktivní (zobrazí se ve výběru módu)"
 msgstr ""
+
+msgctxt "gameModes"
+msgid "SHADOW"
+msgstr "SOMBRA"
+
+msgctxt "gameModes"
+msgid "Týmový Survival"
+msgstr "Supervivencia en equipo"
 
 msgctxt "errors"
 msgid "Vyplňte název týmu"
@@ -2418,6 +2534,42 @@ msgstr ""
 
 msgid "Klasické módy"
 msgstr ""
+
+msgctxt "gameModes"
+msgid "TTT"
+msgstr "TTT"
+
+msgctxt "gameModes"
+msgid "Rambo"
+msgstr "Rambo"
+
+msgctxt "gameModes"
+msgid "Chraň VIP"
+msgstr "Protección VIP"
+
+msgctxt "gameModes"
+msgid "Revolver"
+msgstr "Revólver"
+
+msgctxt "gameModes"
+msgid "Marco polo"
+msgstr "Marco polo"
+
+msgctxt "gameModes"
+msgid "Ulov medvídka"
+msgstr "Atrapar un osito de peluche"
+
+msgctxt "gameModes"
+msgid "Schovka"
+msgstr "Schovka"
+
+msgctxt "gameModes"
+msgid "Last man standing"
+msgstr "El último hombre en pie"
+
+msgctxt "gameModes"
+msgid "Slepá bába"
+msgstr "Abuela ciega"
 
 msgid "Smazat filtr"
 msgstr ""

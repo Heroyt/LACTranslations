@@ -6,7 +6,7 @@ msgstr ""
 "Language-Team: Ukrainian\n"
 "Last-Translator: Tomáš Vojík <vojik@wboy.cz>\n"
 "MIME-Version: 1.0\n"
-"PO-Revision-Date: 2025-04-06 10:42\n"
+"PO-Revision-Date: 2025-04-06 11:57\n"
 "POT-Creation-Date: 2021-12-01 12:05+0100\n"
 "Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
 "Project-Id-Version: laserarenacontrol\n"
@@ -79,6 +79,10 @@ msgctxt "pageTitles"
 msgid "Výsledky"
 msgstr "Результати"
 
+msgctxt "gameModes"
+msgid "Základny"
+msgstr "База"
+
 msgctxt "debugPanel"
 msgid "Plural"
 msgstr ""
@@ -89,6 +93,18 @@ msgstr "Головна сторінка"
 
 msgid "Tento den se nehrály žádné hry."
 msgstr ""
+
+msgctxt "gameModes"
+msgid "CSGO"
+msgstr "ОГС"
+
+msgctxt "gameModes"
+msgid "Team deathmatch"
+msgstr "Командний матч на виживання"
+
+msgctxt "gameModes"
+msgid "Deathmatch"
+msgstr "Deathmatch"
 
 msgid "Jazyk"
 msgstr ""
@@ -173,6 +189,10 @@ msgctxt "errors"
 msgid "Database error occurred."
 msgstr "Виникла помилка в базі даних."
 
+msgctxt "gameModes"
+msgid "Survival"
+msgstr "Виживання"
+
 msgctxt "settings"
 msgid "API klíč"
 msgstr ""
@@ -212,8 +232,16 @@ msgctxt "errors"
 msgid "Failed to save settings."
 msgstr ""
 
+msgctxt "gameModes"
+msgid "T.M.A - solo"
+msgstr "T.M.A - соло"
+
 msgid "Výsledky on-line"
 msgstr ""
+
+msgctxt "gameModes"
+msgid "100 nábojů"
+msgstr "100 куль"
 
 msgid "Zobrazit vesty na výsledkové tabuli"
 msgstr ""
@@ -241,6 +269,10 @@ msgstr ""
 msgctxt "settings"
 msgid "Nastavení"
 msgstr "Налаштування"
+
+msgctxt "gameModes"
+msgid "Barvičky"
+msgstr "Ви можете знайти"
 
 msgid "Datum"
 msgstr "Дата"
@@ -348,6 +380,10 @@ msgstr ""
 msgid "Domluv si trénink s profíky!"
 msgstr ""
 
+msgctxt "gameModes"
+msgid "Apokalypsa"
+msgstr "Апокаліпсис"
+
 msgctxt "debugPanel"
 msgid "Invalid cache class"
 msgstr ""
@@ -382,6 +418,54 @@ msgstr ""
 msgctxt "game"
 msgid "Herní mód"
 msgstr "Ігровий режим"
+
+msgctxt "gameModes"
+msgid "Classic team game."
+msgstr "Класична командна гра."
+
+msgctxt "gameModes"
+msgid "Classic free for all game."
+msgstr "Класична безкоштовна гра."
+
+msgctxt "gameModes"
+msgid "Náročná hra o přežití se 3mi životy."
+msgstr "Складна гра на виживання з 3 життями."
+
+msgctxt "gameModes"
+msgid "Strategická hra, kdy 2 týmy bojují proti sobě o zničení základny druhého týmu."
+msgstr "Стратегічна гра, де 2 команди борються одна проти одної, щоб знищити базу іншої команди."
+
+msgctxt "gameModes"
+msgid "Rychlá, šílená hra. Po pár smrtích se přebarvíš na barvu toho, kdo tě trefil."
+msgstr "Швидка, божевільна гра. Після кількох вбивств ви змінюєте колір людини, яка вас вдарила."
+
+msgctxt "gameModes"
+msgid "Klasická hra, ale tentokrát bez světel."
+msgstr "Класична гра, але цього разу без світла."
+
+msgctxt "gameModes"
+msgid "T.M.A"
+msgstr "T.M.A"
+
+msgctxt "gameModes"
+msgid "Hra na zombíky! Vybraní hráči jsou zombie, kteří se snaží infikovat ostatní hráče."
+msgstr "Гра про зомбі! Вибрані гравці - зомбі, які намагаються заразити інших гравців."
+
+msgctxt "gameModes"
+msgid "Strategická hra s omezeným počtem životů a nábojů."
+msgstr "Стратегічна гра з обмеженою кількістю життів та набоїв."
+
+msgctxt "gameModes"
+msgid "Team Survival"
+msgstr "Командне виживання"
+
+msgctxt "gameModes"
+msgid "Marco Polo"
+msgstr "Марко Поло"
+
+msgctxt "gameModes"
+msgid "Zombie"
+msgstr "Зомбі"
 
 msgctxt "game"
 msgid "Hudební mód"
@@ -856,6 +940,18 @@ msgctxt "game.modes"
 msgid "Popis"
 msgstr "Опис"
 
+msgctxt "gameModes"
+msgid "Klasická týmová hra."
+msgstr "Класична командна гра."
+
+msgctxt "gameModes"
+msgid "Klasická hra všichni proti všem."
+msgstr "Класична гра всіх проти всіх."
+
+msgctxt "gameModes"
+msgid "Klasická hra. Jeden Marco má zavázané oči a hledá na vybrané části arény ostatní hráče. Kdykoliv může zakřičet \"Marco\", kdy potom musí ostatní hráči ztuhnout na místě, kde byly a zakřičet \"Polo\". Marco poté může udělat 3 kroky a vystřelit. Jakmile vystřelí, hráči se můžou zase pohybovat. Hra končí po vypršení času, pokud Marco chytí všechny hráče, nebo Marcovi dojdou náboje."
+msgstr "Класична гра. Один Марко із зав'язаними очима шукає інших гравців у вибраній частині арени. У будь-який момент він може крикнути \"Марко\", після чого інші гравці повинні завмерти на місці і крикнути \"Поло\". Після цього Марко може зробити 3 кроки і вистрілити. Після того, як він вистрілить, гравці можуть знову рухатися. Гра закінчується, коли закінчується час, якщо Марко зловить всіх гравців або у нього закінчаться кулі."
+
 msgctxt "actions"
 msgid "Přidat týmový mód"
 msgstr ""
@@ -878,6 +974,18 @@ msgstr ""
 msgctxt "game.modes"
 msgid "Opravdu chcete herní mód vymazat? Akce nepůjde vrátit."
 msgstr ""
+
+msgctxt "gameModes"
+msgid "Nový mód"
+msgstr "Новий режим"
+
+msgctxt "gameModes"
+msgid "Test"
+msgstr "Тест"
+
+msgctxt "gameModes"
+msgid "Test - solo"
+msgstr "Тест - соло"
 
 msgid "Variace herních módů označují malé změny v nastavení hry, jako například délku hry. Při načtení hry do konzole se vybírá mód, jehož jméno se získá přidáním potřebných přípon za nastavený základní název v konzoli. Pokud je tedy mód \"TeamDeathmatch\" a má vybranou variaci délky 15 minut, která má příponu \"-10\", výsledný vybraný mód z konzole bude mít název \"TeamDeathmatch-15\"."
 msgstr ""
@@ -1580,6 +1688,14 @@ msgstr "Турніри"
 msgctxt "game.modes"
 msgid "Zda je herní mód aktivní (zobrazí se ve výběru módu)"
 msgstr ""
+
+msgctxt "gameModes"
+msgid "SHADOW"
+msgstr "ТІНЬ"
+
+msgctxt "gameModes"
+msgid "Týmový Survival"
+msgstr "Командне виживання"
 
 msgctxt "errors"
 msgid "Vyplňte název týmu"
@@ -2430,6 +2546,42 @@ msgstr "Всі"
 
 msgid "Klasické módy"
 msgstr "Класичні режими"
+
+msgctxt "gameModes"
+msgid "TTT"
+msgstr "TTT"
+
+msgctxt "gameModes"
+msgid "Rambo"
+msgstr "Рембо"
+
+msgctxt "gameModes"
+msgid "Chraň VIP"
+msgstr "Захистити VIP"
+
+msgctxt "gameModes"
+msgid "Revolver"
+msgstr "Револьвер"
+
+msgctxt "gameModes"
+msgid "Marco polo"
+msgstr "Марко Поло"
+
+msgctxt "gameModes"
+msgid "Ulov medvídka"
+msgstr "Зловити ведмедя"
+
+msgctxt "gameModes"
+msgid "Schovka"
+msgstr "Коробка"
+
+msgctxt "gameModes"
+msgid "Last man standing"
+msgstr "Останній, хто залишився"
+
+msgctxt "gameModes"
+msgid "Slepá bába"
+msgstr "Сліпа бабуся"
 
 msgid "Smazat filtr"
 msgstr "Видалити фільтр"

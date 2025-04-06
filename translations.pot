@@ -2008,9 +2008,6 @@ msgstr ""
 msgid "Zatím odehrál %d her."
 msgstr ""
 
-msgid "Bronz"
-msgstr ""
-
 msgctxt "pageTitles"
 msgid "Žebříček"
 msgstr ""
