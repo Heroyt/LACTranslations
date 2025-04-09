@@ -238,4 +238,3 @@ msgstr "Disparos"
 
 msgid "Zabijáci vlastních"
 msgstr ""
-

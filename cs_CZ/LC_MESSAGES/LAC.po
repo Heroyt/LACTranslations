@@ -285,7 +285,7 @@ msgstr "%d skóre"
 
 msgctxt "actions"
 msgid "Zavřít"
-msgstr "Zavřít"
+msgstr ""
 
 msgctxt "leaderboard"
 msgid "Hráč"
@@ -328,10 +328,6 @@ msgstr "Legenda"
 msgctxt "actions"
 msgid "Začít"
 msgstr "Začít"
-
-msgctxt "actions"
-msgid "Zavřít"
-msgstr ""
 
 msgctxt "action"
 msgid "Zobrazit později"
@@ -4334,3 +4330,6 @@ msgctxt "settings"
 msgid "API URL"
 msgstr ""
 
+msgctxt "game"
+msgid "Skrýt výsledky na výsledkové tabuli"
+msgstr ""

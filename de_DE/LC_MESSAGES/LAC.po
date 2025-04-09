@@ -329,10 +329,6 @@ msgctxt "actions"
 msgid "Začít"
 msgstr ""
 
-msgctxt "actions"
-msgid "Zavřít"
-msgstr "Schließen"
-
 msgctxt "action"
 msgid "Zobrazit později"
 msgstr ""
@@ -4286,3 +4282,6 @@ msgctxt "settings"
 msgid "API URL"
 msgstr "API-URL"
 
+msgctxt "game"
+msgid "Skrýt výsledky na výsledkové tabuli"
+msgstr ""

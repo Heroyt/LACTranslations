@@ -357,3 +357,13 @@ msgctxt "screens"
 msgid "Stav hry"
 msgstr "État des lieux"
 
+msgctxt "screens.description"
+msgid "Obrazovka zobrazí jen zprávu, že výsledky jsou skryté."
+msgstr ""
+
+msgctxt "screens"
+msgid "Skryté výsledky"
+msgstr ""
+
+msgid "Výsledky jsou tajemnství"
+msgstr ""
