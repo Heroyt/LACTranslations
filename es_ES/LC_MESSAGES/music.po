@@ -3,7 +3,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language: es_ES\n"
 "Language-Team: Spanish\n"
-"PO-Revision-Date: 2025-04-06 13:38\n"
+"PO-Revision-Date: 2025-04-10 11:40\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Project-Id-Version: laserarenacontrol\n"
 "X-Crowdin-File: /master/music.pot\n"
@@ -14,111 +14,111 @@ msgstr ""
 "X-Domain: music\n"
 
 msgid "Anime 2 (Vykyndr)"
-msgstr ""
+msgstr "Anime 2 (Vykyndr)"
 
 msgid "Lollipopz"
-msgstr ""
+msgstr "Lollipopz"
 
 msgid "Albatraoz"
-msgstr ""
+msgstr "Albatroz"
 
 msgctxt "group"
 msgid "Anime"
-msgstr ""
+msgstr "Anime"
 
 msgid "Anime 1 (Heroyt)"
-msgstr ""
+msgstr "Anime 1 (Heroyt)"
 
 msgid "Anime 3 (Heroyt 2)"
-msgstr ""
+msgstr "Anime 3 (Heroyt 2)"
 
 msgid "Doom"
-msgstr ""
+msgstr "Doom"
 
 msgid "Dubstep"
-msgstr ""
+msgstr "Dubstep"
 
 msgctxt "group"
 msgid "K-POP"
-msgstr ""
+msgstr "K-POP"
 
 msgid "K-POP"
-msgstr ""
+msgstr "K-POP"
 
 msgid "K-POP 2"
-msgstr ""
+msgstr "K-POP 2"
 
 msgid "K-POP 3"
-msgstr ""
+msgstr "K-POP 3"
 
 msgctxt "group"
 msgid "Lasermaxx"
-msgstr ""
+msgstr "Lasermaxx"
 
 msgid "Standard"
-msgstr ""
+msgstr "Estándar"
 
 msgid "Military"
-msgstr ""
+msgstr "Militar"
 
 msgid "Requiem"
-msgstr ""
+msgstr "Réquiem"
 
 msgid "Marvel"
-msgstr ""
+msgstr "Marvel"
 
 msgid "Matrix"
-msgstr ""
+msgstr "Matrix"
 
 msgid "Mortal kombat"
-msgstr ""
+msgstr "Mortal Kombat"
 
 msgid "Narozeniny"
 msgstr "Cumpleaños"
 
 msgid "Piráti z karibiku"
-msgstr ""
+msgstr "Piratas del Caribe"
 
 msgid "S3RL"
-msgstr ""
+msgstr "S3RL"
 
 msgid "StarWars"
-msgstr ""
+msgstr "StarWars"
 
 msgid "Trpasličí metal"
-msgstr ""
+msgstr "Metal de enenitos"
 
 msgid "Turnajový mix"
-msgstr ""
+msgstr "Mix para torneos"
 
 msgid "Undertale"
-msgstr ""
+msgstr "Undertale"
 
 msgctxt "group"
 msgid "AI"
-msgstr ""
+msgstr "IA"
 
 msgid "Laser Showdown"
-msgstr ""
+msgstr "Laser Showdown"
 
 msgid "Lidový hardbass"
-msgstr ""
+msgstr "Folk hardbass"
 
 msgid "Horror"
-msgstr ""
+msgstr "Terror"
 
 msgctxt "group"
 msgid "Halloween"
-msgstr ""
+msgstr "Halloween"
 
 msgid "Halloween 1"
-msgstr ""
+msgstr "Halloween 1"
 
 msgid "Halloween 2"
-msgstr ""
+msgstr "Halloween 2"
 
 msgid "Vlčí klan"
-msgstr ""
+msgstr "Clan del Lobo"
 
 msgid "HERNÍ MIX"
 msgstr ""
