@@ -3,7 +3,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language: es_ES\n"
 "Language-Team: Spanish\n"
-"PO-Revision-Date: 2025-04-10 11:40\n"
+"PO-Revision-Date: 2025-04-10 13:00\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Project-Id-Version: laserarenacontrol\n"
 "X-Crowdin-File: /master/music.pot\n"
@@ -121,106 +121,106 @@ msgid "Vlčí klan"
 msgstr "Clan del Lobo"
 
 msgid "HERNÍ MIX"
-msgstr ""
+msgstr "JUEGO MIX"
 
 msgid "LaserMaxx"
-msgstr ""
+msgstr "LaserMaxx"
 
 msgid "CRAZY MIX"
-msgstr ""
+msgstr "CRAZY MIX"
 
 msgid "HOUSETRANCE"
-msgstr ""
+msgstr "HOUSETRANCE"
 
 msgid "CSR ROCK"
-msgstr ""
+msgstr "ROCK CHECOSLOVACO"
 
 msgid "DECHOVKA"
-msgstr ""
+msgstr "MÚSICA DE VIENTO"
 
 msgid "DETI"
-msgstr ""
+msgstr "PARA NIÑOS"
 
 msgid "DRUM AND BASE"
-msgstr ""
+msgstr "DRUM AND BASS"
 
 msgid "DUBSTEP"
-msgstr ""
+msgstr "DUBSTEP"
 
 msgid "ELECTRO"
-msgstr ""
+msgstr "ELECTRO"
 
 msgctxt "group"
 msgid "FILM"
-msgstr ""
+msgstr "PELÍCULAS"
 
 msgid "FILM 1"
-msgstr ""
+msgstr "PELÍCULAS 1"
 
 msgid "FILM 2"
-msgstr ""
+msgstr "PELÍCULAS 2"
 
 msgid "Film 1 by Pogánek"
-msgstr ""
+msgstr "Películas 1 de Pogánek"
 
 msgid "FIlm 2 by Pogánek"
-msgstr ""
+msgstr "Películas 2 de Pogánek"
 
 msgid "HANS ZIMMER"
-msgstr ""
+msgstr "HANS ZIMMER"
 
 msgid "HARDSTYLE"
-msgstr ""
+msgstr "HARDSTYLE"
 
 msgid "HEAVY METAL"
-msgstr ""
+msgstr "HEAVY METAL"
 
 msgid "HOROR"
-msgstr ""
+msgstr "TERROR"
 
 msgid "OLDIES"
-msgstr ""
+msgstr "OLDIES"
 
 msgid "ROCK"
-msgstr ""
+msgstr "ROCK"
 
 msgid "WESTERN"
-msgstr ""
+msgstr "WESTERN"
 
 msgid "EuroBeat"
-msgstr ""
+msgstr "EuroBeat"
 
 msgid "J-pop"
-msgstr ""
+msgstr "J-pop"
 
 msgid "NCS pozadní hudba"
-msgstr ""
+msgstr "NCS (Música de fondo)"
 
 msgid "Herní mix by Pogánek"
-msgstr ""
+msgstr "Juego mix de Pogánek"
 
 msgid "DnB by Pogánek"
-msgstr ""
+msgstr "DnB de Pogánek"
 
 msgid "White girl aesthetic"
-msgstr ""
+msgstr "White girl aesthetic"
 
 msgid "CZ HARDSTYLE"
-msgstr ""
+msgstr "CZ HARDSTYLE"
 
 msgid "Nightcore"
-msgstr ""
+msgstr "Nightcore"
 
 msgid "8-bit by Pogánek"
-msgstr ""
+msgstr "8-bit de Pogánek"
 
 msgctxt "group"
 msgid "LaserMaxx"
-msgstr ""
+msgstr "LaserMaxx"
 
 msgid "LaserMaxx Military"
-msgstr ""
+msgstr "LaserMaxx Militar"
 
 msgid "Strážci galaxie"
-msgstr ""
+msgstr "Guardianes de la Galaxia"
 
