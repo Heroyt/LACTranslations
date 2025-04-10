@@ -6,7 +6,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "Last-Translator: Tomáš Vojík <vojik@wboy.cz>\n"
 "MIME-Version: 1.0\n"
-"PO-Revision-Date: 2025-04-10 15:22\n"
+"PO-Revision-Date: 2025-04-10 17:02\n"
 "POT-Creation-Date: \n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Project-Id-Version: laserarenacontrol\n"
@@ -147,19 +147,19 @@ msgid "Celkové skóre"
 msgstr "Puntuación total"
 
 msgid "Průměrný počet výstřelů"
-msgstr ""
+msgstr "Número medio de disparos"
 
 msgid "Celkem výstřelů"
-msgstr ""
+msgstr "Total de disparos"
 
 msgid "Průměrný počet zásahů"
-msgstr ""
+msgstr "Número medio de tiros"
 
 msgid "Celkem zásahů"
-msgstr ""
+msgstr "Total de tiros"
 
 msgid "Průměrný počet smrtí"
-msgstr ""
+msgstr "Número medio de muertes"
 
 msgid "Celkem smrtí"
 msgstr ""
@@ -2617,16 +2617,16 @@ msgstr "Eventos %s - %s"
 
 msgctxt "pageDescription"
 msgid "Akce %s v %s v datech %s."
-msgstr "Acción %s en %s en datos %s."
+msgstr "Evento %s en %s en datos %s."
 
 msgid "Zpět na plánované akce"
-msgstr "Volver a los eventos programados"
+msgstr "Volver a los eventos planeados"
 
 msgid "Informace o akci laser game, který se bude odehrávat v %s."
-msgstr "Información sobre el evento de juegos láser que tendrá lugar en %s."
+msgstr "Información sobre el evento de laser game que tendrá lugar en %s."
 
 msgid "Laser game akce: %s"
-msgstr "Acción del juego láser: %s"
+msgstr "Evento de laser game: %s"
 
 msgid "Termíny"
 msgstr "Fechas"
@@ -2638,16 +2638,16 @@ msgid "Individuální"
 msgstr "Individual"
 
 msgid "Seznam přihlášených hráčů na akci laser game."
-msgstr "Lista de jugadores registrados para el evento de juegos láser."
+msgstr "Lista de jugadores registrados para el evento de laser game."
 
 msgid "Termín je zrušený"
-msgstr "Se anula el plazo"
+msgstr "La fecha es cancelada"
 
 msgid "Souhlasím se <a href=\"%s\" target=\"_blank\">zásadami zpracování osobních údajů</a>."
 msgstr "Acepto la <a href=\"%s\" target=\"_blank\">política de privacidad</a>."
 
 msgid "Správa arény"
-msgstr "Gestión del estadio"
+msgstr "Administración de la arena"
 
 msgid "Fotky"
 msgstr "Fotos"
@@ -2662,10 +2662,10 @@ msgid "Jinak se zobrazí všechny nepřiřazené fotky."
 msgstr "De lo contrario, se mostrarán todas las fotos no asignadas."
 
 msgid "Nepřiřazené fotky"
-msgstr "Fotos sin asignar"
+msgstr "Fotos no asignadas"
 
 msgid "Opravdu chcete smazat %d fotek?"
-msgstr "¿De verdad quieres borrar las fotos de %d ?"
+msgstr "¿De verdad quiere borrar %d fotos?"
 
 msgid "Smazat vybrané fotky"
 msgstr "Borrar fotos seleccionadas"
@@ -2677,7 +2677,7 @@ msgid "Stáhnout vybrané fotky"
 msgstr "Descargar fotos seleccionadas"
 
 msgid "Opravdu chcete fotku smazat?"
-msgstr "¿Seguro que quieres borrar la foto?"
+msgstr "¿De verdad quiere borrar la foto?"
 
 msgid "Smazat"
 msgstr "Borrar"
@@ -2698,16 +2698,16 @@ msgid "Zrušit přiřazení fotek"
 msgstr "Cancelar asignación de fotos"
 
 msgid "Odeslané e-maily"
-msgstr "Emails enviados"
+msgstr "E-mails enviados"
 
 msgid "Odeslat fotky na e-mail"
 msgstr "Enviar fotos a e-mail"
 
 msgid "Nepodařilo se odeslat e-maily."
-msgstr "Fallo al enviar emails."
+msgstr "Fallo al enviar e-mails."
 
 msgid "E-maily byly úspěšně odeslány."
-msgstr "Los correos electrónicos se han enviado correctamente."
+msgstr "Los e-mails se han enviado correctamente."
 
 msgid "E-mailové adresy"
 msgstr "Direcciones de correo electrónico"
@@ -2751,7 +2751,7 @@ msgstr "Si rellenas tu fecha de nacimiento, puedes conseguir un premio de cumple
 
 msgctxt "actions"
 msgid "Upravit"
-msgstr "Editado por"
+msgstr "Editar"
 
 msgctxt "notification"
 msgid "Nové fotky!"
