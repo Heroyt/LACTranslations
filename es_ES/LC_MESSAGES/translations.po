@@ -6,7 +6,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "Last-Translator: Tomáš Vojík <vojik@wboy.cz>\n"
 "MIME-Version: 1.0\n"
-"PO-Revision-Date: 2025-04-06 13:38\n"
+"PO-Revision-Date: 2025-04-10 15:22\n"
 "POT-Creation-Date: \n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Project-Id-Version: laserarenacontrol\n"
@@ -26,10 +26,10 @@ msgid "stránka nenalezena"
 msgstr "página no encontrada"
 
 msgid "Toggle navigation"
-msgstr ""
+msgstr "Cambiar navegación"
 
 msgid "Hra neexistuje!"
-msgstr ""
+msgstr "¡El juego no existe!"
 
 msgctxt "errors"
 msgid "Uploaded file is too large"
@@ -49,11 +49,11 @@ msgstr "Jugador"
 
 msgctxt "leaderboard"
 msgid "Mód"
-msgstr ""
+msgstr "Modo"
 
 msgctxt "leaderboard"
 msgid "Čas"
-msgstr ""
+msgstr "Tiempo"
 
 msgctxt "leaderboard"
 msgid "Score"
@@ -77,31 +77,31 @@ msgstr "Disparos"
 
 msgctxt "actions"
 msgid "Začít"
-msgstr ""
+msgstr "Comenzar"
 
 msgctxt "action"
 msgid "Zobrazit později"
-msgstr ""
+msgstr "Ver más tarde"
 
 msgctxt "action"
 msgid "Nezobrazovat"
-msgstr ""
+msgstr "No mostrar"
 
 msgctxt "actions"
 msgid "Předchozí"
-msgstr ""
+msgstr "Anterior"
 
 msgctxt "action"
 msgid "Další"
-msgstr ""
+msgstr "Siguiente"
 
 msgctxt "actions"
 msgid "Načítání"
-msgstr ""
+msgstr "Cargando"
 
 msgctxt "action"
 msgid "Dokončit"
-msgstr ""
+msgstr "Acabar"
 
 msgctxt "action"
 msgid "Zavřít"
@@ -109,7 +109,7 @@ msgstr "Cerrar"
 
 msgctxt "form.errors"
 msgid "Toto pole je povinné"
-msgstr ""
+msgstr "Este hueco es requerido"
 
 msgctxt "vests.status"
 msgid "V pořádku"
@@ -124,27 +124,27 @@ msgid "Hratelná"
 msgstr "Jugable"
 
 msgid "Filtry"
-msgstr ""
+msgstr "Filtros"
 
 msgctxt "actions"
 msgid "Filtrovat"
-msgstr ""
+msgstr "Filtrar"
 
 msgctxt "actions"
 msgid "Smazat"
 msgstr "Borrar"
 
 msgid "Průměrné ohodnocení hráče"
-msgstr ""
+msgstr "Puntuación media de jugador"
 
 msgid "Oblíbená vesta"
-msgstr ""
+msgstr "Chaleco preferido"
 
 msgid "Průměrné skóre"
-msgstr ""
+msgstr "Puntuación media"
 
 msgid "Celkové skóre"
-msgstr ""
+msgstr "Puntuación total"
 
 msgid "Průměrný počet výstřelů"
 msgstr ""
