@@ -201,17 +201,101 @@ msgctxt "bests.description"
 msgid "Průměrný hráč. Bohužel na tebe nesedí žádná z trofejí."
 msgstr ""
 
-msgid "Odehráno her"
+msgid "On-line detailní výsledky"
 msgstr ""
 
-msgid "Sniper"
+msgid "%d výstřel"
+msgid_plural "%d výstřelů"
+msgstr[0] ""
+
+msgid "%d zásah"
+msgid_plural "%d zásahů"
+msgstr[0] ""
+
+msgid "%d smrt"
+msgid_plural "%d smrtí"
+msgstr[0] ""
+
+msgid "Skóre"
 msgstr ""
 
-msgid "Mega střelec"
+msgid "Výstřely"
 msgstr ""
 
-msgid "Predátor"
+msgid "Zásahy"
 msgstr ""
 
-msgid "Cíl"
+msgid "Smrti"
 msgstr ""
+
+msgid "Zásahy od/do spoluhráčů"
+msgstr ""
+
+msgid "Bonusy"
+msgstr ""
+
+msgctxt "bonus"
+msgid "Agent"
+msgstr ""
+
+msgctxt "bonus"
+msgid "Neviditelnost"
+msgstr ""
+
+msgctxt "bonus"
+msgid "Samopal"
+msgstr ""
+
+msgctxt "bonus"
+msgid "Štít"
+msgstr ""
+
+msgid "Remíza"
+msgstr ""
+
+msgid "Vítězství"
+msgstr ""
+
+msgctxt "info"
+msgid "Kód hry"
+msgstr ""
+
+msgctxt "info"
+msgid "Datum"
+msgstr ""
+
+msgctxt "info"
+msgid "Herní mód"
+msgstr ""
+
+msgctxt "info"
+msgid "Hudební mód"
+msgstr ""
+
+msgctxt "player"
+msgid "Výstřely"
+msgstr ""
+
+msgctxt "player"
+msgid "Zásahy"
+msgstr ""
+
+msgctxt "player"
+msgid "Nejoblíbenější cíl"
+msgstr ""
+
+msgctxt "player"
+msgid "Největší zabiják"
+msgstr ""
+
+msgctxt "hits"
+msgid "Zásahy hráčů"
+msgstr ""
+
+msgctxt "hits"
+msgid "Zasáhl si hráče"
+msgstr ""
+
+msgid "%d zabití"
+msgid_plural "%d zabití"
+msgstr[0] ""
