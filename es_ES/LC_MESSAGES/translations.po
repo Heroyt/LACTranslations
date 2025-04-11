@@ -6,7 +6,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "Last-Translator: Tomáš Vojík <vojik@wboy.cz>\n"
 "MIME-Version: 1.0\n"
-"PO-Revision-Date: 2025-04-10 17:02\n"
+"PO-Revision-Date: 2025-04-11 09:32\n"
 "POT-Creation-Date: \n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Project-Id-Version: laserarenacontrol\n"
@@ -65,7 +65,7 @@ msgstr "Precisión"
 
 msgctxt "leaderboard"
 msgid "Hits"
-msgstr "Hits"
+msgstr "Tiros"
 
 msgctxt "leaderboard"
 msgid "Deaths"
@@ -113,7 +113,7 @@ msgstr "Este hueco es requerido"
 
 msgctxt "vests.status"
 msgid "V pořádku"
-msgstr "No pasa nada."
+msgstr "Listo"
 
 msgctxt "vests.status"
 msgid "Nefunkční"
@@ -423,7 +423,7 @@ msgid "Průměrný počet smrtí za minutu"
 msgstr ""
 
 msgid "Nejlepší přesnost"
-msgstr "Mejor precisión"
+msgstr "La mejor precisión"
 
 msgid "Nejlepší skóre"
 msgstr "La mejor puntuación"
@@ -948,7 +948,7 @@ msgstr ""
 
 msgctxt "tournament.faq"
 msgid "Liga laser game je dlouhodobá soutěž skládající se z několika turnajů. Výsledky jsou vyhodnocovány z každého turnaje zvlášť, ale zároveň mezi turnaji. Na konci ligového období jsou vyhlášeny celkové výsledky."
-msgstr "La liga de juegos láser es una competición de larga duración que consta de varios torneos. Los resultados de cada torneo se evalúan por separado, pero al mismo tiempo entre los torneos. Al final del periodo de liga, se anuncian los resultados globales."
+msgstr "La liga de laser game es una competición de larga duración que consta de varios torneos. Los resultados de cada torneo se evalúan por separado, pero al mismo tiempo entre los torneos. Al final de la temporada de liga, se anuncian los resultados totales."
 
 msgctxt "tournament.faq"
 msgid "Jak se zaregistruji na turnaj?"
@@ -1151,7 +1151,7 @@ msgstr ""
 
 msgctxt "pageTitles"
 msgid "Ligy laser game"
-msgstr "Juego Laser League"
+msgstr "Ligas de laser game"
 
 msgctxt "pageDescription"
 msgid "Organizované laser game ligy - skupiny turnajů, které na sebe navazují."
@@ -1382,7 +1382,7 @@ msgid "Tvůj kód %s je unikátní identifikátor, pod kterým tě aréna vždy 
 msgstr ""
 
 msgid "Upravit"
-msgstr "Editado por"
+msgstr "Editar"
 
 msgid "%s začal svou cestu laser game hráče svou první hrou %s."
 msgstr ""
@@ -1520,7 +1520,7 @@ msgid "%s k herní úrovni hráče"
 msgstr ""
 
 msgid "Zohlednění vašich protihráčů. Pokud hrajete proti slabším, vaše herní úroveň se sníží. Naopak, pokud hrajete proti silným hráčům, vaše herní úroveň se zvýší."
-msgstr "Ten en cuenta a tus oponentes. Si juegas contra jugadores más débiles, tu nivel de juego disminuirá. Por el contrario, si juegas contra jugadores fuertes, tu nivel de juego aumentará."
+msgstr "Considerando tus oponentes. Si juegas contra jugadores con nivel menor, tu nivel de juego disminuirá. Por el contrario, si juegas contra jugadores con nivel mayor, tu nivel de juego aumentará."
 
 msgid "Srovnání s protihráči"
 msgstr "Comparación con los adversarios"
@@ -2594,22 +2594,22 @@ msgstr ""
 
 msgid "Podařilo se ti získat nové ocenění!"
 msgid_plural "Podařilo se ti získat nová ocenění!"
-msgstr[0] "¡Has ganado un nuevo premio!"
+msgstr[0] "¡Has ganado un nuevo logro!"
 msgstr[1] "¡Has conseguido ganar nuevos premios!"
 
 msgid "Někdo tě přeskočil v žebříčku!"
-msgstr "¡Alguien te ha saltado en la clasificación!"
+msgstr "¡Alguien te ha saltado en la escala!"
 
 msgid "Posunul si se o %d místo dolů a teď jsi %s."
 msgid_plural "Posunul si se o %d míst dolů a teď jsi %s"
-msgstr[0] "Te has desplazado %d hacia abajo y ahora estás %s."
+msgstr[0] "Has bajado %d puestos y ahora estás %s."
 msgstr[1] "Te has desplazado %d lugares y ahora estás %s"
 
 msgid "Ligy laser game"
-msgstr "Juego Laser League"
+msgstr "Liga de laser game"
 
 msgid "Liga laser game je dlouhodobá soutěž skládající se z několika turnajů. Výsledky jsou vyhodnocovány z každého turnaje zvlášť, ale zároveň mezi turnaji. Na konci ligového období jsou vyhlášeny celkové výsledky."
-msgstr "La liga de juegos láser es una competición de larga duración que consta de varios torneos. Los resultados de cada torneo se evalúan por separado, pero al mismo tiempo entre los torneos. Al final del periodo de liga, se anuncian los resultados globales."
+msgstr "La liga de laser game es una competición de larga duración que consta de varios torneos. Los resultados de cada torneo se evalúan por separado, pero al mismo tiempo entre los torneos. Al final de la temporada de la liga, se anuncian los resultados totales."
 
 msgctxt "pageTitles"
 msgid "Akce %s - %s"
@@ -2730,7 +2730,7 @@ msgstr "Posición"
 
 msgctxt "gender-male"
 msgid "Odeslal"
-msgstr "Publicado por"
+msgstr "Enviado por"
 
 msgctxt "gender-female"
 msgid "Odeslala"
@@ -2747,7 +2747,7 @@ msgid "Datum narození"
 msgstr "Fecha de nacimiento"
 
 msgid "Pokud vyplníte datum narození, mužete získat narozenové ocenění a některé zapojené arény mohou mít pro oslavence sleciální akce."
-msgstr "Si rellenas tu fecha de nacimiento, puedes conseguir un premio de cumpleaños y algunos estadios participantes pueden tener eventos especiales para el celebrante del cumpleaños."
+msgstr "Si rellenas tu fecha de nacimiento, puedes conseguir un logro de cumpleaños y algunas arenas participadas pueden tener ofertas especiales para el celebrante."
 
 msgctxt "actions"
 msgid "Upravit"
@@ -2759,8 +2759,8 @@ msgstr "¡Nuevas fotos!"
 
 msgctxt "notification"
 msgid "Na tvé hře z %s přibyly fotky!"
-msgstr "¡Su juego de %s añadido fotos!"
+msgstr "¡Se han añadido fotos a tu juego de %s!"
 
 msgid "%s score"
-msgstr "%s Puntuación"
+msgstr "%s puntuación"
 
