@@ -6,7 +6,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "Last-Translator: Tomáš Vojík <vojik@wboy.cz>\n"
 "MIME-Version: 1.0\n"
-"PO-Revision-Date: 2025-04-06 13:13\n"
+"PO-Revision-Date: 2025-04-11 09:32\n"
 "POT-Creation-Date: \n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Project-Id-Version: laserarenacontrol\n"
@@ -26,10 +26,10 @@ msgid "stránka nenalezena"
 msgstr "página no encontrada"
 
 msgid "Toggle navigation"
-msgstr ""
+msgstr "Cambiar navegación"
 
 msgid "Hra neexistuje!"
-msgstr ""
+msgstr "¡El juego no existe!"
 
 msgctxt "errors"
 msgid "Uploaded file is too large"
@@ -49,11 +49,11 @@ msgstr "Jugador"
 
 msgctxt "leaderboard"
 msgid "Mód"
-msgstr ""
+msgstr "Modo"
 
 msgctxt "leaderboard"
 msgid "Čas"
-msgstr ""
+msgstr "Tiempo"
 
 msgctxt "leaderboard"
 msgid "Score"
@@ -65,7 +65,7 @@ msgstr "Precisión"
 
 msgctxt "leaderboard"
 msgid "Hits"
-msgstr "Hits"
+msgstr "Tiros"
 
 msgctxt "leaderboard"
 msgid "Deaths"
@@ -77,31 +77,31 @@ msgstr "Disparos"
 
 msgctxt "actions"
 msgid "Začít"
-msgstr ""
+msgstr "Comenzar"
 
 msgctxt "action"
 msgid "Zobrazit později"
-msgstr ""
+msgstr "Ver más tarde"
 
 msgctxt "action"
 msgid "Nezobrazovat"
-msgstr ""
+msgstr "No mostrar"
 
 msgctxt "actions"
 msgid "Předchozí"
-msgstr ""
+msgstr "Anterior"
 
 msgctxt "action"
 msgid "Další"
-msgstr ""
+msgstr "Siguiente"
 
 msgctxt "actions"
 msgid "Načítání"
-msgstr ""
+msgstr "Cargando"
 
 msgctxt "action"
 msgid "Dokončit"
-msgstr ""
+msgstr "Acabar"
 
 msgctxt "action"
 msgid "Zavřít"
@@ -109,11 +109,11 @@ msgstr "Cerrar"
 
 msgctxt "form.errors"
 msgid "Toto pole je povinné"
-msgstr ""
+msgstr "Este hueco es requerido"
 
 msgctxt "vests.status"
 msgid "V pořádku"
-msgstr "No pasa nada."
+msgstr "Listo"
 
 msgctxt "vests.status"
 msgid "Nefunkční"
@@ -124,42 +124,42 @@ msgid "Hratelná"
 msgstr "Jugable"
 
 msgid "Filtry"
-msgstr ""
+msgstr "Filtros"
 
 msgctxt "actions"
 msgid "Filtrovat"
-msgstr ""
+msgstr "Filtrar"
 
 msgctxt "actions"
 msgid "Smazat"
 msgstr "Borrar"
 
 msgid "Průměrné ohodnocení hráče"
-msgstr ""
+msgstr "Puntuación media de jugador"
 
 msgid "Oblíbená vesta"
-msgstr ""
+msgstr "Chaleco preferido"
 
 msgid "Průměrné skóre"
-msgstr ""
+msgstr "Puntuación media"
 
 msgid "Celkové skóre"
-msgstr ""
+msgstr "Puntuación total"
 
 msgid "Průměrný počet výstřelů"
-msgstr ""
+msgstr "Número medio de disparos"
 
 msgid "Celkem výstřelů"
-msgstr ""
+msgstr "Total de disparos"
 
 msgid "Průměrný počet zásahů"
-msgstr ""
+msgstr "Número medio de tiros"
 
 msgid "Celkem zásahů"
-msgstr ""
+msgstr "Total de tiros"
 
 msgid "Průměrný počet smrtí"
-msgstr ""
+msgstr "Número medio de muertes"
 
 msgid "Celkem smrtí"
 msgstr ""
@@ -423,7 +423,7 @@ msgid "Průměrný počet smrtí za minutu"
 msgstr ""
 
 msgid "Nejlepší přesnost"
-msgstr "Mejor precisión"
+msgstr "La mejor precisión"
 
 msgid "Nejlepší skóre"
 msgstr "La mejor puntuación"
@@ -948,7 +948,7 @@ msgstr ""
 
 msgctxt "tournament.faq"
 msgid "Liga laser game je dlouhodobá soutěž skládající se z několika turnajů. Výsledky jsou vyhodnocovány z každého turnaje zvlášť, ale zároveň mezi turnaji. Na konci ligového období jsou vyhlášeny celkové výsledky."
-msgstr "La liga de juegos láser es una competición de larga duración que consta de varios torneos. Los resultados de cada torneo se evalúan por separado, pero al mismo tiempo entre los torneos. Al final del periodo de liga, se anuncian los resultados globales."
+msgstr "La liga de laser game es una competición de larga duración que consta de varios torneos. Los resultados de cada torneo se evalúan por separado, pero al mismo tiempo entre los torneos. Al final de la temporada de liga, se anuncian los resultados totales."
 
 msgctxt "tournament.faq"
 msgid "Jak se zaregistruji na turnaj?"
@@ -1151,7 +1151,7 @@ msgstr ""
 
 msgctxt "pageTitles"
 msgid "Ligy laser game"
-msgstr "Juego Laser League"
+msgstr "Ligas de laser game"
 
 msgctxt "pageDescription"
 msgid "Organizované laser game ligy - skupiny turnajů, které na sebe navazují."
@@ -1382,7 +1382,7 @@ msgid "Tvůj kód %s je unikátní identifikátor, pod kterým tě aréna vždy 
 msgstr ""
 
 msgid "Upravit"
-msgstr "Editado por"
+msgstr "Editar"
 
 msgid "%s začal svou cestu laser game hráče svou první hrou %s."
 msgstr ""
@@ -1520,7 +1520,7 @@ msgid "%s k herní úrovni hráče"
 msgstr ""
 
 msgid "Zohlednění vašich protihráčů. Pokud hrajete proti slabším, vaše herní úroveň se sníží. Naopak, pokud hrajete proti silným hráčům, vaše herní úroveň se zvýší."
-msgstr "Ten en cuenta a tus oponentes. Si juegas contra jugadores más débiles, tu nivel de juego disminuirá. Por el contrario, si juegas contra jugadores fuertes, tu nivel de juego aumentará."
+msgstr "Considerando tus oponentes. Si juegas contra jugadores con nivel menor, tu nivel de juego disminuirá. Por el contrario, si juegas contra jugadores con nivel mayor, tu nivel de juego aumentará."
 
 msgid "Srovnání s protihráči"
 msgstr "Comparación con los adversarios"
@@ -2594,22 +2594,22 @@ msgstr ""
 
 msgid "Podařilo se ti získat nové ocenění!"
 msgid_plural "Podařilo se ti získat nová ocenění!"
-msgstr[0] "¡Has ganado un nuevo premio!"
+msgstr[0] "¡Has ganado un nuevo logro!"
 msgstr[1] "¡Has conseguido ganar nuevos premios!"
 
 msgid "Někdo tě přeskočil v žebříčku!"
-msgstr "¡Alguien te ha saltado en la clasificación!"
+msgstr "¡Alguien te ha saltado en la escala!"
 
 msgid "Posunul si se o %d místo dolů a teď jsi %s."
 msgid_plural "Posunul si se o %d míst dolů a teď jsi %s"
-msgstr[0] "Te has desplazado %d hacia abajo y ahora estás %s."
+msgstr[0] "Has bajado %d puestos y ahora estás %s."
 msgstr[1] "Te has desplazado %d lugares y ahora estás %s"
 
 msgid "Ligy laser game"
-msgstr "Juego Laser League"
+msgstr "Liga de laser game"
 
 msgid "Liga laser game je dlouhodobá soutěž skládající se z několika turnajů. Výsledky jsou vyhodnocovány z každého turnaje zvlášť, ale zároveň mezi turnaji. Na konci ligového období jsou vyhlášeny celkové výsledky."
-msgstr "La liga de juegos láser es una competición de larga duración que consta de varios torneos. Los resultados de cada torneo se evalúan por separado, pero al mismo tiempo entre los torneos. Al final del periodo de liga, se anuncian los resultados globales."
+msgstr "La liga de laser game es una competición de larga duración que consta de varios torneos. Los resultados de cada torneo se evalúan por separado, pero al mismo tiempo entre los torneos. Al final de la temporada de la liga, se anuncian los resultados totales."
 
 msgctxt "pageTitles"
 msgid "Akce %s - %s"
@@ -2617,16 +2617,16 @@ msgstr "Eventos %s - %s"
 
 msgctxt "pageDescription"
 msgid "Akce %s v %s v datech %s."
-msgstr "Acción %s en %s en datos %s."
+msgstr "Evento %s en %s en datos %s."
 
 msgid "Zpět na plánované akce"
-msgstr "Volver a los eventos programados"
+msgstr "Volver a los eventos planeados"
 
 msgid "Informace o akci laser game, který se bude odehrávat v %s."
-msgstr "Información sobre el evento de juegos láser que tendrá lugar en %s."
+msgstr "Información sobre el evento de laser game que tendrá lugar en %s."
 
 msgid "Laser game akce: %s"
-msgstr "Acción del juego láser: %s"
+msgstr "Evento de laser game: %s"
 
 msgid "Termíny"
 msgstr "Fechas"
@@ -2638,16 +2638,16 @@ msgid "Individuální"
 msgstr "Individual"
 
 msgid "Seznam přihlášených hráčů na akci laser game."
-msgstr "Lista de jugadores registrados para el evento de juegos láser."
+msgstr "Lista de jugadores registrados para el evento de laser game."
 
 msgid "Termín je zrušený"
-msgstr "Se anula el plazo"
+msgstr "La fecha es cancelada"
 
 msgid "Souhlasím se <a href=\"%s\" target=\"_blank\">zásadami zpracování osobních údajů</a>."
 msgstr "Acepto la <a href=\"%s\" target=\"_blank\">política de privacidad</a>."
 
 msgid "Správa arény"
-msgstr "Gestión del estadio"
+msgstr "Administración de la arena"
 
 msgid "Fotky"
 msgstr "Fotos"
@@ -2662,10 +2662,10 @@ msgid "Jinak se zobrazí všechny nepřiřazené fotky."
 msgstr "De lo contrario, se mostrarán todas las fotos no asignadas."
 
 msgid "Nepřiřazené fotky"
-msgstr "Fotos sin asignar"
+msgstr "Fotos no asignadas"
 
 msgid "Opravdu chcete smazat %d fotek?"
-msgstr "¿De verdad quieres borrar las fotos de %d ?"
+msgstr "¿De verdad quiere borrar %d fotos?"
 
 msgid "Smazat vybrané fotky"
 msgstr "Borrar fotos seleccionadas"
@@ -2677,7 +2677,7 @@ msgid "Stáhnout vybrané fotky"
 msgstr "Descargar fotos seleccionadas"
 
 msgid "Opravdu chcete fotku smazat?"
-msgstr "¿Seguro que quieres borrar la foto?"
+msgstr "¿De verdad quiere borrar la foto?"
 
 msgid "Smazat"
 msgstr "Borrar"
@@ -2698,16 +2698,16 @@ msgid "Zrušit přiřazení fotek"
 msgstr "Cancelar asignación de fotos"
 
 msgid "Odeslané e-maily"
-msgstr "Emails enviados"
+msgstr "E-mails enviados"
 
 msgid "Odeslat fotky na e-mail"
 msgstr "Enviar fotos a e-mail"
 
 msgid "Nepodařilo se odeslat e-maily."
-msgstr "Fallo al enviar emails."
+msgstr "Fallo al enviar e-mails."
 
 msgid "E-maily byly úspěšně odeslány."
-msgstr "Los correos electrónicos se han enviado correctamente."
+msgstr "Los e-mails se han enviado correctamente."
 
 msgid "E-mailové adresy"
 msgstr "Direcciones de correo electrónico"
@@ -2730,7 +2730,7 @@ msgstr "Posición"
 
 msgctxt "gender-male"
 msgid "Odeslal"
-msgstr "Publicado por"
+msgstr "Enviado por"
 
 msgctxt "gender-female"
 msgid "Odeslala"
@@ -2747,9 +2747,20 @@ msgid "Datum narození"
 msgstr "Fecha de nacimiento"
 
 msgid "Pokud vyplníte datum narození, mužete získat narozenové ocenění a některé zapojené arény mohou mít pro oslavence sleciální akce."
-msgstr "Si rellenas tu fecha de nacimiento, puedes conseguir un premio de cumpleaños y algunos estadios participantes pueden tener eventos especiales para el celebrante del cumpleaños."
+msgstr "Si rellenas tu fecha de nacimiento, puedes conseguir un logro de cumpleaños y algunas arenas participadas pueden tener ofertas especiales para el celebrante."
 
 msgctxt "actions"
 msgid "Upravit"
-msgstr "Editado por"
+msgstr "Editar"
+
+msgctxt "notification"
+msgid "Nové fotky!"
+msgstr "¡Nuevas fotos!"
+
+msgctxt "notification"
+msgid "Na tvé hře z %s přibyly fotky!"
+msgstr "¡Se han añadido fotos a tu juego de %s!"
+
+msgid "%s score"
+msgstr "%s puntuación"
 

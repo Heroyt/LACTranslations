@@ -3,7 +3,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language: de_DE\n"
 "Language-Team: German\n"
-"PO-Revision-Date: 2025-04-03 13:05\n"
+"PO-Revision-Date: 2025-04-06 13:38\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Project-Id-Version: laserarenacontrol\n"
 "X-Crowdin-File: /master/privacy.pot\n"
@@ -308,3 +308,4 @@ msgstr "Benutzer, die Zugang zu den Fotos haben, können sie herunterladen, ihre
 msgctxt "photos_retention"
 msgid "Fotografie, které aréna pořídila, ale nepřiřadila ke hře, budou odstraněny po jednom týdnu; fotografie přiřazené ke hře budou automaticky odstraněny typicky po 2 měsících."
 msgstr "Fotos, die von der Arena aufgenommen wurden, aber keinem Spiel zugeordnet sind, werden nach einer Woche entfernt; Fotos, die einem Spiel zugeordnet sind, werden in der Regel nach 2 Monaten automatisch entfernt."
+

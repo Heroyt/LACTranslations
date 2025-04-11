@@ -6,21 +6,21 @@ msgstr ""
 "Language-Team: Spanish\n"
 "Last-Translator: Tomáš Vojík <vojik@wboy.cz>\n"
 "MIME-Version: 1.0\n"
-"PO-Revision-Date: 2025-04-06 10:42\n"
+"PO-Revision-Date: 2025-04-10 17:02\n"
 "POT-Creation-Date: 2025-04-06 12:13\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Project-Id-Version: laserarenacontrol\n"
 "X-Crowdin-File: /master/gameModes.pot\n"
+"X-Crowdin-File-ID: 103\n"
 "X-Crowdin-Language: es-ES\n"
 "X-Crowdin-Project: laserarenacontrol\n"
 "X-Crowdin-Project-ID: 515800\n"
-"X-Crowdin-File-ID: 103\n"
 
 msgid "Team deathmach"
-msgstr "Equipo deathmach"
+msgstr "Team deathmach"
 
 msgid "Základny"
-msgstr "Bases"
+msgstr "Defensa de bases"
 
 msgid "CSGO"
 msgstr "CSGO"
@@ -29,7 +29,7 @@ msgid "Deathmach"
 msgstr "Deathmach"
 
 msgid "100 nábojů"
-msgstr "100 cartuchos"
+msgstr "100 disparos"
 
 msgid "Barvičky"
 msgstr "Colores"
@@ -38,16 +38,16 @@ msgid "Survival"
 msgstr "Survival"
 
 msgid "T.M.A - solo"
-msgstr "T.M.A - solo"
+msgstr "O.S.C.U.R.O - solo"
 
 msgid "Apokalypsa"
 msgstr "Apocalipsis"
 
 msgid "T.M.A"
-msgstr "T.M.A"
+msgstr "O.S.C.U.R.O"
 
 msgid "Team Survival"
-msgstr "Supervivencia en equipo"
+msgstr "Team Survival"
 
 msgid "Marco Polo"
 msgstr "Marco Polo"
@@ -62,7 +62,7 @@ msgid "Rambo"
 msgstr "Rambo"
 
 msgid "Chraň VIP"
-msgstr "Protección VIP"
+msgstr "Protección de VIP"
 
 msgid "Revolver"
 msgstr "Revólver"
@@ -71,22 +71,22 @@ msgid "Marco polo"
 msgstr "Marco polo"
 
 msgid "Ulov medvídka"
-msgstr "Atrapar un osito de peluche"
+msgstr "Atrapa un oso"
 
 msgid "Schovka"
-msgstr "Schovka"
+msgstr "Escondite"
 
 msgid "Last man standing"
-msgstr "El último hombre en pie"
+msgstr "Last man standing"
 
 msgid "Slepá bába"
-msgstr "Abuela ciega"
+msgstr "Gallina ciega"
 
 msgid "SHADOW"
-msgstr "SOMBRA"
+msgstr "SHADOW"
 
 msgid "Týmový Survival"
-msgstr "Supervivencia en equipo"
+msgstr "Team Survival"
 
 msgid "Team deathmatch"
 msgstr "Team deathmatch"
@@ -98,8 +98,14 @@ msgid "Kámen, Nůžky, Papír"
 msgstr "Piedra, tijera, papel"
 
 msgid "Team Revolver"
-msgstr "Equipo Revolver"
+msgstr "Team Revolver"
 
 msgid "Gladiátor"
 msgstr "Gladiador"
+
+msgid "Týmový revolver"
+msgstr "Team Revolver"
+
+msgid "Test"
+msgstr "Prueba"
 

@@ -3,7 +3,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language: fr_FR\n"
 "Language-Team: French\n"
-"PO-Revision-Date: 2025-04-02 13:16\n"
+"PO-Revision-Date: 2025-04-06 13:39\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "Project-Id-Version: laserarenacontrol\n"
 "X-Crowdin-File: /master/titles.pot\n"
@@ -279,3 +279,4 @@ msgstr "Laserslavenec"
 
 msgid "Slavím narozeniny už jen v aréně"
 msgstr "Je ne fête mon anniversaire que dans l'arène"
+
