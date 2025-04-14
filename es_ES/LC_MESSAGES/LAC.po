@@ -1785,3 +1785,25 @@ msgid_plural "%d players"
 msgstr[0] "%d jugador"
 msgstr[1] "%d jugadores"
 
+msgctxt "gameModes"
+msgid "Variace"
+msgstr ""
+
+msgid "Přezdívka hráče na vestě %s"
+msgstr ""
+
+msgid "Game"
+msgstr ""
+
+msgctxt "pageTitles"
+msgid "Results"
+msgstr ""
+
+msgid "Výsledky hry"
+msgstr ""
+
+msgctxt "game"
+msgid "%d team"
+msgid_plural "%d teams"
+msgstr[0] ""
+msgstr[1] ""

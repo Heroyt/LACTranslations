@@ -109,3 +109,38 @@ msgstr ""
 msgid "Test"
 msgstr ""
 
+msgctxt "Apokalypsa"
+msgid "Hra na zombíky! Vybraní hráči jsou zombie, kteří se snaží infikovat ostatní hráče."
+msgstr ""
+
+msgctxt "Barvičky"
+msgid "Rychlá, šílená hra. Po pár smrtích se přebarvíš na barvu toho, kdo tě trefil."
+msgstr ""
+
+msgctxt "CSGO"
+msgid "Náročná hra o přežití se 3mi životy."
+msgstr ""
+
+msgctxt "Deathmatch"
+msgid "Klasická hra všichni proti všem."
+msgstr ""
+
+msgctxt "Survival"
+msgid "Strategická hra s omezeným počtem životů a nábojů."
+msgstr ""
+
+msgctxt "T.M.A"
+msgid "Klasická hra, ale tentokrát bez světel."
+msgstr ""
+
+msgctxt "T.M.A - solo"
+msgid "Klasická hra, ale tentokrát bez světel."
+msgstr ""
+
+msgctxt "Team deathmatch"
+msgid "Klasická týmová hra."
+msgstr ""
+
+msgctxt "Základny"
+msgid "Strategická hra, kdy 2 týmy bojují proti sobě o zničení základny druhého týmu."
+msgstr ""

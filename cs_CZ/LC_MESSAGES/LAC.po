@@ -1783,23 +1783,36 @@ msgstr "API URL"
 
 msgctxt "game"
 msgid "Skrýt výsledky na výsledkové tabuli"
-msgstr "Skrýt výsledky na výsledkové tabuli"
-
-msgctxt "game"
-msgid "%d player"
-msgid_plural "%d players"
-msgstr[0] "%d hráč"
-msgstr[1] "%d hráči"
-msgstr[2] "%d hráčů"
-msgstr[3] "%d hráčů"
-
-msgctxt "game"
-msgid "Skrýt výsledky na výsledkové tabuli"
 msgstr ""
 
 msgctxt "game"
 msgid "%d player"
 msgid_plural "%d players"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+
+msgctxt "gameModes"
+msgid "Variace"
+msgstr ""
+
+msgid "Přezdívka hráče na vestě %s"
+msgstr ""
+
+msgid "Game"
+msgstr ""
+
+msgctxt "pageTitles"
+msgid "Results"
+msgstr ""
+
+msgid "Výsledky hry"
+msgstr ""
+
+msgctxt "game"
+msgid "%d team"
+msgid_plural "%d teams"
 msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""

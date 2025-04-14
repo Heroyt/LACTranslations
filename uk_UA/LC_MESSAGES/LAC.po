@@ -1793,3 +1793,27 @@ msgstr[1] "%d гравці"
 msgstr[2] "%d гравці"
 msgstr[3] "%d гравці"
 
+msgctxt "gameModes"
+msgid "Variace"
+msgstr ""
+
+msgid "Přezdívka hráče na vestě %s"
+msgstr ""
+
+msgid "Game"
+msgstr ""
+
+msgctxt "pageTitles"
+msgid "Results"
+msgstr ""
+
+msgid "Výsledky hry"
+msgstr ""
+
+msgctxt "game"
+msgid "%d team"
+msgid_plural "%d teams"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
