@@ -6,7 +6,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "Last-Translator: Tomáš Vojík <vojik@wboy.cz>\n"
 "MIME-Version: 1.0\n"
-"PO-Revision-Date: 2025-04-10 17:02\n"
+"PO-Revision-Date: 2025-04-14 14:13\n"
 "POT-Creation-Date: 2025-04-06 12:13\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Project-Id-Version: laserarenacontrol\n"
@@ -108,4 +108,40 @@ msgstr "Team Revolver"
 
 msgid "Test"
 msgstr "Prueba"
+
+msgctxt "Apokalypsa"
+msgid "Hra na zombíky! Vybraní hráči jsou zombie, kteří se snaží infikovat ostatní hráče."
+msgstr "¡Un juego de zombis! Los jugadores seleccionados son zombis que intentan infectar a otros jugadores."
+
+msgctxt "Barvičky"
+msgid "Rychlá, šílená hra. Po pár smrtích se přebarvíš na barvu toho, kdo tě trefil."
+msgstr "Juego rápido y loco. Después de unas cuantas muertes, cambias al color de la persona que te golpeó."
+
+msgctxt "CSGO"
+msgid "Náročná hra o přežití se 3mi životy."
+msgstr "Un desafiante juego de supervivencia con 3 vidas."
+
+msgctxt "Deathmatch"
+msgid "Klasická hra všichni proti všem."
+msgstr "Clásico juego de todos contra todos."
+
+msgctxt "Survival"
+msgid "Strategická hra s omezeným počtem životů a nábojů."
+msgstr "Un juego de estrategia con vidas y munición limitadas."
+
+msgctxt "T.M.A"
+msgid "Klasická hra, ale tentokrát bez světel."
+msgstr "Juego clásico, pero sin luces esta vez."
+
+msgctxt "T.M.A - solo"
+msgid "Klasická hra, ale tentokrát bez světel."
+msgstr "Juego clásico, pero sin luces esta vez."
+
+msgctxt "Team deathmatch"
+msgid "Klasická týmová hra."
+msgstr "Clásico juego de equipo."
+
+msgctxt "Základny"
+msgid "Strategická hra, kdy 2 týmy bojují proti sobě o zničení základny druhého týmu."
+msgstr "Un juego de estrategia en el que 2 equipos luchan entre sí para destruir la base del otro equipo."
 
