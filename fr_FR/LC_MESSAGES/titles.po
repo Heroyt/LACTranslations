@@ -279,4 +279,3 @@ msgstr "Laserslavenec"
 
 msgid "Slavím narozeniny už jen v aréně"
 msgstr "Je ne fête mon anniversaire que dans l'arène"
-

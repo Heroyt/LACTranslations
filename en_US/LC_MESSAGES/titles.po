@@ -279,4 +279,3 @@ msgstr "Laserday boy"
 
 msgid "Slavím narozeniny už jen v aréně"
 msgstr "I celebrate my birthday only in the arena"
-

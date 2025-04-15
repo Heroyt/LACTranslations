@@ -752,4 +752,3 @@ msgstr "Páté narozeniny v aréně"
 msgctxt "Páté narozeniny v aréně"
 msgid "Zahraj si hru na svoje narozeniny 4 různé roky."
 msgstr "Zahraj si hru na svoje narozeniny 4 různé roky."
-

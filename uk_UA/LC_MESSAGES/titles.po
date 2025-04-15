@@ -279,4 +279,3 @@ msgstr "Лазерславець"
 
 msgid "Slavím narozeniny už jen v aréně"
 msgstr "Я святкую свій день народження тільки на арені"
-

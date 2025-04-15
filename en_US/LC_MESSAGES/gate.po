@@ -367,4 +367,3 @@ msgstr "Hidden results"
 
 msgid "Výsledky jsou tajemnství"
 msgstr "The results are a mystery"
-

@@ -367,4 +367,3 @@ msgstr "Приховані результати"
 
 msgid "Výsledky jsou tajemnství"
 msgstr "Результати залишаються загадкою"
-

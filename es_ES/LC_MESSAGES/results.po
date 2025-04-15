@@ -886,4 +886,3 @@ msgstr "Análisis del juego - datos interesantes"
 
 msgid "Umístění v žebříčku"
 msgstr "Clasificación"
-

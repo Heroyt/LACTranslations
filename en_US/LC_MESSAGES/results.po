@@ -886,4 +886,3 @@ msgstr "Game analysis - points of interest"
 
 msgid "Umístění v žebříčku"
 msgstr "Leaderboard ranking"
-

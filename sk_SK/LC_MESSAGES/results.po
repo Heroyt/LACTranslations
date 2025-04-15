@@ -900,4 +900,3 @@ msgstr "Analýza hry - zaujímavé fakty"
 
 msgid "Umístění v žebříčku"
 msgstr "Umiestnenie v rebríčku"
-
