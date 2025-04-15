@@ -6,7 +6,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "Last-Translator: Tomáš Vojík <vojik@wboy.cz>\n"
 "MIME-Version: 1.0\n"
-"PO-Revision-Date: 2025-04-15 08:58\n"
+"PO-Revision-Date: 2025-04-15 10:50\n"
 "POT-Creation-Date: \n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Project-Id-Version: laserarenacontrol\n"
@@ -501,34 +501,34 @@ msgid "Za posledních 30 dní si vystřelil/a méněkrát, než předchozí měs
 msgstr ""
 
 msgid "Za posledních 30 dní si vystřelil/a stejně, jako předchozí měsíc."
-msgstr ""
+msgstr "En los últimos 30 días has disparado lo mismo que el mes anterior."
 
 msgid "Za posledních 30 dní si zastřelil/a víc protihráčů, než předchozí měsíc."
-msgstr ""
+msgstr "En los últimos 30 días has acertado más oponentes que el mes anterior."
 
 msgid "Za posledních 30 dní si zastřelil/a méně protihráčů, než předchozí měsíc."
-msgstr ""
+msgstr "En los últimos 30 días has acertado menos oponentes que el mes anterior."
 
 msgid "Za posledních 30 dní si zastřelil/a stejně protihráčů, jako předchozí měsíc."
-msgstr ""
+msgstr "En los últimos 30 días has acertado el mismo número de oponentes que el mes anterior."
 
 msgid "Počet zásahů"
-msgstr ""
+msgstr "Número de tiros"
 
 msgid "Za posledních 30 dní jsi byl/a zastřelen/a vícekrát, než předchozí měsíc."
-msgstr ""
+msgstr "En los últimos 30 días has sido acertado más veces que el mes anterior."
 
 msgid "Za posledních 30 dní jsi byl/a zastřelen/a méněkrát, než předchozí měsíc."
-msgstr ""
+msgstr "En los últimos 30 días has sido acertado menos veces que el mes anterior."
 
 msgid "Za posledních 30 dní jsi byl/a zastřelen/a stejněkrát, jako předchozí měsíc."
-msgstr ""
+msgstr "En los últimos 30 días has sido acertado el mismo número de veces que el mes anterior."
 
 msgid "Počet smrtí"
-msgstr ""
+msgstr "Número de muertes"
 
 msgid "Prihlásit"
-msgstr ""
+msgstr "Iniciar sesión"
 
 msgid "Zapomenuté heslo"
 msgstr ""
@@ -2300,7 +2300,7 @@ msgid "Hráč"
 msgstr "Jugador"
 
 msgid "Výsledky ze hry"
-msgstr "Resultados del partido"
+msgstr "Resultados del juego"
 
 msgid "%d místo"
 msgid_plural "%d místo"
@@ -2344,10 +2344,10 @@ msgid "Přesnost"
 msgstr "Precisión"
 
 msgid "Zásahy"
-msgstr "Intervenciones"
+msgstr "Tiros"
 
 msgid "Smrti"
-msgstr "Fallecimientos"
+msgstr "Muertes"
 
 msgid "Počet výstřelů"
 msgstr "Número de disparos"
@@ -2433,7 +2433,7 @@ msgid "Miny"
 msgstr ""
 
 msgid "Zásah spoluhráče"
-msgstr "Acierto al compañero"
+msgstr "Tiro al compañero"
 
 msgid "Popis"
 msgstr ""
