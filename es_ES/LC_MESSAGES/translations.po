@@ -6,7 +6,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "Last-Translator: Tomáš Vojík <vojik@wboy.cz>\n"
 "MIME-Version: 1.0\n"
-"PO-Revision-Date: 2025-04-11 09:32\n"
+"PO-Revision-Date: 2025-04-15 08:58\n"
 "POT-Creation-Date: \n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Project-Id-Version: laserarenacontrol\n"
@@ -1523,13 +1523,13 @@ msgid "Zohlednění vašich protihráčů. Pokud hrajete proti slabším, vaše 
 msgstr "Considerando tus oponentes. Si juegas contra jugadores con nivel menor, tu nivel de juego disminuirá. Por el contrario, si juegas contra jugadores con nivel mayor, tu nivel de juego aumentará."
 
 msgid "Srovnání s protihráči"
-msgstr "Comparación con los adversarios"
+msgstr "Comparación con los oponentes"
 
 msgid "Zásahy protihráčů"
 msgstr ""
 
 msgid "Zásahy spoluhráčů"
-msgstr "Interferencia de los compañeros de equipo"
+msgstr "Tiros a compañeros"
 
 msgid "Smrti od protihráčů"
 msgstr ""
@@ -1791,12 +1791,12 @@ msgstr[1] ""
 
 msgid "zásah"
 msgid_plural "zásahů"
-msgstr[0] ""
+msgstr[0] "tiro"
 msgstr[1] "tiros"
 
 msgid "smrt"
 msgid_plural "smrtí"
-msgstr[0] ""
+msgstr[0] "muerte"
 msgstr[1] "muertes"
 
 msgid "výhra"
@@ -1807,7 +1807,7 @@ msgstr[1] ""
 msgid "remíza"
 msgid_plural "remíz"
 msgstr[0] "empate"
-msgstr[1] ""
+msgstr[1] "empates"
 
 msgid "prohra"
 msgid_plural "proher"
@@ -2204,7 +2204,7 @@ msgid "%.2f zásahů na jednu smrt"
 msgstr ""
 
 msgid "Zásahy:Smrti"
-msgstr "Hits:Muertes"
+msgstr "Tiros:Muertes"
 
 msgctxt "pageTitles"
 msgid "Zásady zpracování osobních údajů"
