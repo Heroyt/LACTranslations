@@ -6,7 +6,7 @@ msgstr ""
 "Language-Team: French\n"
 "Last-Translator: Tomáš Vojík <vojik@wboy.cz>\n"
 "MIME-Version: 1.0\n"
-"PO-Revision-Date: 2025-04-06 13:38\n"
+"PO-Revision-Date: 2025-04-15 10:50\n"
 "POT-Creation-Date: 2021-12-01 12:05+0100\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "Project-Id-Version: laserarenacontrol\n"
@@ -238,4 +238,14 @@ msgstr "Tirs"
 
 msgid "Zabijáci vlastních"
 msgstr "Des tueurs à leur solde"
+
+msgid "Postoupeno skupin:"
+msgstr "Référencé par groupes :"
+
+msgid "Postoupit týmy"
+msgstr "Équipes avancées"
+
+msgctxt "vests"
+msgid "Dostupné vesty"
+msgstr "Gilets disponibles"
 
