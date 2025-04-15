@@ -239,3 +239,12 @@ msgstr "Schüsse"
 msgid "Zabijáci vlastních"
 msgstr ""
 
+msgid "Postoupeno skupin:"
+msgstr ""
+
+msgid "Postoupit týmy"
+msgstr ""
+
+msgctxt "vests"
+msgid "Dostupné vesty"
+msgstr ""

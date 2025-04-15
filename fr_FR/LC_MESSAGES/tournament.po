@@ -239,3 +239,12 @@ msgstr "Tirs"
 msgid "Zabijáci vlastních"
 msgstr "Des tueurs à leur solde"
 
+msgid "Postoupeno skupin:"
+msgstr ""
+
+msgid "Postoupit týmy"
+msgstr ""
+
+msgctxt "vests"
+msgid "Dostupné vesty"
+msgstr ""

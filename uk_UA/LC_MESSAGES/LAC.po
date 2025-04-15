@@ -1817,3 +1817,9 @@ msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
 msgstr[3] ""
+
+msgid "Remíza"
+msgstr ""
+
+msgid "%d. tým ze skupiny: %s"
+msgstr ""

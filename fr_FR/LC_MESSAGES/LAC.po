@@ -1807,3 +1807,9 @@ msgid "%d team"
 msgid_plural "%d teams"
 msgstr[0] ""
 msgstr[1] ""
+
+msgid "Remíza"
+msgstr ""
+
+msgid "%d. tým ze skupiny: %s"
+msgstr ""

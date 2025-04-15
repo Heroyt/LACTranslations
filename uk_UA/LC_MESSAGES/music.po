@@ -224,3 +224,29 @@ msgstr ""
 msgid "Strážci galaxie"
 msgstr ""
 
+msgid "Cyber Laser Showdown"
+msgstr ""
+
+msgid "Lasermaxx"
+msgstr ""
+
+msgid "Requiem for a dream"
+msgstr ""
+
+msgid "Piráti z Karibiku"
+msgstr ""
+
+msgid "Anime"
+msgstr ""
+
+msgid "Anime 2"
+msgstr ""
+
+msgid "Dwarven metal"
+msgstr ""
+
+msgid "Albatroz"
+msgstr ""
+
+msgid "Test"
+msgstr ""
