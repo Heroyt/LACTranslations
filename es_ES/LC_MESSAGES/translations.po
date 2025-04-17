@@ -6,7 +6,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "Last-Translator: Tomáš Vojík <vojik@wboy.cz>\n"
 "MIME-Version: 1.0\n"
-"PO-Revision-Date: 2025-04-17 12:21\n"
+"PO-Revision-Date: 2025-04-17 14:49\n"
 "POT-Creation-Date: \n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Project-Id-Version: laserarenacontrol\n"
@@ -339,88 +339,88 @@ msgid "Výstřelů za minutu"
 msgstr "Disparos por minuto"
 
 msgid "Čas ve hře"
-msgstr ""
+msgstr "Tiempo en el juego"
 
 msgid "Průměry"
-msgstr ""
+msgstr "Promedios"
 
 msgid "Maxima"
-msgstr ""
+msgstr "Máximos"
 
 msgid "Sumy"
-msgstr ""
+msgstr "Sumas"
 
 msgid "Skočit na aktuálního uživatele"
-msgstr ""
+msgstr "Ver el usuario actual"
 
 msgid "Jméno nebo kód hráče"
-msgstr ""
+msgstr "Nombre o código de jugador"
 
 msgid "Navigace"
-msgstr ""
+msgstr "Navegación"
 
 msgid "Zobrazeno %s z %d hráčů"
-msgstr ""
+msgstr "Mostrado %s de %d jugadores"
 
 msgid "%d den"
 msgid_plural "%d dní"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%d día"
+msgstr[1] "%d días"
 
 msgid "%d hodina"
 msgid_plural "%d hodin"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%d hora"
+msgstr[1] "%d horas"
 
 msgid "%d minuta"
 msgid_plural "%d minut"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%d minuto"
+msgstr[1] "%d minutos"
 
 msgid "Moje hry"
-msgstr ""
+msgstr "Mis partidas"
 
 msgid "Profil hráče"
-msgstr ""
+msgstr "Perfil del jugador"
 
 msgid "Historie her hráče %s"
-msgstr ""
+msgstr "Historial del jugador %s"
 
 msgid "Zobrazeno %s z %d her"
-msgstr ""
+msgstr "Mostrado %s de %d partidas"
 
 msgid "Statistiky"
-msgstr ""
+msgstr "Estadística"
 
 msgid "Grafy"
-msgstr ""
+msgstr "Gráficos"
 
 msgid "Trendy"
-msgstr ""
+msgstr "Tendencias"
 
 msgid "Následující statistiky se počítají pouze z klasických herních módů."
-msgstr ""
+msgstr "Las siguientes estadísticas se calculan solo a partir de los modos de partidas clásicas."
 
 msgid "Vystřeleno nábojů"
-msgstr ""
+msgstr "Cartuchos disparados"
 
 msgid "Zasaženo hráčů"
-msgstr ""
+msgstr "Jugadores acertados"
 
 msgid "Průměrná pozice"
-msgstr ""
+msgstr "Posición media"
 
 msgid "Průměrná přesnost"
-msgstr ""
+msgstr "Precisión media"
 
 msgid "Průměrný počet výstřelů za minutu"
-msgstr ""
+msgstr "Número medio de disparos por minuto"
 
 msgid "Průměrný počet zásahů za minutu"
-msgstr ""
+msgstr "Número medio de aciertos por minuto"
 
 msgid "Průměrný počet smrtí za minutu"
-msgstr ""
+msgstr "Número medio de muertes por minuto"
 
 msgid "Nejlepší přesnost"
 msgstr "La mejor precisión"
@@ -429,40 +429,40 @@ msgid "Nejlepší skóre"
 msgstr "La mejor puntuación"
 
 msgid "Nejlepší hodnocení hráče ve hře"
-msgstr ""
+msgstr "Mejor puntuación del jugador en la partida"
 
 msgid "Další statistiky"
-msgstr ""
+msgstr "Otra estadística"
 
 msgid "Počet her"
-msgstr ""
+msgstr "Número de partidas"
 
 msgid "Trendy za posledních 10 her"
-msgstr ""
+msgstr "Tendencias de últimas 10 partidas"
 
 msgid "Za posledních 10 her se ti podařilo zvýšit svojí herní úroveň."
-msgstr ""
+msgstr "En las últimas 10 partidas has conseguido aumentar tu nivel general."
 
 msgid "Za posledních 10 her se ti bohužel herní úroveň snížila. Z toho si ale nic nedělej, příští hry se musíš trochu víc snažit!"
-msgstr ""
+msgstr "En las últimas 10 partidas, lamentablemente tu nivel general ha bajado. Pero no te preocupes, ¡tendrás que esforzarte un poco más en la próxima partida!"
 
 msgid "Tvoje herní úroveň se nezměnila."
-msgstr ""
+msgstr "Tu nivel general no ha cambiado."
 
 msgid "Za posledních 10 her si měl vyšší přesnost, než dříve."
-msgstr ""
+msgstr "En las últimas 10 partidas has tenido mejor precisión que antes."
 
 msgid "Za posledních 10 her si měl horší přesnost než dříve."
-msgstr ""
+msgstr "En los últimos 10 partidos has tenido peor precisión que antes."
 
 msgid "Za posledních 10 her se ti nijak výrazně nezměnila tvá průměrná přesnost."
-msgstr ""
+msgstr "En las últimas 10 partidas tu precisión media no ha cambiado mucho."
 
 msgid "Za posledních 10 her si střílel/a více než je tvůj průměr."
-msgstr ""
+msgstr "En las últimas 10 partidas has disparado más que es tu media."
 
 msgid "Za posledních 10 her si střílel/a méně než je tvůj průměr."
-msgstr ""
+msgstr "En las últimas 10 partidas has disparado menos que es tu media."
 
 msgid "Za posledních 10 her si střílel/a průměrně stejně."
 msgstr ""
@@ -1006,7 +1006,7 @@ msgstr ""
 
 msgctxt "leaderboard"
 msgid "Herní úroveň"
-msgstr "Nivel de juego"
+msgstr "Nivel general"
 
 msgid "Za celou dobu"
 msgstr ""
@@ -2267,7 +2267,7 @@ msgid "Žebříček"
 msgstr ""
 
 msgid "Herní úroveň"
-msgstr "Nivel de juego"
+msgstr "Nivel general"
 
 msgid "Zobrazit"
 msgstr ""
