@@ -6,7 +6,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "Last-Translator: Tomáš Vojík <vojik@wboy.cz>\n"
 "MIME-Version: 1.0\n"
-"PO-Revision-Date: 2025-04-17 10:17\n"
+"PO-Revision-Date: 2025-04-17 12:21\n"
 "POT-Creation-Date: 2025-04-06 12:13\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Project-Id-Version: laserarenacontrol\n"
@@ -115,7 +115,7 @@ msgstr "¡Zombis! Los jugadores seleccionados son zombis y su objetivo es infect
 
 msgctxt "Barvičky"
 msgid "Rychlá, šílená hra. Po pár smrtích se přebarvíš na barvu toho, kdo tě trefil."
-msgstr "Un juego rápido y loco. Después de unas cuantas muertes, cambias al color de la persona que te acertó. El partido acaba cuando todos son de un color."
+msgstr "Un juego rápido y loco. Después de unas cuantas muertes, cambias al color de la persona que te acertó. La partida acaba cuando todos son de un color."
 
 msgctxt "CSGO"
 msgid "Náročná hra o přežití se 3mi životy."
@@ -123,7 +123,7 @@ msgstr "Un juego desafiante de supervivencia con 3 vidas."
 
 msgctxt "Deathmatch"
 msgid "Klasická hra všichni proti všem."
-msgstr "Partido clásico de todos contra todos."
+msgstr "Partida clásica de todos contra todos."
 
 msgctxt "Survival"
 msgid "Strategická hra s omezeným počtem životů a nábojů."
@@ -131,15 +131,15 @@ msgstr "Un juego de estrategia con vidas (30) y munición (300) limitadas."
 
 msgctxt "T.M.A"
 msgid "Klasická hra, ale tentokrát bez světel."
-msgstr "Operación Sigilosa en Condiciones Ultra Reducidas de Observación: partido clásico, pero sin luces."
+msgstr "Operación Sigilosa en Condiciones Ultra Reducidas de Observación: partida clásica, pero sin luces."
 
 msgctxt "T.M.A - solo"
 msgid "Klasická hra, ale tentokrát bez světel."
-msgstr "Operación Sigilosa en Condiciones Ultra Reducidas de Observación: partido clásico, pero sin luces."
+msgstr "Operación Sigilosa en Condiciones Ultra Reducidas de Observación: partida clásica, pero sin luces."
 
 msgctxt "Team deathmatch"
 msgid "Klasická týmová hra."
-msgstr "Clásico partido de equipo."
+msgstr "Partida clásica de equipo."
 
 msgctxt "Základny"
 msgid "Strategická hra, kdy 2 týmy bojují proti sobě o zničení základny druhého týmu."
