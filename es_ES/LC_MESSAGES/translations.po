@@ -6,7 +6,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "Last-Translator: Tomáš Vojík <vojik@wboy.cz>\n"
 "MIME-Version: 1.0\n"
-"PO-Revision-Date: 2025-04-17 15:51\n"
+"PO-Revision-Date: 2025-04-17 16:50\n"
 "POT-Creation-Date: \n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Project-Id-Version: laserarenacontrol\n"
@@ -606,51 +606,51 @@ msgid "Vyhrál tým: %s."
 msgstr "El ganador es: %s."
 
 msgid "%d. se umístil %s s celkovým skóre %s."
-msgstr ""
+msgstr "%d. está clasificado %s con una puntuación total de %s."
 
 msgid "%d. se umístilo %s s celkovým skóre %s."
-msgstr ""
+msgstr "%d. está clasificado %s con una puntuación total de %s."
 
 msgid "Arény"
-msgstr ""
+msgstr "Arenas"
 
 msgid "Výsledky ze hry - %s"
-msgstr ""
+msgstr "Resultado de partida - %s"
 
 msgctxt "pageTitles"
 msgid "Výsledky laser game - %s %s (%s)"
-msgstr ""
+msgstr "Resultados de laser game - %s %s (%s)"
 
 msgctxt "pageDescription"
 msgid "Výsledky ze hry laser game z data %s z arény %s v herním módu %s."
-msgstr ""
+msgstr "Resultado de partida de laser game de la fecha %s de arena %s en modo de partido %s."
 
 msgid "Close navigation"
-msgstr ""
+msgstr "Acabar navegación"
 
 msgid "Výsledky laser game"
-msgstr ""
+msgstr "Resultado de laser game"
 
 msgid "Informace o hře"
-msgstr ""
+msgstr "Información de la partida"
 
 msgid "Zobrazit stránku arény"
-msgstr ""
+msgstr "Ver página de la arena"
 
 msgid "Žádné zajímavosti"
-msgstr ""
+msgstr "Nada interesante"
 
 msgid "více"
-msgstr ""
+msgstr "más"
 
 msgid "méně"
-msgstr ""
+msgstr "menos"
 
 msgid "Výsledky ze hry - %s %s"
-msgstr ""
+msgstr "Resultado de la partida - %s %s"
 
 msgid "Sdílet"
-msgstr ""
+msgstr "Compartir"
 
 msgid "Trofej"
 msgstr "Trofeo"
@@ -659,42 +659,42 @@ msgid "Vysvětlení hodnocení"
 msgstr "Explicación de la evaluación"
 
 msgid "Počet hráčů, který je lepší/horší než vy. Např. pokud jste v %s 10%%, znamená to, že 90%% hráčů mělo nižší hodnotu, než vy. %s 10 %% znamená, že 90 %% hráčů mělo vyšší hodnotu, než vy."
-msgstr ""
+msgstr "Número de jugadores que son mejores o peores que tú. Por ejemplo, si estás en %s 10%%, significa que el 90% de los jugadores tienen un valor inferior al tuyo. %s 10%% significa que el 90% de los jugadores tienen un valor superior al tuyo."
 
 msgctxt "distribution"
 msgid "Nejlepší"
-msgstr ""
+msgstr "En mejor"
 
 msgctxt "distribution"
 msgid "Nejhorší"
-msgstr ""
+msgstr "En peor"
 
 msgid "Od počátku věků"
-msgstr ""
+msgstr "Desde el principio de tiempos"
 
 msgid "Tento rok"
-msgstr ""
+msgstr "Este año"
 
 msgid "Tento měsíc"
-msgstr ""
+msgstr "Este mes"
 
 msgid "Tento týden"
-msgstr ""
+msgstr "Esta semana"
 
 msgid "Tento den"
-msgstr ""
+msgstr "Hoy"
 
 msgid "Počet"
-msgstr ""
+msgstr "Número"
 
 msgid "Kontakt"
-msgstr ""
+msgstr "Contacto"
 
 msgid "Formát a bodování"
-msgstr ""
+msgstr "Formato y puntuación"
 
 msgid "Podle počtu týmů může být turnaj rozdělen do dvou skupin, kde každá skupina hraje ve formátu každý s každým. Po odehrání kvalifikačního kola postoupí nejlepší týmy do finále a ostatní týmy do druhé skupiny, kde si opět zahrají každý s každým. Body do celkového pořadí se počítají ze všech her (i z kvalifikační skupiny)."
-msgstr ""
+msgstr "Dependiendo del número de equipos, el torneo puede dividirse en dos grupos, cada uno de los cuales juega en formato de uno contra uno. Después de la ronda de clasificación es acabada, los mejores equipos pasarán a la ronda final y los demás equipos pasarán al segundo grupo, donde volverán a enfrentarse entre sí. Los puntos para la clasificación general se calculan a partir de todos los partidos (incluido del grupo de clasificación)."
 
 msgid "Hodnocení"
 msgstr ""
@@ -849,7 +849,7 @@ msgid "Během her budou v aréně dva rozhodčí. V případě kategorie mazák�
 msgstr ""
 
 msgid "Posouzení situace vždy závisí na rozhodčím. Pokud hráč ve hře vidí nějaký přestupek, musí ho nahlásit rozhodčímu během hry, aby rozhodčí mohl daného hráče více hlídat."
-msgstr ""
+msgstr "Siempre corresponde al árbitro juzgar la situación. Si un jugador ve una falta en el partido, debe informar al árbitro inmediatamente durante el partido para que el árbitro pueda vigilar más al jugador."
 
 msgid "Po hře již není možné řešit situaci, která se ve hře děla, jen na ní upozornit. V případě vyšího počtu stížností se může situace řešit s kapitány týmů."
 msgstr ""
