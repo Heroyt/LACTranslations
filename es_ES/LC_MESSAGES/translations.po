@@ -6,7 +6,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "Last-Translator: Tomáš Vojík <vojik@wboy.cz>\n"
 "MIME-Version: 1.0\n"
-"PO-Revision-Date: 2025-04-17 08:18\n"
+"PO-Revision-Date: 2025-04-17 10:17\n"
 "POT-Creation-Date: \n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Project-Id-Version: laserarenacontrol\n"
@@ -162,61 +162,61 @@ msgid "Průměrný počet smrtí"
 msgstr "Número medio de muertes"
 
 msgid "Celkem smrtí"
-msgstr ""
+msgstr "Muertes totales"
 
 msgid "Výsledky"
 msgstr "Resultados"
 
 msgid "Hry"
-msgstr ""
+msgstr "Partidos"
 
 msgctxt "team.names"
 msgid "Red team"
-msgstr ""
+msgstr "Equipo rojo"
 
 msgctxt "team.names"
 msgid "Green team"
-msgstr ""
+msgstr "Equipo verde"
 
 msgctxt "team.names"
 msgid "Blue team"
-msgstr ""
+msgstr "Equipo azul"
 
 msgctxt "team.names"
 msgid "Pink team"
-msgstr ""
+msgstr "Equipo roso"
 
 msgctxt "team.names"
 msgid "Yellow team"
-msgstr ""
+msgstr "Equipo amarillo"
 
 msgctxt "team.names"
 msgid "Ocean team"
-msgstr ""
+msgstr "Equipo cerúleo"
 
 msgctxt "form"
 msgid "Saved successfully"
-msgstr ""
+msgstr "Guardado correctamente"
 
 msgctxt "errors"
 msgid "No file uploaded"
-msgstr ""
+msgstr "Ningún archivo cargado"
 
 msgctxt "errors"
 msgid "Error while uploading a file."
-msgstr ""
+msgstr "Se ha ocurrido un error durante subiendo un archivo."
 
 msgctxt "actions"
 msgid "Uložit"
-msgstr ""
+msgstr "Guardar"
 
 msgctxt "actions"
 msgid "Přehrát"
-msgstr ""
+msgstr "Poner"
 
 msgctxt "actions"
 msgid "Zastavit"
-msgstr ""
+msgstr "Parar"
 
 msgid "Název"
 msgstr "Título"
@@ -227,101 +227,101 @@ msgstr "Enviar"
 
 msgctxt "actions"
 msgid "Přidat"
-msgstr ""
+msgstr "Añadir"
 
 msgctxt "actions"
 msgid "Vytvořit"
-msgstr ""
+msgstr "Crear"
 
 msgid "Nápověda"
-msgstr ""
+msgstr "Ayuda"
 
 msgid "Pozice"
-msgstr ""
+msgstr "Posición"
 
 msgid "Úspěšně uloženo"
-msgstr ""
+msgstr "Guardado correctamente"
 
 msgctxt "actions"
 msgid "Zobrazit"
-msgstr ""
+msgstr "Ver"
 
 msgctxt "errors"
 msgid "Nebyla nalezena žádná hra"
-msgstr ""
+msgstr "No se ha encontrado ningún partido"
 
 msgid "Přihlásit"
-msgstr ""
+msgstr "Iniciar sesión"
 
 msgid "E-mail"
-msgstr ""
+msgstr "Correo electrónico"
 
 msgid "Heslo"
-msgstr ""
+msgstr "Contraseña"
 
 msgid "Nemáte ještě účet?"
-msgstr ""
+msgstr "¿Todavía no tienes una cuenta?"
 
 msgid "Vytvořit účet"
-msgstr ""
+msgstr "Crear una cuenta"
 
 msgctxt "errors"
 msgid "Pro přístup na tuto stránku se musíte přihlásit!"
-msgstr ""
+msgstr "¡Debe iniciar sesión para acceder a esta página!"
 
 msgid "Přihlášení bylo úspěšné."
-msgstr ""
+msgstr "Se ha iniciado sesión."
 
 msgid "Profil"
-msgstr ""
+msgstr "Perfil"
 
 msgid "Nastavení"
-msgstr ""
+msgstr "Ajustes"
 
 msgid "Odhlásit"
-msgstr ""
+msgstr "Cerrar sesión"
 
 msgid "Profil uživatele"
-msgstr ""
+msgstr "Perfil de usuario"
 
 msgid "Domovská aréna"
-msgstr ""
+msgstr "Arena local"
 
 msgid "Navštíveno arén"
-msgstr ""
+msgstr "Arenas visitadas"
 
 msgid "Úroveň"
-msgstr ""
+msgstr "Nivel"
 
 msgid "Období"
-msgstr ""
+msgstr "Período"
 
 msgid "Den"
-msgstr ""
+msgstr "Día"
 
 msgid "Týden"
-msgstr ""
+msgstr "Semana"
 
 msgid "Měsíc"
-msgstr ""
+msgstr "Mes"
 
 msgid "3 měsíce"
-msgstr ""
+msgstr "3 meses"
 
 msgid "6 měsíců"
-msgstr ""
+msgstr "6 meses"
 
 msgid "Rok"
-msgstr ""
+msgstr "Año"
 
 msgid "Historie úrovně"
-msgstr ""
+msgstr "Historia del nivel"
 
 msgid "Herní módy"
-msgstr ""
+msgstr "Modos de partido"
 
 msgid "Aréna"
-msgstr ""
+msgstr "Arena"
 
 msgid "Všechny hry hráče"
 msgstr ""
