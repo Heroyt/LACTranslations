@@ -6,7 +6,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "Last-Translator: Tomáš Vojík <vojik@wboy.cz>\n"
 "MIME-Version: 1.0\n"
-"PO-Revision-Date: 2025-04-17 10:17\n"
+"PO-Revision-Date: 2025-04-17 12:21\n"
 "POT-Creation-Date: \n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Project-Id-Version: laserarenacontrol\n"
@@ -318,25 +318,25 @@ msgid "Historie úrovně"
 msgstr "Historia del nivel"
 
 msgid "Herní módy"
-msgstr "Modos de partido"
+msgstr "Modos de partida"
 
 msgid "Aréna"
 msgstr "Arena"
 
 msgid "Všechny hry hráče"
-msgstr ""
+msgstr "Todas las partidas del jugador"
 
 msgid "Kód není platný"
-msgstr ""
+msgstr "El código no es válido"
 
 msgid "Uživatel neexistuje"
-msgstr ""
+msgstr "El usuario no existe"
 
 msgid "Kód"
-msgstr ""
+msgstr "Código"
 
 msgid "Výstřelů za minutu"
-msgstr ""
+msgstr "Disparos por minuto"
 
 msgid "Čas ve hře"
 msgstr ""
