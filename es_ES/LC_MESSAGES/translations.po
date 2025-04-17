@@ -6,7 +6,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "Last-Translator: Tomáš Vojík <vojik@wboy.cz>\n"
 "MIME-Version: 1.0\n"
-"PO-Revision-Date: 2025-04-15 10:50\n"
+"PO-Revision-Date: 2025-04-17 08:18\n"
 "POT-Creation-Date: \n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Project-Id-Version: laserarenacontrol\n"
@@ -531,68 +531,68 @@ msgid "Prihlásit"
 msgstr "Iniciar sesión"
 
 msgid "Zapomenuté heslo"
-msgstr ""
+msgstr "¿Olvidaste tu contraseña?"
 
 msgctxt "login"
 msgid "Pamatovat si mě"
-msgstr ""
+msgstr "Recuérdame"
 
 msgid "Friday"
-msgstr ""
+msgstr "Viernes"
 
 msgid "Saturday"
-msgstr ""
+msgstr "Sábado"
 
 msgid "Sunday"
-msgstr ""
+msgstr "Domingo"
 
 msgid "Monday"
-msgstr ""
+msgstr "Lunes"
 
 msgid "Tuesday"
-msgstr ""
+msgstr "Martes"
 
 msgid "Wednesday"
-msgstr ""
+msgstr "Miércoles"
 
 msgid "Thursday"
-msgstr ""
+msgstr "Jueves"
 
 msgid "March"
-msgstr ""
+msgstr "Marzo"
 
 msgid "April"
-msgstr ""
+msgstr "Abril"
 
 msgid "May"
-msgstr ""
+msgstr "Mayo"
 
 msgid "June"
-msgstr ""
+msgstr "Junio"
 
 msgid "July"
-msgstr ""
+msgstr "Julio"
 
 msgid "August"
-msgstr ""
+msgstr "Agosto"
 
 msgid "September"
-msgstr ""
+msgstr "Septiembre"
 
 msgid "October"
-msgstr ""
+msgstr "Octubre"
 
 msgid "November"
-msgstr ""
+msgstr "Noviembre"
 
 msgid "December"
-msgstr ""
+msgstr "Diciembre"
 
 msgid "January"
-msgstr ""
+msgstr "Enero"
 
 msgid "February"
-msgstr ""
+msgstr "Febrero"
 
 msgid "Výsledky laser game v %s z dne %s v herním módu %s."
 msgstr ""
