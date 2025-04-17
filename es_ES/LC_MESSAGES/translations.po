@@ -6,7 +6,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "Last-Translator: Tomáš Vojík <vojik@wboy.cz>\n"
 "MIME-Version: 1.0\n"
-"PO-Revision-Date: 2025-04-17 14:49\n"
+"PO-Revision-Date: 2025-04-17 15:51\n"
 "POT-Creation-Date: \n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Project-Id-Version: laserarenacontrol\n"
@@ -465,40 +465,40 @@ msgid "Za posledních 10 her si střílel/a méně než je tvůj průměr."
 msgstr "En las últimas 10 partidas has disparado menos que es tu media."
 
 msgid "Za posledních 10 her si střílel/a průměrně stejně."
-msgstr ""
+msgstr "En las últimas 10 partidas has disparado más o menos mismas veces que antes."
 
 msgid "Průměrný počet výstřelů za hru"
-msgstr ""
+msgstr "Número medio de disparos por partida"
 
 msgid "Trendy za posledních 30 dní"
-msgstr ""
+msgstr "Tendencias en los últimos 30 días"
 
 msgid "Za posledních 30 dní si odehrál/a více her, než předchozí měsíc. Jen tak dál!"
-msgstr ""
+msgstr "En los últimos 30 días has jugado más partidas que el mes anterior. ¡Sigue así!"
 
 msgid "Za posledních 30 dní si odehrál/a méně her, než předchozí měsíc. Nechceš si jít zahrát?"
-msgstr ""
+msgstr "En los últimos 30 días has jugado menos partidas que el mes anterior. ¿Querría ir a jugar?"
 
 msgid "Za posledních 30 dní si odehrál/a stejně her, jako předchozí měsíc."
-msgstr ""
+msgstr "En los últimos 30 días has jugado el mismo número de partidas como el mes anterior."
 
 msgid "Za posledních 30 dní si odehrál/a více klasických her, než předchozí měsíc. Jen tak dál!"
-msgstr ""
+msgstr "En los últimos 30 días has jugado más partidas clásicas que el mes anterior. ¡Sigue así!"
 
 msgid "Za posledních 30 dní si odehrál/a méně klasických her, než předchozí měsíc. Nechceš si jít zahrát?"
-msgstr ""
+msgstr "En los últimos 30 días has jugado menos partidas clásicas que el mes anterior. ¿Querría ir a jugar?"
 
 msgid "Za posledních 30 dní si odehrál/a stejně klasických her, jako předchozí měsíc."
-msgstr ""
+msgstr "En los últimos 30 días has jugado el mismo número de partidas clásicas como el mes anterior."
 
 msgid "Počet klasických her"
-msgstr ""
+msgstr "Número de partidas clásicas"
 
 msgid "Za posledních 30 dní si vystřelil/a vícekrát, než předchozí měsíc."
-msgstr ""
+msgstr "En los últimos 30 días has disparado más veces que el mes anterior."
 
 msgid "Za posledních 30 dní si vystřelil/a méněkrát, než předchozí měsíc."
-msgstr ""
+msgstr "En los últimos 30 días has disparado menos veces que el mes anterior."
 
 msgid "Za posledních 30 dní si vystřelil/a stejně, jako předchozí měsíc."
 msgstr "En los últimos 30 días has disparado lo mismo que el mes anterior."
@@ -595,15 +595,15 @@ msgid "February"
 msgstr "Febrero"
 
 msgid "Výsledky laser game v %s z dne %s v herním módu %s."
-msgstr ""
+msgstr "Resultados de laser game en %s de %s en el modo de partido %s."
 
 msgid "Hry se účastnilo %d tým: %s"
 msgid_plural "Hry se účastnilo %d týmů: %s"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Equipo %d participó en la partida: %s"
+msgstr[1] "Equipos %d participaron en la partida: %s"
 
 msgid "Vyhrál tým: %s."
-msgstr ""
+msgstr "El ganador es: %s."
 
 msgid "%d. se umístil %s s celkovým skóre %s."
 msgstr ""
