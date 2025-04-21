@@ -6,7 +6,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "Last-Translator: Tomáš Vojík <vojik@wboy.cz>\n"
 "MIME-Version: 1.0\n"
-"PO-Revision-Date: 2025-04-17 16:50\n"
+"PO-Revision-Date: 2025-04-21 21:16\n"
 "POT-Creation-Date: \n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Project-Id-Version: laserarenacontrol\n"
@@ -697,78 +697,78 @@ msgid "Podle počtu týmů může být turnaj rozdělen do dvou skupin, kde kaž
 msgstr "Dependiendo del número de equipos, el torneo puede dividirse en dos grupos, cada uno de los cuales juega en formato de uno contra uno. Después de la ronda de clasificación es acabada, los mejores equipos pasarán a la ronda final y los demás equipos pasarán al segundo grupo, donde volverán a enfrentarse entre sí. Los puntos para la clasificación general se calculan a partir de todos los partidos (incluido del grupo de clasificación)."
 
 msgid "Hodnocení"
-msgstr ""
+msgstr "Puntuación"
 
 msgid "Výhra"
-msgstr ""
+msgstr "Victoria"
 
 msgid "%d bod"
 msgid_plural "%d body"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%d punto"
+msgstr[1] "%d puntos"
 
 msgid "Prohra"
-msgstr ""
+msgstr "Perdida"
 
 msgid "Postup do finále"
-msgstr ""
+msgstr "Promoción a la final"
 
 msgid "Nastavení hry"
-msgstr ""
+msgstr "Confuguración del partido"
 
 msgid "Délka hry"
-msgstr ""
+msgstr "Duración de partido"
 
 msgid "5-15 minut (podle počtu týmů)"
-msgstr ""
+msgstr "5-15 minutos (dependiendo del número de equipos)"
 
 msgid "Oživení hráče"
-msgstr ""
+msgstr "Reaparecimiento de jugador"
 
 msgid "5 sekund"
-msgstr ""
+msgstr "5 segundos"
 
 msgid "Vypnuto"
-msgstr ""
+msgstr "Desactivado"
 
 msgid "Brány"
-msgstr ""
+msgstr "Puertas"
 
 msgid "Zapnuto"
-msgstr ""
+msgstr "Activado"
 
 msgid "1s nesmrtelnosti"
-msgstr ""
+msgstr "1 s de inmortalidad"
 
 msgid "Nutnost držet tlačítko na zbrani"
-msgstr ""
+msgstr "Es necesario mantener pulsado el botón en arma"
 
 msgid "Čidlo na zbrani"
-msgstr ""
+msgstr "Sensor en arma"
 
 msgid "Barvy týmů"
-msgstr ""
+msgstr "Colores de equipo"
 
 msgid "Zelená a modrá"
-msgstr ""
+msgstr "Verde y azul"
 
 msgid "Zásah do soupeže"
-msgstr ""
+msgstr "Tiro al oponente"
 
 msgid "Zásah od soupeže (smrt)"
-msgstr ""
+msgstr "Tiro del oponente (muerte)"
 
 msgid "Zásah od spoluhráče (smrt)"
-msgstr ""
+msgstr "Tiro del compañero (muerte)"
 
 msgid "Zásah od brány"
-msgstr ""
+msgstr "Tiro de la puerta"
 
 msgid "Pravidla hry"
-msgstr ""
+msgstr "Reglas de partido"
 
 msgid "Bezkontaktní hra mezi soupeři."
-msgstr ""
+msgstr "Ningún contacto entre los jugadores."
 
 msgid "Nevystrčený loket (nezvednutý) při pohybu - nesmí ohrozit bezpečnost protihráče."
 msgstr ""
