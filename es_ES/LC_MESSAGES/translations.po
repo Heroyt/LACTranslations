@@ -6,7 +6,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "Last-Translator: Tomáš Vojík <vojik@wboy.cz>\n"
 "MIME-Version: 1.0\n"
-"PO-Revision-Date: 2025-04-22 06:54\n"
+"PO-Revision-Date: 2025-04-22 09:59\n"
 "POT-Creation-Date: \n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Project-Id-Version: laserarenacontrol\n"
@@ -786,31 +786,31 @@ msgid "Za tým jedná kapitán."
 msgstr "El capitán actúa en nombre del equipo."
 
 msgid "Fair play chování v rámci celého turnaje."
-msgstr "Fair play durante todo el torneo."
+msgstr "Juego deportivo durante todo el torneo."
 
 msgid "V případě vážnějšího zranění nebo technických problémů bude hra ukončena a později opakována."
-msgstr ""
+msgstr "En caso de lesión grave o problemas técnicos, el juego se dará por terminado y se repetirá más tarde."
 
 msgid "Během hry při opakovaném a vážném porušování pravidel, nevhodném chování týmu daný tým kontumačně prohrává bez ohledu na jeho skóre (jen ve velmi vážných případech)"
-msgstr ""
+msgstr "Durante el partido, en caso de violaciones repetidas y graves de las reglas, el comportamiento inadecuado de un equipo, el equipo en cuestión pierde por incomparecencia, independientemente de su puntuación (solo en casos muy graves)"
 
 msgid "Diskvalifikace – opakované porušování pravidel a nevhodné chování týmu i mimo herní prostor"
-msgstr ""
+msgstr "Descalificación – violaciones repetidas de las reglas y comportamiento inadecuado del equipo incluso fuera de la arena"
 
 msgid "Zakázané taktiky během hry"
-msgstr ""
+msgstr "Tácticas prohibidas durante el juego"
 
 msgid "Fyzický kontakt mezi protihráči"
-msgstr ""
+msgstr "Contacto físico entre oponentes"
 
 msgid "Nadávky mezi soupeři"
-msgstr ""
+msgstr "Insultos entre oponentes"
 
 msgid "Nefér chování (držení zbraně, blokování soupeřovi únikové cesty, střelba do hráče na zemi – pád…"
-msgstr ""
+msgstr "Juego antideportivo (bloquear el arma, bloquear la vía de escape de un oponente, disparar a un jugador en el suelo - caído…"
 
 msgid "Úmyslné ohrožení zdraví (loket ve výši obličeje, naskakování na soupeře, úder zbraní, rukou, nebezpečné točení s otočnou překážkou…)"
-msgstr ""
+msgstr "Poner en peligro intencionadamente (codo en la altura de la cara, saltar al oponente, golpear con el arma/la mano, girar peligrosamente con obstáculo un giratorio…)"
 
 msgid "Nedodržování všeobecných základních herních, bezpečnostních a provozních pravidel (např. špatné zacházení se zbraní, ležení na zemi, přeskakování překážek, nerespektování váhových, věkových a výškových rozdílů hráčů (děti a dospělý)..."
 msgstr ""
