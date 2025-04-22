@@ -6,7 +6,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "Last-Translator: Tomáš Vojík <vojik@wboy.cz>\n"
 "MIME-Version: 1.0\n"
-"PO-Revision-Date: 2025-04-21 21:16\n"
+"PO-Revision-Date: 2025-04-22 06:54\n"
 "POT-Creation-Date: \n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Project-Id-Version: laserarenacontrol\n"
@@ -774,19 +774,19 @@ msgid "Nevystrčený loket (nezvednutý) při pohybu - nesmí ohrozit bezpečnos
 msgstr ""
 
 msgid "Zakázané úmyslné naskakování na soupeře (cílený skok ve směru protihráče, který by mohl ohrozit jeho bezpečnost)."
-msgstr ""
+msgstr "Prohibido saltar intencionadamente sobre un oponente(un salto intencionado en la dirección del oponente que pueda poner en peligro su seguridad)."
 
 msgid "Žádný fyzický kontakt."
-msgstr ""
+msgstr "Prohibido contacto físico."
 
 msgid "Žádné nadávky mezi soupeři."
-msgstr ""
+msgstr "Prohibido insultar entre jugadores."
 
 msgid "Za tým jedná kapitán."
-msgstr ""
+msgstr "El capitán actúa en nombre del equipo."
 
 msgid "Fair play chování v rámci celého turnaje."
-msgstr ""
+msgstr "Fair play durante todo el torneo."
 
 msgid "V případě vážnějšího zranění nebo technických problémů bude hra ukončena a později opakována."
 msgstr ""
