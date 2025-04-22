@@ -6,7 +6,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "Last-Translator: Tomáš Vojík <vojik@wboy.cz>\n"
 "MIME-Version: 1.0\n"
-"PO-Revision-Date: 2025-04-22 09:59\n"
+"PO-Revision-Date: 2025-04-22 11:45\n"
 "POT-Creation-Date: \n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Project-Id-Version: laserarenacontrol\n"
@@ -813,10 +813,10 @@ msgid "Úmyslné ohrožení zdraví (loket ve výši obličeje, naskakování na
 msgstr "Poner en peligro intencionadamente (codo en la altura de la cara, saltar al oponente, golpear con el arma/la mano, girar peligrosamente con obstáculo un giratorio…)"
 
 msgid "Nedodržování všeobecných základních herních, bezpečnostních a provozních pravidel (např. špatné zacházení se zbraní, ležení na zemi, přeskakování překážek, nerespektování váhových, věkových a výškových rozdílů hráčů (děti a dospělý)..."
-msgstr ""
+msgstr "Incumplimiento de las reglas generales (por ejemplo, manejar mal el arma, tirarse al suelo, saltar sobre los obstáculos, no tener en cuenta las diferencias de peso, edad y altura de los jugadores (niños y adultos)..."
 
 msgid "Výrazné naklánění z cílem krytí čidel na vestě (po dobu delší, než je nutná k úhybu = hráč musí zůstat v pohybu)."
-msgstr ""
+msgstr "Inclinación significativa para cubrir los sensores del chaleco (durante más tiempo del necesario para esquivar = el jugador debe permanecer en movimiento)."
 
 msgid "Povolené taktiky"
 msgstr ""
