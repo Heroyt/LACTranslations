@@ -6,7 +6,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "Last-Translator: Tomáš Vojík <vojik@wboy.cz>\n"
 "MIME-Version: 1.0\n"
-"PO-Revision-Date: 2025-04-23 20:24\n"
+"PO-Revision-Date: 2025-04-23 21:39\n"
 "POT-Creation-Date: \n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Project-Id-Version: laserarenacontrol\n"
@@ -902,7 +902,7 @@ msgid "Začátek"
 msgstr "Inicio"
 
 msgid "Konec"
-msgstr ""
+msgstr "Término"
 
 msgid "Maximum týmů"
 msgstr "Número máximo de equipos"
@@ -956,142 +956,142 @@ msgstr "¿Cómo me inscribo en un torneo?"
 
 msgctxt "tournament.faq"
 msgid "Pro registraci na turnaj si stačí otevřít stránku konkrétního turnaje v laser lize a přes tlačítko „registrovat” vyplnit přihlášku. Pokud máte (vy nebo vaši spoluhráči) hráčský účet v laser lize, bude pro vás celý proces snazší, jelikož nemusíte zadávat všechny údaje a navíc se vám turnaj propíše do vašeho profilu."
-msgstr ""
+msgstr "Para inscribirte en un torneo, sólo tienes que abrir la página del torneo específico de la Laser Liga y rellenar el formulario de inscripción a través del botón \"inscribirse\". Si tú (o tus compañeros de equipo) tenéis una cuenta de jugador en la Laser Liga, todo el proceso os resultará más fácil, ya que no tendréis que rellenar todos los datos y el torneo se añadirá a vuestro perfil."
 
 msgctxt "tournament.faq"
 msgid "Jsem přihlášený na turnaj, ale potřeboval bych změnit přihlášku."
-msgstr ""
+msgstr "Estoy inscrito en un torneo, pero necesito editar mi inscripción."
 
 msgctxt "tournament.faq"
 msgid "Po registraci vám na e-mail přide odkaz, přes který můžete svou přihlášku měnit. Pokud jste registrovaný v laser lize, můžete svou přihlášku najít a upravit i ve vašem profilu."
-msgstr ""
+msgstr "Después de registrarte, recibirás un enlace en tu correo electrónico, a través del cual podrás editar tu inscripción. Si estás registrado en la Laser liga, también puedes encontrar y editar tu inscripción en tu perfil."
 
 msgctxt "pageTitles"
 msgid "Detail %s"
-msgstr ""
+msgstr "Detalle %s"
 
 msgctxt "pageDescription"
 msgid "Souhrnné statistiky a informace o aréně - %s"
-msgstr ""
+msgstr "Conjunto de estadísticas e información sobre arena - %s"
 
 msgid "Stránka s informacemi o laser game aréně - %s."
-msgstr ""
+msgstr "Página de información de laser game arena - %s."
 
 msgid "Registrováno hráčů"
-msgstr ""
+msgstr "Jugadores registrados"
 
 msgid "Dnes odehráno her"
-msgstr ""
+msgstr "Número de partidos de hoy"
 
 msgid "Dnes odehráno hráčů"
-msgstr ""
+msgstr "Número de jugadores de hoy"
 
 msgid "Všechny hry"
-msgstr ""
+msgstr "Todos los partidos"
 
 msgid "Plánované turnaje"
 msgstr "Torneos planeados"
 
 msgid "Informace a kontakty"
-msgstr ""
+msgstr "Información y contacto"
 
 msgid "Zajímavé statistiky o hrách laser game z této arény."
-msgstr ""
+msgstr "Estadísticas interesantes de partidos de esta arena."
 
 msgid "Dnešní nejlepší hráči"
-msgstr ""
+msgstr "Los mejores jugadores de hoy"
 
 msgid "Nejlepší dnešní hráči laser game podle jejich herní úrovně."
-msgstr ""
+msgstr "Los mejores jugadores de hoy según su nivel general."
 
 msgctxt "leaderboard"
 msgid "Herní úroveň"
 msgstr "Nivel general"
 
 msgid "Za celou dobu"
-msgstr ""
+msgstr "De todos los tiempos"
 
 msgid "Období dat pro následující grafy."
-msgstr ""
+msgstr "Periodo de datos para los siguientes gráficos."
 
 msgid "Souhrn herních módů laser game, které se hráli v této aréně."
-msgstr ""
+msgstr "Conjunto de modos de juego que se han jugado en esta arena."
 
 msgid "Počet her s daným hudebním módem v této aréně."
-msgstr ""
+msgstr "Número de partidos con una playlist en esta arena."
 
 msgid "Seznam a ukázky hudebních módů nabízených do hry."
-msgstr ""
+msgstr "Lista y ejemplos de playlists ofrecidas en el partido."
 
 msgid "Hudební mód dokáže úplně změnit zážitek z laser game. Vybírejte proto tak, aby vás co nejvíce nabudil a vy si svou hru co nejvíce užili."
-msgstr ""
+msgstr "Una playlist puede cambiar completamente la experiencia de un partido de laser game. Así que elija la mejor para animarse al máximo y disfrutar al máximo de su partido."
 
 msgid "Historie her arény %s"
-msgstr ""
+msgstr "Historia de partidos de arena %s"
 
 msgid "Všechny výsledky laser game z arény."
-msgstr ""
+msgstr "Todos los resultados de partidos de arena."
 
 msgid "Upravit zobrazené sloupce"
-msgstr ""
+msgstr "Editar las columnas mostradas"
 
 msgid "Vše"
-msgstr ""
+msgstr "Todo"
 
 msgid "Klasické módy"
-msgstr ""
+msgstr "Modos clásicos"
 
 msgid "Smazat filtr"
-msgstr ""
+msgstr "Borrar filtro"
 
 msgid "Zobrazit výsledky ze hry %s"
-msgstr ""
+msgstr "Ver resultados del partido %s"
 
 msgid "Řazení"
-msgstr ""
+msgstr "Ordenar por"
 
 msgid "Další stránka"
-msgstr ""
+msgstr "Página siguiente"
 
 msgid "Liga"
-msgstr ""
+msgstr "Liga"
 
 msgid "Informace o aréně"
-msgstr ""
+msgstr "Información sobre arena"
 
 msgid "Web"
-msgstr ""
+msgstr "Página web"
 
 msgid "Telefon"
-msgstr ""
+msgstr "Teléfono"
 
 msgid "Adresa"
-msgstr ""
+msgstr "Dirección"
 
 msgid "Hráči hráli všichni proti všem."
-msgstr ""
+msgstr "Jugadores jugaron todos contra todos."
 
 msgid "Celkem hrál %d hráč."
 msgid_plural "Celkem hrálo %d hráčů."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "En total jugó %d jugador."
+msgstr[1] "En total jugaron %d jugadores."
 
 msgctxt "pageTitles"
 msgid "Žebříček - %s"
-msgstr ""
+msgstr "Clasificación - %s"
 
 msgctxt "pageDescription"
 msgid "Žebříček všech hráčů laser game podle různých statistik. Žebříček arény: %s"
-msgstr ""
+msgstr "Clasificación de todos los jugadores de laser game por varias estadísticas. Clasificación de arena: %s"
 
 msgid "Zpět na stránku arény"
-msgstr ""
+msgstr "Volver a la página de la arena"
 
 msgid "Zpět na celkový žebříček"
-msgstr ""
+msgstr "Volver a la clasificación general"
 
 msgid "Pořadí hráčů"
-msgstr ""
+msgstr "Clasificación de jugadores"
 
 msgid "Žebříček všech registrovaných hráčů laser ligy."
 msgstr ""
