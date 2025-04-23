@@ -6,7 +6,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "Last-Translator: Tomáš Vojík <vojik@wboy.cz>\n"
 "MIME-Version: 1.0\n"
-"PO-Revision-Date: 2025-04-22 11:45\n"
+"PO-Revision-Date: 2025-04-23 06:28\n"
 "POT-Creation-Date: \n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Project-Id-Version: laserarenacontrol\n"
@@ -825,7 +825,7 @@ msgid "Taktika skupiny či jednotlivce, která není v rozporu s výše uvedený
 msgstr ""
 
 msgid "Kempení"
-msgstr ""
+msgstr "Camping"
 
 msgid "Lehké náklony, úhyby, krčení,.."
 msgstr ""
