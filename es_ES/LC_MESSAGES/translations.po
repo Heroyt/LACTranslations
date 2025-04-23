@@ -6,7 +6,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "Last-Translator: Tomáš Vojík <vojik@wboy.cz>\n"
 "MIME-Version: 1.0\n"
-"PO-Revision-Date: 2025-04-23 15:43\n"
+"PO-Revision-Date: 2025-04-23 17:01\n"
 "POT-Creation-Date: \n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Project-Id-Version: laserarenacontrol\n"
@@ -771,7 +771,7 @@ msgid "Bezkontaktní hra mezi soupeři."
 msgstr "Ningún contacto entre los jugadores."
 
 msgid "Nevystrčený loket (nezvednutý) při pohybu - nesmí ohrozit bezpečnost protihráče."
-msgstr ""
+msgstr "No levantar los codos cuando moverse - no deben poner en peligro el oponente."
 
 msgid "Zakázané úmyslné naskakování na soupeře (cílený skok ve směru protihráče, který by mohl ohrozit jeho bezpečnost)."
 msgstr "Prohibido saltar intencionadamente sobre un oponente(un salto intencionado en la dirección del oponente que pueda poner en peligro su seguridad)."
@@ -822,81 +822,81 @@ msgid "Povolené taktiky"
 msgstr "Tácticas permitidas"
 
 msgid "Taktika skupiny či jednotlivce, která není v rozporu s výše uvedenými pravidly a možnost ji využít či se naučit má každý, není zakázána."
-msgstr ""
+msgstr "Están permitidas las tácticas de grupo o individuales que no contradigan las reglas anteriores y todo el mundo tenga la oportunidad de usarlas o aprenderlas."
 
 msgid "Kempení"
 msgstr "Camping"
 
 msgid "Lehké náklony, úhyby, krčení,.."
-msgstr ""
+msgstr "Inclinarse, esquivar y encogerse levemente,..."
 
 msgid "Skákání, které neohrožuje protihráče"
-msgstr ""
+msgstr "Salto que no pone en peligro al oponente"
 
 msgid "Pronásledování protihráče (není úplně fér, ale není zakázáno)"
-msgstr ""
+msgstr "Persecución de un oponente (no es deportivo, pero no prohibido)"
 
 msgid "Nekontaktní (neúmyslné) krytí se spoluhráčů navzájem"
-msgstr ""
+msgstr "Cubrir (sin contacto) de compañeros de equipo entre sí"
 
 msgid "Vytvoření návnady z vlastního hráče"
-msgstr ""
+msgstr "Crear un señuelo de tu compañero"
 
 msgid "Rozhodčí a penalizace"
-msgstr ""
+msgstr "Árbitros y sanciones"
 
 msgid "Během her budou v aréně dva rozhodčí. V případě kategorie mazáků můžou být jako rozhodčí působit i hráči z ostatních týmů."
-msgstr ""
+msgstr "En la arena hay dos árbitros durante el partido. En el caso de la categoría de veteranos, también podrán actuar como árbitros jugadores de otros equipos."
 
 msgid "Posouzení situace vždy závisí na rozhodčím. Pokud hráč ve hře vidí nějaký přestupek, musí ho nahlásit rozhodčímu během hry, aby rozhodčí mohl daného hráče více hlídat."
 msgstr "Siempre corresponde al árbitro juzgar la situación. Si un jugador ve una falta en el partido, debe informar al árbitro inmediatamente durante el partido para que el árbitro pueda vigilar más al jugador."
 
 msgid "Po hře již není možné řešit situaci, která se ve hře děla, jen na ní upozornit. V případě vyšího počtu stížností se může situace řešit s kapitány týmů."
-msgstr ""
+msgstr "Después del partido, ya no es posible tratar la situación que pasó en el partido, solo llamar la atención sobre ella. En caso de un mayor número de quejas, la situación puede ser tratada con los capitanes de los equipos."
 
 msgid "První napomenutí"
-msgstr ""
+msgstr "Primer aviso"
 
 msgid "Bez sankce"
-msgstr ""
+msgstr "Sin sanción"
 
 msgid "Každý další přestupek"
-msgstr ""
+msgstr "Cada otra falta"
 
 msgid "%s bodů"
-msgstr ""
+msgstr "%s puntos"
 
 msgctxt "pageTitles"
 msgid "Turnaj %s %s - %s"
-msgstr ""
+msgstr "Torneo %s %s - %s"
 
 msgctxt "pageDescription"
 msgid "Turnaj %s v %s. Turnaj se odehrává %s od %s."
-msgstr ""
+msgstr "Torneo %s en %s. El torneo tiene lugar %s de %s."
 
 msgid "Moje turnaje"
-msgstr ""
+msgstr "Mis torenos"
 
 msgid "Uživatel"
-msgstr ""
+msgstr "Usuario"
 
 msgid "Zpět na ligu"
-msgstr ""
+msgstr "Volver a la Liga"
 
 msgid "Zpět na arénu"
-msgstr ""
+msgstr "Volver a la Arena"
 
 msgid "Informace o turnaji laser game, který se bude odehrávat %s v %s."
-msgstr ""
+msgstr "Información sobre el evento de laser game que tendrá lugar %s en %s."
 
 msgid "Laser game turnaj: %s"
-msgstr ""
+msgstr "Torneo de laser game: %s"
 
 msgid "Informace"
-msgstr ""
+msgstr "Información"
 
 msgid "Pravidla turnaje"
-msgstr ""
+msgstr "Reglas de torneo"
 
 msgid "Začátek"
 msgstr "Inicio"
@@ -905,46 +905,46 @@ msgid "Konec"
 msgstr ""
 
 msgid "Maximum týmů"
-msgstr ""
+msgstr "Número máximo de equipos"
 
 msgid "Formát"
 msgstr "Formato"
 
 msgid "Počet hráčů v týmu"
-msgstr ""
+msgstr "Número de jugadores en el equipo"
 
 msgid "Náhradníků"
-msgstr ""
+msgstr "Suplentes"
 
 msgid "Cena"
 msgstr ""
 
 msgid "Seznam přihlášených týmů na turnaj laser game."
-msgstr ""
+msgstr "Lista de equipos registrados para el torneo de laser game."
 
 msgid "Průměrná herní úroveň registrovaných hráčů"
-msgstr ""
+msgstr "Nivel general medio de los jugadores registrados"
 
 msgid "Začátečník"
-msgstr ""
+msgstr "Novato"
 
 msgid "Upravit přihlášku"
-msgstr ""
+msgstr "Editar inscripción"
 
 msgid "Často kladené dotazy"
-msgstr ""
+msgstr "Preguntas frecuentes"
 
 msgctxt "tournament.faq"
 msgid "Co je to turnaj laser game?"
-msgstr ""
+msgstr "¿Qué es un torneo de laser game?"
 
 msgctxt "tournament.faq"
 msgid "Laser game je sport. A jako v každém jiném sportu se i zde organizují turnaje. Turnaj laser game je většinou jednodenní akce, kdy proti sobě soupeří několik hráčů / týmů. Turnaje laser game mohou být organizovány na několik způsobů v závislosti na herním módu, typu rozlosování, aréně, ap."
-msgstr ""
+msgstr "Laser game es un deporte. Como en cualquier otro deporte, se organizan torneos. Un torneo de laser game suele ser un evento de un día en el que varios jugadores/equipos compiten entre sí. Los torneos se pueden organizar de varias maneras dependiendo del modo de juego, tipo de sorteo, arena etc."
 
 msgctxt "tournament.faq"
 msgid "Co je to liga laser game?"
-msgstr ""
+msgstr "¿Qué es la liga de laser game?"
 
 msgctxt "tournament.faq"
 msgid "Liga laser game je dlouhodobá soutěž skládající se z několika turnajů. Výsledky jsou vyhodnocovány z každého turnaje zvlášť, ale zároveň mezi turnaji. Na konci ligového období jsou vyhlášeny celkové výsledky."
@@ -952,7 +952,7 @@ msgstr "La liga de laser game es una competición de larga duración que consta 
 
 msgctxt "tournament.faq"
 msgid "Jak se zaregistruji na turnaj?"
-msgstr ""
+msgstr "¿Cómo me inscribo en un torneo?"
 
 msgctxt "tournament.faq"
 msgid "Pro registraci na turnaj si stačí otevřít stránku konkrétního turnaje v laser lize a přes tlačítko „registrovat” vyplnit přihlášku. Pokud máte (vy nebo vaši spoluhráči) hráčský účet v laser lize, bude pro vás celý proces snazší, jelikož nemusíte zadávat všechny údaje a navíc se vám turnaj propíše do vašeho profilu."
@@ -1228,7 +1228,7 @@ msgid "Body"
 msgstr "Puntos"
 
 msgid "Průměrná herní úroveň"
-msgstr ""
+msgstr "Nivel generak medio"
 
 msgid "Statistiky týmu %s"
 msgstr ""
@@ -1311,13 +1311,13 @@ msgid "Telefon zákonného zástupce"
 msgstr ""
 
 msgid "Herní úroveň hráče"
-msgstr ""
+msgstr "Nivel general del jugador"
 
 msgid "Jak poznám svou herní úroveň?"
-msgstr ""
+msgstr "¿Cómo puedo saber mi nivel general?"
 
 msgid "Herní úroveň označuje odhadovanou schopnost hráče v aréně.<br>Pro registrované hráče se snaží odhadnout sama na základě jejich hodnocení."
-msgstr ""
+msgstr "El nivel general se refiere a la habilidad estimada de un jugador en la arena.<br>Para los jugadores registrados, intenta estimarse a base de su puntuación."
 
 msgid "<strong>Začátečník</strong> je někdo, kdo má většinou odehráno jen pár her a v aréně se stále rozkoukává."
 msgstr ""
@@ -1397,7 +1397,7 @@ msgid "Pozice v žebříčku"
 msgstr ""
 
 msgid "Herní úroveň se zvyšuje a klesá s každou odehranou klasickou hrou. Při výpočtu se přihlíží k úrovni protihráčů - pokud hrajete schválně se slabšími spoluhráči, herní úroveň roste pomalu."
-msgstr ""
+msgstr "El nivel de juego aumenta y disminuye con cada partida clásica jugada. El cálculo tiene en cuenta el nivel de tus oponentes - si juegas con jugadores con nivel menor a propósito, tu nivel general aumenta lentamente."
 
 msgid "Zobrazit statistiky domovské arény"
 msgstr ""
@@ -2121,7 +2121,7 @@ msgid "Co to znamená?"
 msgstr ""
 
 msgid "Hodnota blízká 100% znamená definitivní výhru.<br>Hodnota blízká 50% je remíza (totožná herní úroveň).<br>Hodnota 0% je definitivní prohra."
-msgstr ""
+msgstr "Un valor cercano al 100% es una victoria definitiva.<br>Un valor cercano al 50% es un empate (idéntico nivel de general).<br>Un valor del 0% es una pérdida definitiva."
 
 msgid "Koeficient výhry"
 msgstr ""
