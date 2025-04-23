@@ -6,7 +6,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "Last-Translator: Tomáš Vojík <vojik@wboy.cz>\n"
 "MIME-Version: 1.0\n"
-"PO-Revision-Date: 2025-04-23 06:28\n"
+"PO-Revision-Date: 2025-04-23 15:43\n"
 "POT-Creation-Date: \n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Project-Id-Version: laserarenacontrol\n"
@@ -819,7 +819,7 @@ msgid "Výrazné naklánění z cílem krytí čidel na vestě (po dobu delší,
 msgstr "Inclinación significativa para cubrir los sensores del chaleco (durante más tiempo del necesario para esquivar = el jugador debe permanecer en movimiento)."
 
 msgid "Povolené taktiky"
-msgstr ""
+msgstr "Tácticas permitidas"
 
 msgid "Taktika skupiny či jednotlivce, která není v rozporu s výše uvedenými pravidly a možnost ji využít či se naučit má každý, není zakázána."
 msgstr ""
