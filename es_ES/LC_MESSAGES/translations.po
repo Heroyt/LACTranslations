@@ -6,7 +6,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "Last-Translator: Tomáš Vojík <vojik@wboy.cz>\n"
 "MIME-Version: 1.0\n"
-"PO-Revision-Date: 2025-04-24 14:52\n"
+"PO-Revision-Date: 2025-04-24 16:22\n"
 "POT-Creation-Date: \n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Project-Id-Version: laserarenacontrol\n"
@@ -1281,22 +1281,22 @@ msgid "Co je to registrovaný hráč?"
 msgstr "¿Qué es un jugador registrado?"
 
 msgid "Registrovaný hráč, je takový boží tvor, který má založený účet v portálu LaserLiga a čerpá jeho výhody (jako například souhrnné statistiky, historii her...).<br>Registrovaný hráč, ale nebyl vždy registrovaným hráčem.<br>Stal se jím pomocí <a href=\"%s\" target=\"_blank\">odkazu</a> v právém horním rohu v menu."
-msgstr ""
+msgstr "Un jugador registrado es una criatura divina que ha creado una cuenta en el portal de LaserLiga y disfruta de sus ventajas (como estadísticas resumidas, historial de partidas...).<br>Un jugador registrado no había sido siempre un jugador registrado.<br>Se convirtió en uno usando el enlace <a href=\"%s\" target=\"_blank\"></a> en la esquina superior derecha del menú."
 
 msgid "Hledat hráče"
-msgstr ""
+msgstr "Buscar jugador"
 
 msgid "Hledat..."
-msgstr ""
+msgstr "Buscar..."
 
 msgid "Příjmení"
-msgstr ""
+msgstr "Apellidos"
 
 msgid "Přezdívka"
-msgstr ""
+msgstr "Apodo"
 
 msgid "Jak poznat dobrou přezdívku?"
-msgstr ""
+msgstr "¿Cómo crear un buen apodo?"
 
 msgid "Dobrá přezdívka je klíčovou součástí každého hráče.<br>Pokud přezdívku ještě nemáte, je dobré myslet na následující body:<ol><li><strong>Unikátní</strong> - Přezdívka není křestní jméno. Je jen vaše. Snažte se vyvarovat běžným přezdívkám jako <i>Terminátor</i>, ale i jménům jako <i>Honza</i>.</li><li><strong>Dobře vyslovitelná</strong> - Náhodná směť čísel a písmen také není ideální.</li><li><strong>Osobní</strong> - Přezdívka se vám musí líbit. Přemýšlejte nad tím, že vás ostatní hráči budou přezdívkou oslovovat.</li></ol>"
 msgstr ""
@@ -1305,7 +1305,7 @@ msgid "E-mail zákonného zástupce"
 msgstr ""
 
 msgid "Vyplňte v případě, že hráč je mladší 15&nbsp;let."
-msgstr ""
+msgstr "Rellenar si el jugador es menor de 15&nbsp;años."
 
 msgid "Telefon zákonného zástupce"
 msgstr ""
