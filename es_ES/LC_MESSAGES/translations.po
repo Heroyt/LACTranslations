@@ -6,7 +6,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "Last-Translator: Tomáš Vojík <vojik@wboy.cz>\n"
 "MIME-Version: 1.0\n"
-"PO-Revision-Date: 2025-04-24 13:25\n"
+"PO-Revision-Date: 2025-04-24 14:52\n"
 "POT-Creation-Date: \n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Project-Id-Version: laserarenacontrol\n"
@@ -708,7 +708,7 @@ msgstr[0] "%d punto"
 msgstr[1] "%d puntos"
 
 msgid "Prohra"
-msgstr "Perdida"
+msgstr "Pérdida"
 
 msgid "Postup do finále"
 msgstr "Promoción a la final"
@@ -1100,54 +1100,54 @@ msgid "Základní zobrazení. Hráči jsou seřazeni podle jejich herní úrovn�
 msgstr "Clasificación básica. Los jugadores son clasificados por su nivel general."
 
 msgid "Řazení podle průměrných hodnot hráčů ze všech jejich her."
-msgstr ""
+msgstr "Clasificación por el valor medio de los jugadores en todos sus partidos."
 
 msgid "Řazení podle nejlepších výkonů hráčů v jedné hře."
-msgstr ""
+msgstr "Clasificación por el mejor resultado de los jugadores en un solo partido."
 
 msgid "Řazení podle součtů statistik hráčů."
-msgstr ""
+msgstr "Clasificación por sumas de estadísticas de los jugadores."
 
 msgid "Hledat"
-msgstr ""
+msgstr "Buscar"
 
 msgid "Profil uživatele %s"
-msgstr ""
+msgstr "Perfil de %s"
 
 msgid "Řadit vzestupně"
-msgstr ""
+msgstr "Ordenar creciente"
 
 msgid "Řadit sestupně"
-msgstr ""
+msgstr "Ordenar decreciente"
 
 msgid "Zobrazit profil hráče %s"
-msgstr ""
+msgstr "Ver perfil del jugador %s"
 
 msgid "her"
-msgstr ""
+msgstr "partidos"
 
 msgctxt "pageTitles"
 msgid "Plánované akce"
-msgstr ""
+msgstr "Eventos planeados"
 
 msgctxt "pageDescription"
 msgid "Akce plánované v laser arénách, které budou probíhat v následujících měsících."
-msgstr ""
+msgstr "Eventos planeados en arenas que tendrán lugar en los próximos meses."
 
 msgid "Plánované akce laser game"
-msgstr ""
+msgstr "Eventos planeados de laser game"
 
 msgid "Poměřte síly s dalšími hráči laser game! Následující akce jsou organizovány v arénách využívající Laser Ligu."
-msgstr ""
+msgstr "¡Compara fuerzas con otros jugadores de laser game! Los siguientes eventos se organizan en arenas que utilizan la Laser Liga."
 
 msgid "Ligy / turnaje laser game"
-msgstr ""
+msgstr "Ligas / torneos de laser game"
 
 msgid "Turnaje laser game"
-msgstr ""
+msgstr "Torneos de laser game"
 
 msgid "%d. se umístila %s s celkovým skóre %s."
-msgstr ""
+msgstr "%dº puesto para %s con una puntuación total de %s."
 
 msgctxt "pageTitles"
 msgid "Ligy laser game"
@@ -1155,65 +1155,65 @@ msgstr "Ligas de laser game"
 
 msgctxt "pageDescription"
 msgid "Organizované laser game ligy - skupiny turnajů, které na sebe navazují."
-msgstr ""
+msgstr "Ligas de laser game organizadas - grupos de torneos que se desarrollan entre sí."
 
 msgid "Organizované ligy laser game"
-msgstr ""
+msgstr "Ligas de laser game organizadas"
 
 msgctxt "pageTitles"
 msgid "Liga %s"
-msgstr ""
+msgstr "Liga %s"
 
 msgctxt "pageDescription"
 msgid "Liga %s v %s, aneb několik na sebe navazujících turnajů."
-msgstr ""
+msgstr "Liga %s en %s o sea varios torneos consecutivos."
 
 msgid "Liga turnajů laser game"
-msgstr ""
+msgstr "Liga de torenos de laser game"
 
 msgid "Liga laser game v %s rozdělená do %d kategorie"
 msgid_plural "Liga laser game v aréně: %s rozdělená do %d kategorií"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Liga de laser game en %s dividida en %d categoría"
+msgstr[1] "Liga de laser game en %s dividida en %d categorías"
 
 msgid "Zpět na ligy"
-msgstr ""
+msgstr "Volver a las ligas"
 
 msgid "Registrace náhradníka"
-msgstr ""
+msgstr "Inscripción de suplente"
 
 msgid "Akce"
 msgstr "Acción"
 
 msgid "Začátečníci"
-msgstr ""
+msgstr "Novatos"
 
 msgid "Pokročilí"
-msgstr ""
+msgstr "Avanzados"
 
 msgid "Mazáci"
-msgstr ""
+msgstr "Veteranos"
 
 msgid "Ostatní akce"
-msgstr ""
+msgstr "Otros eventos"
 
 msgid "Informace o lize"
-msgstr ""
+msgstr "Información de la liga"
 
 msgid "Organizuje"
-msgstr ""
+msgstr "Organizado por"
 
 msgid "Seznam turnajů ligy."
-msgstr ""
+msgstr "Lista de torneos de la liga."
 
 msgid "Seznam turnajů ligy v kategorii %s."
-msgstr ""
+msgstr "Lista de torneos de la liga en la categoría %s."
 
 msgid "Seznam dalších akcí pořádaných jako součást ligy."
-msgstr ""
+msgstr "Lista de otros eventos organizados que forman parte de la liga."
 
 msgid "Celkové výsledky ze všech turnajů v kategorii."
-msgstr ""
+msgstr "Resultados totales de todos los torneos de la categoría."
 
 msgid "Výhry"
 msgstr "Victorias"
@@ -1231,54 +1231,54 @@ msgid "Průměrná herní úroveň"
 msgstr "Nivel generak medio"
 
 msgid "Statistiky týmu %s"
-msgstr ""
+msgstr "Estadísticas del equipo %s"
 
 msgid "Individuální výsledky"
-msgstr ""
+msgstr "Resultados individuales"
 
 msgctxt "pageTitles"
 msgid "%s - Registrace na ligu"
-msgstr ""
+msgstr "%s - Inscripción en la liga"
 
 msgctxt "pageDescription"
 msgid "Registrace na ligu %s v %s."
-msgstr ""
+msgstr "Inscripción en la liga %s en %s."
 
 msgid "Zpět"
-msgstr ""
+msgstr "Atrás"
 
 msgid "Registrace týmu"
-msgstr ""
+msgstr "Inscripción del equipo"
 
 msgid "Kategorie"
-msgstr ""
+msgstr "Categoría"
 
 msgid "Registrovat předchozí tým"
-msgstr ""
+msgstr "Inscribir equipo anterior"
 
 msgid "Nový tým"
-msgstr ""
+msgstr "Nuevo equipo"
 
 msgid "Název týmu"
-msgstr ""
+msgstr "Nombre de equipo"
 
 msgid "Logo týmu"
-msgstr ""
+msgstr "Logotipo del equipo"
 
 msgid "Kapitán"
-msgstr ""
+msgstr "Capitán"
 
 msgid "Kdo je kapitán?"
-msgstr ""
+msgstr "¿Quién es un capitán?"
 
 msgid "Kapitán je velmi důležitá část týmu. On bude pravděpodobně ten, který bude za tým všechno řešit a komunikovat.<br>Proto bývají jeho kontaktní údaje vyžadovány více než u ostatních hráčů."
-msgstr ""
+msgstr "Un capitán es persona muy importante en el equipo. Probablemente será el que se encargue de todo y de la comunicación del equipo.<br>Por eso su información de contacto suele ser más necesaria que la de otros jugadores."
 
 msgid "Registrovaný hráč"
 msgstr "Jugador registrado"
 
 msgid "Co je to registrovaný hráč?"
-msgstr ""
+msgstr "¿Qué es un jugador registrado?"
 
 msgid "Registrovaný hráč, je takový boží tvor, který má založený účet v portálu LaserLiga a čerpá jeho výhody (jako například souhrnné statistiky, historii her...).<br>Registrovaný hráč, ale nebyl vždy registrovaným hráčem.<br>Stal se jím pomocí <a href=\"%s\" target=\"_blank\">odkazu</a> v právém horním rohu v menu."
 msgstr ""
