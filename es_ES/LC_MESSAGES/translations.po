@@ -6,7 +6,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "Last-Translator: Tomáš Vojík <vojik@wboy.cz>\n"
 "MIME-Version: 1.0\n"
-"PO-Revision-Date: 2025-04-27 09:54\n"
+"PO-Revision-Date: 2025-04-27 10:59\n"
 "POT-Creation-Date: \n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Project-Id-Version: laserarenacontrol\n"
@@ -1347,78 +1347,78 @@ msgid "Informace o akci"
 msgstr "Sobre el evento"
 
 msgid "Automatické přihlášení na propojenou akci."
-msgstr ""
+msgstr "Inscripción automática al evento vinculado."
 
 msgid "Náhradníci"
-msgstr ""
+msgstr "Suplentes"
 
 msgid "nepovinné"
-msgstr ""
+msgstr "opcional"
 
 msgid "Souhlasím se <a href=\"%s\" target=\"_blank\">zpracováním osobních údajů</a>"
-msgstr ""
+msgstr "Acepto la <a href=\"%s\" target=\"_blank\">política de privacidad</a>"
 
 msgid "Nemáš tým, ale rád by sis zahrál? Nech nám na sebe kontakt a pokud pro tebe budeme mít tým, tak se ti ozveme."
-msgstr ""
+msgstr "¿No tienes equipo pero te gustaría jugar? Déjanos tu contacto y si tenemos un equipo para ti, nos pondremos en contacto contigo."
 
 msgid "Náhradník"
-msgstr ""
+msgstr "Suplente"
 
 msgctxt "pageTitles"
 msgid "Nástěnka hráče - %s"
-msgstr ""
+msgstr "Tablero del jugador - %s"
 
 msgctxt "pageDescription"
 msgid "Profil a statistiky všech laser game her hráče %s"
-msgstr ""
+msgstr "Perfil y estadísticas de todas los partidos de laser game jugados por el jugador %s"
 
 msgid "Profil hráče %s na portálu Laser liga"
-msgstr ""
+msgstr "Perfil del jugador %s en Laser liga"
 
 msgid "Herní kód hráče"
-msgstr ""
+msgstr "Código de jugador"
 
 msgid "Tvůj kód %s je unikátní identifikátor, pod kterým tě aréna vždy při zadávání hry najde."
-msgstr ""
+msgstr "Tu código %s es un identificador único con el que la arena siempre te encuentra cuando entras en un partido."
 
 msgid "Upravit"
 msgstr "Editar"
 
 msgid "%s začal svou cestu laser game hráče svou první hrou %s."
-msgstr ""
+msgstr "%s comenzó su camino como jugador de laser game con su primer partido el %s."
 
 msgid "Od té doby má za sebou neuvěřitelných %d her!"
-msgstr ""
+msgstr "Desde entonces ha jugado la increíble cantidad de %d partidos."
 
 msgid "Základní statistiky"
-msgstr ""
+msgstr "Estadísticas básicas"
 
 msgid "Pozice v žebříčku"
-msgstr ""
+msgstr "Posición en la clasificación"
 
 msgid "Herní úroveň se zvyšuje a klesá s každou odehranou klasickou hrou. Při výpočtu se přihlíží k úrovni protihráčů - pokud hrajete schválně se slabšími spoluhráči, herní úroveň roste pomalu."
 msgstr "El nivel de juego aumenta y disminuye con cada partida clásica jugada. El cálculo tiene en cuenta el nivel de tus oponentes - si juegas con jugadores con nivel menor a propósito, tu nivel general aumenta lentamente."
 
 msgid "Zobrazit statistiky domovské arény"
-msgstr ""
+msgstr "Ver estadísticas de la arena local"
 
 msgid "Ocenění"
-msgstr ""
+msgstr "Logros"
 
 msgid "Souhrnné statistiky"
-msgstr ""
+msgstr "Conjunto de estadísticas"
 
 msgid "Poměr zabití a smrtí. Např. hodnota 2 znamená, že máš 2x tolik zásahů než smrtí."
-msgstr ""
+msgstr "Proporción entre aciertos y muertes. Por ejemplo, un valor de 2 significa que tienes el doble de aciertos que de muertes."
 
 msgid "Vývoj pozice v žebříčku"
-msgstr ""
+msgstr "Desarrollo de la posición en la clasificación"
 
 msgid "Souhrn herních schopností"
-msgstr ""
+msgstr "Conjunto de las habilidades de juego"
 
 msgid "Data v tomto grafu jsou uváděna v rozmezí 0-100."
-msgstr ""
+msgstr "Los datos de este gráfico se dan en la escala 0-100."
 
 msgid "K:D a počet zásahů je relativní. Hodnota 50 na grafu odpovídá obecnému průměru."
 msgstr ""
