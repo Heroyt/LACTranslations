@@ -6,7 +6,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "Last-Translator: Tomáš Vojík <vojik@wboy.cz>\n"
 "MIME-Version: 1.0\n"
-"PO-Revision-Date: 2025-04-24 16:22\n"
+"PO-Revision-Date: 2025-04-27 09:54\n"
 "POT-Creation-Date: \n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Project-Id-Version: laserarenacontrol\n"
@@ -1299,16 +1299,16 @@ msgid "Jak poznat dobrou přezdívku?"
 msgstr "¿Cómo crear un buen apodo?"
 
 msgid "Dobrá přezdívka je klíčovou součástí každého hráče.<br>Pokud přezdívku ještě nemáte, je dobré myslet na následující body:<ol><li><strong>Unikátní</strong> - Přezdívka není křestní jméno. Je jen vaše. Snažte se vyvarovat běžným přezdívkám jako <i>Terminátor</i>, ale i jménům jako <i>Honza</i>.</li><li><strong>Dobře vyslovitelná</strong> - Náhodná směť čísel a písmen také není ideální.</li><li><strong>Osobní</strong> - Přezdívka se vám musí líbit. Přemýšlejte nad tím, že vás ostatní hráči budou přezdívkou oslovovat.</li></ol>"
-msgstr ""
+msgstr "Un buen apodo es una parte clave de cualquier jugador.<br>Si aún no tienes un apodo, es una buena idea tener en cuenta los siguientes puntos:<ol><li><strong>Único</strong> - Un apodo no es un nombre de pila. Sebe ser solo tuyo. Intenta evitar apodos comunes como <i>Terminator</i>, pero también nombres como <i>Paco</i>.</li><li><strong>Bien pronunciable</strong> - Una mezcla aleatoria de números y letras tampoco es lo ideal.</li><li><strong>Personal</strong> - El apodo debe ser algo que te guste. Piensa que otros jugadores te llamarán por tu apodo.</li></ol>"
 
 msgid "E-mail zákonného zástupce"
-msgstr ""
+msgstr "E-mail del representante legal"
 
 msgid "Vyplňte v případě, že hráč je mladší 15&nbsp;let."
 msgstr "Rellenar si el jugador es menor de 15&nbsp;años."
 
 msgid "Telefon zákonného zástupce"
-msgstr ""
+msgstr "Teléfono del representante legal"
 
 msgid "Herní úroveň hráče"
 msgstr "Nivel general del jugador"
@@ -1320,31 +1320,31 @@ msgid "Herní úroveň označuje odhadovanou schopnost hráče v aréně.<br>Pro
 msgstr "El nivel general se refiere a la habilidad estimada de un jugador en la arena.<br>Para los jugadores registrados, intenta estimarse a base de su puntuación."
 
 msgid "<strong>Začátečník</strong> je někdo, kdo má většinou odehráno jen pár her a v aréně se stále rozkoukává."
-msgstr ""
+msgstr "<strong>Un novato</strong> es alguien que normalmente solo ha jugado unas pocas partidas y todavía está aprendiendo."
 
 msgid "<strong>Částečně pokročilý</strong> už má pár her za sebou. Zvládá lépe střílet a neběhá jen slepě po aréně."
-msgstr ""
+msgstr "<strong>Semi-avanzado</strong> ya ha jugado unos cuantos partidos. Dispara mejor y ya no se mueve a ciegas por la arena."
 
 msgid "<strong>Pokročilý hráč</strong> většinou hraje alespoň trochu pravidelně. Nad svou hrou přemýšlí a nemá problém svůj cíl trefit i na větší vzdálenost."
-msgstr ""
+msgstr "<strong>Un jugador avanzado</strong> suele jugar al menos con cierta regularidad. Tiene una estrategia básica y no tiene problemas para acertar incluso a grandes distancias."
 
 msgid "<strong>Profík</strong> je ztělesněním laseru samotného. Své cíle trefuje s chirurgicou přesností a aréna je jeho domovem. Někteří legendární střelcí prý ohýbají laser i za roh.<br>Každopádně je to pravidelný hráč s bohatou zkušeností."
-msgstr ""
+msgstr "<strong>El veterano</strong> es la encarnación del propio láser. Acierta sus objetivos con precisión quirúrgica, y la arena es su hogar. Se dice que algunos jugadores legendarios curvan el láser por las esquinas.<br>De todos modos, es un jugador asiduo con una gran experiencia."
 
 msgid "Částečně pokročilý"
-msgstr ""
+msgstr "Semi-avanzado"
 
 msgid "Pokročilý"
-msgstr ""
+msgstr "Avanzado"
 
 msgid "Profík"
-msgstr ""
+msgstr "Veterano"
 
 msgid "Speciální tréninková akce"
-msgstr ""
+msgstr "Evento especial de entrenamiento"
 
 msgid "Informace o akci"
-msgstr ""
+msgstr "Sobre el evento"
 
 msgid "Automatické přihlášení na propojenou akci."
 msgstr ""
