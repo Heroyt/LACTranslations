@@ -6,7 +6,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "Last-Translator: Tomáš Vojík <vojik@wboy.cz>\n"
 "MIME-Version: 1.0\n"
-"PO-Revision-Date: 2025-04-28 19:14\n"
+"PO-Revision-Date: 2025-04-28 20:40\n"
 "POT-Creation-Date: \n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Project-Id-Version: laserarenacontrol\n"
@@ -1436,16 +1436,16 @@ msgid "Za posledních 30 dní tě v žebříčku někdo přeskočil. Co takhle s
 msgstr "En los últimos 30 días, alguien te ha adelantado en la clasificación. ¿Querrías ir a jugar?"
 
 msgid "Za posledních 30 dní si se v žebříčku vůbec neposunul/a. Co takhle si jít zahrát a změnit to?"
-msgstr ""
+msgstr "No has subido nada en la clasificación en los últimos 30 días. ¿Qué tal si vas a jugar y cambias eso?"
 
 msgid "Trofeje, které %s získal ve svých hrách. Trofeje jsou speciální ohodnocení, které vyjadřují úspěchy, kterých %s během hry dosáhl."
-msgstr ""
+msgstr "Trofeos que %s ha ganado en sus partidos. Los trofeos son premios especiales que representan los logros que %s ha conseguido durante el partido."
 
 msgid "Všechny módy"
-msgstr ""
+msgstr "Todos los modos"
 
 msgid "Jen klasické módy"
-msgstr ""
+msgstr "Solo modos clásicos"
 
 msgid "Ocenění jsou úspěchy získané během celé %s laser-hráčské kariéry. Odemčením většiny ocenění získá hráč nový titul na profil."
 msgstr ""
