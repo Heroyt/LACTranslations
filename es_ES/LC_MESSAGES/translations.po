@@ -6,7 +6,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "Last-Translator: Tomáš Vojík <vojik@wboy.cz>\n"
 "MIME-Version: 1.0\n"
-"PO-Revision-Date: 2025-04-27 12:09\n"
+"PO-Revision-Date: 2025-04-28 19:14\n"
 "POT-Creation-Date: \n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Project-Id-Version: laserarenacontrol\n"
@@ -1433,7 +1433,7 @@ msgid "Za posledních 30 dní si se v žebříčku posunul/a nahoru. Jen tak dá
 msgstr "En los últimos 30 días has subido en la clasificación. ¡Sigue así!"
 
 msgid "Za posledních 30 dní tě v žebříčku někdo přeskočil. Co takhle si jít zahrát?"
-msgstr ""
+msgstr "En los últimos 30 días, alguien te ha adelantado en la clasificación. ¿Querrías ir a jugar?"
 
 msgid "Za posledních 30 dní si se v žebříčku vůbec neposunul/a. Co takhle si jít zahrát a změnit to?"
 msgstr ""
@@ -2598,7 +2598,7 @@ msgstr[0] "¡Has ganado un nuevo logro!"
 msgstr[1] "¡Has conseguido ganar nuevos premios!"
 
 msgid "Někdo tě přeskočil v žebříčku!"
-msgstr "¡Alguien te ha saltado en la escala!"
+msgstr "¡Alguien te ha adelantado en la clasificación!"
 
 msgid "Posunul si se o %d místo dolů a teď jsi %s."
 msgid_plural "Posunul si se o %d míst dolů a teď jsi %s"
