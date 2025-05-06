@@ -6,7 +6,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "Last-Translator: Tomáš Vojík <vojik@wboy.cz>\n"
 "MIME-Version: 1.0\n"
-"PO-Revision-Date: 2025-04-28 20:40\n"
+"PO-Revision-Date: 2025-05-06 08:16\n"
 "POT-Creation-Date: \n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Project-Id-Version: laserarenacontrol\n"
@@ -1448,34 +1448,34 @@ msgid "Jen klasické módy"
 msgstr "Solo modos clásicos"
 
 msgid "Ocenění jsou úspěchy získané během celé %s laser-hráčské kariéry. Odemčením většiny ocenění získá hráč nový titul na profil."
-msgstr ""
+msgstr "Los logros son premios que %s ha ganado a lo largo de su carrera. Se obtienen al completar un objetivo determinado. Al desbloquear la mayoría de los logros, el jugador obtendrá un nuevo título en su perfil."
 
 msgid "Ocenění, která odemykají titul jsou označená:"
-msgstr ""
+msgstr "Los logros que desbloquean el título están marcados:"
 
 msgid "Získáno"
-msgstr ""
+msgstr "Logros ganados"
 
 msgid "Ocenění získáno"
-msgstr ""
+msgstr "Logro ganado el"
 
 msgid "Ocenění získalo %s hráčů"
-msgstr ""
+msgstr "El logro ha ganado al %s de los jugadores"
 
 msgid "Zbývající ocenění"
-msgstr ""
+msgstr "Logros restantes"
 
 msgid "Najít další hry"
-msgstr ""
+msgstr "Buscar otros partidos"
 
 msgid "Sdílet profil hráče"
-msgstr ""
+msgstr "Compartir perfil de jugador"
 
 msgid "Statistiky hráče"
-msgstr ""
+msgstr "Estadísticas del jugador"
 
 msgid "Kliknutím na tlačítko níže můžete stáhnout obrázek profilu, nebo profil sdílet."
-msgstr ""
+msgstr "Con el clic en el botón de abajo descargas la imagen de perfil o compartes el perfil."
 
 msgid "Stáhnout obrázek"
 msgstr ""
