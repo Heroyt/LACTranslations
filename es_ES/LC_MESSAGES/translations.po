@@ -6,7 +6,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "Last-Translator: Tomáš Vojík <vojik@wboy.cz>\n"
 "MIME-Version: 1.0\n"
-"PO-Revision-Date: 2025-05-06 08:16\n"
+"PO-Revision-Date: 2025-05-06 10:31\n"
 "POT-Creation-Date: \n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Project-Id-Version: laserarenacontrol\n"
@@ -1478,34 +1478,34 @@ msgid "Kliknutím na tlačítko níže můžete stáhnout obrázek profilu, nebo
 msgstr "Con el clic en el botón de abajo descargas la imagen de perfil o compartes el perfil."
 
 msgid "Stáhnout obrázek"
-msgstr ""
+msgstr "Descargar imagen"
 
 msgid "Nápověda?"
-msgstr ""
+msgstr "¿Ayuda?"
 
 msgid "Jak dostanu své hry do Laser ligy?"
-msgstr ""
+msgstr "¿Cómo subo mis partidos en la Laser Liga?"
 
 msgid "Nové hry"
-msgstr ""
+msgstr "Nuevos partidos"
 
 msgid "Pokud jdu hrát v podporované aréně a mám registrovaný účet v Laser lize, můžu obsluze nahlásit své jméno (%s) nebo hráčský kód (%s). Obsluha si mě najde v systému a jakmile skončí hra, mám výsledky uložené na svém účtu."
-msgstr ""
+msgstr "Si voy a jugar en una arena soportada y tengo una cuenta registrada en Laser Liga, puedo informar de mi nombre (%s) o código de jugador (%s) al personal. El personal me encontrará en el sistema y una vez terminada el partido, tendré los resultados guardados en mi cuenta."
 
 msgid "Staré hry"
-msgstr ""
+msgstr "Partidos anteriores"
 
 msgid "Mé staré hry si můžu také přiřadit na svůj účet v Laser lize."
-msgstr ""
+msgstr "También puedes añadir tus partidos anteriores a tu cuenta de Laser Liga."
 
 msgid "Potřebuji ale 2 věci:"
-msgstr ""
+msgstr "Pero necesitas dos cosas:"
 
 msgid "Být přihlášený v aplikaci Laser liga"
-msgstr ""
+msgstr "Estar inscrito en la app Laser Liga"
 
 msgid "Najít své online výsledky"
-msgstr ""
+msgstr "Encontar los resultados online"
 
 msgid "Výsledky můžete mít naskenované přes QR kód na tištěných výsledcích, nebo můžete své výsledky najít na podle data na <a href=\"%s\">stránce arény</a> v záložce \"Všechny hry.\""
 msgstr ""
