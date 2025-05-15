@@ -6,7 +6,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "Last-Translator: Tomáš Vojík <vojik@wboy.cz>\n"
 "MIME-Version: 1.0\n"
-"PO-Revision-Date: 2025-05-06 10:31\n"
+"PO-Revision-Date: 2025-05-15 16:31\n"
 "POT-Creation-Date: \n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Project-Id-Version: laserarenacontrol\n"
@@ -1514,7 +1514,7 @@ msgid "Pokud otevřu výsledky ve kterých je hráč s mým jménem, zobrazí se
 msgstr ""
 
 msgid "Smrti od min"
-msgstr ""
+msgstr "Muertes por minas"
 
 msgid "%s k herní úrovni hráče"
 msgstr ""
@@ -1526,62 +1526,62 @@ msgid "Srovnání s protihráči"
 msgstr "Comparación con los oponentes"
 
 msgid "Zásahy protihráčů"
-msgstr ""
+msgstr "Tiros a oponentes"
 
 msgid "Zásahy spoluhráčů"
 msgstr "Tiros a compañeros"
 
 msgid "Smrti od protihráčů"
-msgstr ""
+msgstr "Muertes de oponetes"
 
 msgid "Smrti od spoluhráčů"
-msgstr ""
+msgstr "Muertes de compañeros"
 
 msgid "Nastavení profilu"
-msgstr ""
+msgstr "Configuración del perfil"
 
 msgctxt "pageTitles"
 msgid "Nastavení profilu hráče - %s"
-msgstr ""
+msgstr "Configuración del perfil del jugador - %s"
 
 msgctxt "pageDescription"
 msgid "Nastavení osobních údajů a profilu hráče laser game - %s."
-msgstr ""
+msgstr "Configuración de datos personales y del perfil del jugador - %s."
 
 msgid "Nastavení hráče"
-msgstr ""
+msgstr "Configuración del jugador"
 
 msgid "Unikátní kód hráče"
-msgstr ""
+msgstr "Código único de jugador"
 
 msgid "Avatar"
-msgstr ""
+msgstr "Avatar"
 
 msgid "Typ avatara"
-msgstr ""
+msgstr "Tipo de avatar"
 
 msgid "Vyberte"
-msgstr ""
+msgstr "Seleccionar"
 
 msgctxt "avatar"
 msgid "Dobrodruh"
-msgstr ""
+msgstr "Aventurero"
 
 msgctxt "avatar"
 msgid "Dobrodruh - obličej"
-msgstr ""
+msgstr "Aventurero - cara"
 
 msgctxt "avatar"
 msgid "Avataaar"
-msgstr ""
+msgstr "Avataaar"
 
 msgctxt "avatar"
 msgid "Avataaar - obličej"
-msgstr ""
+msgstr "Avataaar - cara"
 
 msgctxt "avatar"
 msgid "Ušáci"
-msgstr ""
+msgstr "Orejas grandes"
 
 msgctxt "avatar"
 msgid "Ušáci - obličej"
