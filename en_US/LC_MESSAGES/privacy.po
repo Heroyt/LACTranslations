@@ -3,7 +3,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language: en_US\n"
 "Language-Team: English\n"
-"PO-Revision-Date: 2025-05-26 12:34\n"
+"PO-Revision-Date: 2025-05-26 12:41\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Project-Id-Version: laserarenacontrol\n"
 "X-Crowdin-File: /master/privacy.pot\n"
@@ -311,73 +311,73 @@ msgstr "Photos taken by the arena but not assigned to a game will be removed aft
 
 msgctxt "cookies"
 msgid "Přijmout vše"
-msgstr ""
+msgstr "Accept All"
 
 msgctxt "cookies"
 msgid "Tento web využívá soubory cookie k zajištění správné funkčnosti a pro analýzu návštěvnosti. Kliknutím na tlačítko \"%s\" souhlasíte s jejich využíváním."
-msgstr ""
+msgstr "This website uses cookies to ensure proper functionality and for traffic analysis. By clicking on the \"%s\" button, you agree to their use."
 
 msgctxt "analytics"
 msgid "Dále využíváme služby třetí strany <a href=\"https://www.cloudflare.com/web-analytics/\">Cloudflare analytics</a>, která ukládá anonymní údaje o procházení webu."
-msgstr ""
+msgstr "We also use a third-party service <a href=\"https://www.cloudflare.com/web-analytics/\">Cloudflare analytics</a>, which stores anonymous web browsing data."
 
 msgctxt "cookies_info"
 msgid "Web LaserLiga.cz používá soubory cookies k zajištění správné funkčnosti a pro analýzu návštěvnosti. Pro využívání souborů cookies k jiným než nezbytně nutným účelům musí uživatel webu poskytnout souhlas. Odvolání souhlasu zpracování cookies je možné provést pomocí tlačítka v patičce, případně ve spodní části hlavního menu (pro mobilní zobrazení)."
-msgstr ""
+msgstr "LaserLiga.cz uses cookies to ensure proper functionality and for traffic analysis. The website user must consent to use cookies for purposes other than strictly necessary ones. You can withdraw your consent to process cookies using the button in the footer or at the bottom of the main menu (for mobile view)."
 
 msgctxt "cookies"
 msgid "Nastavení cookies"
-msgstr ""
+msgstr "Cookie settings"
 
 msgctxt "cookies"
 msgid "Zpracování souborů cookies"
-msgstr ""
+msgstr "Processing of cookies"
 
 msgctxt "cookies"
 msgid "Nastavení souborů cookies"
-msgstr ""
+msgstr "Cookies settings"
 
 msgctxt "cookies"
 msgid "Nezbytné soubory cookies"
-msgstr ""
+msgstr "Necessary cookies"
 
 msgctxt "cookies"
 msgid "Tyto soubory cookies jsou nezbytné pro správnou funkčnost webu a nelze je vypnout."
-msgstr ""
+msgstr "These cookies are necessary for the correct functionality of the website and cannot be disabled."
 
 msgctxt "cookies"
 msgid "Analytické soubory cookies"
-msgstr ""
+msgstr "Analytical cookies"
 
 msgctxt "cookies"
 msgid "Tyto soubory cookies nám pomáhají analyzovat návštěvnost webu a zlepšovat jeho funkčnost."
-msgstr ""
+msgstr "These cookies help us analyse website traffic and improve website functionality."
 
 msgctxt "cookies"
 msgid "Preferenční soubory cookies"
-msgstr ""
+msgstr "Preference cookies"
 
 msgctxt "cookies"
 msgid "Tyto soubory cookies uchovávají vaše preferenční nastavení, jako je jazyk webu, režim zobrazení ap."
-msgstr ""
+msgstr "These cookies store your preference settings, such as website language, display mode, etc."
 
 msgctxt "cookies"
 msgid "Marketingové soubory cookies"
-msgstr ""
+msgstr "Marketing cookies"
 
 msgctxt "cookies"
 msgid "Tyto soubory cookies uchovávají uchovávají persistentní data o vaší návštěvě a jsou využívány převážně třetími stranami pro sledování Vaší aktivity. LaserLiga se snaží tento typ souborů cookies a závislost na službách třetích stran, které sledují uživatele využívat co nejméně."
-msgstr ""
+msgstr "These cookies store persistent data about your visit and are mainly used by third parties to track your activity. LaserLiga tries to use this type of cookie and to depend on third-party services that track users as little as possible."
 
 msgctxt "cookies"
 msgid "Uložit nastavení cookies"
-msgstr ""
+msgstr "Save cookie settings"
 
 msgctxt "cookies"
 msgid "Odmítnout vše"
-msgstr ""
+msgstr "Deny All"
 
 msgctxt "cookies"
 msgid "Přizpůsobit"
-msgstr ""
+msgstr "Customize"
 
