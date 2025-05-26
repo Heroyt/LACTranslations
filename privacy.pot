@@ -3,7 +3,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language: cs_CZ\n"
 "Language-Team: Czech\n"
-"PO-Revision-Date: 2025-03-28 12:15\n"
+"PO-Revision-Date: 2025-04-11 17:32\n"
 "Plural-Forms: nplurals=4; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 3;\n"
 "Project-Id-Version: laserarenacontrol\n"
 "X-Crowdin-File: /master/privacy.pot\n"
@@ -307,4 +307,76 @@ msgstr ""
 
 msgctxt "photos_retention"
 msgid "Fotografie, které aréna pořídila, ale nepřiřadila ke hře, budou odstraněny po jednom týdnu; fotografie přiřazené ke hře budou automaticky odstraněny typicky po 2 měsících."
+msgstr ""
+
+msgctxt "cookies"
+msgid "Přijmout vše"
+msgstr ""
+
+msgctxt "cookies"
+msgid "Tento web využívá soubory cookie k zajištění správné funkčnosti a pro analýzu návštěvnosti. Kliknutím na tlačítko \"%s\" souhlasíte s jejich využíváním."
+msgstr ""
+
+msgctxt "analytics"
+msgid "Dále využíváme služby třetí strany <a href=\"https://www.cloudflare.com/web-analytics/\">Cloudflare analytics</a>, která ukládá anonymní údaje o procházení webu."
+msgstr ""
+
+msgctxt "cookies_info"
+msgid "Web LaserLiga.cz používá soubory cookies k zajištění správné funkčnosti a pro analýzu návštěvnosti. Pro využívání souborů cookies k jiným než nezbytně nutným účelům musí uživatel webu poskytnout souhlas. Odvolání souhlasu zpracování cookies je možné provést pomocí tlačítka v patičce, případně ve spodní části hlavního menu (pro mobilní zobrazení)."
+msgstr ""
+
+msgctxt "cookies"
+msgid "Nastavení cookies"
+msgstr ""
+
+msgctxt "cookies"
+msgid "Zpracování souborů cookies"
+msgstr ""
+
+msgctxt "cookies"
+msgid "Nastavení souborů cookies"
+msgstr ""
+
+msgctxt "cookies"
+msgid "Nezbytné soubory cookies"
+msgstr ""
+
+msgctxt "cookies"
+msgid "Tyto soubory cookies jsou nezbytné pro správnou funkčnost webu a nelze je vypnout."
+msgstr ""
+
+msgctxt "cookies"
+msgid "Analytické soubory cookies"
+msgstr ""
+
+msgctxt "cookies"
+msgid "Tyto soubory cookies nám pomáhají analyzovat návštěvnost webu a zlepšovat jeho funkčnost."
+msgstr ""
+
+msgctxt "cookies"
+msgid "Preferenční soubory cookies"
+msgstr ""
+
+msgctxt "cookies"
+msgid "Tyto soubory cookies uchovávají vaše preferenční nastavení, jako je jazyk webu, režim zobrazení ap."
+msgstr ""
+
+msgctxt "cookies"
+msgid "Marketingové soubory cookies"
+msgstr ""
+
+msgctxt "cookies"
+msgid "Tyto soubory cookies uchovávají uchovávají persistentní data o vaší návštěvě a jsou využívány převážně třetími stranami pro sledování Vaší aktivity. LaserLiga se snaží tento typ souborů cookies a závislost na službách třetích stran, které sledují uživatele využívat co nejméně."
+msgstr ""
+
+msgctxt "cookies"
+msgid "Uložit nastavení cookies"
+msgstr ""
+
+msgctxt "cookies"
+msgid "Odmítnout vše"
+msgstr ""
+
+msgctxt "cookies"
+msgid "Přizpůsobit"
 msgstr ""
