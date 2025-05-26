@@ -6,7 +6,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "Last-Translator: Tomáš Vojík <vojik@wboy.cz>\n"
 "MIME-Version: 1.0\n"
-"PO-Revision-Date: 2025-04-23 21:39\n"
+"PO-Revision-Date: 2025-05-26 12:34\n"
 "POT-Creation-Date: 2021-12-01 12:05+0100\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Project-Id-Version: laserarenacontrol\n"
@@ -886,3 +886,4 @@ msgstr "Análisis del juego - datos interesantes"
 
 msgid "Umístění v žebříčku"
 msgstr "Clasificación"
+
