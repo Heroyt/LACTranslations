@@ -3,7 +3,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language: uk_UA\n"
 "Language-Team: Ukrainian\n"
-"PO-Revision-Date: 2025-04-06 13:38\n"
+"PO-Revision-Date: 2025-05-26 12:34\n"
 "Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
 "Project-Id-Version: laserarenacontrol\n"
 "X-Crowdin-File: /master/privacy.pot\n"
@@ -311,72 +311,73 @@ msgstr "Фотографії, зроблені на арені, але не по
 
 msgctxt "cookies"
 msgid "Přijmout vše"
-msgstr ""
+msgstr "Приймайте все"
 
 msgctxt "cookies"
 msgid "Tento web využívá soubory cookie k zajištění správné funkčnosti a pro analýzu návštěvnosti. Kliknutím na tlačítko \"%s\" souhlasíte s jejich využíváním."
-msgstr ""
+msgstr "Цей веб-сайт використовує файли cookie для забезпечення належної функціональності та аналізу трафіку. Натискаючи \"%s\", ви погоджуєтесь на їх використання."
 
 msgctxt "analytics"
 msgid "Dále využíváme služby třetí strany <a href=\"https://www.cloudflare.com/web-analytics/\">Cloudflare analytics</a>, která ukládá anonymní údaje o procházení webu."
-msgstr ""
+msgstr "Ми також використовуємо сторонній сервіс <a href=\"https://www.cloudflare.com/web-analytics/\">аналітики Cloudflare</a>, який зберігає анонімні дані веб-перегляду."
 
 msgctxt "cookies_info"
 msgid "Web LaserLiga.cz používá soubory cookies k zajištění správné funkčnosti a pro analýzu návštěvnosti. Pro využívání souborů cookies k jiným než nezbytně nutným účelům musí uživatel webu poskytnout souhlas. Odvolání souhlasu zpracování cookies je možné provést pomocí tlačítka v patičce, případně ve spodní části hlavního menu (pro mobilní zobrazení)."
-msgstr ""
+msgstr "LaserLiga.cz використовує файли cookie для забезпечення належної функціональності та аналізу трафіку. Для використання файлів cookie в цілях, відмінних від суворо необхідних, користувач веб-сайту повинен надати згоду. Відкликати згоду на обробку файлів cookie можна за допомогою кнопки в нижньому колонтитулі або внизу головного меню (для мобільного перегляду)."
 
 msgctxt "cookies"
 msgid "Nastavení cookies"
-msgstr ""
+msgstr "Налаштування файлів cookie"
 
 msgctxt "cookies"
 msgid "Zpracování souborů cookies"
-msgstr ""
+msgstr "Обробка файлів cookie"
 
 msgctxt "cookies"
 msgid "Nastavení souborů cookies"
-msgstr ""
+msgstr "Налаштування файлів cookie"
 
 msgctxt "cookies"
 msgid "Nezbytné soubory cookies"
-msgstr ""
+msgstr "Необхідні файли cookie"
 
 msgctxt "cookies"
 msgid "Tyto soubory cookies jsou nezbytné pro správnou funkčnost webu a nelze je vypnout."
-msgstr ""
+msgstr "Ці файли cookie необхідні для правильної роботи веб-сайту і не можуть бути відключені."
 
 msgctxt "cookies"
 msgid "Analytické soubory cookies"
-msgstr ""
+msgstr "Аналітичні файли cookie"
 
 msgctxt "cookies"
 msgid "Tyto soubory cookies nám pomáhají analyzovat návštěvnost webu a zlepšovat jeho funkčnost."
-msgstr ""
+msgstr "Ці файли cookie допомагають нам аналізувати трафік веб-сайту та покращувати його функціональність."
 
 msgctxt "cookies"
 msgid "Preferenční soubory cookies"
-msgstr ""
+msgstr "Файли cookie з уподобаннями"
 
 msgctxt "cookies"
 msgid "Tyto soubory cookies uchovávají vaše preferenční nastavení, jako je jazyk webu, režim zobrazení ap."
-msgstr ""
+msgstr "Ці файли cookie зберігають ваші уподобання, такі як мова сайту, режим відображення тощо."
 
 msgctxt "cookies"
 msgid "Marketingové soubory cookies"
-msgstr ""
+msgstr "Маркетингові файли cookie"
 
 msgctxt "cookies"
 msgid "Tyto soubory cookies uchovávají uchovávají persistentní data o vaší návštěvě a jsou využívány převážně třetími stranami pro sledování Vaší aktivity. LaserLiga se snaží tento typ souborů cookies a závislost na službách třetích stran, které sledují uživatele využívat co nejméně."
-msgstr ""
+msgstr "Ці файли cookie зберігають постійні дані про ваш візит і в основному використовуються третіми сторонами для відстеження вашої активності. LaserLiga намагається якомога менше використовувати цей тип файлів cookie і залежати від сторонніх сервісів, які відстежують користувачів."
 
 msgctxt "cookies"
 msgid "Uložit nastavení cookies"
-msgstr ""
+msgstr "Зберегти налаштування файлів cookie"
 
 msgctxt "cookies"
 msgid "Odmítnout vše"
-msgstr ""
+msgstr "Відмовтеся від усього"
 
 msgctxt "cookies"
 msgid "Přizpůsobit"
-msgstr ""
+msgstr "Налаштувати"
+

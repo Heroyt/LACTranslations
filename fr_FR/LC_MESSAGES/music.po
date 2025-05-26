@@ -3,7 +3,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language: fr_FR\n"
 "Language-Team: French\n"
-"PO-Revision-Date: 2025-04-06 13:38\n"
+"PO-Revision-Date: 2025-04-15 10:50\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "Project-Id-Version: laserarenacontrol\n"
 "X-Crowdin-File: /master/music.pot\n"
@@ -225,28 +225,29 @@ msgid "Strážci galaxie"
 msgstr "Les Gardiens de la Galaxie"
 
 msgid "Cyber Laser Showdown"
-msgstr ""
+msgstr "Cyber Laser Showdown"
 
 msgid "Lasermaxx"
-msgstr ""
+msgstr "Lasermaxx"
 
 msgid "Requiem for a dream"
-msgstr ""
+msgstr "Requiem pour un rêve"
 
 msgid "Piráti z Karibiku"
-msgstr ""
+msgstr "Pirates des Caraïbes"
 
 msgid "Anime"
-msgstr ""
+msgstr "Anime"
 
 msgid "Anime 2"
-msgstr ""
+msgstr "Anime 2"
 
 msgid "Dwarven metal"
-msgstr ""
+msgstr "Métal nain"
 
 msgid "Albatroz"
-msgstr ""
+msgstr "Albatroz"
 
 msgid "Test"
-msgstr ""
+msgstr "Test"
+

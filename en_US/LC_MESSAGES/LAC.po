@@ -6,7 +6,7 @@ msgstr ""
 "Language-Team: English\n"
 "Last-Translator: Tomáš Vojík <vojik@wboy.cz>\n"
 "MIME-Version: 1.0\n"
-"PO-Revision-Date: 2025-04-11 15:19\n"
+"PO-Revision-Date: 2025-04-15 10:51\n"
 "POT-Creation-Date: 2021-12-01 12:05+0100\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Project-Id-Version: laserarenacontrol\n"
@@ -1787,29 +1787,30 @@ msgstr[1] "%d players"
 
 msgctxt "gameModes"
 msgid "Variace"
-msgstr ""
+msgstr "Variations"
 
 msgid "Přezdívka hráče na vestě %s"
-msgstr ""
+msgstr "Player's nickname on vest %s"
 
 msgid "Game"
-msgstr ""
+msgstr "Game"
 
 msgctxt "pageTitles"
 msgid "Results"
-msgstr ""
+msgstr "Results"
 
 msgid "Výsledky hry"
-msgstr ""
+msgstr "Game results"
 
 msgctxt "game"
 msgid "%d team"
 msgid_plural "%d teams"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%d team"
+msgstr[1] "%d teams"
 
 msgid "Remíza"
-msgstr ""
+msgstr "Draw"
 
 msgid "%d. tým ze skupiny: %s"
-msgstr ""
+msgstr "%d. team from group: %s"
+
