@@ -3,7 +3,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language: de_DE\n"
 "Language-Team: German\n"
-"PO-Revision-Date: 2025-04-06 13:38\n"
+"PO-Revision-Date: 2026-05-12 09:27\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Project-Id-Version: laserarenacontrol\n"
 "X-Crowdin-File: /master/highlights.pot\n"
@@ -260,3 +260,24 @@ msgstr "%s seinen Mannschaftskameraden %s öfter getroffen hat (%d) als jeder ge
 msgctxt "hits"
 msgid "%s zasáhl svou spoluhráčku %s vícekrát (%d), než kteréhokoliv protihráče"
 msgstr "%s seinen Mannschaftskameraden %s öfter getroffen hat (%d) als jeder seiner Gegner"
+
+msgctxt "pod"
+msgid "%s jediný byl zasažen minou."
+msgstr "%s ...oder dass nur einer von einer Mine getroffen wurde."
+
+msgctxt "pod"
+msgid "%s jediná byla zasažena minou."
+msgstr "%s ...eine einzige wurde von einer Mine getroffen."
+
+msgctxt "pod"
+msgid "%s jediné bylo zasaženo minou."
+msgstr "%s der einzige war, der von einer Mine getroffen wurde."
+
+msgctxt "user"
+msgid "%s proti %s většinou prohrává, ale teď jí porazila."
+msgstr "%s gegen %s verliert sie meistens, aber jetzt hat sie sie besiegt."
+
+msgctxt "pod"
+msgid "%s získal %.1fx tolik bonusů co ostatní."
+msgstr "%s %.1fx so viele Boni erhalten hat wie die anderen."
+
