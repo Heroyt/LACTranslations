@@ -3,7 +3,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language: uk_UA\n"
 "Language-Team: Ukrainian\n"
-"PO-Revision-Date: 2025-04-06 13:38\n"
+"PO-Revision-Date: 2026-05-12 09:28\n"
 "Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
 "Project-Id-Version: laserarenacontrol\n"
 "X-Crowdin-File: /master/highlights.pot\n"
@@ -260,3 +260,24 @@ msgstr "%s вдарив свого товариша по команді %s бі�
 msgctxt "hits"
 msgid "%s zasáhl svou spoluhráčku %s vícekrát (%d), než kteréhokoliv protihráče"
 msgstr "%s вдарив свого товариша по команді %s більше разів (%d), ніж будь-хто з його опонентів"
+
+msgctxt "pod"
+msgid "%s jediný byl zasažen minou."
+msgstr "%s єдиний був уражений міною."
+
+msgctxt "pod"
+msgid "%s jediná byla zasažena minou."
+msgstr "%s єдина була уражена міною."
+
+msgctxt "pod"
+msgid "%s jediné bylo zasaženo minou."
+msgstr "%s був єдиним, хто підірвався на міні."
+
+msgctxt "user"
+msgid "%s proti %s většinou prohrává, ale teď jí porazila."
+msgstr "%s проти %s зазвичай програє, але зараз її перемогла."
+
+msgctxt "pod"
+msgid "%s získal %.1fx tolik bonusů co ostatní."
+msgstr "%s отримав %.1fx більше бонусів, ніж інші."
+
