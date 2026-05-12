@@ -3,7 +3,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language: fr_FR\n"
 "Language-Team: French\n"
-"PO-Revision-Date: 2025-05-26 12:34\n"
+"PO-Revision-Date: 2026-05-12 09:27\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "Project-Id-Version: laserarenacontrol\n"
 "X-Crowdin-File: /master/privacy.pot\n"
@@ -380,4 +380,24 @@ msgstr "Refuser tout"
 msgctxt "cookies"
 msgid "Přizpůsobit"
 msgstr "Personnaliser"
+
+msgctxt "change"
+msgid "Nové zásady zpracování osobních údajů"
+msgstr "Nouvelle politique de confidentialité"
+
+msgctxt "change"
+msgid "Aktualizovali jsme zásady zpracování osobních údajů."
+msgstr "Nous avons mis à jour notre politique de confidentialité."
+
+msgctxt "change"
+msgid "Ještě než budete pokračovat, potřebujeme váš souhlas."
+msgstr "Avant de continuer, nous avons besoin de votre accord."
+
+msgctxt "change"
+msgid "Aktuální zásady zpracování osobních údajů najdete vždy na:"
+msgstr "Vous trouverez toujours la version actuelle de notre politique de confidentialité à l'adresse suivante :"
+
+msgctxt "change"
+msgid "Souhlasím s aktualizovanými zásadami"
+msgstr "J'accepte les conditions générales mises à jour"
 
