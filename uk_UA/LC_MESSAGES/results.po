@@ -6,7 +6,7 @@ msgstr ""
 "Language-Team: Ukrainian\n"
 "Last-Translator: Tomáš Vojík <vojik@wboy.cz>\n"
 "MIME-Version: 1.0\n"
-"PO-Revision-Date: 2025-04-06 13:38\n"
+"PO-Revision-Date: 2026-05-12 09:28\n"
 "POT-Creation-Date: 2021-12-01 12:05+0100\n"
 "Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
 "Project-Id-Version: laserarenacontrol\n"
@@ -866,6 +866,9 @@ msgstr[3] "Смертей %d"
 msgid "Herní úroveň"
 msgstr "Ігровий рівень"
 
+msgid "Herní výkon"
+msgstr "Ігрова ефективність"
+
 msgid "Zásahy:Smrti"
 msgstr "Влучання:Смерті"
 
@@ -900,3 +903,74 @@ msgstr "Ігровий аналіз - цікаві факти"
 
 msgid "Umístění v žebříčku"
 msgstr "Рейтинг"
+
+msgid "Stahování fotek může chvíli trvat. Pokud se stahování nespustí, počkejte několik minut a zkuste to znovu."
+msgstr "Завантаження фотографій може зайняти деякий час. Якщо завантаження не розпочнеться, зачекайте кілька хвилин і спробуйте ще раз."
+
+msgid "Smrti od min"
+msgstr "Смерть від мін"
+
+msgctxt "achievements"
+msgid "Získaná ocenění"
+msgstr "Отримані нагороди"
+
+msgid "Bonusové skóre"
+msgstr "Бонусний рахунок"
+
+msgctxt "player.ranking.elo"
+msgid "Algoritmus nepracuje se skórem, ale s herní úrovní hráče z dané hry."
+msgstr "Алгоритм працює не з рахунком, а з рівнем гри гравця у грі."
+
+msgctxt "player.ranking.elo"
+msgid "Rozdíl k herní úrovni se počítá upraveným ELO algoritmem, který vyhodnocuje výsledky jednotlivých hráčů mezi sebou. Pro každého protihráče a spoluhráče vypočítá pravděpodobnost, že daného hráče porazíte a poté podle skutečných výsledků vás ohodnotí body. Porovnání se spoluhráči navíc nemá takovou váhu jako protihráči."
+msgstr "Різниця з ігровим рівнем обчислюється за допомогою модифікованого алгоритму ELO, який оцінює результати кожного гравця проти кожного. Для кожного опонента і товариша по команді він обчислює ймовірність перемоги над цим гравцем, а потім виставляє вам бали, виходячи з фактичних результатів. Причому порівняння з партнерами по команді не має такої ваги, як з опонентами."
+
+msgctxt "player.ranking.elo"
+msgid "Algoritmus zároveň přihlíží k vyrovnání týmů a pokud jsou týmy nevyrovnané, upraví své hodnoty."
+msgstr "Алгоритм також враховує вирівнювання команд і коригує свої значення, якщо команди не вирівняні."
+
+msgctxt "player.ranking.elo"
+msgid "V následujícím srovnání je několik hodnot. Nejdůležitější je ale šance na výhru a reálný výsledek. Pokud je reálný výsledek větší než šance na výhru, body získáváte. Pokud je menší, body ztrácíte. Jak moc bodů ztratíte určuje rozdíl v hodnotách šance na výhru a výsledku, ale i koeficient výhry."
+msgstr "У наведеному нижче порівнянні є кілька значень. Але найважливішими є шанс на перемогу та реальний результат. Якщо реальний результат більший за шанс на перемогу, ви отримуєте бали. Якщо менше - ви втрачаєте бали. Скільки балів ви втрачаєте, визначається різницею значень шансів на перемогу і результату, а також коефіцієнтом виграшу."
+
+msgctxt "player.ranking.elo"
+msgid "Srovnání s jednotlivými hráči"
+msgstr "Порівняння з окремими гравцями"
+
+msgctxt "player.ranking.elo"
+msgid "Šance na výhru nad hráčem"
+msgstr "Шанси на перемогу над гравцем"
+
+msgctxt "player.ranking.elo"
+msgid "Reálný výsledek"
+msgstr "Реальний результат"
+
+msgctxt "player.ranking.elo"
+msgid "Co to znamená?"
+msgstr "Що це означає?"
+
+msgctxt "player.ranking.elo"
+msgid "Hodnota blízká 100% znamená definitivní výhru.<br>Hodnota blízká 50% je remíza (totožná herní úroveň).<br>Hodnota 0% je definitivní prohra."
+msgstr "Значення, близьке до 100%, означає однозначну перемогу.<br>Значення, близьке до 50%, означає нічию (однаковий рівень гри).<br>Значення 0% означає однозначну поразку."
+
+msgctxt "player.ranking.elo"
+msgid "Koeficient výhry"
+msgstr "Коефіцієнт виграшу"
+
+msgctxt "player.ranking.elo"
+msgid "Hodnota vypočítaná podle toho, jak jsou hráči vyrovnaní. Výsledná hodnota násobí počet bodů."
+msgstr "Значення, розраховане відповідно до того, наскільки збалансовані гравці. Отримане значення множиться на кількість балів."
+
+msgctxt "player.ranking.elo"
+msgid "Získáno bodů z hráče"
+msgstr "Очки, отримані від гравців"
+
+msgid "Stáhnout fotky manuálně"
+msgstr "Завантажити фотографії вручну"
+
+msgid "Pokud se po chvíli stahování nespustí, zkuste použít následující odkaz:"
+msgstr "Якщо після деякого часу завантаження не запуститься, спробуйте скористатися наступним посиланням:"
+
+msgid "Postih za použití zbraně"
+msgstr "Штраф за використання зброї"
+
