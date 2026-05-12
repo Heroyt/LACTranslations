@@ -3,7 +3,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language: en_US\n"
 "Language-Team: English\n"
-"PO-Revision-Date: 2025-04-15 10:51\n"
+"PO-Revision-Date: 2026-05-12 09:28\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Project-Id-Version: laserarenacontrol\n"
 "X-Crowdin-File: /master/music.pot\n"
@@ -250,4 +250,13 @@ msgstr "Albatroz"
 
 msgid "Test"
 msgstr "Test"
+
+msgid "Kroužkový playlist"
+msgstr ""
+
+msgid "ANIME"
+msgstr ""
+
+msgid "K-POP 1"
+msgstr "K-POP 1"
 
