@@ -260,3 +260,23 @@ msgstr "%s вдарив свого товариша по команді %s бі�
 msgctxt "hits"
 msgid "%s zasáhl svou spoluhráčku %s vícekrát (%d), než kteréhokoliv protihráče"
 msgstr "%s вдарив свого товариша по команді %s більше разів (%d), ніж будь-хто з його опонентів"
+
+msgctxt "pod"
+msgid "%s jediný byl zasažen minou."
+msgstr ""
+
+msgctxt "pod"
+msgid "%s jediná byla zasažena minou."
+msgstr ""
+
+msgctxt "pod"
+msgid "%s jediné bylo zasaženo minou."
+msgstr ""
+
+msgctxt "user"
+msgid "%s proti %s většinou prohrává, ale teď jí porazila."
+msgstr ""
+
+msgctxt "pod"
+msgid "%s získal %.1fx tolik bonusů co ostatní."
+msgstr ""

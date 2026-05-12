@@ -248,4 +248,3 @@ msgstr "Fortgeschrittene Teams"
 msgctxt "vests"
 msgid "Dostupné vesty"
 msgstr "Verfügbare Schutzwesten"
-

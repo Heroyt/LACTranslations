@@ -251,3 +251,11 @@ msgstr "Albatroz"
 msgid "Test"
 msgstr "Test"
 
+msgid "ANIME"
+msgstr ""
+
+msgid "Kroužkový playlist"
+msgstr ""
+
+msgid "K-POP 1"
+msgstr ""

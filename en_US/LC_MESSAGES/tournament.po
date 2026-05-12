@@ -248,4 +248,3 @@ msgstr "Progress teams"
 msgctxt "vests"
 msgid "Dostupné vesty"
 msgstr "Available vests"
-

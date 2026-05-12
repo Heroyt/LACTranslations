@@ -852,6 +852,9 @@ msgstr[1] "%d Muerte"
 msgid "Herní úroveň"
 msgstr "Nivel de juego"
 
+msgid "Herní výkon"
+msgstr "Rendimiento de juego"
+
 msgid "Zásahy:Smrti"
 msgstr "Hits:Muertes"
 

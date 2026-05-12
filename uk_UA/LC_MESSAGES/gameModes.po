@@ -144,4 +144,3 @@ msgstr "Класична командна гра."
 msgctxt "Základny"
 msgid "Strategická hra, kdy 2 týmy bojují proti sobě o zničení základny druhého týmu."
 msgstr "Стратегічна гра, де 2 команди борються одна проти одної, щоб знищити базу іншої команди."
-

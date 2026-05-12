@@ -260,3 +260,23 @@ msgstr "%s hit her teammate %s more times (%d) than any opponent"
 msgctxt "hits"
 msgid "%s zasáhl svou spoluhráčku %s vícekrát (%d), než kteréhokoliv protihráče"
 msgstr "%s hit his teammate %s more times (%d) than any opponent"
+
+msgctxt "pod"
+msgid "%s jediný byl zasažen minou."
+msgstr ""
+
+msgctxt "pod"
+msgid "%s jediná byla zasažena minou."
+msgstr ""
+
+msgctxt "pod"
+msgid "%s jediné bylo zasaženo minou."
+msgstr ""
+
+msgctxt "user"
+msgid "%s proti %s většinou prohrává, ale teď jí porazila."
+msgstr ""
+
+msgctxt "pod"
+msgid "%s získal %.1fx tolik bonusů co ostatní."
+msgstr ""

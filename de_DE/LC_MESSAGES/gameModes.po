@@ -144,4 +144,3 @@ msgstr "Klassisches Teamspiel."
 msgctxt "Základny"
 msgid "Strategická hra, kdy 2 týmy bojují proti sobě o zničení základny druhého týmu."
 msgstr "Ein Strategiespiel, bei dem 2 Teams gegeneinander kämpfen, um die Basis des anderen Teams zu zerstören."
-

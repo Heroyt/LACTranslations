@@ -381,3 +381,22 @@ msgctxt "cookies"
 msgid "Přizpůsobit"
 msgstr "Přizpůsobit"
 
+msgctxt "change"
+msgid "Nové zásady zpracování osobních údajů"
+msgstr ""
+
+msgctxt "change"
+msgid "Aktualizovali jsme zásady zpracování osobních údajů."
+msgstr ""
+
+msgctxt "change"
+msgid "Ještě než budete pokračovat, potřebujeme váš souhlas."
+msgstr ""
+
+msgctxt "change"
+msgid "Aktuální zásady zpracování osobních údajů najdete vždy na:"
+msgstr ""
+
+msgctxt "change"
+msgid "Souhlasím s aktualizovanými zásadami"
+msgstr ""

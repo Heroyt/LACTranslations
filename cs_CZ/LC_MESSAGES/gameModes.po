@@ -144,4 +144,3 @@ msgstr ""
 msgctxt "Základny"
 msgid "Strategická hra, kdy 2 týmy bojují proti sobě o zničení základny druhého týmu."
 msgstr ""
-

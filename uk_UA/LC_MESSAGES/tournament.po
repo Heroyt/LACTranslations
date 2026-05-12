@@ -248,4 +248,3 @@ msgstr "Передові команди"
 msgctxt "vests"
 msgid "Dostupné vesty"
 msgstr "Доступні жилети"
-

@@ -866,6 +866,9 @@ msgstr[3] "Смертей %d"
 msgid "Herní úroveň"
 msgstr "Ігровий рівень"
 
+msgid "Herní výkon"
+msgstr "Ігрова продуктивність"
+
 msgid "Zásahy:Smrti"
 msgstr "Влучання:Смерті"
 
@@ -900,3 +903,73 @@ msgstr "Ігровий аналіз - цікаві факти"
 
 msgid "Umístění v žebříčku"
 msgstr "Рейтинг"
+
+msgid "Stahování fotek může chvíli trvat. Pokud se stahování nespustí, počkejte několik minut a zkuste to znovu."
+msgstr ""
+
+msgid "Smrti od min"
+msgstr ""
+
+msgctxt "achievements"
+msgid "Získaná ocenění"
+msgstr ""
+
+msgid "Bonusové skóre"
+msgstr ""
+
+msgctxt "player.ranking.elo"
+msgid "Algoritmus nepracuje se skórem, ale s herní úrovní hráče z dané hry."
+msgstr ""
+
+msgctxt "player.ranking.elo"
+msgid "Rozdíl k herní úrovni se počítá upraveným ELO algoritmem, který vyhodnocuje výsledky jednotlivých hráčů mezi sebou. Pro každého protihráče a spoluhráče vypočítá pravděpodobnost, že daného hráče porazíte a poté podle skutečných výsledků vás ohodnotí body. Porovnání se spoluhráči navíc nemá takovou váhu jako protihráči."
+msgstr ""
+
+msgctxt "player.ranking.elo"
+msgid "Algoritmus zároveň přihlíží k vyrovnání týmů a pokud jsou týmy nevyrovnané, upraví své hodnoty."
+msgstr ""
+
+msgctxt "player.ranking.elo"
+msgid "V následujícím srovnání je několik hodnot. Nejdůležitější je ale šance na výhru a reálný výsledek. Pokud je reálný výsledek větší než šance na výhru, body získáváte. Pokud je menší, body ztrácíte. Jak moc bodů ztratíte určuje rozdíl v hodnotách šance na výhru a výsledku, ale i koeficient výhry."
+msgstr ""
+
+msgctxt "player.ranking.elo"
+msgid "Srovnání s jednotlivými hráči"
+msgstr ""
+
+msgctxt "player.ranking.elo"
+msgid "Šance na výhru nad hráčem"
+msgstr ""
+
+msgctxt "player.ranking.elo"
+msgid "Reálný výsledek"
+msgstr ""
+
+msgctxt "player.ranking.elo"
+msgid "Co to znamená?"
+msgstr ""
+
+msgctxt "player.ranking.elo"
+msgid "Hodnota blízká 100% znamená definitivní výhru.<br>Hodnota blízká 50% je remíza (totožná herní úroveň).<br>Hodnota 0% je definitivní prohra."
+msgstr ""
+
+msgctxt "player.ranking.elo"
+msgid "Koeficient výhry"
+msgstr ""
+
+msgctxt "player.ranking.elo"
+msgid "Hodnota vypočítaná podle toho, jak jsou hráči vyrovnaní. Výsledná hodnota násobí počet bodů."
+msgstr ""
+
+msgctxt "player.ranking.elo"
+msgid "Získáno bodů z hráče"
+msgstr ""
+
+msgid "Stáhnout fotky manuálně"
+msgstr ""
+
+msgid "Pokud se po chvíli stahování nespustí, zkuste použít následující odkaz:"
+msgstr ""
+
+msgid "Postih za použití zbraně"
+msgstr ""

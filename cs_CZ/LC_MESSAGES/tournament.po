@@ -248,4 +248,3 @@ msgstr ""
 msgctxt "vests"
 msgid "Dostupné vesty"
 msgstr ""
-

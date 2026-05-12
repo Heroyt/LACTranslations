@@ -690,213 +690,260 @@ msgstr "agent"
 
 msgctxt "bonus"
 msgid "neviditelnost"
-msgstr "neviditeľnosť"
-
-msgctxt "bonus"
-msgid "samopal"
-msgstr "samopal"
-
-msgctxt "bonus"
-msgid "štít"
-msgstr "štít"
-
-msgctxt "bests"
-msgid "Zobrazit všechny trofeje"
-msgstr "Zobraziť všetky trofeje"
-
-msgctxt "today"
-msgid "Klikněte níže na okénko pro zobrazení tabulky dnešního pořadí."
-msgstr "Kliknite nižšie na okienko pre zobrazenie tabuľky dnešného poradia."
-
-msgctxt "today"
-msgid "Zobrazit dnešní pořadí"
-msgstr "Zobraziť dnešné poradie"
-
-msgctxt "bests"
-msgid "Bohužel na tebe nesedí žádná z trofejí..."
-msgstr "Bohužiaľ na teba nesedí žiadna z trofejí..."
-
-msgid "Bodování"
-msgstr "Bodovanie"
-
-msgctxt "info"
-msgid "Skupina"
-msgstr "Skupina"
-
-msgctxt "group"
-msgid "Předchozí hra"
-msgstr "Predchádzajúca hra"
-
-msgctxt "group"
-msgid "Následující hra"
-msgstr "Nasledujúca hra"
-
-msgctxt "info"
-msgid "Hudební mód"
-msgstr "Hudobný mód"
+msgstr ""
 
 msgctxt "group"
 msgid "Předchozí hra hráče %s"
-msgstr "Predchádzajúca hra hráča %s"
+msgstr ""
 
 msgctxt "group"
 msgid "Následující hra hráče %s"
-msgstr "Nasledujúca hra hráča %s"
+msgstr ""
+
+msgctxt "player.ranking.elo"
+msgid "Vysvětlení hodnocení"
+msgstr ""
+
+msgctxt "info"
+msgid "Hudební mód"
+msgstr ""
+
+msgctxt "info"
+msgid "Skupina"
+msgstr ""
+
+msgid "Bodování"
+msgstr ""
+
+msgctxt "info"
+msgid "Body za výstřel"
+msgstr ""
+
+msgctxt "bonus"
+msgid "samopal"
+msgstr ""
+
+msgctxt "bonus"
+msgid "štít"
+msgstr ""
+
+msgid "Legenda"
+msgstr ""
+
+msgid "Skóre"
+msgstr ""
+
+msgid "Výstřely"
+msgstr ""
+
+msgid "Zásahy"
+msgstr ""
+
+msgid "Smrti"
+msgstr ""
+
+msgid "Analýza hry - zajímavosti"
+msgstr ""
+
+msgctxt "group"
+msgid "Předchozí hra"
+msgstr ""
+
+msgctxt "group"
+msgid "Následující hra"
+msgstr ""
+
+msgid "Trofej"
+msgstr ""
+
+msgid "Herní úroveň"
+msgstr ""
+
+msgid "Herní výkon"
+msgstr "Herný výkon"
+
+msgid "Výsledky týmů"
+msgstr ""
 
 msgctxt "hits"
 msgid "Zasáhlo si hráče"
-msgstr "Zasáhol si hráča"
-
-msgid "Umístění"
-msgstr "Umiestnenie"
+msgstr ""
 
 msgctxt "hits"
 msgid "Zasáhla si hráče"
-msgstr "Zasáhol si hráča"
-
-msgctxt "hits"
-msgid "Zásahy do týmů"
-msgstr "Zásahy do týmov"
-
-msgctxt "hits"
-msgid "Smrti od týmů"
-msgstr "Smrti od tímov"
-
-msgctxt "today"
-msgid "Klikněte níže na okénko pro zobrazení grafu vašeho umístění."
-msgstr "Kliknite nižšie na okienko pre zobrazenie grafu vášho umiestnenia."
-
-msgctxt "today"
-msgid "Zobrazit umístění"
-msgstr "Zobraziť umiestnenie"
+msgstr ""
 
 msgctxt "hits"
 msgid "Hry proti dalším týmům"
-msgstr "Hry proti ďalším tímom"
-
-msgctxt "player"
-msgid "Životy"
-msgstr "Životy"
-
-msgid "Dobyté miny týmu"
-msgstr "Dobyté míny tímu"
-
-msgctxt "mode.zakladny"
-msgid "Dolní základna"
-msgstr "Dolná základňa"
-
-msgctxt "mode.zakladny"
-msgid "Horní základna"
-msgstr "Horná základňa"
-
-msgctxt "style"
-msgid "Výchozí"
-msgstr "Predvolené"
-
-msgctxt "style"
-msgid "Tabulkové"
-msgstr "Tabuľkové"
-
-msgid "Skóre"
-msgstr "Skóre"
-
-msgid "Výstřely"
-msgstr "Výstrely"
-
-msgid "Zásahy"
-msgstr "Zásahy"
-
-msgid "Smrti"
-msgstr "Úmrtia"
-
-msgid "Sniper"
-msgstr "Sniper"
-
-msgid "Fotka ze hry %s"
-msgstr "Fotografia z hry %s"
+msgstr ""
 
 msgid "Fotky ze hry jsou nastaveny jako veřejné."
-msgstr "Fotografie z hry sú nastavené ako verejné."
+msgstr ""
 
 msgid "Fotky ze hry jsou nastaveny jako neveřejné. Pro zobrazení fotek je třeba přístup přes speciální odkaz, nebo přihlášení do LaserLigy."
-msgstr "Fotografie z hry sú nastavené ako neverejné. Ak si chcete pozrieť fotografie, musíte sa dostať cez špeciálny odkaz alebo sa prihlásiť do LaserLigy."
+msgstr ""
 
 msgid "Opravdu chcete zveřejnit fotky z této hry? Fotky uvidí kdokoliv, kdo si zobrazí výsledky této hry, ale nebude je moci stáhnout."
-msgstr "Naozaj chcete zverejniť obrázky z tejto hry? Každý, kto si pozrie výsledky tejto hry, bude môcť vidieť fotografie, ale nebude si ich môcť stiahnuť."
+msgstr ""
 
 msgid "Opravdu chcete zrušit zveřejnění fotek z této hry? Fotky uvidí jen hráči hry, nebo ten, kdo přejde na výsledky se speciálním odkazem."
-msgstr "Naozaj chcete zrušiť zverejnenie fotografií z tejto hry? Fotografie uvidia len hráči hry alebo tí, ktorí prejdú na výsledky pomocou špeciálneho odkazu."
+msgstr ""
+
+msgid "Stahování fotek může chvíli trvat. Pokud se stahování nespustí, počkejte několik minut a zkuste to znovu."
+msgstr ""
 
 msgid "Fotky"
-msgstr "Fotografie"
+msgstr ""
+
+msgid "Fotka ze hry %s"
+msgstr ""
 
 msgid "Stáhnout fotky"
-msgstr "Stiahnite si fotografie"
+msgstr ""
 
 msgid "Zveřejnit fotky"
-msgstr "Publikovanie fotografií"
+msgstr ""
+
+msgid "Umístění"
+msgstr ""
 
 msgid "Zásahy spoluhráčů"
-msgstr "Zasahovanie spoluhráčov"
+msgstr ""
 
 msgid "K:D"
-msgstr "K:D"
+msgstr ""
 
 msgid "Přesnost"
-msgstr "Presnosť"
+msgstr ""
 
 msgid "Srovnání s protihráči"
-msgstr "Porovnanie so súpermi"
+msgstr ""
+
+msgctxt "bests"
+msgid "Zobrazit všechny trofeje"
+msgstr ""
+
+msgid "Rozpad skóre a herní úrovně"
+msgstr ""
 
 msgid "Zohlednění vašich protihráčů. Pokud hrajete proti slabším, vaše herní úroveň se sníží. Naopak, pokud hrajete proti silným hráčům, vaše herní úroveň se zvýší."
-msgstr "Zohľadnenie súperov. Ak hráte proti slabším hráčom, vaša úroveň hry sa zníži. Naopak, ak hráte proti silným hráčom, vaša herná úroveň sa zvýši."
+msgstr ""
+
+msgid "Čas mrtvý"
+msgstr ""
 
 msgctxt "player"
 msgid "%d zabití"
-msgstr "%d Zabíjanie"
+msgstr ""
 
 msgctxt "player"
 msgid "%d smrt"
 msgid_plural "%d smrtí"
-msgstr[0] "%d smrť"
-msgstr[1] "%d Smrť"
-msgstr[2] "%d Smrť"
-msgstr[3] "%d Smrť"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
 
-msgid "Herní úroveň"
-msgstr "Úroveň hry"
+msgctxt "today"
+msgid "Klikněte níže na okénko pro zobrazení tabulky dnešního pořadí."
+msgstr ""
 
-msgid "Zásahy:Smrti"
-msgstr "Hity:Úmrtia"
-
-msgctxt "player.ranking.elo"
-msgid "Vysvětlení hodnocení"
-msgstr "Vysvetlenie hodnotenia"
-
-msgctxt "info"
-msgid "Body za výstřel"
-msgstr "Body na výstrel"
-
-msgid "Trofej"
-msgstr "Trophy"
-
-msgid "Výsledky týmů"
-msgstr "Výsledky tímu"
-
-msgid "Zrušit zveřejnění fotek"
-msgstr "Zrušenie zverejnenia fotografií"
-
-msgid "Čas mrtvý"
-msgstr "Mŕtvy čas"
-
-msgid "Rozpad skóre a herní úrovně"
-msgstr "Rozdelenie skóre a herné úrovne"
-
-msgid "Legenda"
-msgstr "Legenda"
-
-msgid "Analýza hry - zajímavosti"
-msgstr "Analýza hry - zaujímavé fakty"
+msgctxt "today"
+msgid "Zobrazit dnešní pořadí"
+msgstr ""
 
 msgid "Umístění v žebříčku"
-msgstr "Umiestnenie v rebríčku"
+msgstr ""
+
+msgctxt "today"
+msgid "Klikněte níže na okénko pro zobrazení grafu vašeho umístění."
+msgstr ""
+
+msgctxt "today"
+msgid "Zobrazit umístění"
+msgstr ""
+
+msgid "Zásahy:Smrti"
+msgstr ""
+
+msgid "Zrušit zveřejnění fotek"
+msgstr ""
+
+msgctxt "hits"
+msgid "Zásahy do týmů"
+msgstr ""
+
+msgctxt "hits"
+msgid "Smrti od týmů"
+msgstr ""
+
+msgctxt "bests"
+msgid "Bohužel na tebe nesedí žádná z trofejí..."
+msgstr ""
+
+msgid "Smrti od min"
+msgstr ""
+
+msgctxt "achievements"
+msgid "Získaná ocenění"
+msgstr ""
+
+msgid "Bonusové skóre"
+msgstr ""
+
+msgctxt "player.ranking.elo"
+msgid "Algoritmus nepracuje se skórem, ale s herní úrovní hráče z dané hry."
+msgstr ""
+
+msgctxt "player.ranking.elo"
+msgid "Rozdíl k herní úrovni se počítá upraveným ELO algoritmem, který vyhodnocuje výsledky jednotlivých hráčů mezi sebou. Pro každého protihráče a spoluhráče vypočítá pravděpodobnost, že daného hráče porazíte a poté podle skutečných výsledků vás ohodnotí body. Porovnání se spoluhráči navíc nemá takovou váhu jako protihráči."
+msgstr ""
+
+msgctxt "player.ranking.elo"
+msgid "Algoritmus zároveň přihlíží k vyrovnání týmů a pokud jsou týmy nevyrovnané, upraví své hodnoty."
+msgstr ""
+
+msgctxt "player.ranking.elo"
+msgid "V následujícím srovnání je několik hodnot. Nejdůležitější je ale šance na výhru a reálný výsledek. Pokud je reálný výsledek větší než šance na výhru, body získáváte. Pokud je menší, body ztrácíte. Jak moc bodů ztratíte určuje rozdíl v hodnotách šance na výhru a výsledku, ale i koeficient výhry."
+msgstr ""
+
+msgctxt "player.ranking.elo"
+msgid "Srovnání s jednotlivými hráči"
+msgstr ""
+
+msgctxt "player.ranking.elo"
+msgid "Šance na výhru nad hráčem"
+msgstr ""
+
+msgctxt "player.ranking.elo"
+msgid "Reálný výsledek"
+msgstr ""
+
+msgctxt "player.ranking.elo"
+msgid "Co to znamená?"
+msgstr ""
+
+msgctxt "player.ranking.elo"
+msgid "Hodnota blízká 100% znamená definitivní výhru.<br>Hodnota blízká 50% je remíza (totožná herní úroveň).<br>Hodnota 0% je definitivní prohra."
+msgstr ""
+
+msgctxt "player.ranking.elo"
+msgid "Koeficient výhry"
+msgstr ""
+
+msgctxt "player.ranking.elo"
+msgid "Hodnota vypočítaná podle toho, jak jsou hráči vyrovnaní. Výsledná hodnota násobí počet bodů."
+msgstr ""
+
+msgctxt "player.ranking.elo"
+msgid "Získáno bodů z hráče"
+msgstr ""
+
+msgid "Stáhnout fotky manuálně"
+msgstr ""
+
+msgid "Pokud se po chvíli stahování nespustí, zkuste použít následující odkaz:"
+msgstr ""
+
+msgid "Postih za použití zbraně"
+msgstr ""

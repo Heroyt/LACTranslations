@@ -1008,6 +1008,12 @@ msgctxt "leaderboard"
 msgid "Herní úroveň"
 msgstr "Nivel general"
 
+msgid "Herní výkon"
+msgstr "Rendimiento de juego"
+
+msgid "Změna herní úrovně"
+msgstr "Cambio de nivel de juego"
+
 msgid "Za celou dobu"
 msgstr "De todos los tiempos"
 
@@ -2763,4 +2769,3 @@ msgstr "¡Se han añadido fotos a tu juego de %s!"
 
 msgid "%s score"
 msgstr "%s puntuación"
-

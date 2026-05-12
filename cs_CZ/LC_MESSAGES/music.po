@@ -251,3 +251,11 @@ msgstr ""
 msgid "Test"
 msgstr ""
 
+msgid "Kroužkový playlist"
+msgstr ""
+
+msgid "ANIME"
+msgstr ""
+
+msgid "K-POP 1"
+msgstr ""

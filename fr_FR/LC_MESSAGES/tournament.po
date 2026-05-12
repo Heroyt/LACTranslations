@@ -248,4 +248,3 @@ msgstr "Équipes avancées"
 msgctxt "vests"
 msgid "Dostupné vesty"
 msgstr "Gilets disponibles"
-

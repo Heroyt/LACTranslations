@@ -248,4 +248,3 @@ msgstr "Pokročilé tímy"
 msgctxt "vests"
 msgid "Dostupné vesty"
 msgstr "Dostupné vesty"
-
