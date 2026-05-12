@@ -6,7 +6,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "Last-Translator: Tomáš Vojík <vojik@wboy.cz>\n"
 "MIME-Version: 1.0\n"
-"PO-Revision-Date: 2025-05-15 17:51\n"
+"PO-Revision-Date: 2026-05-12 09:27\n"
 "POT-Creation-Date: \n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Project-Id-Version: laserarenacontrol\n"
@@ -1007,6 +1007,12 @@ msgstr "Los mejores jugadores de hoy según su nivel general."
 msgctxt "leaderboard"
 msgid "Herní úroveň"
 msgstr "Nivel general"
+
+msgid "Herní výkon"
+msgstr "Rendimiento en el juego"
+
+msgid "Změna herní úrovně"
+msgstr "Cambio de nivel de juego"
 
 msgid "Za celou dobu"
 msgstr "De todos los tiempos"
@@ -2763,4 +2769,934 @@ msgstr "¡Se han añadido fotos a tu juego de %s!"
 
 msgid "%s score"
 msgstr "%s puntuación"
+
+msgctxt "debugPanel"
+msgid "Translations"
+msgstr "Traducciones"
+
+msgctxt "debugPanel"
+msgid "Language"
+msgstr "Idioma"
+
+msgctxt "debugPanel"
+msgid "%d call"
+msgid_plural "%d calls"
+msgstr[0] "%d call"
+msgstr[1] "%d calls"
+
+msgid "Plánované turnaje laser game"
+msgstr "Torneos de laser game programados"
+
+msgid "Odehrané turnaje laser game"
+msgstr "Torneos de laser game disputados"
+
+msgid "Poměřte síly s dalšími hráči laser game! Následující turnaje jsou organizovány v arénách využívající Laser Ligu."
+msgstr "¡Mide tus fuerzas con otros jugadores de laser game! Los siguientes torneos se organizan en recintos que utilizan Laser Liga."
+
+msgid "Poměřte síly s dalšími hráči laser game! Následující turnaje byli organizovány v arénách využívající Laser Ligu."
+msgstr "¡Mide tus fuerzas con otros jugadores de laser game! Los siguientes torneos se organizaron en recintos que utilizan Laser Liga."
+
+msgid "Aktuálně nějsou plánované žádné akce laser game"
+msgstr "Actualmente no hay eventos de laser game programados."
+
+msgctxt "pageTitles"
+msgid "Plánované turnaje"
+msgstr "Torneos planeados"
+
+msgctxt "pageDescription"
+msgid "Turnaje plánované v laser arénách, které budou probíhat v následujících měsících."
+msgstr "Torneos programados en las arenas de Laser que se celebrarán en los próximos meses."
+
+msgid "Proběhlé akce"
+msgstr "Eventos pasados"
+
+msgid "Proběhlé akce laser game"
+msgstr "Eventos de laser game celebrados"
+
+msgctxt "pageTitles"
+msgid "Proběhlé akce"
+msgstr "Eventos pasados"
+
+msgctxt "pageDescription"
+msgid "Akce v laser arénách, které už proběhli."
+msgstr "Eventos en las arenas de láser que ya han tenido lugar."
+
+msgid "Druhého kola turnaje se celkem zůčastnilo 6 týmů. Nekteré týmy byli nové, ale většina se již účastnila na jaře. Všechny týmy získali body do celkové tabulky."
+msgstr "En la segunda ronda del torneo participaron un total de 6 equipos. Algunos equipos eran nuevos, pero la mayoría ya había participado en primavera. Todos los equipos sumaron puntos para la clasificación general."
+
+msgid "Proti prvnímu turnaji přibyly dva týmy - Čepička gang 2.0 a tým domažlické arény: Star Doms. První a druhé místo si potvrdili týmy MTF a PoCemKamDeš. Tým Farmáři nepříjmeně překvapil, jelikož místo minulého třetího místa skončil šestý. V celkové tabulce se ale nic nezměnilo a tým Farmáři se drží s náskokem 1 bod na třetím místě. Bude ale velmi záležet na výsledcích posledního turnaje."
+msgstr "En comparación con el primer torneo, se han sumado dos equipos: Čepička gang 2.0 y el equipo de la arena de Domažlice: Star Doms. Los equipos MTF y PoCemKamDeš confirmaron el primer y segundo puesto. El equipo Farmáři dio una desagradable sorpresa, ya que, en lugar del tercer puesto que ocupó la vez pasada, terminó sexto. Sin embargo, en la clasificación general no ha cambiado nada y el equipo Farmáři se mantiene en tercer lugar con una ventaja de 1 punto. No obstante, todo dependerá en gran medida de los resultados del último torneo."
+
+msgid "Budeme se těšit na posledním kole na podzim 29.10.2023. Přihlášky jsou už otevřené, týmy se zaplaceným startovným trénují za 50 Kč / Hráč a trénink se vyplácí!"
+msgstr "Esperamos con ilusión la última ronda de otoño, el 29 de octubre de 2023. Las inscripciones ya están abiertas; los equipos que hayan abonado la cuota de inscripción entrenan por 50 CZK por jugador, ¡y el entrenamiento se amortiza!"
+
+msgid "Celkem se zúčastnilo 10 týmů, kde většinu tvořili kroužkové děti z Písku a dokonce 2 týmy přijeli z Budějovické arény. Týmy se utkaly často ve velmi těsných (dokonce byla i jedna remíza) soubojích o medaile a body do celoroční soutěže. Každý tým měl alespoň dvě prohry a jednu výhru. Do soutěže se každému týmu započítají body podle jejich celkového umístění na jednotlivých turnajích. Ještě nás čekají 2, takže o vítězi poháru stále není rozhodnuto a může se stát cokoliv."
+msgstr "En total participaron 10 equipos, la mayoría de los cuales estaban formados por niños del club de Písek, e incluso 2 equipos vinieron desde el pabellón de Budějovice. Los equipos se enfrentaron a menudo en duelos muy reñidos (incluso hubo un empate) por las medallas y los puntos para la competición anual. Cada equipo tuvo al menos dos derrotas y una victoria. En la competición, a cada equipo se le suman puntos según su clasificación general en los distintos torneos. Todavía nos quedan dos, así que el ganador de la copa aún no está decidido y puede pasar cualquier cosa."
+
+msgid "Je nutné zmínit, že o prvních třech pozicích rozhodovalo pouze nastřílené skóre. Bodově na tom byly týmy stejně! Mezi druhým a třetím místem byl rozdíl pouhé čtyři zásahy ze všech osmi her co týmy hráli."
+msgstr "Cabe mencionar que las tres primeras posiciones se decidieron únicamente por la diferencia de goles. ¡En cuanto a puntos, los equipos estaban empatados! Entre el segundo y el tercer puesto solo había una diferencia de cuatro goles en los ocho partidos que disputaron los equipos."
+
+msgid "Atmosféra byla skvělá a my doufáme, že si to hráči užili, tak jako my. Budeme se těšit v létě 30.7.2023 na další kolo pokročilých. Přihlášky jsou už otevřené, týmy se zaplaceným startovným trénují za 50 Kč / Hráč a trénink se vyplácí!"
+msgstr "El ambiente fue genial y esperamos que los jugadores lo hayan disfrutado tanto como nosotros. Esperamos veros el 30 de julio de 2023 para la próxima ronda de avanzados. Las inscripciones ya están abiertas; los equipos que hayan abonado la cuota de inscripción entrenan por 50 CZK por jugador, ¡y el entrenamiento se amortiza!"
+
+msgid "Druhého kola turnaje se zůčastnilo 8 týmů. "
+msgstr "En la segunda ronda del torneo participaron 8 equipos. "
+
+msgid "Proti prvnímu turnaji přibyl jeden polo-brněnsný tým: Co jste čekali?"
+msgstr "En comparación con el primer torneo, se ha sumado un equipo de Brno: ¿qué esperabais?"
+
+msgid "V porovnání s prvním kolem na jaře se týmy na prvních místech promíchali. První místo si odnesl s čistým štítem tým Stormtoopers, který byl minule třetí. Na druhém místě skončil tým Ambakatam, který byl minule první. Se stejným počtem bodů, ale nižším celkovým skóre byl budějický tým Štramáci B, kteří si oproti minule polepšili o 2 místa. Na čtvrtém místě skončil tým Encephalopathia spongiformis bovina, kterému se tentokrát tak nedařilo a propadli se o 2 místa."
+msgstr "En comparación con la primera ronda de primavera, los equipos en los primeros puestos han cambiado de posición. El primer puesto lo se lo llevó, con un pleno de victorias, el equipo Stormtoopers, que la vez pasada quedó tercero. En segundo lugar quedó el equipo Ambakatam, que la vez pasada fue primero. Con el mismo número de puntos, pero con una puntuación total inferior, quedó el equipo Štramáci B de Budweis, que mejoró en dos puestos respecto a la ronda anterior. En cuarto lugar quedó el equipo Encephalopathia spongiformis bovina, al que esta vez no le fue tan bien y cayó dos puestos."
+
+msgid "Celkové umístění v lize se moc nezměnilo. První místo drží Ambatakam, druhé a třetí se prohodilo - Stormtroopers a Encephalopathia spongiformis bovina. Na čtvrté místo se posununl tým Štramáci B."
+msgstr "La clasificación general de la liga no ha cambiado mucho. El primer puesto lo mantiene Ambatakam, mientras que el segundo y el tercero han intercambiado sus posiciones: Stormtroopers y Encephalopathia spongiformis bovina. El equipo Štramáci B ha subido al cuarto puesto."
+
+msgid "Budeme se těšit na posledním kole na podzim 26.11.2023. Přihlášky jsou už otevřené, týmy se zaplaceným startovným trénují za 50 Kč / Hráč a trénink se vyplácí!"
+msgstr "Esperamos con ganas la última ronda de otoño, el 26 de noviembre de 2023. Las inscripciones ya están abiertas; los equipos que hayan abonado la cuota de inscripción entrenan por 50 CZK por jugador, ¡y el entrenamiento se paga!"
+
+msgid "Detail arény"
+msgstr "Detalles de la arena"
+
+msgid "Dnes se zatím nehrály žádné hry"
+msgstr "Hoy todavía no se ha disputado ningún partido."
+
+msgid "Žádní hráči neodpovídají filtrům"
+msgstr "No hay jugadores que cumplan los criterios de filtrado"
+
+msgid "Stahuji"
+msgstr "Descargando"
+
+msgid "Umístění v žebříčku"
+msgstr "Clasificación"
+
+msgid "Na ligu se nelze přihlásit."
+msgstr "No es posible inscribirse en la liga."
+
+msgctxt "pageTitles"
+msgid "%s - Registrace na akci"
+msgstr "%s - Inscripción en el evento"
+
+msgctxt "pageDescription"
+msgid "Registrace na akci %s v %s."
+msgstr "Inscripción al evento %s en %s."
+
+msgid "Registrace hráče"
+msgstr "Registro de jugador"
+
+msgid "Zrušeno"
+msgstr "Cancelado"
+
+msgid "Agent"
+msgstr "Espía"
+
+msgid "Neviditelnost"
+msgstr "Invisibilidad"
+
+msgid "Štít"
+msgstr "Escudo"
+
+msgid "%s začala svou cestu laser game hráčky registrací do Laser ligy %s."
+msgstr "%s Comenzó su andadura como jugadora de laser game inscribiéndose en la Liga Laser %s."
+
+msgid "Deathmatch"
+msgstr "Deathmatch"
+
+msgid "CSGO"
+msgstr "CSGO"
+
+msgid "T.M.A - solo"
+msgstr "O.S.C.U.R.O - solo"
+
+msgid "Team deathmatch"
+msgstr "Team deathmatch"
+
+msgctxt "errors"
+msgid "E-mail nebo heslo není správné."
+msgstr ""
+
+msgid "[LaserLiga] Obnova hesla"
+msgstr ""
+
+msgctxt "mails.reset"
+msgid "Žádost o obnovu hesla"
+msgstr ""
+
+msgctxt "mail.reset"
+msgid "Zaznamenali jsme novou žádost o obnovu hesla."
+msgstr ""
+
+msgctxt "mail.reset"
+msgid "Žádost je platná do: %s"
+msgstr ""
+
+msgctxt "mail.reset"
+msgid "Pro obnovu hesla klikněte na odkaz níže."
+msgstr ""
+
+msgctxt "mail.reset"
+msgid "Obnovit heslo"
+msgstr ""
+
+msgid "Fotky byly úspěšně nahrány."
+msgstr ""
+
+msgid "Nahrát fotky"
+msgstr ""
+
+msgctxt "actions"
+msgid "Nahrát"
+msgstr ""
+
+msgid "Dodatečná zpráva"
+msgstr ""
+
+msgid "volitelné"
+msgstr ""
+
+msgid "Přidejte zprávu pro adresáta."
+msgstr ""
+
+msgid "Podporuje <a href=\"%s\" target=\"_blank\">Markdown</a> formátování"
+msgstr ""
+
+msgctxt "mail"
+msgid "[%s] Vaše fotky ze hry %s"
+msgstr ""
+
+msgctxt "mail"
+msgid "Vaše fotky ze hry %s"
+msgstr ""
+
+msgid "Od té doby bohužel ještě nehrála ani jednu hru."
+msgstr ""
+
+msgctxt "success"
+msgid "Souhlas byl uložen. Děkujeme!"
+msgstr ""
+
+msgid "Žádné další hry nebyli nalezeny"
+msgstr ""
+
+msgid "Obnovit heslo"
+msgstr ""
+
+msgctxt "pageTitles"
+msgid "Obnovit heslo"
+msgstr ""
+
+msgid "Nové heslo znovu"
+msgstr ""
+
+msgctxt "errors"
+msgid "Neplatný požadavek"
+msgstr ""
+
+msgctxt "pageTitles"
+msgid "Obnova hesla - Neplatný požadavek"
+msgstr ""
+
+msgctxt "pageDescription"
+msgid "Neplatný požadavek pro obnovu hesla."
+msgstr ""
+
+msgid "Kámen, Nůžky, Papír"
+msgstr ""
+
+msgid "Zombie"
+msgstr ""
+
+msgid "Revolver"
+msgstr ""
+
+msgid "Last man standing"
+msgstr ""
+
+msgid "Barvičky"
+msgstr ""
+
+msgid "Chraň VIP"
+msgstr ""
+
+msgid "Slepá bába"
+msgstr ""
+
+msgid "Survival"
+msgstr ""
+
+msgid "Gladiátor"
+msgstr ""
+
+msgid "Zavřít"
+msgstr ""
+
+msgid "Předchozí"
+msgstr ""
+
+msgid "Další"
+msgstr ""
+
+msgid "Tituly"
+msgstr ""
+
+msgid "Avatara si nemůžeš přímo vybrat, ale generují se náhodně. Můžeš si vybrat z několika různých stylů a pokud chceš ovlivnit jaký avatar se vygeneruje, můžeš zkusit měnit kód avatara."
+msgstr ""
+
+msgid "Změnou kódu uvidíš okamžitě náhled všech vygenerovaných avatarů."
+msgstr ""
+
+msgid "Vyber si styl svého avatara."
+msgstr ""
+
+msgid "Kód avatara"
+msgstr ""
+
+msgid "Styl"
+msgstr ""
+
+msgid "Apokalypsa"
+msgstr ""
+
+msgid "Portvdit e-mail"
+msgstr ""
+
+msgctxt "pageTitles"
+msgid "Portvdit e-mail - Neplatný požadavek"
+msgstr ""
+
+msgctxt "pageDescription"
+msgid "Neplatný požadavek pro potvrzení e-mailu."
+msgstr ""
+
+msgid "Přihlašování náhradníků není povoleno"
+msgstr ""
+
+msgid "Odhlášení bylo úspěšné."
+msgstr ""
+
+msgid "Nová hra"
+msgstr ""
+
+msgid "Vybavení"
+msgstr ""
+
+msgid "Číslo souboru"
+msgstr ""
+
+msgid "Životy"
+msgstr ""
+
+msgid "Náboje"
+msgstr ""
+
+msgid "Časování"
+msgstr ""
+
+msgid "Čas před hrou"
+msgstr ""
+
+msgid "Čas konce"
+msgstr ""
+
+msgid "Respawn"
+msgstr ""
+
+msgid "Bodování"
+msgstr ""
+
+msgid "Skóre za zásah"
+msgstr ""
+
+msgid "Skóre za smrt"
+msgstr ""
+
+msgid "Skóre za zásah vlastního"
+msgstr ""
+
+msgid "Skóre za smrt od vlastního"
+msgstr ""
+
+msgid "Skóre za smrt od miny"
+msgstr ""
+
+msgid "Skóre za výstřel"
+msgstr ""
+
+msgid "Skóre za samopal"
+msgstr ""
+
+msgid "Skóre za neviditelnost"
+msgstr ""
+
+msgid "Skóre za štít"
+msgstr ""
+
+msgid "Skóre za agenta"
+msgstr ""
+
+msgid "Potvrzení e-mailu"
+msgstr ""
+
+msgctxt "mails.confirm"
+msgid "Potvrď registraci v Laser Lize"
+msgstr ""
+
+msgctxt "mail.confirm"
+msgid "Děkujeme za tvou registraci do laser ligy."
+msgstr ""
+
+msgctxt "mail.confirm"
+msgid "Prosím, potvrď svůj e-mail kliknutím na odkaz níže."
+msgstr ""
+
+msgctxt "mail.confirm"
+msgid "Potvrďit e-mail"
+msgstr ""
+
+msgctxt "mail.confirm"
+msgid "Portvdit e-mail"
+msgstr ""
+
+msgctxt "pageTitles"
+msgid "Portvdit e-mail"
+msgstr ""
+
+msgctxt "pageDescription"
+msgid "Potvrzení e-mailu registrovaného hráče."
+msgstr ""
+
+msgid "Tvuj E-mail byl potvrzen"
+msgstr ""
+
+msgctxt "errors"
+msgid "URL nemá správný formát"
+msgstr ""
+
+msgid "Test"
+msgstr ""
+
+msgid "Základny"
+msgstr ""
+
+msgid "Marco polo"
+msgstr ""
+
+msgid "Team Revolver"
+msgstr ""
+
+msgctxt "errors"
+msgid "Požadavek neexistuje"
+msgstr ""
+
+msgid "Graf umístění hráče dle vybrané statistiky"
+msgstr ""
+
+msgid "Graf historie úrovně hráče"
+msgstr ""
+
+msgid "Graf herních módů hráče"
+msgstr ""
+
+msgid "Graf herních módů arény"
+msgstr ""
+
+msgid "Graf hudebních módů arény"
+msgstr ""
+
+msgid "Graf počtu her"
+msgstr ""
+
+msgid "Graf pozice v žebříčku v čase"
+msgstr ""
+
+msgid "Radar graf statistik hráče"
+msgstr ""
+
+msgid "Graf vzájemných her"
+msgstr ""
+
+msgid "Heslo bylo úspěšně změněno"
+msgstr ""
+
+msgctxt "errors"
+msgid "Požadavek vypršel"
+msgstr ""
+
+msgid "Potvrzovací e-mail byl odeslaný"
+msgstr ""
+
+msgid "Nelze zobrazit fotografie z této skupiny."
+msgstr ""
+
+msgid "Nelze zobrazit fotografie z této hry."
+msgstr ""
+
+msgid "Formulář"
+msgstr ""
+
+msgctxt "mail"
+msgid "K Vašim výsledkům ze hry byly přiřazeny fotky."
+msgstr ""
+
+msgctxt "mail"
+msgid "Výsledky s fotkami"
+msgstr ""
+
+msgctxt "errors"
+msgid "Jméno musí mít alespoň 3 znaky a maximálně 50 znaků"
+msgstr ""
+
+msgctxt "errors"
+msgid "Uživatel s tímto e-mailem již existuje"
+msgstr ""
+
+msgctxt "errors"
+msgid "E-mail nemá správný formát"
+msgstr ""
+
+msgctxt "errors"
+msgid "E-mail je povinný"
+msgstr ""
+
+msgctxt "errors"
+msgid "Heslo je povinné"
+msgstr ""
+
+msgid "Vybrat jazyk"
+msgstr ""
+
+msgid "Naposledy uloženo:"
+msgstr ""
+
+msgid "nikdy"
+msgstr ""
+
+msgid "Povoleno"
+msgstr ""
+
+msgid "Odesílání fotek na e-mail"
+msgstr ""
+
+msgid "E-mail pro fotky"
+msgstr ""
+
+msgid "Dodatečný text v e-mailu pro fotky"
+msgstr ""
+
+msgid "Doba uložení"
+msgstr ""
+
+msgid "Doba uložení nepřiřazených fotek (v dnech)"
+msgstr ""
+
+msgid "Jak dlouho mají nahrané, nepřiřazené fotografie zůstat uložené. (Povolené hodnoty: %s dní)"
+msgstr ""
+
+msgid "Doba uložení přiřazených fotek (v měsících)"
+msgstr ""
+
+msgid "Jak dlouho mají nahrané, přiřazené fotografie zůstat uložené. (Povolené hodnoty: %s měsíců)"
+msgstr ""
+
+msgid "Dropbox synchronizace"
+msgstr ""
+
+msgid "Dropbox synchronizace vyžaduje vytvoření <a href=\"%s\">dropbox aplikace</a> pro arénu. Aplikace nemusí být veřejná (v \"developement\" režimu), ale musí být správně nastavena. (viz níže)"
+msgstr ""
+
+msgid "Adresář k synchronizaci"
+msgstr ""
+
+msgid "Cesta k adresáři, kterou chcete synchronizovat. Synchronizace zahrnuje i všechny podaresáře. Nerozlišuje velká a malá písmena. Např. \"/fotky/\"."
+msgstr ""
+
+msgid "Nastavení dropbox aplikace"
+msgstr ""
+
+msgid "Dropbox APP ID"
+msgstr ""
+
+msgid "Hodnota \"%s\" dropbox aplikace."
+msgstr ""
+
+msgid "Dropbox APP Secret"
+msgstr ""
+
+msgid "Následující hodnoty musí být nastaveny v Dropbox aplikaci:"
+msgstr ""
+
+msgid "Vyžadované povolení aplikace"
+msgstr ""
+
+msgid "Registrace aplikace"
+msgstr ""
+
+msgid "Pro správnou funkčnost aplikace je nutné aplikaci registrovat a propojit s účtem Dropbox. To dělejte jen při první instalaci, pokud se měnil Dropbox účet, nebo pokud synchronizace fugunguje správně."
+msgstr ""
+
+msgid "Jedna aréna může být propojena jen s jedním účtem Dropbox."
+msgstr ""
+
+msgid "Propojit Dropbox s LaserLigou"
+msgstr ""
+
+msgid "Vyplňte nastavení Dropbox aplikace"
+msgstr ""
+
+msgid "Info"
+msgstr ""
+
+msgid "API"
+msgstr ""
+
+msgid "Zeměpisná délka"
+msgstr ""
+
+msgid "Zeměpisná šířka"
+msgstr ""
+
+msgid "Vektorový obrázek ve formátu SVG"
+msgstr ""
+
+msgid "API klíče"
+msgstr ""
+
+msgid "Uživatelé arény"
+msgstr ""
+
+msgid "Kód hráče"
+msgstr ""
+
+msgid "Role"
+msgstr ""
+
+msgid "Uživatel byl úspěšně uložen."
+msgstr ""
+
+msgid "Spravované arény"
+msgstr ""
+
+msgctxt "pageTitles"
+msgid "400"
+msgstr ""
+
+msgctxt "pageDescription"
+msgid "Invalid request"
+msgstr ""
+
+msgid "Uživatelé"
+msgstr ""
+
+msgctxt "blog"
+msgid "Titulek"
+msgstr ""
+
+msgctxt "blog"
+msgid "Perex"
+msgstr ""
+
+msgctxt "blog"
+msgid "Obsah"
+msgstr ""
+
+msgctxt "blog"
+msgid "Markdown formát"
+msgstr ""
+
+msgid "Uložit"
+msgstr ""
+
+msgctxt "blog"
+msgid "Stav"
+msgstr ""
+
+msgctxt "blog.status"
+msgid "Koncept"
+msgstr ""
+
+msgctxt "blog.status"
+msgid "Publikovaný"
+msgstr ""
+
+msgctxt "blog.status"
+msgid "Archivovaný"
+msgstr ""
+
+msgctxt "blog"
+msgid "Nový příspěvek"
+msgstr ""
+
+msgctxt "blog"
+msgid "Editace příspěvku"
+msgstr ""
+
+msgid "Úspěch"
+msgstr ""
+
+msgid "Aréna byla uložena"
+msgstr ""
+
+msgctxt "pageTitle"
+msgid "Blog"
+msgstr ""
+
+msgctxt "pageTitles"
+msgid "Test"
+msgstr ""
+
+msgctxt "pageDescription"
+msgid "test"
+msgstr ""
+
+msgctxt "time"
+msgid "%d min"
+msgstr ""
+
+msgctxt "blog"
+msgid "Značky"
+msgstr ""
+
+msgctxt "pageTitles"
+msgid "Co je to LaserLiga?"
+msgstr ""
+
+msgctxt "pageDescription"
+msgid "Vítejte na webu LaserLiga! Portálu pro hráče laser game, který shromažďuje výsledky, počítá statistiky a mnoho dalších funkcí."
+msgstr ""
+
+msgctxt "blog"
+msgid "Úvodní obrázek"
+msgstr ""
+
+msgid "Náhled úvodního obrázku"
+msgstr ""
+
+msgctxt "blog"
+msgid "Alternativní text k obrázku"
+msgstr ""
+
+msgid "Zadejte alternativní text k obrázku"
+msgstr ""
+
+msgctxt "blog"
+msgid "Vydavatel"
+msgstr ""
+
+msgctxt "blog"
+msgid "Předpokládaná doba čtení"
+msgstr ""
+
+msgctxt "blog"
+msgid "Publikováno"
+msgstr ""
+
+msgctxt "blog"
+msgid "Aktualizováno"
+msgstr ""
+
+msgctxt "blog"
+msgid "Abstrakt"
+msgstr ""
+
+msgctxt "blog"
+msgid "Autor"
+msgstr ""
+
+msgctxt "blog"
+msgid "Laser blog"
+msgstr ""
+
+msgctxt "errors"
+msgid "E-mail není validní"
+msgstr ""
+
+msgctxt "blog"
+msgid "Číst"
+msgstr ""
+
+msgctxt "pageTitles"
+msgid "Laser blog"
+msgstr ""
+
+msgctxt "pageDescription"
+msgid "Blog laser ligy."
+msgstr ""
+
+msgid "Zde najdete články a novinky z prostředí LaserLigy, od zapojených arén a vybraných hráčů."
+msgstr ""
+
+msgctxt "blog"
+msgid "Chcete přispět do blogu?"
+msgstr ""
+
+msgctxt "blog"
+msgid "Pokud máte zájem přispět do blogu, ozvěte se nám na našem <a href=\"%s\" target=\"_blank\">Discord</a> serveru."
+msgstr ""
+
+msgctxt "blog"
+msgid "Pokud máte zájem o to také tvořit články na laser lize, ozvěte se nám na našem <a href=\"%s\" target=\"_blank\">Discord</a> serveru."
+msgstr ""
+
+msgctxt "pageTitles"
+msgid "Laser blog - %s"
+msgstr ""
+
+msgid "Zatím zde nejsou žádné články."
+msgstr ""
+
+msgid "Blog"
+msgstr ""
+
+msgctxt "blog"
+msgid "Upravit"
+msgstr ""
+
+msgid "Přidat článek"
+msgstr ""
+
+msgctxt "pageDescription"
+msgid "Laser liga je portál pro hráče laser game z celé české republiky. Sjednocuje výsledky a poskytuje statistiky hráčům, kteří soupeří v globálním žebříčku."
+msgstr ""
+
+msgctxt "errors"
+msgid "E-mail není platný"
+msgstr ""
+
+msgid "Google kalenář"
+msgstr ""
+
+msgid "Umožňuje propojení rezervací s google kalendářem."
+msgstr ""
+
+msgid "Propojení je aktivní"
+msgstr ""
+
+msgid "Propojení není aktivní"
+msgstr ""
+
+msgid "Propojit Google kalendář s LaserLigou"
+msgstr ""
+
+msgid "Přepíše aktivní propojení"
+msgstr ""
+
+msgid "Google kalendář"
+msgstr ""
+
+msgctxt "pageTitles"
+msgid "Jak funguje herní úroveň?"
+msgstr ""
+
+msgctxt "pageDescription"
+msgid "Herní úroveň je nová statistika, kterou LaserLiga počítá. Měla by sloužit jako celkový indikátor výkonu ve hře daného laser game hráče. Proti klasickému skóre…"
+msgstr ""
+
+msgid "Žádné informace"
+msgstr ""
+
+msgctxt "pageTitles"
+msgid "Laser tipy a triky nejen pro nováčky"
+msgstr ""
+
+msgctxt "pageDescription"
+msgid "Laser game je relativně nový sport, ale i zde se pořádají různé soutěže a turnaje. Ačkoliv je princip samotné laser game jednoduchý (střílím do svítících…"
+msgstr ""
+
+msgctxt "blog.status"
+msgid "Skrytý"
+msgstr ""
+
+msgctxt "pageTitles"
+msgid "Laser tips a tricks not only for beginners"
+msgstr ""
+
+msgctxt "pageDescription"
+msgid "Laser game is a relatively new sport, but there are still various competitions and tournaments. Although the basic principle of laser game is simple (shooting…"
+msgstr ""
+
+msgctxt "pageTitles"
+msgid "Laser-Tipps und Tricks nicht nur für Anfänger"
+msgstr ""
+
+msgctxt "pageDescription"
+msgid "Laser Game ist ein relativ neuer Sport, aber es gibt dennoch verschiedene Wettbewerbe und Turniere. Obwohl das Grundprinzip von Laser Game einfach ist (man…"
+msgstr ""
+
+msgid "Název typu"
+msgstr ""
+
+msgctxt "booking"
+msgid "Délka rezervace (min)"
+msgstr ""
+
+msgctxt "booking"
+msgid "Maximální počet hráčů"
+msgstr ""
+
+msgctxt "booking"
+msgid "Povolit uzavření rezervace"
+msgstr ""
+
+msgctxt "booking"
+msgid "Minimální počet hráčů pro uzavření rezervace"
+msgstr ""
+
+msgid "Typy rezervací"
+msgstr ""
+
+msgid "Typ rezervace se nepodařilo vytvořit."
+msgstr ""
+
+msgid "Nastavení úspěšně uloženo."
+msgstr ""
+
+msgid "K tomuto týmu nemáte přístup"
+msgstr ""
+
+msgctxt "blog"
+msgid "Příspěvek neexistuje"
+msgstr ""
+
+msgid "Uživatel je již ověřený"
+msgstr ""
+
+msgid "Příspěvek není schválený."
+msgstr ""
+
+msgid "Příspěvek ještě není schválený."
+msgstr ""
+
+msgid "Příspěvek je schválený."
+msgstr ""
+
+msgctxt "blog"
+msgid "Schválit příspěvek"
+msgstr ""
+
+msgctxt "blog"
+msgid "Zrušit schválení příspěvek"
+msgstr ""
+
+msgctxt "blog"
+msgid "Zrušit schválení příspěvku"
+msgstr ""
+
+msgctxt "blog"
+msgid "Úvodní odstavec příspěvku, který se zobrazuje na výpisu a měl by shrnout význam celého příspěvku."
+msgstr ""
+
+msgctxt "blog"
+msgid "Text, který dostatečně popisuje celý obrázek (např. pro slepého člověka)."
+msgstr ""
+
+msgctxt "blog"
+msgid "Využití LaTeX"
+msgstr ""
+
+msgctxt "blog"
+msgid "Typografické pomůcky"
+msgstr ""
+
+msgctxt "blog"
+msgid "Emotikony"
+msgstr ""
 
