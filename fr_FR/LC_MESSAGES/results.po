@@ -6,7 +6,7 @@ msgstr ""
 "Language-Team: French\n"
 "Last-Translator: Tomáš Vojík <vojik@wboy.cz>\n"
 "MIME-Version: 1.0\n"
-"PO-Revision-Date: 2025-04-06 13:38\n"
+"PO-Revision-Date: 2026-05-12 09:27\n"
 "POT-Creation-Date: 2021-12-01 12:05+0100\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "Project-Id-Version: laserarenacontrol\n"
@@ -852,6 +852,9 @@ msgstr[1] "%d morts"
 msgid "Herní úroveň"
 msgstr "Niveau de jeu"
 
+msgid "Herní výkon"
+msgstr "Performance de jeu"
+
 msgid "Zásahy:Smrti"
 msgstr "Coups:Décès"
 
@@ -886,3 +889,74 @@ msgstr "Analyse du jeu – faits intéressants"
 
 msgid "Umístění v žebříčku"
 msgstr "Classement"
+
+msgid "Stahování fotek může chvíli trvat. Pokud se stahování nespustí, počkejte několik minut a zkuste to znovu."
+msgstr "Le téléchargement des photos peut prendre un certain temps. Si le téléchargement ne démarre pas, attendez quelques minutes et réessayez."
+
+msgid "Smrti od min"
+msgstr "Décès dus à la min"
+
+msgctxt "achievements"
+msgid "Získaná ocenění"
+msgstr "Récompenses obtenues"
+
+msgid "Bonusové skóre"
+msgstr "Score bonus"
+
+msgctxt "player.ranking.elo"
+msgid "Algoritmus nepracuje se skórem, ale s herní úrovní hráče z dané hry."
+msgstr "L'algorithme ne travaille pas avec le score, mais avec le niveau de jeu du joueur."
+
+msgctxt "player.ranking.elo"
+msgid "Rozdíl k herní úrovni se počítá upraveným ELO algoritmem, který vyhodnocuje výsledky jednotlivých hráčů mezi sebou. Pro každého protihráče a spoluhráče vypočítá pravděpodobnost, že daného hráče porazíte a poté podle skutečných výsledků vás ohodnotí body. Porovnání se spoluhráči navíc nemá takovou váhu jako protihráči."
+msgstr "La différence de niveau de jeu est calculée par un algorithme ELO modifié, qui évalue les résultats de chaque joueur les uns par rapport aux autres. Pour chaque adversaire et coéquipier, il calcule la probabilité de battre ce joueur et vous attribue ensuite un score basé sur les résultats réels. En outre, la comparaison avec les coéquipiers n'a pas autant de poids que celle avec les adversaires."
+
+msgctxt "player.ranking.elo"
+msgid "Algoritmus zároveň přihlíží k vyrovnání týmů a pokud jsou týmy nevyrovnané, upraví své hodnoty."
+msgstr "L'algorithme tient également compte de l'alignement des équipes et ajuste ses valeurs si les équipes ne sont pas alignées."
+
+msgctxt "player.ranking.elo"
+msgid "V následujícím srovnání je několik hodnot. Nejdůležitější je ale šance na výhru a reálný výsledek. Pokud je reálný výsledek větší než šance na výhru, body získáváte. Pokud je menší, body ztrácíte. Jak moc bodů ztratíte určuje rozdíl v hodnotách šance na výhru a výsledku, ale i koeficient výhry."
+msgstr "Dans la comparaison suivante, il y a plusieurs valeurs. Mais la plus importante est la chance de gagner et le résultat réel. Si le résultat réel est supérieur aux chances de gagner, vous obtenez des points. S'il est inférieur, vous perdez des points. Le nombre de points perdus est déterminé par la différence entre les valeurs des chances de gagner et du résultat, mais aussi par le coefficient de gain."
+
+msgctxt "player.ranking.elo"
+msgid "Srovnání s jednotlivými hráči"
+msgstr "Comparaison avec des joueurs individuels"
+
+msgctxt "player.ranking.elo"
+msgid "Šance na výhru nad hráčem"
+msgstr "Chances de gagner contre un joueur"
+
+msgctxt "player.ranking.elo"
+msgid "Reálný výsledek"
+msgstr "Résultat réel"
+
+msgctxt "player.ranking.elo"
+msgid "Co to znamená?"
+msgstr "Qu'est-ce que cela signifie ?"
+
+msgctxt "player.ranking.elo"
+msgid "Hodnota blízká 100% znamená definitivní výhru.<br>Hodnota blízká 50% je remíza (totožná herní úroveň).<br>Hodnota 0% je definitivní prohra."
+msgstr "Une valeur proche de 100% correspond à une victoire certaine.<br>Une valeur proche de 50% correspond à un match nul (niveau de jeu identique).<br>Une valeur de 0% correspond à une défaite certaine."
+
+msgctxt "player.ranking.elo"
+msgid "Koeficient výhry"
+msgstr "Coefficient de victoire"
+
+msgctxt "player.ranking.elo"
+msgid "Hodnota vypočítaná podle toho, jak jsou hráči vyrovnaní. Výsledná hodnota násobí počet bodů."
+msgstr "Valeur calculée en fonction de l'équilibre des joueurs. La valeur obtenue est multipliée par le nombre de points."
+
+msgctxt "player.ranking.elo"
+msgid "Získáno bodů z hráče"
+msgstr "Points marqués par les joueurs"
+
+msgid "Stáhnout fotky manuálně"
+msgstr "Télécharger les photos manuellement"
+
+msgid "Pokud se po chvíli stahování nespustí, zkuste použít následující odkaz:"
+msgstr "Si le téléchargement ne démarre pas après quelques instants, essayez d'utiliser le lien suivant :"
+
+msgid "Postih za použití zbraně"
+msgstr "Pénalité pour l'utilisation d'une arme"
+
