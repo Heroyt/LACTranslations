@@ -3,7 +3,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language: sk_SK\n"
 "Language-Team: Slovak\n"
-"PO-Revision-Date: 2025-04-06 13:38\n"
+"PO-Revision-Date: 2026-05-12 09:28\n"
 "Plural-Forms: nplurals=4; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 3;\n"
 "Project-Id-Version: laserarenacontrol\n"
 "X-Crowdin-File: /master/highlights.pot\n"
@@ -260,3 +260,24 @@ msgstr "%s zasiahol svojho spoluhráča %s viackrát (%d) ako ktorýkoľvek hrá
 msgctxt "hits"
 msgid "%s zasáhl svou spoluhráčku %s vícekrát (%d), než kteréhokoliv protihráče"
 msgstr "%s zasiahol svojho spoluhráča %s viackrát (%d) ako ktorýkoľvek z jeho súperov."
+
+msgctxt "pod"
+msgid "%s jediný byl zasažen minou."
+msgstr "%s bol jediný zasiahnutý mínou."
+
+msgctxt "pod"
+msgid "%s jediná byla zasažena minou."
+msgstr "%s jediná bola zasiahnutá mínou."
+
+msgctxt "pod"
+msgid "%s jediné bylo zasaženo minou."
+msgstr "%s bolo jediné, ktoré zasiahla mína."
+
+msgctxt "user"
+msgid "%s proti %s většinou prohrává, ale teď jí porazila."
+msgstr "%s proti %s väčšinou prehráva, ale teraz ju porazila."
+
+msgctxt "pod"
+msgid "%s získal %.1fx tolik bonusů co ostatní."
+msgstr "%s získal %.1fx toľko bonusov ako ostatní."
+
